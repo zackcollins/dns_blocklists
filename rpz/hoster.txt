@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775038140 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775051100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Apr 2026 10:09 UTC
-; Version: 2026.0401.1009.08
+; Last modified: 01 Apr 2026 13:45 UTC
+; Version: 2026.0401.1345.33
 ; Syntax: RPZ
-; Number of entries: 2516
+; Number of entries: 2438
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -38,14 +38,8 @@ qu.am CNAME .
 *.qu.am CNAME .
 4everland.app CNAME .
 *.4everland.app CNAME .
-csb.app CNAME .
-*.csb.app CNAME .
-lovable.app CNAME .
-*.lovable.app CNAME .
 teleporthq.app CNAME .
 *.teleporthq.app CNAME .
-typedream.app CNAME .
-*.typedream.app CNAME .
 h4g3z1-hoster.web.app CNAME .
 *.h4g3z1-hoster.web.app CNAME .
 blogspot.com.ar CNAME .
@@ -134,8 +128,6 @@ rentvalues.biz CNAME .
 *.rentvalues.biz CNAME .
 xp3.biz CNAME .
 *.xp3.biz CNAME .
-blog.br CNAME .
-*.blog.br CNAME .
 blogspot.com.br CNAME .
 *.blogspot.com.br CNAME .
 lojaintegrada.com.br CNAME .
@@ -172,8 +164,6 @@ blogspot.ch CNAME .
 *.blogspot.ch CNAME .
 freehoster.ch CNAME .
 *.freehoster.ch CNAME .
-square7.ch CNAME .
-*.square7.ch CNAME .
 blogspot.cl CNAME .
 *.blogspot.cl CNAME .
 webnode.cl CNAME .
@@ -242,8 +232,6 @@ webnode.cn CNAME .
 *.2fh.co CNAME .
 blogspot.co CNAME .
 *.blogspot.co CNAME .
-carrd.co CNAME .
-*.carrd.co CNAME .
 blogspot.com.co CNAME .
 *.blogspot.com.co CNAME .
 webnode.com.co CNAME .
@@ -384,8 +372,6 @@ blogia.com CNAME .
 *.blogia.com CNAME .
 blogsky.com CNAME .
 *.blogsky.com CNAME .
-blogspot.com CNAME .
-*.blogspot.com CNAME .
 blogzet.com CNAME .
 *.blogzet.com CNAME .
 bookmark.com CNAME .
@@ -468,8 +454,12 @@ comxa.com CNAME .
 *.comxa.com CNAME .
 conohawing.com CNAME .
 *.conohawing.com CNAME .
-cprapid.com CNAME .
-*.cprapid.com CNAME .
+128-199-7-137.cprapid.com CNAME .
+*.128-199-7-137.cprapid.com CNAME .
+208-115-225-138.cprapid.com CNAME .
+*.208-115-225-138.cprapid.com CNAME .
+3-89-181-9.cprapid.com CNAME .
+*.3-89-181-9.cprapid.com CNAME .
 sitebeat.crazydomains.com CNAME .
 *.sitebeat.crazydomains.com CNAME .
 ctempurl.com CNAME .
@@ -772,8 +762,6 @@ own-free-website.com CNAME .
 *.own-free-website.com CNAME .
 pages10.com CNAME .
 *.pages10.com CNAME .
-pagexl.com CNAME .
-*.pagexl.com CNAME .
 parknhost.com CNAME .
 *.parknhost.com CNAME .
 pcriot.com CNAME .
@@ -800,8 +788,6 @@ rssing.com CNAME .
 *.rssing.com CNAME .
 runhosting.com CNAME .
 *.runhosting.com CNAME .
-sa.com CNAME .
-*.sa.com CNAME .
 schoolrack.com CNAME .
 *.schoolrack.com CNAME .
 sebipay.com CNAME .
@@ -816,8 +802,6 @@ shivtr.com CNAME .
 *.shivtr.com CNAME .
 simdif.com CNAME .
 *.simdif.com CNAME .
-simplesite.com CNAME .
-*.simplesite.com CNAME .
 sitepalace.com CNAME .
 *.sitepalace.com CNAME .
 siterubix.com CNAME .
@@ -890,8 +874,6 @@ webaccess-email.com CNAME .
 *.webaccess-email.com CNAME .
 webador.com CNAME .
 *.webador.com CNAME .
-webadorsite.com CNAME .
-*.webadorsite.com CNAME .
 webatu.com CNAME .
 *.webatu.com CNAME .
 webcindario.com CNAME .
@@ -914,10 +896,6 @@ weebly.com CNAME .
 *.weebly.com CNAME .
 weeblysite.com CNAME .
 *.weeblysite.com CNAME .
-wixsite.com CNAME .
-*.wixsite.com CNAME .
-wixstudio.com CNAME .
-*.wixstudio.com CNAME .
 wtcsites.com CNAME .
 *.wtcsites.com CNAME .
 wuaze.com CNAME .
@@ -934,14 +912,14 @@ xtreemhost.com CNAME .
 *.xtreemhost.com CNAME .
 yola.com CNAME .
 *.yola.com CNAME .
-yolasite.com CNAME .
-*.yolasite.com CNAME .
 yourdomain.com CNAME .
 *.yourdomain.com CNAME .
 yourjavascript.com CNAME .
 *.yourjavascript.com CNAME .
-za.com CNAME .
-*.za.com CNAME .
+awi.za.com CNAME .
+*.awi.za.com CNAME .
+ishg.za.com CNAME .
+*.ishg.za.com CNAME .
 zohosites.com CNAME .
 *.zohosites.com CNAME .
 zoomshare.com CNAME .
@@ -1110,8 +1088,6 @@ blogmonster.de CNAME .
 *.blogmonster.de CNAME .
 blogspot.de CNAME .
 *.blogspot.de CNAME .
-bplaced.de CNAME .
-*.bplaced.de CNAME .
 bx5.de CNAME .
 *.bx5.de CNAME .
 byto.de CNAME .
@@ -1130,8 +1106,6 @@ club-area.de CNAME .
 *.club-area.de CNAME .
 clumsy.de CNAME .
 *.clumsy.de CNAME .
-co.de CNAME .
-*.co.de CNAME .
 com-portal.de CNAME .
 *.com-portal.de CNAME .
 com0.de CNAME .
@@ -1202,8 +1176,6 @@ kurzschliessen.de CNAME .
 *.kurzschliessen.de CNAME .
 lernt.de CNAME .
 *.lernt.de CNAME .
-lima-city.de CNAME .
-*.lima-city.de CNAME .
 live2.de CNAME .
 *.live2.de CNAME .
 majesticbank.de CNAME .
@@ -1268,8 +1240,6 @@ zx9.de CNAME .
 *.zx9.de CNAME .
 hashnode.dev CNAME .
 *.hashnode.dev CNAME .
-r2.dev CNAME .
-*.r2.dev CNAME .
 webwave.dev CNAME .
 *.webwave.dev CNAME .
 chat.dj CNAME .
@@ -1634,18 +1604,10 @@ seite.info CNAME .
 *.8b.io CNAME .
 boxmode.io CNAME .
 *.boxmode.io CNAME .
-editorx.io CNAME .
-*.editorx.io CNAME .
-qzz.io CNAME .
-*.qzz.io CNAME .
 dcr.sehlat.io CNAME .
 *.dcr.sehlat.io CNAME .
 soup.io CNAME .
 *.soup.io CNAME .
-webflow.io CNAME .
-*.webflow.io CNAME .
-wixstudio.io CNAME .
-*.wixstudio.io CNAME .
 blogspot.is CNAME .
 *.blogspot.is CNAME .
 135.it CNAME .
@@ -1700,10 +1662,6 @@ nl.kg CNAME .
 *.nl.kg CNAME .
 pt.kg CNAME .
 *.pt.kg CNAME .
-us.kg CNAME .
-*.us.kg CNAME .
-xx.kg CNAME .
-*.xx.kg CNAME .
 de.ki CNAME .
 *.de.ki CNAME .
 eu.ki CNAME .
@@ -1834,8 +1792,6 @@ flf.li CNAME .
 *.flf.li CNAME .
 eshop-ya.life CNAME .
 *.eshop-ya.life CNAME .
-ewp.live CNAME .
-*.ewp.live CNAME .
 blogspot.lt CNAME .
 *.blogspot.lt CNAME .
 blogspot.lu CNAME .
@@ -1926,8 +1882,6 @@ blog5.net CNAME .
 *.blog5.net CNAME .
 blogmaster.net CNAME .
 *.blogmaster.net CNAME .
-bplaced.net CNAME .
-*.bplaced.net CNAME .
 builderall.net CNAME .
 *.builderall.net CNAME .
 comunidades.net CNAME .
@@ -2026,8 +1980,6 @@ x90x.net CNAME .
 *.x90x.net CNAME .
 yourfreehosting.net CNAME .
 *.yourfreehosting.net CNAME .
-za.net CNAME .
-*.za.net CNAME .
 aeza.network CNAME .
 *.aeza.network CNAME .
 fr.nf CNAME .
@@ -2048,8 +2000,6 @@ webnode.nl CNAME .
 *.webnode.nl CNAME .
 blogspot.no CNAME .
 *.blogspot.no CNAME .
-co.nu CNAME .
-*.co.nu CNAME .
 com.nu CNAME .
 *.com.nu CNAME .
 envy.nu CNAME .
@@ -2074,8 +2024,6 @@ sth.nz CNAME .
 *.1sthost.org CNAME .
 22web.org CNAME .
 *.22web.org CNAME .
-altervista.org CNAME .
-*.altervista.org CNAME .
 betrunken.org CNAME .
 *.betrunken.org CNAME .
 blackblogs.org CNAME .
@@ -2092,8 +2040,6 @@ cs-clan.org CNAME .
 *.cs-clan.org CNAME .
 czweb.org CNAME .
 *.czweb.org CNAME .
-dpdns.org CNAME .
-*.dpdns.org CNAME .
 edublogs.org CNAME .
 *.edublogs.org CNAME .
 eu3.org CNAME .
@@ -2150,8 +2096,6 @@ srv1.org CNAME .
 *.srv1.org CNAME .
 telrock.org CNAME .
 *.telrock.org CNAME .
-tuxfamily.org CNAME .
-*.tuxfamily.org CNAME .
 ucoz.org CNAME .
 *.ucoz.org CNAME .
 v0r.org CNAME .
@@ -2164,8 +2108,6 @@ yooco.org CNAME .
 *.yooco.org CNAME .
 mmm.page CNAME .
 *.mmm.page CNAME .
-plesk.page CNAME .
-*.plesk.page CNAME .
 webnode.page CNAME .
 *.webnode.page CNAME .
 blogspot.pe CNAME .
@@ -2178,16 +2120,12 @@ web.pe CNAME .
 *.5v.pl CNAME .
 7m.pl CNAME .
 *.7m.pl CNAME .
-beskidy.pl CNAME .
-*.beskidy.pl CNAME .
 c.pl CNAME .
 *.c.pl CNAME .
 c0.pl CNAME .
 *.c0.pl CNAME .
 cba.pl CNAME .
 *.cba.pl CNAME .
-cfolks.pl CNAME .
-*.cfolks.pl CNAME .
 ct8.pl CNAME .
 *.ct8.pl CNAME .
 ddl2.pl CNAME .
@@ -2296,8 +2234,6 @@ xsph.ru CNAME .
 *.xsph.ru CNAME .
 pancake.run CNAME .
 *.pancake.run CNAME .
-val.run CNAME .
-*.val.run CNAME .
 blogg.se CNAME .
 *.blogg.se CNAME .
 blogspot.se CNAME .
@@ -2328,8 +2264,6 @@ brizy.site CNAME .
 *.brizy.site CNAME .
 business.site CNAME .
 *.business.site CNAME .
-canva.site CNAME .
-*.canva.site CNAME .
 studio.site CNAME .
 *.studio.site CNAME .
 temporary.site CNAME .
@@ -2356,8 +2290,6 @@ at.st CNAME .
 *.at.st CNAME .
 ch.st CNAME .
 *.ch.st CNAME .
-helioho.st CNAME .
-*.helioho.st CNAME .
 infos.st CNAME .
 *.infos.st CNAME .
 uk.st CNAME .
@@ -2446,10 +2378,6 @@ webnode.com.ua CNAME .
 *.webnode.com.ua CNAME .
 zzz.com.ua CNAME .
 *.zzz.com.ua CNAME .
-in.ua CNAME .
-*.in.ua CNAME .
-pp.ua CNAME .
-*.pp.ua CNAME .
 ucoz.ua CNAME .
 *.ucoz.ua CNAME .
 blogspot.ug CNAME .
@@ -2476,16 +2404,12 @@ quiztionnaire.uk CNAME .
 *.20m.us CNAME .
 f11.us CNAME .
 *.f11.us CNAME .
-heliohost.us CNAME .
-*.heliohost.us CNAME .
 my-place.us CNAME .
 *.my-place.us CNAME .
 phpnet.us CNAME .
 *.phpnet.us CNAME .
 blogspot.com.uy CNAME .
 *.blogspot.com.uy CNAME .
-biz.uz CNAME .
-*.biz.uz CNAME .
 webnode.com.ve CNAME .
 *.webnode.com.ve CNAME .
 1.vg CNAME .
@@ -2502,8 +2426,6 @@ webnode.vn CNAME .
 *.webnode.vn CNAME .
 m.vu CNAME .
 *.m.vu CNAME .
-framer.website CNAME .
-*.framer.website CNAME .
 my-free.website CNAME .
 *.my-free.website CNAME .
 onepage.website CNAME .
