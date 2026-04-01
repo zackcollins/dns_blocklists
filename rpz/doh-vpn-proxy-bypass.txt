@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775041440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775057400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Apr 2026 11:04 UTC
-; Version: 2026.0401.1104.31
+; Last modified: 01 Apr 2026 15:30 UTC
+; Version: 2026.0401.1530.35
 ; Syntax: RPZ
-; Number of entries: 33636
+; Number of entries: 33628
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -19407,18 +19407,12 @@ speedtop.io CNAME .
 *.92-38-177-16.sslip.io CNAME .
 92-38-177-17.sslip.io CNAME .
 *.92-38-177-17.sslip.io CNAME .
-storj.io CNAME .
-*.storj.io CNAME .
-storjshare.io CNAME .
-*.storjshare.io CNAME .
 dns.supercluster.io CNAME .
 *.dns.supercluster.io CNAME .
 surfshark.io CNAME .
 *.surfshark.io CNAME .
 swcloud.io CNAME .
 *.swcloud.io CNAME .
-tardigrade.io CNAME .
-*.tardigrade.io CNAME .
 adguard.tcpu.io CNAME .
 *.adguard.tcpu.io CNAME .
 tenta.io CNAME .
@@ -28627,8 +28621,6 @@ unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
 1735r.ru CNAME .
 *.1735r.ru CNAME .
-lvpn.2rdp.ru CNAME .
-*.lvpn.2rdp.ru CNAME .
 blubby.3d-mart.ru CNAME .
 *.blubby.3d-mart.ru CNAME .
 masorooni.3d-mart.ru CNAME .

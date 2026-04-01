@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Apr 2026 13:46 UTC
-# Version: 2026.0401.1346.49
+# Last modified: 01 Apr 2026 16:00 UTC
+# Version: 2026.0401.1600.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 125310
+# Number of entries: 125314
 #
 local=/0.beer/
 local=/0-0-0checkmate.com/
@@ -12631,6 +12631,7 @@ local=/collector-ontame-io-1774048007.eu-west-1.elb.amazonaws.com/
 local=/errors-prd01-alb01-181037707.eu-west-1.elb.amazonaws.com/
 local=/form-collect-1816714781.eu-west-1.elb.amazonaws.com/
 local=/k8s-default-tracking-12d92acef5-947069874.eu-west-1.elb.amazonaws.com/
+local=/loaded-gtm-1793553444.eu-west-1.elb.amazonaws.com/
 local=/logger-eth-lb-298186313.eu-west-1.elb.amazonaws.com/
 local=/mobile-telemetry-1356052157.eu-west-1.elb.amazonaws.com/
 local=/pb-prod-ew1-collector-lb-52702861.eu-west-1.elb.amazonaws.com/
@@ -29399,6 +29400,7 @@ local=/adlab.co.uk/
 local=/adland.co.il/
 local=/admine.co.kr/
 local=/admixer.co.kr/
+local=/adnetwork.co.za/
 local=/adnmore.co.kr/
 local=/adop.co.kr/
 local=/adpick.co.kr/
@@ -37669,6 +37671,7 @@ local=/dexesmcg.shop/
 local=/dexfly1.xyz/
 local=/dexify.top/
 local=/tracking.deximed.de/
+local=/dexinqa.com/
 local=/dexnetsafe.top/
 local=/dexpredict.com/
 local=/dexscreener.cx/
@@ -59742,6 +59745,7 @@ local=/improvebin.xyz/
 local=/improvedcontactform.com/
 local=/improvedigital.com/
 local=/improvely.com/
+local=/ads-dev.improvemedia.fi/
 local=/ads.imprressly.com/
 local=/trk.imprressly.com/
 local=/impseeineclots.com/
@@ -95090,6 +95094,7 @@ local=/server-side-tagging-zkjryjmc2q-uc.a.run.app/
 local=/server-side-tagging-zqai4hltia-uc.a.run.app/
 local=/server-side-tagging-zrac5cmcvq-uc.a.run.app/
 local=/server-side-tagging-zy3gxtetba-uc.a.run.app/
+local=/sgtm-hq-prod-qi2yta3k2a-ez.a.run.app/
 local=/ssgtm-sbyzlt5hyq-ey.a.run.app/
 local=/symplr-analytics-xddc4j3vva-ey.a.run.app/
 local=/telemetry-utvxrq72na-ez.a.run.app/
@@ -95215,6 +95220,7 @@ local=/ruralhistorian.com/
 local=/rurelanderpurgan.com/
 local=/sst.ruroc.com/
 local=/ruru.be/
+local=/rus-massage.space/
 local=/ruscams.com/
 local=/ox.ruscourt.ru/
 local=/rusdelivery.com/
@@ -103584,8 +103590,6 @@ local=/storino2day.org/
 local=/events.storista.io/
 local=/matomo.storitback.de/
 local=/storj.cloud/
-local=/storj.io/
-local=/storjshare.io/
 local=/load.ss.storkcraft.com/
 local=/storkto.com/
 local=/stormcapholm-fr.com/
@@ -105766,7 +105770,6 @@ local=/taraftarium24-hdizle10.vip/
 local=/taraftarium24-patron21.vip/
 local=/tarapinepisode.shop/
 local=/tardierrouges.com/
-local=/tardigrade.io/
 local=/api1.tardis.guide/
 local=/tardtodtimpi.com/
 local=/tardven.top/
@@ -114494,6 +114497,7 @@ local=/variousjoyfully.com/
 local=/varisopal.com/
 local=/varkany.store/
 local=/matomo.varldskulturmuseerna.se/
+local=/www.varsarufflesmacavariz.com/
 local=/varshaaristoi.qpon/
 local=/events.varsitytutors.com/
 local=/vartoken.com/

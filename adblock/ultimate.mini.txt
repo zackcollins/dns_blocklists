@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Apr 2026 13:46 UTC
-! Version: 2026.0401.1346.49
+! Last modified: 01 Apr 2026 16:00 UTC
+! Version: 2026.0401.1600.11
 ! Syntax: AdBlock
-! Number of entries: 125310
+! Number of entries: 125314
 !
 ||0.beer^
 ||0-0-0checkmate.com^
@@ -12632,6 +12632,7 @@
 ||errors-prd01-alb01-181037707.eu-west-1.elb.amazonaws.com^
 ||form-collect-1816714781.eu-west-1.elb.amazonaws.com^
 ||k8s-default-tracking-12d92acef5-947069874.eu-west-1.elb.amazonaws.com^
+||loaded-gtm-1793553444.eu-west-1.elb.amazonaws.com^
 ||logger-eth-lb-298186313.eu-west-1.elb.amazonaws.com^
 ||mobile-telemetry-1356052157.eu-west-1.elb.amazonaws.com^
 ||pb-prod-ew1-collector-lb-52702861.eu-west-1.elb.amazonaws.com^
@@ -29400,6 +29401,7 @@
 ||adland.co.il^
 ||admine.co.kr^
 ||admixer.co.kr^
+||adnetwork.co.za^
 ||adnmore.co.kr^
 ||adop.co.kr^
 ||adpick.co.kr^
@@ -37670,6 +37672,7 @@
 ||dexfly1.xyz^
 ||dexify.top^
 ||tracking.deximed.de^
+||dexinqa.com^
 ||dexnetsafe.top^
 ||dexpredict.com^
 ||dexscreener.cx^
@@ -59743,6 +59746,7 @@
 ||improvedcontactform.com^
 ||improvedigital.com^
 ||improvely.com^
+||ads-dev.improvemedia.fi^
 ||ads.imprressly.com^
 ||trk.imprressly.com^
 ||impseeineclots.com^
@@ -95091,6 +95095,7 @@
 ||server-side-tagging-zqai4hltia-uc.a.run.app^
 ||server-side-tagging-zrac5cmcvq-uc.a.run.app^
 ||server-side-tagging-zy3gxtetba-uc.a.run.app^
+||sgtm-hq-prod-qi2yta3k2a-ez.a.run.app^
 ||ssgtm-sbyzlt5hyq-ey.a.run.app^
 ||symplr-analytics-xddc4j3vva-ey.a.run.app^
 ||telemetry-utvxrq72na-ez.a.run.app^
@@ -95216,6 +95221,7 @@
 ||rurelanderpurgan.com^
 ||sst.ruroc.com^
 ||ruru.be^
+||rus-massage.space^
 ||ruscams.com^
 ||ox.ruscourt.ru^
 ||rusdelivery.com^
@@ -103585,8 +103591,6 @@
 ||events.storista.io^
 ||matomo.storitback.de^
 ||storj.cloud^
-||storj.io^
-||storjshare.io^
 ||load.ss.storkcraft.com^
 ||storkto.com^
 ||stormcapholm-fr.com^
@@ -105767,7 +105771,6 @@
 ||taraftarium24-patron21.vip^
 ||tarapinepisode.shop^
 ||tardierrouges.com^
-||tardigrade.io^
 ||api1.tardis.guide^
 ||tardtodtimpi.com^
 ||tardven.top^
@@ -114495,6 +114498,7 @@
 ||varisopal.com^
 ||varkany.store^
 ||matomo.varldskulturmuseerna.se^
+||www.varsarufflesmacavariz.com^
 ||varshaaristoi.qpon^
 ||events.varsitytutors.com^
 ||vartoken.com^

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Apr 2026 11:04 UTC
-! Version: 2026.0401.1104.31
+! Last modified: 01 Apr 2026 15:30 UTC
+! Version: 2026.0401.1530.35
 ! Syntax: AdBlock
-! Number of entries: 16818
+! Number of entries: 16814
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -214,7 +214,6 @@
 ||2proxy.de^
 ||2proxyweb.com^
 ||2pxcmgs.online^
-||lvpn.2rdp.ru^
 ||dns.2t9.de^
 ||2ub.top^
 ||302verify.com^
@@ -13324,8 +13323,6 @@
 ||stop-block.com^
 ||stopcensoring.me^
 ||storefront.ink^
-||storj.io^
-||storjshare.io^
 ||stormproxies.com^
 ||dns.stormycloud.org^
 ||adguard.strafer.dk^
@@ -13655,7 +13652,6 @@
 ||taoqitujichang.com^
 ||taoqitussr.com^
 ||dns.tapawan.ca^
-||tardigrade.io^
 ||dns0.tardishost.ru^
 ||dns1.tardishost.ru^
 ||adguard.taufner.net^

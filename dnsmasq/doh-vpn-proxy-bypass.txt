@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Apr 2026 11:04 UTC
-# Version: 2026.0401.1104.31
+# Last modified: 01 Apr 2026 15:30 UTC
+# Version: 2026.0401.1530.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16818
+# Number of entries: 16814
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -213,7 +213,6 @@ local=/2poigv.xyz/
 local=/2proxy.de/
 local=/2proxyweb.com/
 local=/2pxcmgs.online/
-local=/lvpn.2rdp.ru/
 local=/dns.2t9.de/
 local=/2ub.top/
 local=/302verify.com/
@@ -13323,8 +13322,6 @@ local=/stolitomsonvpn.com/
 local=/stop-block.com/
 local=/stopcensoring.me/
 local=/storefront.ink/
-local=/storj.io/
-local=/storjshare.io/
 local=/stormproxies.com/
 local=/dns.stormycloud.org/
 local=/adguard.strafer.dk/
@@ -13654,7 +13651,6 @@ local=/taoqituclash.com/
 local=/taoqitujichang.com/
 local=/taoqitussr.com/
 local=/dns.tapawan.ca/
-local=/tardigrade.io/
 local=/dns0.tardishost.ru/
 local=/dns1.tardishost.ru/
 local=/adguard.taufner.net/
