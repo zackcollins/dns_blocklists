@@ -26,41 +26,6 @@ body:
           required: true
 
   - type: dropdown
-    id: adblocker
-    attributes:
-      label: Which AdBlocker or DNS cloud service do you use?
-      description: |
-        Choose the AdBlocker or DNS cloud service you are using. If it’s not listed, select Other and specify its name in the comments section below.
-      multiple: true
-      options:
-        - AdGuard
-        - AdGuard DNS
-        - AdGuard Home
-        - Adblock-lean
-        - OPNsense
-        - Pi-hole
-        - TechnitiumDNS
-        - pfBlockerNG
-        - uBlock Origin
-        - ControlD
-        - DNSBunker
-        - DNSwarden
-        - HaGeZi DNS
-        - NextDNS
-        - RethinkDNS
-        - Other
-    validations:
-      required: true
-  - type: input
-    id: other_adblocker
-    attributes:
-      label: Other AdBlocker or DNS cloud service
-      description: |
-        If you selected Other, please enter the name here.
-    validations:
-      required: false
-  
-  - type: dropdown
     id: blocklists
     attributes:
       label: Which blocklist(s) do you use?
