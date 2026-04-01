@@ -20,28 +20,6 @@ body:
           required: false
  
   - type: dropdown
-    id: devicetype
-    attributes:
-      label: Which device type do you use?
-      description: |
-        Choose the device type you are using. If it’s not listed, select Other and specify its name in the comments section below.
-      multiple: true
-      options:
-        - Desktop
-        - Mobile
-        - Other
-    validations:
-      required: true
-  - type: input
-    id: other_device
-    attributes:
-      label: Other device
-      description: |
-        If you selected Other, please enter the name here.
-    validations:
-      required: false
-
-  - type: dropdown
     id: operatingsystem
     attributes:
       label: What is the operating system of the device?
@@ -54,85 +32,6 @@ body:
         - Linux
         - Windows
         - Other
-    validations:
-      required: true
-  - type: input
-    id: other_os
-    attributes:
-      label: Other operating system
-      description: |
-        If you selected Other, please enter the name here.
-    validations:
-      required: false
-
-  - type: dropdown
-    id: browser
-    attributes:
-      label: Which browser or app are you using?
-      description: |
-        Choose the browser you are using. If it’s not listed or the issue occurs with an app, select Other and specify its name in the comments section below.
-      multiple: true
-      options:
-        - Brave
-        - Chrome
-        - Firefox
-        - Microsoft Edge
-        - Opera
-        - Safari
-        - Vivaldi
-        - Other
-    validations:
-      required: true
-  - type: input
-    id: other_browser
-    attributes:
-      label: Other browser or app
-      description: |
-        If you selected Other, please enter the name here.
-    validations:
-      required: false
-  
-  - type: dropdown
-    id: adblocker
-    attributes:
-      label: Which AdBlocker or DNS cloud service do you use?
-      description: |
-        Choose the AdBlocker or DNS cloud service you are using. If it’s not listed, select Other and specify its name in the comments section below.
-      multiple: true
-      options:
-        - AdGuard
-        - AdGuard DNS
-        - AdGuard Home
-        - Adblock-lean
-        - OPNsense
-        - Pi-hole
-        - TechnitiumDNS
-        - pfBlockerNG
-        - uBlock Origin
-        - ControlD
-        - DNSBunker
-        - DNSwarden
-        - HaGeZi DNS
-        - NextDNS
-        - RethinkDNS
-        - Other
-    validations:
-      required: true
-  - type: input
-    id: other_adblocker
-    attributes:
-      label: Other AdBlocker or DNS cloud service
-      description: |
-        If you selected Other, please enter the name here.
-    validations:
-      required: false
-
-  - type: textarea
-    id: siteorapp
-    attributes:
-      label: Where does the issue occur - on which website or in which app?
-      description: |
-        Provide the website or app where the problem occurs.
     validations:
       required: true
  
@@ -170,6 +69,15 @@ body:
         - Native Tracker
         - Referral
         - URL shortener
+    validations:
+      required: true
+
+  - type: textarea
+    id: siteorapp
+    attributes:
+      label: Where does the issue occur - on which website or in which app?
+      description: |
+        Provide the website or app where the problem occurs.
     validations:
       required: true
 
