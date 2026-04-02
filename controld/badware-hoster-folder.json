@@ -1485,6 +1485,13 @@
       }
     },
     {
+      "PK": "blo.gg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blog-online.eu",
       "action": {
         "do": 0,
@@ -2514,13 +2521,6 @@
       }
     },
     {
-      "PK": "chatpc.club",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "chez.com",
       "action": {
         "do": 0,
@@ -2529,13 +2529,6 @@
     },
     {
       "PK": "city.tl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cityhotel.club",
       "action": {
         "do": 0,
         "status": 1

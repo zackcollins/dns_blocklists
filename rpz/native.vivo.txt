@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774628100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775145240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,15 +9,17 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Mar 2026 16:15 UTC
-; Version: 2026.0327.1615.15
+; Last modified: 02 Apr 2026 15:54 UTC
+; Version: 2026.0402.1554.46
 ; Syntax: RPZ
-; Number of entries: 482
+; Number of entries: 486
 ;
 h4g3z1-native.vivo.web.app CNAME .
 *.h4g3z1-native.vivo.web.app CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn CNAME .
 *.vhs.wwstat.com.eo.unicomcdn.com.cn CNAME .
+adlog.vivo.com.cn CNAME .
+*.adlog.vivo.com.cn CNAME .
 adxlog-adnet.vivo.com.cn CNAME .
 *.adxlog-adnet.vivo.com.cn CNAME .
 az.appstore.vivo.com.cn CNAME .
@@ -34,6 +36,8 @@ vhs.wwstat.com.ctdns.cn CNAME .
 *.vhs.wwstat.com.ctdns.cn CNAME .
 vhs.wwstat.com.eo.dnse0.com CNAME .
 *.vhs.wwstat.com.eo.dnse0.com CNAME .
+adlog.vivo.com CNAME .
+*.adlog.vivo.com CNAME .
 ads-api.vivo.com CNAME .
 *.ads-api.vivo.com CNAME .
 asia-abeacdataonrt-stsdk.vivoglobal.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775126700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775155080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Apr 2026 10:45 UTC
-; Version: 2026.0402.1045.05
+; Last modified: 02 Apr 2026 18:38 UTC
+; Version: 2026.0402.1838.03
 ; Syntax: RPZ
-; Number of entries: 6978
+; Number of entries: 6974
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -887,8 +887,6 @@ cloudflareresolve.com CNAME .
 *.cloudflareresolve.com CNAME .
 dns.cloudseriousshit.com CNAME .
 *.dns.cloudseriousshit.com CNAME .
-dns-fr-psv1.cloudsides.com CNAME .
-*.dns-fr-psv1.cloudsides.com CNAME .
 adguard.cnbeining.com CNAME .
 *.adguard.cnbeining.com CNAME .
 ag.coco-tama-hoiku.com CNAME .
@@ -2745,8 +2743,6 @@ adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
 axaxa.fun CNAME .
 *.axaxa.fun CNAME .
-ag.brianlee.fun CNAME .
-*.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .

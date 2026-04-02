@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 10:45 UTC
-# Version: 2026.0402.1045.05
+# Last modified: 02 Apr 2026 18:38 UTC
+# Version: 2026.0402.1838.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3489
+# Number of entries: 3487
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -471,7 +471,6 @@ local=/bravedns.com/
 local=/dns.brembeck.cloud/
 local=/dns.briac-mlb.fr/
 local=/dns.system.brianhong.kr/
-local=/ag.brianlee.fun/
 local=/dns.brionesserver.net/
 local=/agh.broaddy.com/
 local=/dns.brono.cloud/
@@ -598,7 +597,6 @@ local=/kirov.unicom.cloudns.be/
 local=/adguard.veanswart.cloudns.be/
 local=/zeusvps.cloudns.nz/
 local=/dns.cloudseriousshit.com/
-local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Mar 2026 04:16 UTC
-# Version: 2026.0314.0416.11
+# Last modified: 02 Apr 2026 16:00 UTC
+# Version: 2026.0402.1600.42
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 453
+# Number of entries: 454
 #
 calculator-api-fr.allawnos.com
 calculator-api-in.allawnos.com
@@ -381,6 +381,7 @@ browser-sdk-fr.heytapmobile.com
 browser-sdk-in.heytapmobile.com
 browser-sdk-ru.heytapmobile.com
 browserfiles.heytapmobile.com
+bsp-di-in.heytapmobile.com
 api-gl.cdo.heytapmobile.com
 api-id.cdo.heytapmobile.com
 api-in.cdo.heytapmobile.com

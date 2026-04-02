@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775126340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775154660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Apr 2026 10:39 UTC
-; Version: 2026.0402.1039.05
+; Last modified: 02 Apr 2026 18:31 UTC
+; Version: 2026.0402.1831.33
 ; Syntax: RPZ
-; Number of entries: 24576
+; Number of entries: 24564
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1554,8 +1554,6 @@ cb01.cc CNAME .
 *.cb01.cc CNAME .
 cda-hd.cc CNAME .
 *.cda-hd.cc CNAME .
-cdcovers.cc CNAME .
-*.cdcovers.cc CNAME .
 clipconverter.cc CNAME .
 *.clipconverter.cc CNAME .
 downl0adz.co.cc CNAME .
@@ -1952,8 +1950,6 @@ altadefinizionegratis.cfd CNAME .
 *.altadefinizionegratis.cfd CNAME .
 cineblog001.cfd CNAME .
 *.cineblog001.cfd CNAME .
-cineblog01.cfd CNAME .
-*.cineblog01.cfd CNAME .
 cinemalux.cfd CNAME .
 *.cinemalux.cfd CNAME .
 dontorrent.cfd CNAME .
@@ -2802,8 +2798,6 @@ z-shadow.co CNAME .
 *.123movies.coach CNAME .
 cb01.coach CNAME .
 *.cb01.coach CNAME .
-cineblog01.coach CNAME .
-*.cineblog01.coach CNAME .
 hdmovie2.coach CNAME .
 *.hdmovie2.coach CNAME .
 tantifilm.coach CNAME .
@@ -3768,8 +3762,6 @@ boomep.com CNAME .
 *.boomep.com CNAME .
 boostfluence.com CNAME .
 *.boostfluence.com CNAME .
-boot4free.com CNAME .
-*.boot4free.com CNAME .
 bootytape.com CNAME .
 *.bootytape.com CNAME .
 botstress.com CNAME .
@@ -12308,8 +12300,6 @@ bobd.live CNAME .
 *.bobd.live CNAME .
 bossbd.live CNAME .
 *.bossbd.live CNAME .
-bstreams.live CNAME .
-*.bstreams.live CNAME .
 btmulu.live CNAME .
 *.btmulu.live CNAME .
 cb01.live CNAME .
@@ -18858,8 +18848,6 @@ tracker.bluefrog.pw CNAME .
 *.tracker.bluefrog.pw CNAME .
 booter.pw CNAME .
 *.booter.pw CNAME .
-cb01.pw CNAME .
-*.cb01.pw CNAME .
 tracker.christianbro.pw CNAME .
 *.tracker.christianbro.pw CNAME .
 tracker2.christianbro.pw CNAME .

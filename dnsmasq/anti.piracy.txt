@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 10:39 UTC
-# Version: 2026.0402.1039.05
+# Last modified: 02 Apr 2026 18:31 UTC
+# Version: 2026.0402.1831.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12288
+# Number of entries: 12282
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -1590,7 +1590,6 @@ local=/booook.bond/
 local=/boostfluence.com/
 local=/boot.lu/
 local=/boot.ml/
-local=/boot4free.com/
 local=/bootcity.org/
 local=/booter.eu/
 local=/booter.ninja/
@@ -1645,7 +1644,6 @@ local=/brrip720p.com/
 local=/brupload.net/
 local=/bs.to/
 local=/bstgms4y.com/
-local=/bstreams.live/
 local=/bstsrs.in/
 local=/bstsrs.one/
 local=/bt-chat.com/
@@ -1848,7 +1846,6 @@ local=/cb01.observer/
 local=/cb01.online/
 local=/cb01.org/
 local=/cb01.pictures/
-local=/cb01.pw/
 local=/cb01.racing/
 local=/cb01.red/
 local=/cb01.review/
@@ -1891,7 +1888,6 @@ local=/ccmixter.org/
 local=/ccracks.com/
 local=/cctv.army/
 local=/cda-hd.cc/
-local=/cdcovers.cc/
 local=/cddownloadeasy.org/
 local=/cddownloadfree.org/
 local=/cdkeysgames.com/
@@ -1993,10 +1989,8 @@ local=/cineblog01.biz/
 local=/cineblog01.boo/
 local=/cineblog01.boutique/
 local=/cineblog01.casa/
-local=/cineblog01.cfd/
 local=/cineblog01.claims/
 local=/cineblog01.cloud/
-local=/cineblog01.coach/
 local=/cineblog01.codes/
 local=/cineblog01.com/
 local=/cineblog01.cool/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 10:45 UTC
-# Version: 2026.0402.1045.05
+# Last modified: 02 Apr 2026 18:38 UTC
+# Version: 2026.0402.1838.03
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3948
+# Number of entries: 3946
 #
 ss.0001.xyz
 003153.xyz
@@ -549,7 +549,6 @@ free.bravedns.com
 dns.brembeck.cloud
 dns.briac-mlb.fr
 dns.system.brianhong.kr
-ag.brianlee.fun
 dns.brionesserver.net
 agh.broaddy.com
 www.agh.broaddy.com
@@ -717,7 +716,6 @@ kirov.unicom.cloudns.be
 adguard.veanswart.cloudns.be
 zeusvps.cloudns.nz
 dns.cloudseriousshit.com
-dns-fr-psv1.cloudsides.com
 dns.cloudtrust.solutions
 ca.doh.cloudveil.org
 us.doh.cloudveil.org

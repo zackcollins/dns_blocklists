@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775120520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775148840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Apr 2026 09:02 UTC
-; Version: 2026.0402.0902.29
+; Last modified: 02 Apr 2026 16:54 UTC
+; Version: 2026.0402.1654.33
 ; Syntax: RPZ
-; Number of entries: 28624
+; Number of entries: 28582
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -182,8 +182,6 @@ brennholz-goignerog.at CNAME .
 *.brennholz-goignerog.at CNAME .
 brennholz-world.at CNAME .
 *.brennholz-world.at CNAME .
-brooks-osterreich.at CNAME .
-*.brooks-osterreich.at CNAME .
 brookss.at CNAME .
 *.brookss.at CNAME .
 bs2best.at CNAME .
@@ -262,8 +260,6 @@ remingtons.co.at CNAME .
 *.remingtons.co.at CNAME .
 rhode.co.at CNAME .
 *.rhode.co.at CNAME .
-ripcurl.co.at CNAME .
-*.ripcurl.co.at CNAME .
 salomons.co.at CNAME .
 *.salomons.co.at CNAME .
 saucony.co.at CNAME .
@@ -3684,8 +3680,6 @@ boldnests.com CNAME .
 *.boldnests.com CNAME .
 bolt-courier.com CNAME .
 *.bolt-courier.com CNAME .
-bolvahomeai.com CNAME .
-*.bolvahomeai.com CNAME .
 bomiafx.com CNAME .
 *.bomiafx.com CNAME .
 bonafita.com CNAME .
@@ -3778,8 +3772,6 @@ bravedrawer.com CNAME .
 *.bravedrawer.com CNAME .
 braviamarket.com CNAME .
 *.braviamarket.com CNAME .
-braziloficial.com CNAME .
-*.braziloficial.com CNAME .
 breadmachineshop.com CNAME .
 *.breadmachineshop.com CNAME .
 breakingaliennews.com CNAME .
@@ -3908,12 +3900,8 @@ builikee.com CNAME .
 *.builikee.com CNAME .
 buitifo-fashion.com CNAME .
 *.buitifo-fashion.com CNAME .
-bukkwood.com CNAME .
-*.bukkwood.com CNAME .
 bullbittrade.com CNAME .
 *.bullbittrade.com CNAME .
-bundgaardschuh.com CNAME .
-*.bundgaardschuh.com CNAME .
 bunnykachu.com CNAME .
 *.bunnykachu.com CNAME .
 bunterstil.com CNAME .
@@ -3924,8 +3912,6 @@ bustier-sales.com CNAME .
 *.bustier-sales.com CNAME .
 butlep.com CNAME .
 *.butlep.com CNAME .
-butlersdekoration.com CNAME .
-*.butlersdekoration.com CNAME .
 butlersneu.com CNAME .
 *.butlersneu.com CNAME .
 butlersonlineshop.com CNAME .
@@ -4016,8 +4002,6 @@ campingangebote-de.com CNAME .
 *.campingangebote-de.com CNAME .
 campinglagern.com CNAME .
 *.campinglagern.com CNAME .
-campinglampenbillig.com CNAME .
-*.campinglampenbillig.com CNAME .
 campingmarkise.com CNAME .
 *.campingmarkise.com CNAME .
 campingmobel.com CNAME .
@@ -4074,8 +4058,6 @@ canaryrentalvillas.com CNAME .
 *.canaryrentalvillas.com CNAME .
 canaryvacationhome.com CNAME .
 *.canaryvacationhome.com CNAME .
-canbeloutlet.com CNAME .
-*.canbeloutlet.com CNAME .
 canbrace.com CNAME .
 *.canbrace.com CNAME .
 candlesselling.com CNAME .
@@ -4084,8 +4066,6 @@ candykeysangebotes.com CNAME .
 *.candykeysangebotes.com CNAME .
 canillogermany.com CNAME .
 *.canillogermany.com CNAME .
-cannabisonlinebestellen.com CNAME .
-*.cannabisonlinebestellen.com CNAME .
 cannondalegeschaft.com CNAME .
 *.cannondalegeschaft.com CNAME .
 canoefans.com CNAME .
@@ -4354,8 +4334,6 @@ chicboho.com CNAME .
 *.chicboho.com CNAME .
 chicgant.com CNAME .
 *.chicgant.com CNAME .
-chichome-finds.com CNAME .
-*.chichome-finds.com CNAME .
 chickiddos.com CNAME .
 *.chickiddos.com CNAME .
 chicladdy.com CNAME .
@@ -11008,8 +10986,6 @@ michel-auto-concpt.com CNAME .
 *.michel-auto-concpt.com CNAME .
 michelinsuisse.com CNAME .
 *.michelinsuisse.com CNAME .
-micoczechia.com CNAME .
-*.micoczechia.com CNAME .
 midasmarkt.com CNAME .
 *.midasmarkt.com CNAME .
 midikleider.com CNAME .
@@ -11458,6 +11434,8 @@ mybondify.com CNAME .
 *.mybondify.com CNAME .
 myclothesera.com CNAME .
 *.myclothesera.com CNAME .
+mycoczechia.com CNAME .
+*.mycoczechia.com CNAME .
 mycomfortattire.com CNAME .
 *.mycomfortattire.com CNAME .
 mycrypto24.com CNAME .
@@ -18742,8 +18720,6 @@ brandt-belle.de CNAME .
 *.brandt-belle.de CNAME .
 brandup-grade.de CNAME .
 *.brandup-grade.de CNAME .
-brava-berlin.de CNAME .
-*.brava-berlin.de CNAME .
 breitner-berlin.de CNAME .
 *.breitner-berlin.de CNAME .
 bremer-boutique.de CNAME .
@@ -18764,8 +18740,6 @@ brennholzkamin.de CNAME .
 *.brennholzkamin.de CNAME .
 brennholzmeister.de CNAME .
 *.brennholzmeister.de CNAME .
-brennholzruhl.de CNAME .
-*.brennholzruhl.de CNAME .
 brennholzschnell24.de CNAME .
 *.brennholzschnell24.de CNAME .
 brennholzstein.de CNAME .
@@ -18774,8 +18748,6 @@ brennholzstore.de CNAME .
 *.brennholzstore.de CNAME .
 brennholzweber.de CNAME .
 *.brennholzweber.de CNAME .
-brennholzwerner.de CNAME .
-*.brennholzwerner.de CNAME .
 brennstoffe-versand.de CNAME .
 *.brennstoffe-versand.de CNAME .
 brenstoffe-versand.de CNAME .
@@ -18902,8 +18874,6 @@ caruso-24.de CNAME .
 *.caruso-24.de CNAME .
 casaclothing.de CNAME .
 *.casaclothing.de CNAME .
-casira.de CNAME .
-*.casira.de CNAME .
 casiva.de CNAME .
 *.casiva.de CNAME .
 castolonios.de CNAME .
@@ -25074,8 +25044,6 @@ bitcoinloophole.io CNAME .
 *.bitcoinloophole.io CNAME .
 bitnixer.io CNAME .
 *.bitnixer.io CNAME .
-capitalfm.io CNAME .
-*.capitalfm.io CNAME .
 cdeen.io CNAME .
 *.cdeen.io CNAME .
 divine-group.io CNAME .
@@ -25412,8 +25380,6 @@ carharttchile.net CNAME .
 *.carharttchile.net CNAME .
 carinfos.net CNAME .
 *.carinfos.net CNAME .
-casoum.net CNAME .
-*.casoum.net CNAME .
 caterpillarbootscanada.net CNAME .
 *.caterpillarbootscanada.net CNAME .
 ccs-consulting.net CNAME .
@@ -25422,8 +25388,6 @@ championcolombia.net CNAME .
 *.championcolombia.net CNAME .
 championisrael.net CNAME .
 *.championisrael.net CNAME .
-chcierekci.net CNAME .
-*.chcierekci.net CNAME .
 chourok.net CNAME .
 *.chourok.net CNAME .
 clarksmontreal.net CNAME .
@@ -26690,14 +26654,10 @@ baybed.cashglass.shop CNAME .
 *.baybed.cashglass.shop CNAME .
 oneact.cashglass.shop CNAME .
 *.oneact.cashglass.shop CNAME .
-cataldoonlinedeeur.shop CNAME .
-*.cataldoonlinedeeur.shop CNAME .
 cb8888.shop CNAME .
 *.cb8888.shop CNAME .
 cbeoeql.shop CNAME .
 *.cbeoeql.shop CNAME .
-chrisneuman.shop CNAME .
-*.chrisneuman.shop CNAME .
 christmasonline.shop CNAME .
 *.christmasonline.shop CNAME .
 cleatelite.shop CNAME .
@@ -28632,8 +28592,6 @@ duneshoesouthafrica.co.za CNAME .
 *.duneshoesouthafrica.co.za CNAME .
 prettylittlething.co.za CNAME .
 *.prettylittlething.co.za CNAME .
-tom-ford.co.za CNAME .
-*.tom-ford.co.za CNAME .
 yeti-southafrica.co.za CNAME .
 *.yeti-southafrica.co.za CNAME .
 magisk.zip CNAME .

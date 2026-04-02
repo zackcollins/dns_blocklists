@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775126700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775155080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Apr 2026 10:45 UTC
-; Version: 2026.0402.1045.59
+; Last modified: 02 Apr 2026 18:38 UTC
+; Version: 2026.0402.1838.48
 ; Syntax: RPZ
-; Number of entries: 33584
+; Number of entries: 33514
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -707,8 +707,6 @@ dns.sv-zauner.at CNAME .
 *.dns.sv-zauner.at CNAME .
 tecworx.at CNAME .
 *.tecworx.at CNAME .
-math.homework.clubnb.au CNAME .
-*.math.homework.clubnb.au CNAME .
 dns.alwynstudio.com.au CNAME .
 *.dns.alwynstudio.com.au CNAME .
 dns.cloud88.com.au CNAME .
@@ -5061,10 +5059,6 @@ ytmusicub.bonded-game.com CNAME .
 *.ytmusicub.bonded-game.com CNAME .
 bookcar92.com CNAME .
 *.bookcar92.com CNAME .
-bookkey82.com CNAME .
-*.bookkey82.com CNAME .
-bookpen82.com CNAME .
-*.bookpen82.com CNAME .
 bookphone92.com CNAME .
 *.bookphone92.com CNAME .
 www.securly.com.bookpropofplace.com CNAME .
@@ -5359,8 +5353,6 @@ carbook92.com CNAME .
 *.carbook92.com CNAME .
 carcar92.com CNAME .
 *.carcar92.com CNAME .
-carchair92.com CNAME .
-*.carchair92.com CNAME .
 carebuzz.com CNAME .
 *.carebuzz.com CNAME .
 careproxy.com CNAME .
@@ -5371,16 +5363,10 @@ secretsubdomain1.caribbeanpremierhotels.com CNAME .
 *.secretsubdomain1.caribbeanpremierhotels.com CNAME .
 unifi.carioka.com CNAME .
 *.unifi.carioka.com CNAME .
-carkey82.com CNAME .
-*.carkey82.com CNAME .
 carpetcouriers.com CNAME .
 *.carpetcouriers.com CNAME .
-carphone92.com CNAME .
-*.carphone92.com CNAME .
 dns.carson-family.com CNAME .
 *.dns.carson-family.com CNAME .
-cartable92.com CNAME .
-*.cartable92.com CNAME .
 btg.casaye.com CNAME .
 *.btg.casaye.com CNAME .
 casinovpn.com CNAME .
@@ -5447,10 +5433,6 @@ chairbook92.com CNAME .
 *.chairbook92.com CNAME .
 chairchair92.com CNAME .
 *.chairchair92.com CNAME .
-chairkey82.com CNAME .
-*.chairkey82.com CNAME .
-chairphone92.com CNAME .
-*.chairphone92.com CNAME .
 dns.chalkychalk.com CNAME .
 *.dns.chalkychalk.com CNAME .
 core.goal.challengepursuit.com CNAME .
@@ -5515,8 +5497,6 @@ djdjfjjkeodidififi-kdkdkdkfkfk.tto.gtagissogood.com.chickenkiller.com CNAME .
 *.djdjfjjkeodidififi-kdkdkdkfkfk.tto.gtagissogood.com.chickenkiller.com CNAME .
 nate.higgers.lebron67.com.chickenkiller.com CNAME .
 *.nate.higgers.lebron67.com.chickenkiller.com CNAME .
-sillyinproperlootingacademicalschool.com.chickenkiller.com CNAME .
-*.sillyinproperlootingacademicalschool.com.chickenkiller.com CNAME .
 cooking-with-a-goofy-ahh.chickenkiller.com CNAME .
 *.cooking-with-a-goofy-ahh.chickenkiller.com CNAME .
 coolkidd.chickenkiller.com CNAME .
@@ -5623,8 +5603,6 @@ willratz28.chickenkiller.com CNAME .
 *.willratz28.chickenkiller.com CNAME .
 wowiewowwow.chickenkiller.com CNAME .
 *.wowiewowwow.chickenkiller.com CNAME .
-xynproxyschool.chickenkiller.com CNAME .
-*.xynproxyschool.chickenkiller.com CNAME .
 youraohiololsofunnygreatmemereset67getajob.chickenkiller.com CNAME .
 *.youraohiololsofunnygreatmemereset67getajob.chickenkiller.com CNAME .
 chickenrunclash.com CNAME .
@@ -5641,14 +5619,10 @@ chinagrows.com CNAME .
 *.chinagrows.com CNAME .
 chinapeopleinfo.com CNAME .
 *.chinapeopleinfo.com CNAME .
-chinapolymetallic.com CNAME .
-*.chinapolymetallic.com CNAME .
 chinastoryshop.com CNAME .
 *.chinastoryshop.com CNAME .
 chinese-kl.com CNAME .
 *.chinese-kl.com CNAME .
-chinese-kuailian.com CNAME .
-*.chinese-kuailian.com CNAME .
 chinese-lets.com CNAME .
 *.chinese-lets.com CNAME .
 cmdc.chinookyoga.com CNAME .
@@ -5887,8 +5861,6 @@ cloakpoint.com CNAME .
 *.cloakpoint.com CNAME .
 cloakvpn.com CNAME .
 *.cloakvpn.com CNAME .
-cloudfisherjc.com CNAME .
-*.cloudfisherjc.com CNAME .
 dns.cloudflare.com CNAME .
 *.dns.cloudflare.com CNAME .
 cloudflare-dns.com CNAME .
@@ -5901,10 +5873,6 @@ cloudflaredns.com CNAME .
 *.cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 *.cloudflareresolve.com CNAME .
-cloudfoxclash.com CNAME .
-*.cloudfoxclash.com CNAME .
-cloudfoxjc.com CNAME .
-*.cloudfoxjc.com CNAME .
 cloudnetcdn.com CNAME .
 *.cloudnetcdn.com CNAME .
 cloudnymous.com CNAME .
@@ -5915,8 +5883,6 @@ cloudquickcdn.com CNAME .
 *.cloudquickcdn.com CNAME .
 dns.cloudseriousshit.com CNAME .
 *.dns.cloudseriousshit.com CNAME .
-dns-fr-psv1.cloudsides.com CNAME .
-*.dns-fr-psv1.cloudsides.com CNAME .
 manchaland.clubskunk.com CNAME .
 *.manchaland.clubskunk.com CNAME .
 login.cmnjl.com CNAME .
@@ -17271,8 +17237,6 @@ unblocked.foo CNAME .
 *.unblocked.foo CNAME .
 unblockit.foo CNAME .
 *.unblockit.foo CNAME .
-blog.chirality.forum CNAME .
-*.blog.chirality.forum CNAME .
 larp.foundation CNAME .
 *.larp.foundation CNAME .
 doh.42l.fr CNAME .
@@ -17429,8 +17393,6 @@ areas.fun CNAME .
 *.areas.fun CNAME .
 axaxa.fun CNAME .
 *.axaxa.fun CNAME .
-ag.brianlee.fun CNAME .
-*.ag.brianlee.fun CNAME .
 cdnnetwork.fun CNAME .
 *.cdnnetwork.fun CNAME .
 chaoxi.fun CNAME .
@@ -18067,24 +18029,6 @@ ag.hostme.co.il CNAME .
 *.ag.hostme.co.il CNAME .
 nordvpn.co.il CNAME .
 *.nordvpn.co.il CNAME .
-chejfnreeje.vets.co.il CNAME .
-*.chejfnreeje.vets.co.il CNAME .
-football.coach.vets.co.il CNAME .
-*.football.coach.vets.co.il CNAME .
-fern-the-goat.vets.co.il CNAME .
-*.fern-the-goat.vets.co.il CNAME .
-fernisbest.vets.co.il CNAME .
-*.fernisbest.vets.co.il CNAME .
-jncbfekejd.vets.co.il CNAME .
-*.jncbfekejd.vets.co.il CNAME .
-monkeys9238822.vets.co.il CNAME .
-*.monkeys9238822.vets.co.il CNAME .
-wecookedthistimebri.vets.co.il CNAME .
-*.wecookedthistimebri.vets.co.il CNAME .
-xocjckekrn.vets.co.il CNAME .
-*.xocjckekrn.vets.co.il CNAME .
-yes.vets.co.il CNAME .
-*.yes.vets.co.il CNAME .
 us.aab.im CNAME .
 *.us.aab.im CNAME .
 doh.angry.im CNAME .
@@ -21423,10 +21367,6 @@ rammerhead.casacam.net CNAME .
 *.rammerhead.casacam.net CNAME .
 dns.caspervk.net CNAME .
 *.dns.caspervk.net CNAME .
-basic.cbu.net CNAME .
-*.basic.cbu.net CNAME .
-learnstuff.cbu.net CNAME .
-*.learnstuff.cbu.net CNAME .
 cdnflow.net CNAME .
 *.cdnflow.net CNAME .
 cdnzone.net CNAME .
@@ -29651,8 +29591,6 @@ chester.run CNAME .
 *.chester.run CNAME .
 chips.run CNAME .
 *.chips.run CNAME .
-clusters.run CNAME .
-*.clusters.run CNAME .
 covering.run CNAME .
 *.covering.run CNAME .
 ctc.run CNAME .
@@ -32587,16 +32525,12 @@ cachequick.xyz CNAME .
 *.cachequick.xyz CNAME .
 cadaeibfe.xyz CNAME .
 *.cadaeibfe.xyz CNAME .
-cameraproposal.xyz CNAME .
-*.cameraproposal.xyz CNAME .
 caveofmythicalseals.xyz CNAME .
 *.caveofmythicalseals.xyz CNAME .
 cdnaccelerate.xyz CNAME .
 *.cdnaccelerate.xyz CNAME .
 cdnnetwork.xyz CNAME .
 *.cdnnetwork.xyz CNAME .
-cgwsvqpkllgjo.xyz CNAME .
-*.cgwsvqpkllgjo.xyz CNAME .
 chaich8z.xyz CNAME .
 *.chaich8z.xyz CNAME .
 adguard.chanhome.xyz CNAME .
@@ -32605,16 +32539,12 @@ chaosu202502.xyz CNAME .
 *.chaosu202502.xyz CNAME .
 chaosu202503.xyz CNAME .
 *.chaosu202503.xyz CNAME .
-chjwhpcwibbsoz.xyz CNAME .
-*.chjwhpcwibbsoz.xyz CNAME .
 chunqiuyun.xyz CNAME .
 *.chunqiuyun.xyz CNAME .
 alpha.cixy.xyz CNAME .
 *.alpha.cixy.xyz CNAME .
 dns.clickhost.xyz CNAME .
 *.dns.clickhost.xyz CNAME .
-cnusxumyiiw.xyz CNAME .
-*.cnusxumyiiw.xyz CNAME .
 consenui.xyz CNAME .
 *.consenui.xyz CNAME .
 dns.corefusion.xyz CNAME .

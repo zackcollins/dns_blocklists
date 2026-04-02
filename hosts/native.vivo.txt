@@ -5,12 +5,13 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 16:15 UTC
-# Version: 2026.0327.1615.15
+# Last modified: 02 Apr 2026 15:54 UTC
+# Version: 2026.0402.1554.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 245
+# Number of entries: 247
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
+0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
 0.0.0.0 appstore-trace-h5sdk.vivo.com.cn
@@ -21,6 +22,7 @@
 0.0.0.0 trackercollect.ddxq.mobi
 0.0.0.0 trackerfeed.ddxq.mobi
 0.0.0.0 vhs.wwstat.com.eo.dnse0.com
+0.0.0.0 adlog.vivo.com
 0.0.0.0 ads-api.vivo.com
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com

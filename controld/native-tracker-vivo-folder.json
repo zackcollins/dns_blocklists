@@ -8,6 +8,20 @@
   },
   "rules": [
     {
+      "PK": "adlog.vivo.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adlog.vivo.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-api.vivo.com",
       "action": {
         "do": 0,
