@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Apr 2026 04:24 UTC
-! Version: 2026.0401.0424.11
+! Last modified: 02 Apr 2026 10:45 UTC
+! Version: 2026.0402.1045.05
 ! Syntax: AdBlock
-! Number of entries: 3491
+! Number of entries: 3489
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -64,7 +64,6 @@
 ||skynet.2bsafe.info^
 ||doh.2kil.com^
 ||dns.2poi.com^
-||lvpn.2rdp.ru^
 ||dns.2t9.de^
 ||doh.30x.me^
 ||318341906.fun^
@@ -341,7 +340,6 @@
 ||secure.avastdns.com^
 ||adguard.avavd.ru^
 ||vps.avc.cx^
-||adguard.avdkishore.dev^
 ||axaxa.fun^
 ||dnstx.axhy.cc^
 ||axistechsupport.com^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775051100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775120340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Apr 2026 13:45 UTC
-; Version: 2026.0401.1345.33
+; Last modified: 02 Apr 2026 08:59 UTC
+; Version: 2026.0402.0859.22
 ; Syntax: RPZ
-; Number of entries: 2438
+; Number of entries: 2434
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -104,8 +104,6 @@ atspace.biz CNAME .
 *.atspace.biz CNAME .
 awardspace.biz CNAME .
 *.awardspace.biz CNAME .
-banksurvey.biz CNAME .
-*.banksurvey.biz CNAME .
 boxmail.biz CNAME .
 *.boxmail.biz CNAME .
 coolpage.biz CNAME .
@@ -168,10 +166,6 @@ blogspot.cl CNAME .
 *.blogspot.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
-airground.club CNAME .
-*.airground.club CNAME .
-arabinn.club CNAME .
-*.arabinn.club CNAME .
 autoscolor.club CNAME .
 *.autoscolor.club CNAME .
 chatpc.club CNAME .
@@ -2032,6 +2026,10 @@ booru.org CNAME .
 *.booru.org CNAME .
 builtfree.org CNAME .
 *.builtfree.org CNAME .
+ccname.org CNAME .
+*.ccname.org CNAME .
+cdnfree.org CNAME .
+*.cdnfree.org CNAME .
 cl4n.org CNAME .
 *.cl4n.org CNAME .
 clandomain.org CNAME .
@@ -2340,8 +2338,6 @@ welt.tl CNAME .
 *.welt.tl CNAME .
 land.to CNAME .
 *.land.to CNAME .
-africafull.top CNAME .
-*.africafull.top CNAME .
 artsold.top CNAME .
 *.artsold.top CNAME .
 datesize.top CNAME .

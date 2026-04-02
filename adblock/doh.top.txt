@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Apr 2026 11:04 UTC
-! Version: 2026.0401.1104.18
+! Last modified: 02 Apr 2026 10:45 UTC
+! Version: 2026.0402.1045.45
 ! Syntax: AdBlock
 ! Number of entries: 3476
 !
@@ -340,7 +340,6 @@
 ||secure.avastdns.com^
 ||adguard.avavd.ru^
 ||vps.avc.cx^
-||adguard.avdkishore.dev^
 ||axaxa.fun^
 ||dnstx.axhy.cc^
 ||axistechsupport.com^
@@ -427,6 +426,7 @@
 ||doh-sg.blahdns.com^
 ||doh1.blahdns.com^
 ||doh2.blahdns.com^
+||dohde.blahdns.com^
 ||dohsg.blahdns.com^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2286,6 +2286,7 @@
 ||agh-ovh.mynetgear.com^
 ||walker.mynetgear.com^
 ||blackhole.myon.lu^
+||egshe.myqnapcloud.com^
 ||newlibrarian.myqnapcloud.com^
 ||myrusvpn.de^
 ||mysolod.xyz^
@@ -3314,7 +3315,6 @@
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
 ||resov.wehao.net^
-||dns.weibo.cn^
 ||home.weisbrod.me^
 ||dns.wellstsai.com^
 ||zhang.wenru.xyz^

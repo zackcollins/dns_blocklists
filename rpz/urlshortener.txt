@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775035680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775120640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Apr 2026 09:28 UTC
-; Version: 2026.0401.0928.34
+; Last modified: 02 Apr 2026 09:04 UTC
+; Version: 2026.0402.0904.21
 ; Syntax: RPZ
-; Number of entries: 19840
+; Number of entries: 19814
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -903,8 +903,6 @@ url.ba CNAME .
 *.url.ba CNAME .
 ink.vibez.band CNAME .
 *.ink.vibez.band CNAME .
-berde.bar CNAME .
-*.berde.bar CNAME .
 hqxxx.bar CNAME .
 *.hqxxx.bar CNAME .
 vypij.bar CNAME .
@@ -1877,8 +1875,6 @@ keck.center CNAME .
 *.keck.center CNAME .
 uni.cf CNAME .
 *.uni.cf CNAME .
-90003cfd.cfd CNAME .
-*.90003cfd.cfd CNAME .
 blogshare.cfd CNAME .
 *.blogshare.cfd CNAME .
 masuk.cfd CNAME .
@@ -2029,8 +2025,6 @@ url.vma.cl CNAME .
 *.url.vma.cl CNAME .
 s.wikicharlie.cl CNAME .
 *.s.wikicharlie.cl CNAME .
-7kbet.click CNAME .
-*.7kbet.click CNAME .
 aakem.click CNAME .
 *.aakem.click CNAME .
 acorta.click CNAME .
@@ -3263,8 +3257,6 @@ adpaylink.com CNAME .
 *.adpaylink.com CNAME .
 adsmoker.com CNAME .
 *.adsmoker.com CNAME .
-advartiso.com CNAME .
-*.advartiso.com CNAME .
 advmyc.com CNAME .
 *.advmyc.com CNAME .
 advnutri.com CNAME .
@@ -3547,8 +3539,6 @@ bettrechies.com CNAME .
 *.bettrechies.com CNAME .
 biastonu.com CNAME .
 *.biastonu.com CNAME .
-bigfk.com CNAME .
-*.bigfk.com CNAME .
 bigolink.com CNAME .
 *.bigolink.com CNAME .
 biibly.com CNAME .
@@ -3741,8 +3731,6 @@ bumpnt.com CNAME .
 *.bumpnt.com CNAME .
 ship.bunnycart.com CNAME .
 *.ship.bunnycart.com CNAME .
-buoydeparturediscontent.com CNAME .
-*.buoydeparturediscontent.com CNAME .
 burnurl.com CNAME .
 *.burnurl.com CNAME .
 buybitcoinsworldwide.com CNAME .
@@ -9453,8 +9441,6 @@ aje.biz.id CNAME .
 *.aje.biz.id CNAME .
 url.nafi.biz.id CNAME .
 *.url.nafi.biz.id CNAME .
-opetsalman.biz.id CNAME .
-*.opetsalman.biz.id CNAME .
 bpk.id CNAME .
 *.bpk.id CNAME .
 link.cashcard.id CNAME .
@@ -13089,8 +13075,6 @@ aspireinstallations.live CNAME .
 *.aspireinstallations.live CNAME .
 autolink.live CNAME .
 *.autolink.live CNAME .
-baktifranchise.live CNAME .
-*.baktifranchise.live CNAME .
 bit24.live CNAME .
 *.bit24.live CNAME .
 builthow.live CNAME .
@@ -13685,8 +13669,6 @@ ajn.me CNAME .
 *.ajn.me CNAME .
 akses.me CNAME .
 *.akses.me CNAME .
-all-link.me CNAME .
-*.all-link.me CNAME .
 alsa.me CNAME .
 *.alsa.me CNAME .
 altku.me CNAME .
@@ -15709,8 +15691,6 @@ oo.om CNAME .
 *.1oe9.one CNAME .
 try.a-pay.one CNAME .
 *.try.a-pay.one CNAME .
-azl.one CNAME .
-*.azl.one CNAME .
 bhx.one CNAME .
 *.bhx.one CNAME .
 bitlink.one CNAME .
@@ -15859,6 +15839,8 @@ megapay.online CNAME .
 *.megapay.online CNAME .
 mjp88.online CNAME .
 *.mjp88.online CNAME .
+nowgamejiliwin63.online CNAME .
+*.nowgamejiliwin63.online CNAME .
 publicearn.online CNAME .
 *.publicearn.online CNAME .
 recruitings.online CNAME .
@@ -16843,8 +16825,6 @@ amzn.pw CNAME .
 *.amzn.pw CNAME .
 avtub.pw CNAME .
 *.avtub.pw CNAME .
-bely.pw CNAME .
-*.bely.pw CNAME .
 bitly.pw CNAME .
 *.bitly.pw CNAME .
 clckr.pw CNAME .
@@ -16911,8 +16891,6 @@ linkly.qa CNAME .
 *.linkly.qa CNAME .
 log.qa CNAME .
 *.log.qa CNAME .
-bkjkwg.quest CNAME .
-*.bkjkwg.quest CNAME .
 0x.re CNAME .
 *.0x.re CNAME .
 1url.re CNAME .
@@ -17527,8 +17505,6 @@ alturl.site CNAME .
 *.alturl.site CNAME .
 as1ansl0t88.site CNAME .
 *.as1ansl0t88.site CNAME .
-bio66.site CNAME .
-*.bio66.site CNAME .
 biturl.site CNAME .
 *.biturl.site CNAME .
 bprl.site CNAME .
@@ -19645,8 +19621,6 @@ wf0.xin CNAME .
 *.669988.xyz CNAME .
 71a.xyz CNAME .
 *.71a.xyz CNAME .
-8dewaamp.xyz CNAME .
-*.8dewaamp.xyz CNAME .
 aficlicktrack.xyz CNAME .
 *.aficlicktrack.xyz CNAME .
 akunjpvip.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775017440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775126700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Apr 2026 04:24 UTC
-; Version: 2026.0401.0424.11
+; Last modified: 02 Apr 2026 10:45 UTC
+; Version: 2026.0402.1045.05
 ; Syntax: RPZ
-; Number of entries: 6982
+; Number of entries: 6978
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2309,8 +2309,6 @@ adguard01.zitronen-server.de CNAME .
 *.0ms.dev CNAME .
 dns.applewebkit.dev CNAME .
 *.dns.applewebkit.dev CNAME .
-adguard.avdkishore.dev CNAME .
-*.adguard.avdkishore.dev CNAME .
 home.azagra.dev CNAME .
 *.home.azagra.dev CNAME .
 dns.azcom.dev CNAME .
@@ -5683,8 +5681,6 @@ adguard.dbase.in.rs CNAME .
 *.adguard.dbase.in.rs CNAME .
 1735r.ru CNAME .
 *.1735r.ru CNAME .
-lvpn.2rdp.ru CNAME .
-*.lvpn.2rdp.ru CNAME .
 51576162.ru CNAME .
 *.51576162.ru CNAME .
 ns.77ll.ru CNAME .
