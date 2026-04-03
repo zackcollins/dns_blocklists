@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Mar 2026 16:12 UTC
-! Version: 2026.0327.1612.09
+! Last modified: 03 Apr 2026 17:01 UTC
+! Version: 2026.0403.1701.13
 ! Syntax: AdBlock
-! Number of entries: 381
+! Number of entries: 384
 !
 ||frontier.byteoversea.com^
 ||gplog-sg.byteoversea.com^
@@ -183,6 +183,7 @@
 ||location-v6-ttp2.tiktokv.us^
 ||location-v6-va.tiktokv.com^
 ||location-va.tiktokv.com^
+||location16-normal-useastred.tiktokv.eu^
 ||locationv16-normal-useastred.tiktokv.eu^
 ||log.tiktokv.com^
 ||log.tiktokv.us^
@@ -218,8 +219,10 @@
 ||log3-normal-c-useast1a.tiktokv.com^
 ||log31-normal.tiktokv.com^
 ||log31-normal-alisg.tiktokv.com^
+||log31-normal-no1a.tiktokv.eu^
 ||log31-normal-useast1a.tiktokv.com^
 ||log31-normal-useast2a.tiktokv.com^
+||log31-normal-useastred.tiktokv.eu^
 ||log32-normal.tiktokv.com^
 ||log32-normal-alisg.tiktokv.com^
 ||log32-normal-no1a.tiktokv.eu^

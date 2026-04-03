@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 16:13 UTC
-# Version: 2026.0327.1613.38
+# Last modified: 03 Apr 2026 17:02 UTC
+# Version: 2026.0403.1702.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1807
+# Number of entries: 1809
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 aaqhmintg9.alphonso.tv
@@ -68,6 +68,7 @@
 0.0.0.0 dkfstsgd41.alphonso.tv
 0.0.0.0 dkpae73.alphonso.tv
 0.0.0.0 dmkfppbdav49.alphonso.tv
+0.0.0.0 dnkdidh2.alphonso.tv
 0.0.0.0 dqfui3.alphonso.tv
 0.0.0.0 dqtcg35.alphonso.tv
 0.0.0.0 dqzljjhryn04.alphonso.tv
@@ -687,6 +688,7 @@
 0.0.0.0 rhdpmaamx36.alphonso.tv
 0.0.0.0 rldmdjb95.alphonso.tv
 0.0.0.0 rlhfiwgg16.alphonso.tv
+0.0.0.0 rrmunf5.alphonso.tv
 0.0.0.0 rvahs48.alphonso.tv
 0.0.0.0 rwtjrztik97.alphonso.tv
 0.0.0.0 rxcxlnkoij6.alphonso.tv

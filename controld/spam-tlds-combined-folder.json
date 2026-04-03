@@ -2520,6 +2520,13 @@
       }
     },
     {
+      "PK": "fito.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "flexilead.online",
       "action": {
         "do": 1,
@@ -3307,6 +3314,13 @@
       "PK": "*.homes",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "homewizard.energy",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -6686,13 +6700,6 @@
     },
     {
       "PK": "slussen.biz",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "snapapi.space",
       "action": {
         "do": 1,
         "status": 1

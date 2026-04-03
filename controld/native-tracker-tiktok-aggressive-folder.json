@@ -638,6 +638,13 @@
       }
     },
     {
+      "PK": "location16-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "location-i18n.tiktokv.com",
       "action": {
         "do": 0,
@@ -1065,6 +1072,13 @@
       }
     },
     {
+      "PK": "log31-normal-no1a.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log31-normal.tiktokv.com",
       "action": {
         "do": 0,
@@ -1080,6 +1094,13 @@
     },
     {
       "PK": "log31-normal-useast2a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log31-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -1975,6 +1996,13 @@
       }
     },
     {
+      "PK": "mon31-normal-no1a.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon31-normal.tiktokv.com",
       "action": {
         "do": 0,
@@ -1989,7 +2017,21 @@
       }
     },
     {
+      "PK": "mon31-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon32-normal-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon32-normal-no1a.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -2011,6 +2053,13 @@
     },
     {
       "PK": "mon32-normal-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon32-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

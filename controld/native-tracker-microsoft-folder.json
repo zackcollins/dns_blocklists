@@ -232,6 +232,13 @@
       }
     },
     {
+      "PK": "api.applicationinsights.azure.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "api.edgeoffer.microsoft.com",
       "action": {
         "do": 0,
@@ -268,6 +275,13 @@
     },
     {
       "PK": "arc3.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "arc5.msn.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2108,6 +2122,13 @@
       }
     },
     {
+      "PK": "rad.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "rads.msn.com",
       "action": {
         "do": 0,
@@ -2683,6 +2704,41 @@
     },
     {
       "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "www.a.ads1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "www.a.ads2.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "www.ads1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "www.adsinapps.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "www.b.ads1.msn.com",
       "action": {
         "do": 0,
         "status": 1

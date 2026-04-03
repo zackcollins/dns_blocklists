@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 16:12 UTC
-# Version: 2026.0327.1612.54
+# Last modified: 03 Apr 2026 17:02 UTC
+# Version: 2026.0403.1702.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 533
+# Number of entries: 540
 #
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
@@ -244,6 +244,7 @@
 0.0.0.0 location-v6-ttp2.tiktokv.us
 0.0.0.0 location-v6-va.tiktokv.com
 0.0.0.0 location-va.tiktokv.com
+0.0.0.0 location16-normal-useastred.tiktokv.eu
 0.0.0.0 locationv16-normal-useastred.tiktokv.eu
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tiktokv.us
@@ -292,8 +293,10 @@
 0.0.0.0 log3-normal-c-useast1a.tiktokv.com
 0.0.0.0 log31-normal.tiktokv.com
 0.0.0.0 log31-normal-alisg.tiktokv.com
+0.0.0.0 log31-normal-no1a.tiktokv.eu
 0.0.0.0 log31-normal-useast1a.tiktokv.com
 0.0.0.0 log31-normal-useast2a.tiktokv.com
+0.0.0.0 log31-normal-useastred.tiktokv.eu
 0.0.0.0 log32-normal.tiktokv.com
 0.0.0.0 log32-normal-alisg.tiktokv.com
 0.0.0.0 log32-normal-no1a.tiktokv.eu
@@ -356,10 +359,14 @@
 0.0.0.0 mon22-normal-useast1a.tiktokv.com
 0.0.0.0 mon31-normal.tiktokv.com
 0.0.0.0 mon31-normal-alisg.tiktokv.com
+0.0.0.0 mon31-normal-no1a.tiktokv.eu
 0.0.0.0 mon31-normal-useast1a.tiktokv.com
+0.0.0.0 mon31-normal-useastred.tiktokv.eu
 0.0.0.0 mon32-normal.tiktokv.com
 0.0.0.0 mon32-normal-alisg.tiktokv.com
+0.0.0.0 mon32-normal-no1a.tiktokv.eu
 0.0.0.0 mon32-normal-useast1a.tiktokv.com
+0.0.0.0 mon32-normal-useastred.tiktokv.eu
 0.0.0.0 monbk.tiktokv.com
 0.0.0.0 mssdk-boot.tiktokv.com
 0.0.0.0 mssdk-i18n.tiktokv.com

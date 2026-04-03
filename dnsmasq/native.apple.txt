@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:40 UTC
-# Version: 2026.0121.1440.08
+# Last modified: 03 Apr 2026 16:57 UTC
+# Version: 2026.0403.1657.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 99
+# Number of entries: 103
 #
 local=/cstat.g.aaplimg.com/
 local=/diagassets.g.aaplimg.com/
@@ -90,6 +90,10 @@ local=/xp-cdn.apple.com/
 local=/feedbackws.fe.apple-dns.cn/
 local=/feedbackws.fe2.apple-dns.net/
 local=/me.apple-dns.net/
+local=/books-analytics-events.news.apple-dns.net/
+local=/notes-analytics-events.news.apple-dns.net/
+local=/stocks-analytics-events.news.apple-dns.net/
+local=/weather-analytics-events.news.apple-dns.net/
 local=/applemediaservices.com/
 local=/cstat.cdn-apple.com/
 local=/securemetrics.apple.com.cn/

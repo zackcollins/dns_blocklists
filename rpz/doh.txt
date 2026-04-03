@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775155080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775234880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Apr 2026 18:38 UTC
-; Version: 2026.0402.1838.03
+; Last modified: 03 Apr 2026 16:48 UTC
+; Version: 2026.0403.1648.33
 ; Syntax: RPZ
-; Number of entries: 6974
+; Number of entries: 6984
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -887,6 +887,8 @@ cloudflareresolve.com CNAME .
 *.cloudflareresolve.com CNAME .
 dns.cloudseriousshit.com CNAME .
 *.dns.cloudseriousshit.com CNAME .
+dns-fr-psv1.cloudsides.com CNAME .
+*.dns-fr-psv1.cloudsides.com CNAME .
 adguard.cnbeining.com CNAME .
 *.adguard.cnbeining.com CNAME .
 ag.coco-tama-hoiku.com CNAME .
@@ -2307,6 +2309,8 @@ adguard01.zitronen-server.de CNAME .
 *.0ms.dev CNAME .
 dns.applewebkit.dev CNAME .
 *.dns.applewebkit.dev CNAME .
+adguard.avdkishore.dev CNAME .
+*.adguard.avdkishore.dev CNAME .
 home.azagra.dev CNAME .
 *.home.azagra.dev CNAME .
 dns.azcom.dev CNAME .
@@ -2743,6 +2747,8 @@ adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
 axaxa.fun CNAME .
 *.axaxa.fun CNAME .
+ag.brianlee.fun CNAME .
+*.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -4587,6 +4593,8 @@ dns-02.computerservices.co.nz CNAME .
 *.dns-02.computerservices.co.nz CNAME .
 dns.rawalker.co.nz CNAME .
 *.dns.rawalker.co.nz CNAME .
+dns.safesurfer.co.nz CNAME .
+*.dns.safesurfer.co.nz CNAME .
 dns1.thylacine.co.nz CNAME .
 *.dns1.thylacine.co.nz CNAME .
 dns2.thylacine.co.nz CNAME .
@@ -5677,6 +5685,8 @@ adguard.dbase.in.rs CNAME .
 *.adguard.dbase.in.rs CNAME .
 1735r.ru CNAME .
 *.1735r.ru CNAME .
+lvpn.2rdp.ru CNAME .
+*.lvpn.2rdp.ru CNAME .
 51576162.ru CNAME .
 *.51576162.ru CNAME .
 ns.77ll.ru CNAME .

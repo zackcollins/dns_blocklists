@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jan 2026 14:40 UTC
-# Version: 2026.0121.1440.08
+# Last modified: 03 Apr 2026 16:57 UTC
+# Version: 2026.0403.1657.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 99
+# Number of entries: 103
 #
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
@@ -90,6 +90,10 @@ xp-cdn.apple.com
 feedbackws.fe.apple-dns.cn
 feedbackws.fe2.apple-dns.net
 me.apple-dns.net
+books-analytics-events.news.apple-dns.net
+notes-analytics-events.news.apple-dns.net
+stocks-analytics-events.news.apple-dns.net
+weather-analytics-events.news.apple-dns.net
 applemediaservices.com
 cstat.cdn-apple.com
 securemetrics.apple.com.cn

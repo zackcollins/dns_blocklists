@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Apr 2026 18:38 UTC
-! Version: 2026.0402.1838.35
+! Last modified: 03 Apr 2026 16:49 UTC
+! Version: 2026.0403.1649.04
 ! Syntax: AdBlock
-! Number of entries: 3474
+! Number of entries: 3479
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -340,6 +340,7 @@
 ||secure.avastdns.com^
 ||adguard.avavd.ru^
 ||vps.avc.cx^
+||adguard.avdkishore.dev^
 ||axaxa.fun^
 ||dnstx.axhy.cc^
 ||axistechsupport.com^
@@ -472,6 +473,7 @@
 ||dns.brembeck.cloud^
 ||dns.briac-mlb.fr^
 ||dns.system.brianhong.kr^
+||ag.brianlee.fun^
 ||dns.brionesserver.net^
 ||agh.broaddy.com^
 ||dns.brono.cloud^
@@ -596,6 +598,7 @@
 ||adguard.veanswart.cloudns.be^
 ||zeusvps.cloudns.nz^
 ||dns.cloudseriousshit.com^
+||dns-fr-psv1.cloudsides.com^
 ||dns.cloudtrust.solutions^
 ||ca.doh.cloudveil.org^
 ||us.doh.cloudveil.org^
@@ -3183,6 +3186,7 @@
 ||net.tt6.net^
 ||doh.ibr.cs.tu-bs.de^
 ||dns.tuankhaiit.com^
+||tuantran.cloud^
 ||tujenasnaszato.xyz^
 ||tuskythehusky.tech^
 ||nat64.tuxis.nl^
@@ -3313,6 +3317,7 @@
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
 ||resov.wehao.net^
+||dns.weibo.cn^
 ||home.weisbrod.me^
 ||dns.wellstsai.com^
 ||zhang.wenru.xyz^

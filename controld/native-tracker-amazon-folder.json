@@ -1233,6 +1233,13 @@
       }
     },
     {
+      "PK": "ir-ae.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ir-br.amazon-adsystem.com",
       "action": {
         "do": 0,

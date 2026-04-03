@@ -284,7 +284,6 @@ https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
 https://threatfox.abuse.ch/downloads/hostfile
-https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds
 https://ubo-et.lepik.io/list.txt
 https://urlhaus.abuse.ch/downloads/hostfile

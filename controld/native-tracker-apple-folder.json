@@ -64,6 +64,13 @@
       }
     },
     {
+      "PK": "books-analytics-events.news.apple-dns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cdn-xp-ingest-ab.v.aaplimg.com",
       "action": {
         "do": 0,
@@ -442,6 +449,13 @@
       }
     },
     {
+      "PK": "notes-analytics-events.news.apple-dns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "odin-signals.apple.com",
       "action": {
         "do": 0,
@@ -638,6 +652,13 @@
       }
     },
     {
+      "PK": "stocks-analytics-events.news.apple-dns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "supportmetrics.apple.com",
       "action": {
         "do": 0,
@@ -653,6 +674,13 @@
     },
     {
       "PK": "weather-analytics-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "weather-analytics-events.news.apple-dns.net",
       "action": {
         "do": 0,
         "status": 1

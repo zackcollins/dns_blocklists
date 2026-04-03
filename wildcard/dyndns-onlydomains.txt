@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 18:37 UTC
-# Version: 2026.0402.1837.30
+# Last modified: 03 Apr 2026 16:48 UTC
+# Version: 2026.0403.1648.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 1479
+# Number of entries: 1480
 #
 0000000000000000000000.com
 0x.no
@@ -201,6 +201,7 @@ cloudns.ph
 cloudns.pro
 cloudwatch.net
 cloudxns.net
+cmirg.com
 cnstefancelmare.ro
 changeip.co.uk
 dynamicdns.co.uk

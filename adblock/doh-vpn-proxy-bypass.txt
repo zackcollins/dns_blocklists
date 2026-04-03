@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Apr 2026 18:38 UTC
-! Version: 2026.0402.1838.48
+! Last modified: 03 Apr 2026 16:49 UTC
+! Version: 2026.0403.1649.17
 ! Syntax: AdBlock
-! Number of entries: 16757
+! Number of entries: 16822
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -34,6 +34,7 @@
 ||09vpn.com^
 ||0a7velfsvpgyy.online^
 ||0ms.dev^
+||0n0fzcp.online^
 ||0olnsejxo1cbravdmlarpeb.online^
 ||dns.0ooo.icu^
 ||1.0rz.space^
@@ -64,6 +65,8 @@
 ||1.11i.eu^
 ||2.11i.eu^
 ||3.11i.eu^
+||123-proxy.net^
+||123-proxy.org^
 ||123000123.xyz^
 ||123417.xyz^
 ||d1.12342345.xyz^
@@ -86,6 +89,7 @@
 ||123proxy.app^
 ||123proxy.biz^
 ||123proxy.cool^
+||123proxy.me^
 ||123roms.com^
 ||123rooms.net^
 ||123streaming.org^
@@ -140,11 +144,13 @@
 ||imtiredofmakinglinks.1copa.com^
 ||county.news.1copa.com^
 ||1ee.top^
+||1eeqfdye1cecpqc.online^
 ||1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com^
 ||1f47epzt.online^
 ||1f4832d80bf373568e78d5911735d041df4c617d.com^
 ||1f76a2ba920d.space^
 ||1proxy.de^
+||1pxbs8xsmyox.online^
 ||1svpn.biz^
 ||1svpn.com^
 ||1tv8q2k.online^
@@ -214,6 +220,7 @@
 ||2proxy.de^
 ||2proxyweb.com^
 ||2pxcmgs.online^
+||lvpn.2rdp.ru^
 ||dns.2t9.de^
 ||2ub.top^
 ||302verify.com^
@@ -346,7 +353,9 @@
 ||58mdss.com^
 ||58ppyun.com^
 ||59561aa13a3300a5399b85b1470e7b9edbe58ad9.com^
+||scratchdevfourums.5a3bz.cn^
 ||5cojvd8ge.online^
+||5eclash.com^
 ||5fvfofc9f.online^
 ||5noers.xyz^
 ||66jsq.top^
@@ -464,6 +473,7 @@
 ||aapljs.com^
 ||aarash.pro^
 ||dns.aaronplayzgaming.com^
+||aaronzweb.xyz^
 ||dns.aaytorr.com^
 ||ababi-nimma.cf^
 ||abcproxy.com^
@@ -701,6 +711,7 @@
 ||aceqihao.com^
 ||aceqingwa.com^
 ||acequickq.com^
+||hsym5.acerhost.com^
 ||acerocketapp.com^
 ||acerocketapp.net^
 ||acerockstar.net^
@@ -764,6 +775,7 @@
 ||vpn-android.adbl0ck.com^
 ||adblockersite.com^
 ||adblockluna.com^
+||adcka74lievia.online^
 ||adelmeli.com^
 ||adfgawidhioawjd.shop^
 ||adfight.ru^
@@ -827,6 +839,8 @@
 ||agentsless.org^
 ||aghdns.com^
 ||gov.yale.agmlabs.com^
+||agurydog.website^
+||ahaan.xyz^
 ||ahaapi.com^
 ||ahadns.net^
 ||blitz.ahadns.com^
@@ -876,6 +890,7 @@
 ||hehehehaw.ajalo.com^
 ||ajh.academy^
 ||ajh.boats^
+||ajh.college^
 ||ajh.quest^
 ||ajh.wtf^
 ||ajhmath.org^
@@ -946,6 +961,8 @@
 ||micro.alloxr.info^
 ||vps.alloxr.info^
 ||allunblocked.com^
+||spmx7dh3ijfgzpltcwfjcgw9rpfhkdxfsvnohbgeetthnyq2nfuvbajln478gg.allurescience.com^
+||allyisgoingbacktomexi.co^
 ||adguard.almanasports.com^
 ||dns.almir1904.eu^
 ||dns01.almir1904.eu^
@@ -1076,6 +1093,7 @@
 ||a-regist.anondns.net^
 ||appleicloud.anondns.net^
 ||anonine.com^
+||anonproxy.eu^
 ||anonproxy.org^
 ||anonto.pw^
 ||anonwebproxy.com^
@@ -1270,6 +1288,7 @@
 ||aslanvpn.com^
 ||doh.asli.id^
 ||aspheric-zombies.club^
+||assemblymenu.xyz^
 ||task.major.assholetenants.com^
 ||astarvpn.com^
 ||astarvpn.download^
@@ -1341,6 +1360,7 @@
 ||secure.avastdns.com^
 ||adguard.avavd.ru^
 ||vps.avc.cx^
+||adguard.avdkishore.dev^
 ||avenuemanner.com^
 ||aviaticdiving.com^
 ||avira-vpn.com^
@@ -1553,6 +1573,7 @@
 ||adguard.baltes.info^
 ||about.baltimorefellowship.org^
 ||bordom.bamapos.com^
+||inlifeyouhaveroadblox.bamapos.com^
 ||hint.bamastuff.com^
 ||trig.bamastuff.com^
 ||trigg.bamastuff.com^
@@ -1595,6 +1616,7 @@
 ||peninsulaeducation.baselinux.net^
 ||studyeasy.baselinux.net^
 ||basildo.beer^
+||powerschoolportal.bastaff.ru^
 ||we-hate-school.bastaff.ru^
 ||home.basthorst.eu^
 ||batch.today^
@@ -1602,6 +1624,8 @@
 ||batvpn.com^
 ||batvpn.top^
 ||batyasoft.com^
+||1.baumgardner.us^
+||2.baumgardner.us^
 ||4.baumgardner.us^
 ||67.baumgardner.us^
 ||bungalow.baumgardner.us^
@@ -1627,6 +1651,7 @@
 ||fern.bbvlibrary.com^
 ||httpdns.bcelive.com^
 ||bcloudv.com^
+||bcohqwqmvyioqg.xyz^
 ||bd-assets.com^
 ||bdns.im^
 ||bdns.io^
@@ -1658,6 +1683,7 @@
 ||beibeilink.top^
 ||beibeiyunssr.com^
 ||belkavpn.com^
+||belldream.xyz^
 ||bellproxy.com^
 ||dns.belnet.be^
 ||belongdesert.com^
@@ -1705,6 +1731,7 @@
 ||bestdiandian.com^
 ||bestdota.net^
 ||besteaapp.com^
+||bestepicgames.com^
 ||besteugame.com^
 ||bestexpapp.com^
 ||bestfanqiangtizi.com^
@@ -1897,6 +1924,7 @@
 ||wide-magic-801.biologyscholar.org^
 ||wise-lion-563.biologyscholar.org^
 ||mcps.biquest.cl^
+||bir2hmi.online^
 ||birgerboy.com^
 ||aphistorytutoring.bisblick.org^
 ||learnaboutbillclinton.bisblick.org^
@@ -1933,6 +1961,8 @@
 ||bizfast.info^
 ||bjcgbc.cn^
 ||tickets.blackbearshow.com^
+||voidvcsa.blackbearshow.com^
+||watch.blackbearshow.com^
 ||blackbettyclothing.com^
 ||gate.blackboxdynamics.io^
 ||blackbull.news^
@@ -2057,6 +2087,8 @@
 ||adguard.bonsirven.eu^
 ||bookcar92.com^
 ||booket.cf^
+||bookkey82.com^
+||bookpen82.com^
 ||bookphone92.com^
 ||www.securly.com.bookpropofplace.com^
 ||boomproxy.com^
@@ -2181,6 +2213,7 @@
 ||brhbjinjshvylb.online^
 ||dns.briac-mlb.fr^
 ||dns.system.brianhong.kr^
+||ag.brianlee.fun^
 ||vacation.briaquaticcabinets.com^
 ||bridgeschoolboulder.org^
 ||bridgethewisejc.com^
@@ -2354,6 +2387,7 @@
 ||skibiditoilet-will-be-mine.camdvr.org^
 ||static-is-still-alive.camdvr.org^
 ||study-resources-trust.camdvr.org^
+||cameraproposal.xyz^
 ||adguard.camn.uk^
 ||camowolfdog.rest^
 ||canaanstoneworks.com^
@@ -2390,6 +2424,7 @@
 ||doh.captnemo.in^
 ||carbook92.com^
 ||carcar92.com^
+||carchair92.com^
 ||carebuzz.com^
 ||carebuzz.io^
 ||careersandjobs.org^
@@ -2397,8 +2432,11 @@
 ||kirkification.cargo-dv.com^
 ||secretsubdomain1.caribbeanpremierhotels.com^
 ||unifi.carioka.com^
+||carkey82.com^
 ||carpetcouriers.com^
+||carphone92.com^
 ||dns.carson-family.com^
+||cartable92.com^
 ||dns.carter.me^
 ||nikonikoproxy.casacam.net^
 ||rammerhead.casacam.net^
@@ -2442,6 +2480,8 @@
 ||cbhb5kzmizfidrmjal.online^
 ||dns2.cbio.top^
 ||cbr2ozbx.online^
+||basic.cbu.net^
+||learnstuff.cbu.net^
 ||ccave.com^
 ||ccavea.com^
 ||doh.ccb-net.it^
@@ -2572,6 +2612,7 @@
 ||pds.cfornas.casa^
 ||cgahwtlh3.online^
 ||ibuki.cgnat.net^
+||cgwsvqpkllgjo.xyz^
 ||ch-kuailian.com^
 ||dns.ch295.ru^
 ||play.ch3n.cc^
@@ -2580,6 +2621,8 @@
 ||chaich8z.xyz^
 ||chairbook92.com^
 ||chairchair92.com^
+||chairkey82.com^
+||chairphone92.com^
 ||dns.chalkychalk.com^
 ||core.goal.challengepursuit.com^
 ||chamvpn.com^
@@ -2638,6 +2681,7 @@
 ||browgatis.com.chickenkiller.com^
 ||djdjfjjkeodidififi-kdkdkdkfkfk.tto.gtagissogood.com.chickenkiller.com^
 ||nate.higgers.lebron67.com.chickenkiller.com^
+||sillyinproperlootingacademicalschool.com.chickenkiller.com^
 ||cooking-with-a-goofy-ahh.chickenkiller.com^
 ||coolkidd.chickenkiller.com^
 ||kahoot.dad.chickenkiller.com^
@@ -2691,6 +2735,7 @@
 ||wheresyourmoney.chickenkiller.com^
 ||willratz28.chickenkiller.com^
 ||wowiewowwow.chickenkiller.com^
+||xynproxyschool.chickenkiller.com^
 ||youraohiololsofunnygreatmemereset67getajob.chickenkiller.com^
 ||chickenrunclash.com^
 ||chickenrunjc.com^
@@ -2713,13 +2758,17 @@
 ||robertgriffinharelythethird.chinapoem.org^
 ||vcsa.void.chinapoem.org^
 ||sub.vseesa.chinapoem.org^
+||chinapolymetallic.com^
 ||chinastoryshop.com^
 ||chinese-kl.com^
+||chinese-kuailian.com^
 ||chinese-lets.com^
 ||cmdc.chinookyoga.com^
 ||uno.chippytime.com^
 ||chips.run^
 ||www.itrsa.chiqui.ar^
+||blog.chirality.forum^
+||chjwhpcwibbsoz.xyz^
 ||chlaebi.info^
 ||chnroute.com^
 ||chocolated.org^
@@ -2945,6 +2994,7 @@
 ||cloudbenders.fun^
 ||cloudbob.fr^
 ||dns.cloudfiction.eu^
+||cloudfisherjc.com^
 ||academiq.academy.cdn.cloudflare.net^
 ||ajh.academy.cdn.cloudflare.net^
 ||afilite.app.cdn.cloudflare.net^
@@ -3143,6 +3193,8 @@
 ||api.cloudflareclient.com^
 ||cloudflaredns.com^
 ||cloudflareresolve.com^
+||cloudfoxclash.com^
+||cloudfoxjc.com^
 ||d101vabyweqq2v.cloudfront.net^
 ||d10zu8ijzdhnhd.cloudfront.net^
 ||d11jzht7mj96rr.cloudfront.net^
@@ -3529,6 +3581,7 @@
 ||cloudpleace.com^
 ||cloudquickcdn.com^
 ||dns.cloudseriousshit.com^
+||dns-fr-psv1.cloudsides.com^
 ||cloudspacecdn.site^
 ||cloudssh.net^
 ||cloudssh.us^
@@ -3538,7 +3591,9 @@
 ||cloudvpn.ai^
 ||cloudvpn.pro^
 ||clovian.ru^
+||math.homework.clubnb.au^
 ||manchaland.clubskunk.com^
+||clusters.run^
 ||login.cmnjl.com^
 ||dns.cmrg.net^
 ||cmsone.cc^
@@ -3562,6 +3617,7 @@
 ||cns-kuailian.cn^
 ||cns-kuailian.com^
 ||cns-kuailian.net^
+||cnusxumyiiw.xyz^
 ||cnwangluo.net^
 ||10bestvpn.co.uk^
 ||adguard.aa4.co.uk^
@@ -3681,6 +3737,15 @@
 ||dns.unknown-universe.co.uk^
 ||vanillacoke.co.uk^
 ||sainttech.veranda.co.id^
+||chejfnreeje.vets.co.il^
+||football.coach.vets.co.il^
+||fern-the-goat.vets.co.il^
+||fernisbest.vets.co.il^
+||jncbfekejd.vets.co.il^
+||monkeys9238822.vets.co.il^
+||wecookedthistimebri.vets.co.il^
+||xocjckekrn.vets.co.il^
+||yes.vets.co.il^
 ||vpn-proxies.co.cc^
 ||vpn-services.co.cc^
 ||vpncompare.co.uk^
@@ -10610,6 +10675,7 @@
 ||noyourmean.xyz^
 ||dns.npe.bz^
 ||adguard.npglocal.com^
+||npscalculator.online^
 ||nqma.net^
 ||nrz.homes^
 ||nrz.monster^
@@ -12148,7 +12214,6 @@
 ||restena.lu^
 ||dns.retakecs.com^
 ||rethinkdns.com^
-||reurl.cc^
 ||revelio.top^
 ||revko.info^
 ||rewardpumpkin.com^

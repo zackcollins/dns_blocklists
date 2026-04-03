@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Mar 2026 16:09 UTC
-! Version: 2026.0327.1609.53
+! Last modified: 03 Apr 2026 16:58 UTC
+! Version: 2026.0403.1658.48
 ! Syntax: AdBlock
-! Number of entries: 319
+! Number of entries: 320
 !
 ||aan.amazon.co.jp^
 ||aan.amazon.co.uk^
@@ -186,6 +186,7 @@
 ||identity.browserapps.amazon.de^
 ||imdb.amazon-adsystem.com^
 ||insights.video.a2z.com^
+||ir-ae.amazon-adsystem.com^
 ||ir-br.amazon-adsystem.com^
 ||ir-ca.amazon-adsystem.com^
 ||ir-cn.amazon-adsystem.com^

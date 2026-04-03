@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 18:38 UTC
-# Version: 2026.0402.1838.03
+# Last modified: 03 Apr 2026 16:48 UTC
+# Version: 2026.0403.1648.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3487
+# Number of entries: 3492
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -63,6 +63,7 @@ local=/doh003.280blocker.net/
 local=/skynet.2bsafe.info/
 local=/doh.2kil.com/
 local=/dns.2poi.com/
+local=/lvpn.2rdp.ru/
 local=/dns.2t9.de/
 local=/doh.30x.me/
 local=/318341906.fun/
@@ -339,6 +340,7 @@ local=/europe-west.avastdns.com/
 local=/secure.avastdns.com/
 local=/adguard.avavd.ru/
 local=/vps.avc.cx/
+local=/adguard.avdkishore.dev/
 local=/axaxa.fun/
 local=/dnstx.axhy.cc/
 local=/axistechsupport.com/
@@ -471,6 +473,7 @@ local=/bravedns.com/
 local=/dns.brembeck.cloud/
 local=/dns.briac-mlb.fr/
 local=/dns.system.brianhong.kr/
+local=/ag.brianlee.fun/
 local=/dns.brionesserver.net/
 local=/agh.broaddy.com/
 local=/dns.brono.cloud/
@@ -597,6 +600,7 @@ local=/kirov.unicom.cloudns.be/
 local=/adguard.veanswart.cloudns.be/
 local=/zeusvps.cloudns.nz/
 local=/dns.cloudseriousshit.com/
+local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/
@@ -639,6 +643,7 @@ local=/dns.oliviertv.co.za/
 local=/pooblet.co.za/
 local=/dns.rawalker.co.nz/
 local=/rmdns26.co.uk/
+local=/dns.safesurfer.co.nz/
 local=/sbdns.co.in/
 local=/dns.skuy.co.id/
 local=/sols.co.in/

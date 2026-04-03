@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774627740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775235480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Mar 2026 16:09 UTC
-; Version: 2026.0327.1609.53
+; Last modified: 03 Apr 2026 16:58 UTC
+; Version: 2026.0403.1658.48
 ; Syntax: RPZ
-; Number of entries: 638
+; Number of entries: 640
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -290,6 +290,8 @@ fls-na.amazon-adsystem.com CNAME .
 *.fls-na.amazon-adsystem.com CNAME .
 imdb.amazon-adsystem.com CNAME .
 *.imdb.amazon-adsystem.com CNAME .
+ir-ae.amazon-adsystem.com CNAME .
+*.ir-ae.amazon-adsystem.com CNAME .
 ir-br.amazon-adsystem.com CNAME .
 *.ir-br.amazon-adsystem.com CNAME .
 ir-ca.amazon-adsystem.com CNAME .

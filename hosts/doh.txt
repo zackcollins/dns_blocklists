@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 18:38 UTC
-# Version: 2026.0402.1838.03
+# Last modified: 03 Apr 2026 16:48 UTC
+# Version: 2026.0403.1648.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3946
+# Number of entries: 3951
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -78,6 +78,7 @@
 0.0.0.0 skynet.2bsafe.info
 0.0.0.0 doh.2kil.com
 0.0.0.0 dns.2poi.com
+0.0.0.0 lvpn.2rdp.ru
 0.0.0.0 dns.2t9.de
 0.0.0.0 doh.30x.me
 0.0.0.0 318341906.fun
@@ -406,6 +407,7 @@
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avavd.ru
 0.0.0.0 vps.avc.cx
+0.0.0.0 adguard.avdkishore.dev
 0.0.0.0 axaxa.fun
 0.0.0.0 dnstx.axhy.cc
 0.0.0.0 axistechsupport.com
@@ -549,6 +551,7 @@
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 dns.briac-mlb.fr
 0.0.0.0 dns.system.brianhong.kr
+0.0.0.0 ag.brianlee.fun
 0.0.0.0 dns.brionesserver.net
 0.0.0.0 agh.broaddy.com
 0.0.0.0 www.agh.broaddy.com
@@ -716,6 +719,7 @@
 0.0.0.0 adguard.veanswart.cloudns.be
 0.0.0.0 zeusvps.cloudns.nz
 0.0.0.0 dns.cloudseriousshit.com
+0.0.0.0 dns-fr-psv1.cloudsides.com
 0.0.0.0 dns.cloudtrust.solutions
 0.0.0.0 ca.doh.cloudveil.org
 0.0.0.0 us.doh.cloudveil.org
@@ -758,6 +762,7 @@
 0.0.0.0 pooblet.co.za
 0.0.0.0 dns.rawalker.co.nz
 0.0.0.0 rmdns26.co.uk
+0.0.0.0 dns.safesurfer.co.nz
 0.0.0.0 sbdns.co.in
 0.0.0.0 dns.skuy.co.id
 0.0.0.0 sols.co.in
