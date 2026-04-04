@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 16:48 UTC
-# Version: 2026.0403.1648.33
+# Last modified: 04 Apr 2026 10:13 UTC
+# Version: 2026.0404.1013.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3951
+# Number of entries: 3950
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -78,7 +78,6 @@
 0.0.0.0 skynet.2bsafe.info
 0.0.0.0 doh.2kil.com
 0.0.0.0 dns.2poi.com
-0.0.0.0 lvpn.2rdp.ru
 0.0.0.0 dns.2t9.de
 0.0.0.0 doh.30x.me
 0.0.0.0 318341906.fun

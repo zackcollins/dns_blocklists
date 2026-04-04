@@ -5,15 +5,16 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Apr 2026 15:04 UTC
-! Version: 2026.0403.1504.50
+! Last modified: 04 Apr 2026 08:21 UTC
+! Version: 2026.0404.0821.03
 ! Syntax: AdBlock
-! Number of entries: 1480
+! Number of entries: 1481
 !
 ||1-aclk.net^
 ||1aurl.io^
 ||1aurl.net^
 ||l.1mp.ru^
+||t.1und1.de^
 ||2-aclk.net^
 ||links.2ns.fi^
 ||2performant.com^

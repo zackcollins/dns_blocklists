@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 16:50 UTC
-# Version: 2026.0403.1650.00
+# Last modified: 04 Apr 2026 08:36 UTC
+# Version: 2026.0404.0836.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10076
+# Number of entries: 10073
 #
 local=/0.gp/
 local=/00m.in/
@@ -26,7 +26,6 @@ local=/03.wf/
 local=/072.sh/
 local=/078.me/
 local=/08url.com/
-local=/0987.win/
 local=/0a.sk/
 local=/0a0.uk/
 local=/0bs.de/
@@ -35,7 +34,6 @@ local=/0ln.eu/
 local=/0ln.io/
 local=/0o.lv/
 local=/0oj.cn/
-local=/0penclick.org/
 local=/0rl.cc/
 local=/0rz.tw/
 local=/0s0.com/
@@ -1432,7 +1430,6 @@ local=/bumpnt.com/
 local=/bung.ie/
 local=/ship.bunnycart.com/
 local=/buomto.life/
-local=/buoydeparturediscontent.com/
 local=/burl.me/
 local=/burnurl.com/
 local=/buu.lat/
@@ -3289,6 +3286,7 @@ local=/gtne.ws/
 local=/gtnr.it/
 local=/gtrv.info/
 local=/gudang.me/
+local=/guelist.com/
 local=/gurl.pro/
 local=/gurl.to/
 local=/gw.ie/
@@ -4504,7 +4502,6 @@ local=/linkjust.com/
 local=/linkk.ing/
 local=/linkkece.com/
 local=/linkkita.me/
-local=/linkkkit.cc/
 local=/linkkl.com/
 local=/linkku.me/
 local=/linkku-bp.com/

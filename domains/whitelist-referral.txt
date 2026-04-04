@@ -5,15 +5,16 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 15:04 UTC
-# Version: 2026.0403.1504.50
+# Last modified: 04 Apr 2026 08:21 UTC
+# Version: 2026.0404.0821.03
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2068
+# Number of entries: 2070
 #
 1-aclk.net
 1aurl.io
 1aurl.net
 l.1mp.ru
+t.1und1.de
 2-aclk.net
 links.2ns.fi
 2performant.com
@@ -310,6 +311,7 @@ seu2.cleverreach.com
 144595.seu2.cleverreach.com
 145360.seu2.cleverreach.com
 151339.seu2.cleverreach.com
+154366.seu2.cleverreach.com
 159529.seu2.cleverreach.com
 161417.seu2.cleverreach.com
 161683.seu2.cleverreach.com

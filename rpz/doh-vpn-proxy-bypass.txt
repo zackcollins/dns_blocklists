@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775234940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775297640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 16:49 UTC
-; Version: 2026.0403.1649.17
+; Last modified: 04 Apr 2026 10:14 UTC
+; Version: 2026.0404.1014.24
 ; Syntax: RPZ
-; Number of entries: 33644
+; Number of entries: 33624
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2769,8 +2769,6 @@ dot.360.cn CNAME .
 *.dot.360.cn CNAME .
 53r6z.cn CNAME .
 *.53r6z.cn CNAME .
-scratchdevfourums.5a3bz.cn CNAME .
-*.scratchdevfourums.5a3bz.cn CNAME .
 my.8484848.cn CNAME .
 *.my.8484848.cn CNAME .
 lets.ac.cn CNAME .
@@ -20121,8 +20119,6 @@ ns.00dani.me CNAME .
 *.123ani.me CNAME .
 123li.me CNAME .
 *.123li.me CNAME .
-123proxy.me CNAME .
-*.123proxy.me CNAME .
 doh.30x.me CNAME .
 *.doh.30x.me CNAME .
 365ld87948.me CNAME .
@@ -20939,8 +20935,6 @@ dns.0x55.net CNAME .
 *.dns.0x55.net CNAME .
 dns-revers.1-au.net CNAME .
 *.dns-revers.1-au.net CNAME .
-123-proxy.net CNAME .
-*.123-proxy.net CNAME .
 123inside.net CNAME .
 *.123inside.net CNAME .
 123rooms.net CNAME .
@@ -25107,20 +25101,14 @@ vapor.onl CNAME .
 *.098th189h98fh892.online CNAME .
 0a7velfsvpgyy.online CNAME .
 *.0a7velfsvpgyy.online CNAME .
-0n0fzcp.online CNAME .
-*.0n0fzcp.online CNAME .
 0olnsejxo1cbravdmlarpeb.online CNAME .
 *.0olnsejxo1cbravdmlarpeb.online CNAME .
 13fwvc7ka.online CNAME .
 *.13fwvc7ka.online CNAME .
 1bfwu5d5n.online CNAME .
 *.1bfwu5d5n.online CNAME .
-1eeqfdye1cecpqc.online CNAME .
-*.1eeqfdye1cecpqc.online CNAME .
 1f47epzt.online CNAME .
 *.1f47epzt.online CNAME .
-1pxbs8xsmyox.online CNAME .
-*.1pxbs8xsmyox.online CNAME .
 1tv8q2k.online CNAME .
 *.1tv8q2k.online CNAME .
 2mrk0bvkkye.online CNAME .
@@ -25747,8 +25735,6 @@ kuailian.ooo CNAME .
 *.kuailian.ooo CNAME .
 riolu.ooo CNAME .
 *.riolu.ooo CNAME .
-123-proxy.org CNAME .
-*.123-proxy.org CNAME .
 123bay.org CNAME .
 *.123bay.org CNAME .
 123book.org CNAME .
@@ -28635,8 +28621,6 @@ unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
 1735r.ru CNAME .
 *.1735r.ru CNAME .
-lvpn.2rdp.ru CNAME .
-*.lvpn.2rdp.ru CNAME .
 blubby.3d-mart.ru CNAME .
 *.blubby.3d-mart.ru CNAME .
 masorooni.3d-mart.ru CNAME .
@@ -30435,8 +30419,6 @@ physics.sciencestudy.biz.st CNAME .
 *.physics.sciencestudy.biz.st CNAME .
 dns.epic.st CNAME .
 *.dns.epic.st CNAME .
-www-fp.jkw.st CNAME .
-*.www-fp.jkw.st CNAME .
 seed.st CNAME .
 *.seed.st CNAME .
 dns.sy.st CNAME .
@@ -31509,8 +31491,6 @@ tycoonisthebest.freeddns.uk CNAME .
 *.tycoonisthebest.freeddns.uk CNAME .
 help.gayler.uk CNAME .
 *.help.gayler.uk CNAME .
-ghanau.uk CNAME .
-*.ghanau.uk CNAME .
 dns.goshawk22.uk CNAME .
 *.dns.goshawk22.uk CNAME .
 bigseal1.gu-natee.uk CNAME .

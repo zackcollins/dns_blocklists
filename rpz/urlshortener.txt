@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775235000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775291760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 16:50 UTC
-; Version: 2026.0403.1650.00
+; Last modified: 04 Apr 2026 08:36 UTC
+; Version: 2026.0404.0836.42
 ; Syntax: RPZ
-; Number of entries: 20152
+; Number of entries: 20146
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1731,8 +1731,6 @@ link.cc CNAME .
 *.link.cc CNAME .
 linkim.cc CNAME .
 *.linkim.cc CNAME .
-linkkkit.cc CNAME .
-*.linkkkit.cc CNAME .
 linklab.cc CNAME .
 *.linklab.cc CNAME .
 linky.cc CNAME .
@@ -3783,8 +3781,6 @@ bumpnt.com CNAME .
 *.bumpnt.com CNAME .
 ship.bunnycart.com CNAME .
 *.ship.bunnycart.com CNAME .
-buoydeparturediscontent.com CNAME .
-*.buoydeparturediscontent.com CNAME .
 burnurl.com CNAME .
 *.burnurl.com CNAME .
 buybitcoinsworldwide.com CNAME .
@@ -4623,6 +4619,8 @@ grgmr.com CNAME .
 *.grgmr.com CNAME .
 lnk.growflow.com CNAME .
 *.lnk.growflow.com CNAME .
+guelist.com CNAME .
+*.guelist.com CNAME .
 gyanilinks.com CNAME .
 *.gyanilinks.com CNAME .
 gyntekbusiness.com CNAME .
@@ -16145,8 +16143,6 @@ yulllu01.online CNAME .
 *.yulllu01.online CNAME .
 sah.ooo CNAME .
 *.sah.ooo CNAME .
-0penclick.org CNAME .
-*.0penclick.org CNAME .
 173ch1.org CNAME .
 *.173ch1.org CNAME .
 1ir.org CNAME .
@@ -19781,8 +19777,6 @@ tradie.wiki CNAME .
 *.tradie.wiki CNAME .
 w.wiki CNAME .
 *.w.wiki CNAME .
-0987.win CNAME .
-*.0987.win CNAME .
 agmd.win CNAME .
 *.agmd.win CNAME .
 akunvip.win CNAME .

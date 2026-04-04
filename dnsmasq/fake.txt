@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 17:07 UTC
-# Version: 2026.0403.1707.59
+# Last modified: 04 Apr 2026 08:34 UTC
+# Version: 2026.0404.0834.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14365
+# Number of entries: 14364
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -802,7 +802,6 @@ local=/astragroupholding.com/
 local=/astrahorizon.com/
 local=/astronomyh.com/
 local=/wombatscityhostelviennathelounge.at-austria.com/
-local=/at-gruppo24.com/
 local=/at-setrafimoney.org/
 local=/asfinag.at-shop.live/
 local=/atacadao-pneus.com/
@@ -2208,7 +2207,6 @@ local=/custom.changepool.xyz/
 local=/chansflavor.com/
 local=/chapterrest.store/
 local=/characterh.com/
-local=/charismatico.com/
 local=/charmdaily.com/
 local=/charmfay.com/
 local=/charmsvision.com/
@@ -6202,6 +6200,7 @@ local=/hot-pharm.com/
 local=/hot-recharging.com/
 local=/hotel-ds.com/
 local=/hotelaustralien.de/
+local=/hotelinphuket.net/
 local=/hotelladen.com/
 local=/hotels-colombo.com/
 local=/hotels-colorado.net/
@@ -9918,6 +9917,7 @@ local=/panda-financial.com/
 local=/pandabrokersvip.com/
 local=/pandaliebedeeu.shop/
 local=/pandora-at.at/
+local=/pandora-deutschland.de/
 local=/pandorade.de/
 local=/pandorakorut.com/
 local=/pandoraringsuk.com/
@@ -11358,7 +11358,6 @@ local=/sebagosaat.com/
 local=/sebagoschoenen.com/
 local=/sebagoshoesgreece.com/
 local=/sebagozapatos.com/
-local=/sebastian-stenzel.de/
 local=/secrettime.shop/
 local=/secureinvest.org/
 local=/securemed.shop/
@@ -11408,7 +11407,6 @@ local=/senvix.fr/
 local=/senzza.de/
 local=/separaten.com/
 local=/sepgoal.com/
-local=/sepkicks.com/
 local=/seprun.com/
 local=/serenadeutschland.de/
 local=/serendiplty.com/
@@ -12691,6 +12689,7 @@ local=/tikkischuhewien.at/
 local=/timber-land.de/
 local=/timberland-schweiz.com/
 local=/timberlandberlin.de/
+local=/timberlandde.de/
 local=/timberlandhelsinki.com/
 local=/timberlandsuomi.net/
 local=/timbuktours.de/

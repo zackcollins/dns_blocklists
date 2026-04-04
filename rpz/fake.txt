@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775236020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775291640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 17:07 UTC
-; Version: 2026.0403.1707.59
+; Last modified: 04 Apr 2026 08:34 UTC
+; Version: 2026.0404.0834.55
 ; Syntax: RPZ
-; Number of entries: 28730
+; Number of entries: 28728
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2628,8 +2628,6 @@ astronomyh.com CNAME .
 *.astronomyh.com CNAME .
 wombatscityhostelviennathelounge.at-austria.com CNAME .
 *.wombatscityhostelviennathelounge.at-austria.com CNAME .
-at-gruppo24.com CNAME .
-*.at-gruppo24.com CNAME .
 atacadao-pneus.com CNAME .
 *.atacadao-pneus.com CNAME .
 atdasjournal.com CNAME .
@@ -4338,8 +4336,6 @@ chansflavor.com CNAME .
 *.chansflavor.com CNAME .
 characterh.com CNAME .
 *.characterh.com CNAME .
-charismatico.com CNAME .
-*.charismatico.com CNAME .
 charmdaily.com CNAME .
 *.charmdaily.com CNAME .
 charmfay.com CNAME .
@@ -14548,8 +14544,6 @@ separaten.com CNAME .
 *.separaten.com CNAME .
 sepgoal.com CNAME .
 *.sepgoal.com CNAME .
-sepkicks.com CNAME .
-*.sepkicks.com CNAME .
 seprun.com CNAME .
 *.seprun.com CNAME .
 serendiplty.com CNAME .
@@ -22724,6 +22718,8 @@ panamajackdeutschland.de CNAME .
 *.panamajackdeutschland.de CNAME .
 panbrennholz.de CNAME .
 *.panbrennholz.de CNAME .
+pandora-deutschland.de CNAME .
+*.pandora-deutschland.de CNAME .
 pandorade.de CNAME .
 *.pandorade.de CNAME .
 panura.de CNAME .
@@ -23358,8 +23354,6 @@ seafancy.de CNAME .
 *.seafancy.de CNAME .
 seak-store.de CNAME .
 *.seak-store.de CNAME .
-sebastian-stenzel.de CNAME .
-*.sebastian-stenzel.de CNAME .
 sedore.de CNAME .
 *.sedore.de CNAME .
 seepalm.de CNAME .
@@ -23962,6 +23956,8 @@ timber-land.de CNAME .
 *.timber-land.de CNAME .
 timberlandberlin.de CNAME .
 *.timberlandberlin.de CNAME .
+timberlandde.de CNAME .
+*.timberlandde.de CNAME .
 timbuktours.de CNAME .
 *.timbuktours.de CNAME .
 timzin.de CNAME .
@@ -25710,6 +25706,8 @@ highlandshotels.net CNAME .
 *.highlandshotels.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
+hotelinphuket.net CNAME .
+*.hotelinphuket.net CNAME .
 hotels-colorado.net CNAME .
 *.hotels-colorado.net CNAME .
 hotelsofnewyorkcity.net CNAME .
