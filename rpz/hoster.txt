@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775238900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775381220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 17:55 UTC
-; Version: 2026.0403.1755.09
+; Last modified: 05 Apr 2026 09:27 UTC
+; Version: 2026.0405.0927.54
 ; Syntax: RPZ
-; Number of entries: 2444
+; Number of entries: 2432
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -104,8 +104,6 @@ atspace.biz CNAME .
 *.atspace.biz CNAME .
 awardspace.biz CNAME .
 *.awardspace.biz CNAME .
-banksurvey.biz CNAME .
-*.banksurvey.biz CNAME .
 boxmail.biz CNAME .
 *.boxmail.biz CNAME .
 coolpage.biz CNAME .
@@ -168,16 +166,8 @@ blogspot.cl CNAME .
 *.blogspot.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
-airground.club CNAME .
-*.airground.club CNAME .
-arabinn.club CNAME .
-*.arabinn.club CNAME .
 autoscolor.club CNAME .
 *.autoscolor.club CNAME .
-chatpc.club CNAME .
-*.chatpc.club CNAME .
-cityhotel.club CNAME .
-*.cityhotel.club CNAME .
 datingpm.club CNAME .
 *.datingpm.club CNAME .
 englishset.club CNAME .
@@ -2346,8 +2336,6 @@ welt.tl CNAME .
 *.welt.tl CNAME .
 land.to CNAME .
 *.land.to CNAME .
-africafull.top CNAME .
-*.africafull.top CNAME .
 artsold.top CNAME .
 *.artsold.top CNAME .
 datesize.top CNAME .

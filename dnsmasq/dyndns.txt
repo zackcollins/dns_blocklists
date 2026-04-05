@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 16:48 UTC
-# Version: 2026.0403.1648.05
+# Last modified: 05 Apr 2026 10:24 UTC
+# Version: 2026.0405.1024.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1480
+# Number of entries: 1479
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -201,7 +201,6 @@ local=/cloudns.ph/
 local=/cloudns.pro/
 local=/cloudwatch.net/
 local=/cloudxns.net/
-local=/cmirg.com/
 local=/cnstefancelmare.ro/
 local=/changeip.co.uk/
 local=/dynamicdns.co.uk/

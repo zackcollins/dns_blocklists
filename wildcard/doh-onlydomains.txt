@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Apr 2026 10:13 UTC
-# Version: 2026.0404.1013.40
+# Last modified: 05 Apr 2026 10:25 UTC
+# Version: 2026.0405.1025.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 3491
+# Number of entries: 3486
 #
 ss.0001.xyz
 003153.xyz
@@ -317,10 +317,7 @@ nilfheim.asguardian.de
 dns.ashleyjackson.net
 doh.asli.id
 dns.asterimoon.com
-amgr.asuscomm.com
 dandelionsprout.asuscomm.com
-himeko297.asuscomm.com
-xkariak.asuscomm.com
 dns.asysec.com
 oci02.at9.eu
 adguardhome.atakorah.com
@@ -339,7 +336,6 @@ europe-west.avastdns.com
 secure.avastdns.com
 adguard.avavd.ru
 vps.avc.cx
-adguard.avdkishore.dev
 axaxa.fun
 dnstx.axhy.cc
 axistechsupport.com
@@ -599,7 +595,6 @@ kirov.unicom.cloudns.be
 adguard.veanswart.cloudns.be
 zeusvps.cloudns.nz
 dns.cloudseriousshit.com
-dns-fr-psv1.cloudsides.com
 dns.cloudtrust.solutions
 ca.doh.cloudveil.org
 us.doh.cloudveil.org

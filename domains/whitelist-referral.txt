@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Apr 2026 08:21 UTC
-# Version: 2026.0404.0821.03
+# Last modified: 05 Apr 2026 08:25 UTC
+# Version: 2026.0405.0825.54
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2070
+# Number of entries: 2073
 #
 1-aclk.net
 1aurl.io
@@ -1069,6 +1069,7 @@ sites.hscoscdn-eu1.net
 143715022.sites.hscoscdn-eu1.net
 143821590.sites.hscoscdn-eu1.net
 143827149.sites.hscoscdn-eu1.net
+144395336.sites.hscoscdn-eu1.net
 144407123.sites.hscoscdn-eu1.net
 145369147.sites.hscoscdn-eu1.net
 24850323.sites.hscoscdn-eu1.net
@@ -1107,6 +1108,7 @@ group0.sites.hscoscdn-eu1.net
 143439914.group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
+144395336.group0.sites.hscoscdn-eu1.net
 145609858.group0.sites.hscoscdn-eu1.net
 145642586.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
@@ -1419,6 +1421,7 @@ mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550041.com
 mkto-ab550140.com
+mkto-ab550144.com
 mkto-ab550184.com
 mkto-ab560009.com
 mkto-ab560068.com

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Apr 2026 16:48 UTC
-! Version: 2026.0403.1648.05
+! Last modified: 05 Apr 2026 10:24 UTC
+! Version: 2026.0405.1024.55
 ! Syntax: AdBlock
-! Number of entries: 1480
+! Number of entries: 1479
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -202,7 +202,6 @@
 ||cloudns.pro^
 ||cloudwatch.net^
 ||cloudxns.net^
-||cmirg.com^
 ||cnstefancelmare.ro^
 ||changeip.co.uk^
 ||dynamicdns.co.uk^

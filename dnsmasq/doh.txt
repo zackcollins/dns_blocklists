@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Apr 2026 10:13 UTC
-# Version: 2026.0404.1013.40
+# Last modified: 05 Apr 2026 10:25 UTC
+# Version: 2026.0405.1025.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3491
+# Number of entries: 3486
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -317,10 +317,7 @@ local=/nilfheim.asguardian.de/
 local=/dns.ashleyjackson.net/
 local=/doh.asli.id/
 local=/dns.asterimoon.com/
-local=/amgr.asuscomm.com/
 local=/dandelionsprout.asuscomm.com/
-local=/himeko297.asuscomm.com/
-local=/xkariak.asuscomm.com/
 local=/dns.asysec.com/
 local=/oci02.at9.eu/
 local=/adguardhome.atakorah.com/
@@ -339,7 +336,6 @@ local=/europe-west.avastdns.com/
 local=/secure.avastdns.com/
 local=/adguard.avavd.ru/
 local=/vps.avc.cx/
-local=/adguard.avdkishore.dev/
 local=/axaxa.fun/
 local=/dnstx.axhy.cc/
 local=/axistechsupport.com/
@@ -599,7 +595,6 @@ local=/kirov.unicom.cloudns.be/
 local=/adguard.veanswart.cloudns.be/
 local=/zeusvps.cloudns.nz/
 local=/dns.cloudseriousshit.com/
-local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/

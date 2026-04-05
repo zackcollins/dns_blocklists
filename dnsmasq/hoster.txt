@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 17:55 UTC
-# Version: 2026.0403.1755.09
+# Last modified: 05 Apr 2026 09:27 UTC
+# Version: 2026.0405.0927.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1222
+# Number of entries: 1216
 #
 local=/000a.de/
 local=/000space.com/
@@ -150,10 +150,8 @@ local=/abwechslungsreiches.de/
 local=/ac6.de/
 local=/admarketlocation.com/
 local=/aeza.network/
-local=/africafull.top/
 local=/ag.gp/
 local=/ahlamountada.com/
-local=/airground.club/
 local=/al6.de/
 local=/all.lc/
 local=/allemal.de/
@@ -169,7 +167,6 @@ local=/angelfire.com/
 local=/anschauen.in/
 local=/anschiessen.de/
 local=/ar.gp/
-local=/arabinn.club/
 local=/arcadepages.com/
 local=/arrangiert.de/
 local=/artsold.top/
@@ -195,7 +192,6 @@ local=/b2b.lc/
 local=/bakoweb.com/
 local=/ballern.de/
 local=/bandungberita.com/
-local=/banksurvey.biz/
 local=/bappy.com/
 local=/batcave.net/
 local=/bcz.com/
@@ -344,10 +340,8 @@ local=/ch2.eu/
 local=/chamberecommerce.com/
 local=/chat.dj/
 local=/chat3.de/
-local=/chatpc.club/
 local=/chez.com/
 local=/city.tl/
-local=/cityhotel.club/
 local=/cixx6.com/
 local=/ciy.de/
 local=/cl.gp/

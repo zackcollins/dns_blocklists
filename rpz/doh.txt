@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775297580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775384700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Apr 2026 10:13 UTC
-; Version: 2026.0404.1013.40
+; Last modified: 05 Apr 2026 10:25 UTC
+; Version: 2026.0405.1025.25
 ; Syntax: RPZ
-; Number of entries: 6982
+; Number of entries: 6972
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -713,14 +713,8 @@ dns.arkbotech.com CNAME .
 *.dns.arkbotech.com CNAME .
 dns.asterimoon.com CNAME .
 *.dns.asterimoon.com CNAME .
-amgr.asuscomm.com CNAME .
-*.amgr.asuscomm.com CNAME .
 dandelionsprout.asuscomm.com CNAME .
 *.dandelionsprout.asuscomm.com CNAME .
-himeko297.asuscomm.com CNAME .
-*.himeko297.asuscomm.com CNAME .
-xkariak.asuscomm.com CNAME .
-*.xkariak.asuscomm.com CNAME .
 dns.asysec.com CNAME .
 *.dns.asysec.com CNAME .
 adguardhome.atakorah.com CNAME .
@@ -887,8 +881,6 @@ cloudflareresolve.com CNAME .
 *.cloudflareresolve.com CNAME .
 dns.cloudseriousshit.com CNAME .
 *.dns.cloudseriousshit.com CNAME .
-dns-fr-psv1.cloudsides.com CNAME .
-*.dns-fr-psv1.cloudsides.com CNAME .
 adguard.cnbeining.com CNAME .
 *.adguard.cnbeining.com CNAME .
 ag.coco-tama-hoiku.com CNAME .
@@ -2309,8 +2301,6 @@ adguard01.zitronen-server.de CNAME .
 *.0ms.dev CNAME .
 dns.applewebkit.dev CNAME .
 *.dns.applewebkit.dev CNAME .
-adguard.avdkishore.dev CNAME .
-*.adguard.avdkishore.dev CNAME .
 home.azagra.dev CNAME .
 *.home.azagra.dev CNAME .
 dns.azcom.dev CNAME .

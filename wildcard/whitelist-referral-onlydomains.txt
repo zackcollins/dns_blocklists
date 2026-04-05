@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Apr 2026 08:21 UTC
-# Version: 2026.0404.0821.03
+# Last modified: 05 Apr 2026 08:25 UTC
+# Version: 2026.0405.0825.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 1481
+# Number of entries: 1482
 #
 1-aclk.net
 1aurl.io
@@ -859,6 +859,7 @@ mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550041.com
 mkto-ab550140.com
+mkto-ab550144.com
 mkto-ab550184.com
 mkto-ab560009.com
 mkto-ab560068.com
