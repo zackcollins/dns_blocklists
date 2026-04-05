@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775378460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775421780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Apr 2026 08:41 UTC
-; Version: 2026.0405.0841.51
+; Last modified: 05 Apr 2026 20:43 UTC
+; Version: 2026.0405.2043.35
 ; Syntax: RPZ
-; Number of entries: 20112
+; Number of entries: 20104
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -763,8 +763,6 @@ b0t.at CNAME .
 *.b0t.at CNAME .
 ckbe.at CNAME .
 *.ckbe.at CNAME .
-digitize-umfrage.at CNAME .
-*.digitize-umfrage.at CNAME .
 link.dstrct.at CNAME .
 *.link.dstrct.at CNAME .
 find.at CNAME .
@@ -1375,8 +1373,6 @@ deli.bz CNAME .
 *.deli.bz CNAME .
 dky.bz CNAME .
 *.dky.bz CNAME .
-dld.bz CNAME .
-*.dld.bz CNAME .
 egw.bz CNAME .
 *.egw.bz CNAME .
 egy.bz CNAME .
@@ -4087,8 +4083,6 @@ dbatsch.com CNAME .
 *.dbatsch.com CNAME .
 dbolc.com CNAME .
 *.dbolc.com CNAME .
-dbolink.com CNAME .
-*.dbolink.com CNAME .
 go.dbs.com CNAME .
 *.go.dbs.com CNAME .
 de2wa.com CNAME .
@@ -17701,8 +17695,6 @@ yau.sh CNAME .
 *.4l.shop CNAME .
 djarum88.shop CNAME .
 *.djarum88.shop CNAME .
-eapk.shop CNAME .
-*.eapk.shop CNAME .
 funnel2income.shop CNAME .
 *.funnel2income.shop CNAME .
 imo-call.shop CNAME .

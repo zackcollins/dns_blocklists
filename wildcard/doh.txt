@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 10:25 UTC
-# Version: 2026.0405.1025.25
+# Last modified: 05 Apr 2026 22:26 UTC
+# Version: 2026.0405.2226.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3486
+# Number of entries: 3484
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -725,7 +725,6 @@
 *.cryptroute.com
 *.ae-agh1.dns.cryptroute.net
 *.dns.crystalyx.net
-*.dns.csa-rz.de
 *.dns.csaonline.de
 *.a5135324.csie.io
 *.dns.csswg.org
@@ -900,7 +899,6 @@
 *.dns2.dns-ga.de
 *.dns3.dns-ga.de
 *.doh.dns-ga.de
-*.secure-dns.dns-ga.de
 *.dns.dns-heimdall.com
 *.dns.dns-over-https.com
 *.i.dns-over-https.tk

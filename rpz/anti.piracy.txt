@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775384280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775427540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Apr 2026 10:18 UTC
-; Version: 2026.0405.1018.02
+; Last modified: 05 Apr 2026 22:19 UTC
+; Version: 2026.0405.2219.57
 ; Syntax: RPZ
-; Number of entries: 24558
+; Number of entries: 24524
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1262,8 +1262,6 @@ cineblog001.buzz CNAME .
 *.cineblog001.buzz CNAME .
 crichd.buzz CNAME .
 *.crichd.buzz CNAME .
-doodstream.buzz CNAME .
-*.doodstream.buzz CNAME .
 eurostreamings.buzz CNAME .
 *.eurostreamings.buzz CNAME .
 hdmovie2.buzz CNAME .
@@ -2006,14 +2004,10 @@ open-tracker.demonoid.ch CNAME .
 *.open-tracker.demonoid.ch CNAME .
 open-v6.demonoid.ch CNAME .
 *.open-v6.demonoid.ch CNAME .
-public.demonoid.ch CNAME .
-*.public.demonoid.ch CNAME .
 extratorrents.ch CNAME .
 *.extratorrents.ch CNAME .
 eztv.ch CNAME .
 *.eztv.ch CNAME .
-filmstreaming.ch CNAME .
-*.filmstreaming.ch CNAME .
 flixtor.ch CNAME .
 *.flixtor.ch CNAME .
 goojara.ch CNAME .
@@ -4682,8 +4676,6 @@ fantasyanime.com CNAME .
 *.fantasyanime.com CNAME .
 faragski.com CNAME .
 *.faragski.com CNAME .
-fastdebrid.com CNAME .
-*.fastdebrid.com CNAME .
 fastvid.com CNAME .
 *.fastvid.com CNAME .
 fatcatapk.com CNAME .
@@ -9180,8 +9172,6 @@ comick.dev CNAME .
 *.comick.dev CNAME .
 crackstreams.dev CNAME .
 *.crackstreams.dev CNAME .
-dood.dev CNAME .
-*.dood.dev CNAME .
 doodstream.dev CNAME .
 *.doodstream.dev CNAME .
 ftuapps.dev CNAME .
@@ -10430,8 +10420,6 @@ annas-archive.gs CNAME .
 *.3ds.hacks.guide CNAME .
 piracy.guide CNAME .
 *.piracy.guide CNAME .
-dood.guru CNAME .
-*.dood.guru CNAME .
 hdmovie2.guru CNAME .
 *.hdmovie2.guru CNAME .
 lookmovie.guru CNAME .
@@ -12896,8 +12884,6 @@ desirulez.me CNAME .
 *.desirulez.me CNAME .
 desuwa.me CNAME .
 *.desuwa.me CNAME .
-directatvhd.me CNAME .
-*.directatvhd.me CNAME .
 divxhunt.me CNAME .
 *.divxhunt.me CNAME .
 dramaday.me CNAME .
@@ -13386,8 +13372,6 @@ tracker.cangku.moe CNAME .
 *.tracker.cangku.moe CNAME .
 cross.moe CNAME .
 *.cross.moe CNAME .
-tracker.doko.moe CNAME .
-*.tracker.doko.moe CNAME .
 lucke.fenesisu.moe CNAME .
 *.lucke.fenesisu.moe CNAME .
 git.fuwafuwa.moe CNAME .
@@ -15636,8 +15620,6 @@ altadefinizione.network CNAME .
 *.altadefinizione.network CNAME .
 cb01.network CNAME .
 *.cb01.network CNAME .
-eurostreaming.network CNAME .
-*.eurostreaming.network CNAME .
 filmapik.network CNAME .
 *.filmapik.network CNAME .
 hdmovie2.network CNAME .
@@ -15954,8 +15936,6 @@ cineblog001.onl CNAME .
 *.cineblog001.onl CNAME .
 dizimag.onl CNAME .
 *.dizimag.onl CNAME .
-dood.onl CNAME .
-*.dood.onl CNAME .
 egydead.onl CNAME .
 *.egydead.onl CNAME .
 guardaserie.onl CNAME .
@@ -16066,8 +16046,6 @@ dldokan.online CNAME .
 *.dldokan.online CNAME .
 doceru.online CNAME .
 *.doceru.online CNAME .
-dramaqu.online CNAME .
-*.dramaqu.online CNAME .
 espnv2.online CNAME .
 *.espnv2.online CNAME .
 ettv.online CNAME .
@@ -16690,8 +16668,6 @@ downloadmart.org CNAME .
 *.downloadmart.org CNAME .
 downloadspace.org CNAME .
 *.downloadspace.org CNAME .
-downloadsvia.org CNAME .
-*.downloadsvia.org CNAME .
 downloadteam.org CNAME .
 *.downloadteam.org CNAME .
 downloadtop.org CNAME .
@@ -16838,8 +16814,6 @@ filmfans.org CNAME .
 *.filmfans.org CNAME .
 filmisland.org CNAME .
 *.filmisland.org CNAME .
-filmpertutti.org CNAME .
-*.filmpertutti.org CNAME .
 filmplay.org CNAME .
 *.filmplay.org CNAME .
 filmstreaming.org CNAME .
@@ -18072,8 +18046,6 @@ streamingcommunity.ovh CNAME .
 *.streamingcommunity.ovh CNAME .
 streamingcommunityz.ovh CNAME .
 *.streamingcommunityz.ovh CNAME .
-dood.page CNAME .
-*.dood.page CNAME .
 filmoflix.page CNAME .
 *.filmoflix.page CNAME .
 filmstreaming.page CNAME .
@@ -19126,8 +19098,6 @@ dpstream.rip CNAME .
 *.dpstream.rip CNAME .
 filmstreaming.rip CNAME .
 *.filmstreaming.rip CNAME .
-filmze.rip CNAME .
-*.filmze.rip CNAME .
 fishtank.rip CNAME .
 *.fishtank.rip CNAME .
 fullstream.rip CNAME .
@@ -21314,8 +21284,6 @@ d123movies.to CNAME .
 *.d123movies.to CNAME .
 darklight.to CNAME .
 *.darklight.to CNAME .
-darksite.to CNAME .
-*.darksite.to CNAME .
 ddl.to CNAME .
 *.ddl.to CNAME .
 ddl-warez.to CNAME .
@@ -23426,8 +23394,6 @@ vegamovies.voto CNAME .
 *.vegamovies.voto CNAME .
 wiflix.voto CNAME .
 *.wiflix.voto CNAME .
-eurostreaming.voyage CNAME .
-*.eurostreaming.voyage CNAME .
 hdmovie2.voyage CNAME .
 *.hdmovie2.voyage CNAME .
 vegamovies.voyage CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 09:27 UTC
-# Version: 2026.0405.0927.54
+# Last modified: 05 Apr 2026 21:28 UTC
+# Version: 2026.0405.2128.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1216
+# Number of entries: 1213
 #
 local=/000a.de/
 local=/000space.com/
@@ -430,7 +430,6 @@ local=/da.cx/
 local=/da.ru/
 local=/daftpage.com/
 local=/datesize.top/
-local=/datingpm.club/
 local=/dax.ru/
 local=/ddl2.pl/
 local=/de.cm/
@@ -449,7 +448,6 @@ local=/digitalzones.com/
 local=/dimsolo.com/
 local=/dinamikajambi.com/
 local=/dnip.net/
-local=/doctorfew.top/
 local=/domain.lc/
 local=/members.domaindlx.com/
 local=/doodlekit.com/
@@ -488,7 +486,6 @@ local=/eklablog.fr/
 local=/elementfx.com/
 local=/emyspot.com/
 local=/english.lc/
-local=/englishset.club/
 local=/entekpartners.com/
 local=/enterprisedeliveries.com/
 local=/envy.nu/

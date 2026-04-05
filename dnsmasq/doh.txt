@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 10:25 UTC
-# Version: 2026.0405.1025.25
+# Last modified: 05 Apr 2026 22:26 UTC
+# Version: 2026.0405.2226.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3486
+# Number of entries: 3484
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -725,7 +725,6 @@ local=/cryptostorm.is/
 local=/cryptroute.com/
 local=/ae-agh1.dns.cryptroute.net/
 local=/dns.crystalyx.net/
-local=/dns.csa-rz.de/
 local=/dns.csaonline.de/
 local=/a5135324.csie.io/
 local=/dns.csswg.org/
@@ -900,7 +899,6 @@ local=/dns1.dns-ga.de/
 local=/dns2.dns-ga.de/
 local=/dns3.dns-ga.de/
 local=/doh.dns-ga.de/
-local=/secure-dns.dns-ga.de/
 local=/dns.dns-heimdall.com/
 local=/dns.dns-over-https.com/
 local=/i.dns-over-https.tk/

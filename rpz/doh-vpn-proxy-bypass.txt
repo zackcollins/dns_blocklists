@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775384760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775428020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Apr 2026 10:26 UTC
-; Version: 2026.0405.1026.15
+; Last modified: 05 Apr 2026 22:27 UTC
+; Version: 2026.0405.2227.31
 ; Syntax: RPZ
-; Number of entries: 34538
+; Number of entries: 34388
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -543,8 +543,6 @@ dogebynirb.winkel.com.ar CNAME .
 *.dogebynirb.winkel.com.ar CNAME .
 pleasedontblockthissevnlaks.computacionsur.ar CNAME .
 *.pleasedontblockthissevnlaks.computacionsur.ar CNAME .
-burger.elgalponero.ar CNAME .
-*.burger.elgalponero.ar CNAME .
 bu-saeed.feversani.ar CNAME .
 *.bu-saeed.feversani.ar CNAME .
 boiiituff.handle.ar CNAME .
@@ -593,10 +591,6 @@ hehehegnmath.dns.army CNAME .
 *.hehehegnmath.dns.army CNAME .
 homec92.dns.army CNAME .
 *.homec92.dns.army CNAME .
-jolly1.dns.army CNAME .
-*.jolly1.dns.army CNAME .
-moremore.dns.army CNAME .
-*.moremore.dns.army CNAME .
 wolf-zone.dns.army CNAME .
 *.wolf-zone.dns.army CNAME .
 fancy.v6.army CNAME .
@@ -2187,8 +2181,6 @@ statpadderbron.chikiyan.cl CNAME .
 *.statpadderbron.chikiyan.cl CNAME .
 mathlessons.conifera.cl CNAME .
 *.mathlessons.conifera.cl CNAME .
-fern.conyser.cl CNAME .
-*.fern.conyser.cl CNAME .
 bran.covalpo.cl CNAME .
 *.bran.covalpo.cl CNAME .
 joinpd.ctx.cl CNAME .
@@ -2203,8 +2195,6 @@ te.decolores.cl CNAME .
 *.67hub.decoro.cl CNAME .
 scientific.decoro.cl CNAME .
 *.scientific.decoro.cl CNAME .
-globaleducation.eduinnova.cl CNAME .
-*.globaleducation.eduinnova.cl CNAME .
 ayosuproman.elmvp.cl CNAME .
 *.ayosuproman.elmvp.cl CNAME .
 bunt.elmvp.cl CNAME .
@@ -6501,8 +6491,6 @@ dgloong.com CNAME .
 *.dgloong.com CNAME .
 dgy02.com CNAME .
 *.dgy02.com CNAME .
-dgy2025.com CNAME .
-*.dgy2025.com CNAME .
 dgywzc.com CNAME .
 *.dgywzc.com CNAME .
 dialertoserver.com CNAME .
@@ -6547,8 +6535,6 @@ xcveshjkdfsedfsew.jhwkejrd.dingsheng-yule.com CNAME .
 *.xcveshjkdfsedfsew.jhwkejrd.dingsheng-yule.com CNAME .
 xcvskljfesdfe.sjklidsfewrf.dingsheng-yule.com CNAME .
 *.xcvskljfesdfe.sjklidsfewrf.dingsheng-yule.com CNAME .
-support.dingsheng-yule.com CNAME .
-*.support.dingsheng-yule.com CNAME .
 wxckjhfsdkfjl.wikljsxcdfs.dingsheng-yule.com CNAME .
 *.wxckjhfsdkfjl.wikljsxcdfs.dingsheng-yule.com CNAME .
 wkldjfs.wlkdlf.dingsheng-yule.com CNAME .
@@ -6737,8 +6723,6 @@ dohaiou.com CNAME .
 *.dohaiou.com CNAME .
 dohaishen.com CNAME .
 *.dohaishen.com CNAME .
-dohammer.com CNAME .
-*.dohammer.com CNAME .
 doheibao.com CNAME .
 *.doheibao.com CNAME .
 doheidong.com CNAME .
@@ -6807,8 +6791,6 @@ doonion.com CNAME .
 *.doonion.com CNAME .
 doorcar92.com CNAME .
 *.doorcar92.com CNAME .
-doorkey82.com CNAME .
-*.doorkey82.com CNAME .
 doorphone92.com CNAME .
 *.doorphone92.com CNAME .
 doproapp.com CNAME .
@@ -6931,8 +6913,6 @@ dreamoblige.com CNAME .
 *.dreamoblige.com CNAME .
 dressnano.com CNAME .
 *.dressnano.com CNAME .
-www-webprxsvc.drewcotech.com CNAME .
-*.www-webprxsvc.drewcotech.com CNAME .
 drinksnucleus.com CNAME .
 *.drinksnucleus.com CNAME .
 droidvpn.com CNAME .
@@ -16491,8 +16471,6 @@ unblock-proxy.com.de CNAME .
 *.unblock-proxy.com.de CNAME .
 adguard.crestfallen.de CNAME .
 *.adguard.crestfallen.de CNAME .
-dns.csa-rz.de CNAME .
-*.dns.csa-rz.de CNAME .
 dns.csaonline.de CNAME .
 *.dns.csaonline.de CNAME .
 cuckepiso.de CNAME .
@@ -16525,8 +16503,6 @@ dns3.dns-ga.de CNAME .
 *.dns3.dns-ga.de CNAME .
 doh.dns-ga.de CNAME .
 *.doh.dns-ga.de CNAME .
-secure-dns.dns-ga.de CNAME .
-*.secure-dns.dns-ga.de CNAME .
 adguard-koe.dns64.de CNAME .
 *.adguard-koe.dns64.de CNAME .
 aroeuyo.dns64.de CNAME .
@@ -19325,116 +19301,6 @@ frank-web.dedyn.io CNAME .
 *.frank-web.dedyn.io CNAME .
 k03.dedyn.io CNAME .
 *.k03.dedyn.io CNAME .
-adharma.lesec.dedyn.io CNAME .
-*.adharma.lesec.dedyn.io CNAME .
-advancement.lesec.dedyn.io CNAME .
-*.advancement.lesec.dedyn.io CNAME .
-aerophilately.lesec.dedyn.io CNAME .
-*.aerophilately.lesec.dedyn.io CNAME .
-avocado.lesec.dedyn.io CNAME .
-*.avocado.lesec.dedyn.io CNAME .
-barton.lesec.dedyn.io CNAME .
-*.barton.lesec.dedyn.io CNAME .
-bracciale.lesec.dedyn.io CNAME .
-*.bracciale.lesec.dedyn.io CNAME .
-brachiferous.lesec.dedyn.io CNAME .
-*.brachiferous.lesec.dedyn.io CNAME .
-carpet.lesec.dedyn.io CNAME .
-*.carpet.lesec.dedyn.io CNAME .
-cosmichorror.lesec.dedyn.io CNAME .
-*.cosmichorror.lesec.dedyn.io CNAME .
-dagger.lesec.dedyn.io CNAME .
-*.dagger.lesec.dedyn.io CNAME .
-demesne.lesec.dedyn.io CNAME .
-*.demesne.lesec.dedyn.io CNAME .
-demotion.lesec.dedyn.io CNAME .
-*.demotion.lesec.dedyn.io CNAME .
-dendrolatry.lesec.dedyn.io CNAME .
-*.dendrolatry.lesec.dedyn.io CNAME .
-dexterity.lesec.dedyn.io CNAME .
-*.dexterity.lesec.dedyn.io CNAME .
-dispatch.lesec.dedyn.io CNAME .
-*.dispatch.lesec.dedyn.io CNAME .
-endurance.lesec.dedyn.io CNAME .
-*.endurance.lesec.dedyn.io CNAME .
-excellence.lesec.dedyn.io CNAME .
-*.excellence.lesec.dedyn.io CNAME .
-exopathic.lesec.dedyn.io CNAME .
-*.exopathic.lesec.dedyn.io CNAME .
-fanal.lesec.dedyn.io CNAME .
-*.fanal.lesec.dedyn.io CNAME .
-fitness.lesec.dedyn.io CNAME .
-*.fitness.lesec.dedyn.io CNAME .
-fullmoon.lesec.dedyn.io CNAME .
-*.fullmoon.lesec.dedyn.io CNAME .
-grosgrain.lesec.dedyn.io CNAME .
-*.grosgrain.lesec.dedyn.io CNAME .
-grumous.lesec.dedyn.io CNAME .
-*.grumous.lesec.dedyn.io CNAME .
-heterarchy.lesec.dedyn.io CNAME .
-*.heterarchy.lesec.dedyn.io CNAME .
-jabberwock.lesec.dedyn.io CNAME .
-*.jabberwock.lesec.dedyn.io CNAME .
-katathermometer.lesec.dedyn.io CNAME .
-*.katathermometer.lesec.dedyn.io CNAME .
-knife.lesec.dedyn.io CNAME .
-*.knife.lesec.dedyn.io CNAME .
-kyle.lesec.dedyn.io CNAME .
-*.kyle.lesec.dedyn.io CNAME .
-lampad.lesec.dedyn.io CNAME .
-*.lampad.lesec.dedyn.io CNAME .
-layering.lesec.dedyn.io CNAME .
-*.layering.lesec.dedyn.io CNAME .
-leader.lesec.dedyn.io CNAME .
-*.leader.lesec.dedyn.io CNAME .
-matroclinic.lesec.dedyn.io CNAME .
-*.matroclinic.lesec.dedyn.io CNAME .
-model.lesec.dedyn.io CNAME .
-*.model.lesec.dedyn.io CNAME .
-nomography.lesec.dedyn.io CNAME .
-*.nomography.lesec.dedyn.io CNAME .
-onion.lesec.dedyn.io CNAME .
-*.onion.lesec.dedyn.io CNAME .
-overhaile.lesec.dedyn.io CNAME .
-*.overhaile.lesec.dedyn.io CNAME .
-participate.lesec.dedyn.io CNAME .
-*.participate.lesec.dedyn.io CNAME .
-polygoneutic.lesec.dedyn.io CNAME .
-*.polygoneutic.lesec.dedyn.io CNAME .
-poundcake.lesec.dedyn.io CNAME .
-*.poundcake.lesec.dedyn.io CNAME .
-pull.lesec.dedyn.io CNAME .
-*.pull.lesec.dedyn.io CNAME .
-redwave.lesec.dedyn.io CNAME .
-*.redwave.lesec.dedyn.io CNAME .
-resource.lesec.dedyn.io CNAME .
-*.resource.lesec.dedyn.io CNAME .
-strength.lesec.dedyn.io CNAME .
-*.strength.lesec.dedyn.io CNAME .
-thetic.lesec.dedyn.io CNAME .
-*.thetic.lesec.dedyn.io CNAME .
-tup.lesec.dedyn.io CNAME .
-*.tup.lesec.dedyn.io CNAME .
-usance.lesec.dedyn.io CNAME .
-*.usance.lesec.dedyn.io CNAME .
-vigor.lesec.dedyn.io CNAME .
-*.vigor.lesec.dedyn.io CNAME .
-vinous.lesec.dedyn.io CNAME .
-*.vinous.lesec.dedyn.io CNAME .
-wellness.lesec.dedyn.io CNAME .
-*.wellness.lesec.dedyn.io CNAME .
-windthrow.lesec.dedyn.io CNAME .
-*.windthrow.lesec.dedyn.io CNAME .
-windup.lesec.dedyn.io CNAME .
-*.windup.lesec.dedyn.io CNAME .
-xerasia.lesec.dedyn.io CNAME .
-*.xerasia.lesec.dedyn.io CNAME .
-zaftif.lesec.dedyn.io CNAME .
-*.zaftif.lesec.dedyn.io CNAME .
-zoodikers.lesec.dedyn.io CNAME .
-*.zoodikers.lesec.dedyn.io CNAME .
-zule.lesec.dedyn.io CNAME .
-*.zule.lesec.dedyn.io CNAME .
 dns.skous.dedyn.io CNAME .
 *.dns.skous.dedyn.io CNAME .
 unraid.dedyn.io CNAME .
@@ -20681,8 +20547,6 @@ resolve.corpa.me CNAME .
 *.resolve.corpa.me CNAME .
 cristianocosta.me CNAME .
 *.cristianocosta.me CNAME .
-crossorigin.me CNAME .
-*.crossorigin.me CNAME .
 mydns.ddns.me CNAME .
 *.mydns.ddns.me CNAME .
 dns.dekedin.me CNAME .
@@ -25981,8 +25845,6 @@ cmzfpr3wcsq2siws.online CNAME .
 *.cmzfpr3wcsq2siws.online CNAME .
 croxproxy.online CNAME .
 *.croxproxy.online CNAME .
-cxddh14b.online CNAME .
-*.cxddh14b.online CNAME .
 vm.delfini.online CNAME .
 *.vm.delfini.online CNAME .
 deqyutix.online CNAME .
@@ -29049,8 +28911,6 @@ doh.datt.pw CNAME .
 *.doh.datt.pw CNAME .
 xn--28j2a3ar1p.died.pw CNAME .
 *.xn--28j2a3ar1p.died.pw CNAME .
-maths.ds6.pw CNAME .
-*.maths.ds6.pw CNAME .
 erwan59.pw CNAME .
 *.erwan59.pw CNAME .
 proxy.eti.pw CNAME .
@@ -29383,8 +29243,6 @@ croxy.rocks CNAME .
 *.croxy.rocks CNAME .
 croxyproxy.rocks CNAME .
 *.croxyproxy.rocks CNAME .
-rh4.ext.rocks CNAME .
-*.rh4.ext.rocks CNAME .
 glados.rocks CNAME .
 *.glados.rocks CNAME .
 ixl.rocks CNAME .
@@ -30735,8 +30593,6 @@ rivrs.shop CNAME .
 *.rivrs.shop CNAME .
 secure-proxy.shop CNAME .
 *.secure-proxy.shop CNAME .
-shieldify2.shop CNAME .
-*.shieldify2.shop CNAME .
 taarique.shop CNAME .
 *.taarique.shop CNAME .
 tianhang.shop CNAME .
@@ -30841,12 +30697,8 @@ eq.dawuiiwauidwahyuiwahuioqwd.site CNAME .
 *.eq.dawuiiwauidwahyuiwahuioqwd.site CNAME .
 science.dawuiiwauidwahyuiwahuioqwd.site CNAME .
 *.science.dawuiiwauidwahyuiwahuioqwd.site CNAME .
-dnsudp.site CNAME .
-*.dnsudp.site CNAME .
 easier.site CNAME .
 *.easier.site CNAME .
-ended.site CNAME .
-*.ended.site CNAME .
 fimoshinckaya-federation.site CNAME .
 *.fimoshinckaya-federation.site CNAME .
 firstcontact.site CNAME .
@@ -31095,8 +30947,6 @@ edpuzzle.space CNAME .
 *.edpuzzle.space CNAME .
 educationate.space CNAME .
 *.educationate.space CNAME .
-official.edupool.space CNAME .
-*.official.edupool.space CNAME .
 excavationdash.space CNAME .
 *.excavationdash.space CNAME .
 exemptpaint.space CNAME .

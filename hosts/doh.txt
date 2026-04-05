@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 10:25 UTC
-# Version: 2026.0405.1025.25
+# Last modified: 05 Apr 2026 22:26 UTC
+# Version: 2026.0405.2226.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3945
+# Number of entries: 3943
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -869,7 +869,6 @@
 0.0.0.0 dns-guard2.cryptroute.com
 0.0.0.0 dotdns.cryptroute.com
 0.0.0.0 dns.crystalyx.net
-0.0.0.0 dns.csa-rz.de
 0.0.0.0 dns.csaonline.de
 0.0.0.0 a5135324.csie.io
 0.0.0.0 dns.csswg.org
@@ -1066,7 +1065,6 @@
 0.0.0.0 dns2.dns-ga.de
 0.0.0.0 dns3.dns-ga.de
 0.0.0.0 doh.dns-ga.de
-0.0.0.0 secure-dns.dns-ga.de
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk
