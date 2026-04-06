@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775421780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775467260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Apr 2026 20:43 UTC
-; Version: 2026.0405.2043.35
+; Last modified: 06 Apr 2026 09:21 UTC
+; Version: 2026.0406.0921.59
 ; Syntax: RPZ
-; Number of entries: 20104
+; Number of entries: 20088
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1053,12 +1053,8 @@ elinks.bio CNAME .
 *.elinks.bio CNAME .
 exi.bio CNAME .
 *.exi.bio CNAME .
-followmy.bio CNAME .
-*.followmy.bio CNAME .
 gera.bio CNAME .
 *.gera.bio CNAME .
-give.bio CNAME .
-*.give.bio CNAME .
 golink.bio CNAME .
 *.golink.bio CNAME .
 hmd.bio CNAME .
@@ -3765,8 +3761,6 @@ bumpnt.com CNAME .
 *.bumpnt.com CNAME .
 ship.bunnycart.com CNAME .
 *.ship.bunnycart.com CNAME .
-buoydeparturediscontent.com CNAME .
-*.buoydeparturediscontent.com CNAME .
 burnurl.com CNAME .
 *.burnurl.com CNAME .
 buybitcoinsworldwide.com CNAME .
@@ -4561,8 +4555,6 @@ goo2url.com CNAME .
 *.goo2url.com CNAME .
 goodwinlink.com CNAME .
 *.goodwinlink.com CNAME .
-google-139382.com CNAME .
-*.google-139382.com CNAME .
 google-url.com CNAME .
 *.google-url.com CNAME .
 goolnk.com CNAME .
@@ -4573,8 +4565,6 @@ goqrgen.com CNAME .
 *.goqrgen.com CNAME .
 goshopurl.com CNAME .
 *.goshopurl.com CNAME .
-goshrink.com CNAME .
-*.goshrink.com CNAME .
 gosniply.com CNAME .
 *.gosniply.com CNAME .
 gotolinko.com CNAME .
@@ -8757,8 +8747,6 @@ hepsipay.eu CNAME .
 *.hepsipay.eu CNAME .
 url.hilberg.eu CNAME .
 *.url.hilberg.eu CNAME .
-hstx.eu CNAME .
-*.hstx.eu CNAME .
 bit.ignifi.eu CNAME .
 *.bit.ignifi.eu CNAME .
 ingnm.eu CNAME .
@@ -13685,8 +13673,6 @@ gods.ly CNAME .
 *.gods.ly CNAME .
 herff.ly CNAME .
 *.herff.ly CNAME .
-ht.ly CNAME .
-*.ht.ly CNAME .
 hubs.ly CNAME .
 *.hubs.ly CNAME .
 ibit.ly CNAME .
@@ -17697,8 +17683,6 @@ djarum88.shop CNAME .
 *.djarum88.shop CNAME .
 funnel2income.shop CNAME .
 *.funnel2income.shop CNAME .
-imo-call.shop CNAME .
-*.imo-call.shop CNAME .
 indahnyaberbagi.shop CNAME .
 *.indahnyaberbagi.shop CNAME .
 l9po.shop CNAME .

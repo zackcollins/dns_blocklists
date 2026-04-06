@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 21:28 UTC
-# Version: 2026.0405.2128.35
+# Last modified: 06 Apr 2026 10:05 UTC
+# Version: 2026.0406.1005.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1213
+# Number of entries: 1210
 #
 local=/000a.de/
 local=/000space.com/
@@ -594,7 +594,6 @@ local=/fw.bz/
 local=/fw.hu/
 local=/game.lc/
 local=/gaming.lc/
-local=/gamingadd.club/
 local=/gearhostpreview.com/
 local=/gerentebr.com/
 local=/getenjoyment.net/
@@ -606,7 +605,6 @@ local=/girlsense.com/
 local=/glitch.me/
 local=/sp.gname.net/
 local=/godaddysites.com/
-local=/godfrance.club/
 local=/gofreeserve.com/
 local=/googletagmanagers.com/
 local=/gr.gp/
@@ -630,7 +628,6 @@ local=/hexe.in/
 local=/hilfe24h.de/
 local=/hinerava.com/
 local=/hkearth.xyz/
-local=/hklevel.club/
 local=/home.lc/
 local=/homemarker.com/
 local=/homepage.cx/

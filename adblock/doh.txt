@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Apr 2026 22:26 UTC
-! Version: 2026.0405.2226.43
+! Last modified: 06 Apr 2026 11:03 UTC
+! Version: 2026.0406.1103.08
 ! Syntax: AdBlock
-! Number of entries: 3484
+! Number of entries: 3479
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1447,12 +1447,10 @@
 ||zuk.freemyip.com^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
-||dns.friezer.eu^
 ||frkn.frkn.cloud^
 ||ivica-vulas.from.hr^
 ||dns.froth.zone^
 ||dns.fsociety.club^
-||dns.fsociety.red^
 ||ychk.ft1991.top^
 ||ablock.fuckit.ovh^
 ||dns.fulgore.fr^
@@ -1491,7 +1489,6 @@
 ||getdnsapi.net^
 ||dns.getnoclip.link^
 ||ashixu.ggff.net^
-||jkmoon.ggff.net^
 ||adguard.ghkyzz.us^
 ||dns.ghost.pm^
 ||gibblets.top^
@@ -1611,7 +1608,6 @@
 ||dns.herkhof.nl^
 ||adg.herry.dev^
 ||dns.msk.hexagon1736.com^
-||dns.hexservers.com^
 ||hexxitcompany.com^
 ||httpdns.ocloud.heytapmobi.com^
 ||hfgx.shop^
@@ -1804,7 +1800,6 @@
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
 ||mickedi.isgood.host^
-||mydndworld.isgood.host^
 ||wg-ag.isgood.host^
 ||dns.islandnet.com^
 ||dns.it-pa.net^

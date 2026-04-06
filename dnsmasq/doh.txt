@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 22:26 UTC
-# Version: 2026.0405.2226.43
+# Last modified: 06 Apr 2026 11:03 UTC
+# Version: 2026.0406.1103.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3484
+# Number of entries: 3479
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1446,12 +1446,10 @@ local=/wg-aghome.freemyip.com/
 local=/zuk.freemyip.com/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
-local=/dns.friezer.eu/
 local=/frkn.frkn.cloud/
 local=/ivica-vulas.from.hr/
 local=/dns.froth.zone/
 local=/dns.fsociety.club/
-local=/dns.fsociety.red/
 local=/ychk.ft1991.top/
 local=/ablock.fuckit.ovh/
 local=/dns.fulgore.fr/
@@ -1490,7 +1488,6 @@ local=/roma.vpn.geshido.ru/
 local=/getdnsapi.net/
 local=/dns.getnoclip.link/
 local=/ashixu.ggff.net/
-local=/jkmoon.ggff.net/
 local=/adguard.ghkyzz.us/
 local=/dns.ghost.pm/
 local=/gibblets.top/
@@ -1610,7 +1607,6 @@ local=/herkes.online/
 local=/dns.herkhof.nl/
 local=/adg.herry.dev/
 local=/dns.msk.hexagon1736.com/
-local=/dns.hexservers.com/
 local=/hexxitcompany.com/
 local=/httpdns.ocloud.heytapmobi.com/
 local=/hfgx.shop/
@@ -1803,7 +1799,6 @@ local=/dns.irumatech.com/
 local=/dns1.irumatech.com/
 local=/dns.is0mino.com/
 local=/mickedi.isgood.host/
-local=/mydndworld.isgood.host/
 local=/wg-ag.isgood.host/
 local=/dns.islandnet.com/
 local=/dns.it-pa.net/

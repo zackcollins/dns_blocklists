@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 08:25 UTC
-# Version: 2026.0405.0825.54
+# Last modified: 06 Apr 2026 09:04 UTC
+# Version: 2026.0406.0904.28
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2073
+# Number of entries: 2081
 #
 1-aclk.net
 1aurl.io
@@ -373,6 +373,7 @@ seu2.cleverreach.com
 312066.seu2.cleverreach.com
 313131.seu2.cleverreach.com
 315021.seu2.cleverreach.com
+316004.seu2.cleverreach.com
 317076.seu2.cleverreach.com
 317901.seu2.cleverreach.com
 320764.seu2.cleverreach.com
@@ -405,6 +406,7 @@ seu2.cleverreach.com
 420624.seu2.cleverreach.com
 426304.seu2.cleverreach.com
 437503.seu2.cleverreach.com
+439193.seu2.cleverreach.com
 444969.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 94324.seu2.cleverreach.com
@@ -928,6 +930,7 @@ mc.s7.exacttarget.com
 members.s7.exacttarget.com
 pages.s7.exacttarget.com
 pub.s7.exacttarget.com
+reply-mx.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
 click.virt.s7.exacttarget.com
@@ -936,6 +939,11 @@ inbound.s8.exacttarget.com
 mc.s8.exacttarget.com
 s91.exacttarget.com
 smtp.exacttarget.com
+spf0.exacttarget.com
+spf1.exacttarget.com
+spf2.exacttarget.com
+spf3.exacttarget.com
+spf4.exacttarget.com
 stage.exacttarget.com
 cl.exct.net
 click.idprotect.experian.com

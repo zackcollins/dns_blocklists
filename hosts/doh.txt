@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 22:26 UTC
-# Version: 2026.0405.2226.43
+# Last modified: 06 Apr 2026 11:03 UTC
+# Version: 2026.0406.1103.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3943
+# Number of entries: 3938
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1686,12 +1686,10 @@
 0.0.0.0 zuk.freemyip.com
 0.0.0.0 dns.freopc.fr
 0.0.0.0 dns.freyja.pw
-0.0.0.0 dns.friezer.eu
 0.0.0.0 frkn.frkn.cloud
 0.0.0.0 ivica-vulas.from.hr
 0.0.0.0 dns.froth.zone
 0.0.0.0 dns.fsociety.club
-0.0.0.0 dns.fsociety.red
 0.0.0.0 ychk.ft1991.top
 0.0.0.0 www.ychk.ft1991.top
 0.0.0.0 ablock.fuckit.ovh
@@ -1731,7 +1729,6 @@
 0.0.0.0 getdnsapi.net
 0.0.0.0 dns.getnoclip.link
 0.0.0.0 ashixu.ggff.net
-0.0.0.0 jkmoon.ggff.net
 0.0.0.0 adguard.ghkyzz.us
 0.0.0.0 dns.ghost.pm
 0.0.0.0 gibblets.top
@@ -1856,7 +1853,6 @@
 0.0.0.0 dns.herkhof.nl
 0.0.0.0 adg.herry.dev
 0.0.0.0 dns.msk.hexagon1736.com
-0.0.0.0 dns.hexservers.com
 0.0.0.0 hexxitcompany.com
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 hfgx.shop
@@ -2101,7 +2097,6 @@
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
 0.0.0.0 mickedi.isgood.host
-0.0.0.0 mydndworld.isgood.host
 0.0.0.0 wg-ag.isgood.host
 0.0.0.0 dns.islandnet.com
 0.0.0.0 dns.it-pa.net

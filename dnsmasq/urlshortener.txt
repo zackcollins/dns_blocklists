@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 20:43 UTC
-# Version: 2026.0405.2043.35
+# Last modified: 06 Apr 2026 09:21 UTC
+# Version: 2026.0406.0921.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10052
+# Number of entries: 10044
 #
 local=/0.gp/
 local=/00m.in/
@@ -1416,7 +1416,6 @@ local=/bumpnt.com/
 local=/bung.ie/
 local=/ship.bunnycart.com/
 local=/buomto.life/
-local=/buoydeparturediscontent.com/
 local=/burl.me/
 local=/burnurl.com/
 local=/buu.lat/
@@ -2843,7 +2842,6 @@ local=/fnord.eu/
 local=/fnote.it/
 local=/foe.hn/
 local=/foll.link/
-local=/followmy.bio/
 local=/folm.org/
 local=/folu.me/
 local=/link.fomf.ch/
@@ -3069,7 +3067,6 @@ local=/git.io/
 local=/git.new/
 local=/github.co/
 local=/giv.red/
-local=/give.bio/
 local=/gizmo.do/
 local=/gj.al/
 local=/gjk.id/
@@ -3168,7 +3165,6 @@ local=/goo2url.com/
 local=/goodmoejo.art/
 local=/go.goodmotion.de/
 local=/goodwinlink.com/
-local=/google-139382.com/
 local=/google-url.com/
 local=/googleidmaps.live/
 local=/goolink.cc/
@@ -3183,7 +3179,6 @@ local=/goqrgen.com/
 local=/gorio.page/
 local=/goshopurl.com/
 local=/goshort.pro/
-local=/goshrink.com/
 local=/gosite.org/
 local=/gosm.link/
 local=/gosmart.fit/
@@ -3460,8 +3455,6 @@ local=/hs-uk.co/
 local=/hsdt.co/
 local=/hsh.sh/
 local=/hsrw.info/
-local=/hstx.eu/
-local=/ht.ly/
 local=/htawp.info/
 local=/htgb.co/
 local=/htgi.ru/
@@ -3626,7 +3619,6 @@ local=/imgo.cc/
 local=/imgus.cc/
 local=/imlcc.link/
 local=/imo.cx/
-local=/imo-call.shop/
 local=/impl.us/
 local=/in.gl/
 local=/in.mt/

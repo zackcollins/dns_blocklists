@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775427960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775473380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Apr 2026 22:26 UTC
-; Version: 2026.0405.2226.43
+; Last modified: 06 Apr 2026 11:03 UTC
+; Version: 2026.0406.1103.08
 ; Syntax: RPZ
-; Number of entries: 6968
+; Number of entries: 6958
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1175,8 +1175,6 @@ dns.hellozhao.com CNAME .
 *.dns.hellozhao.com CNAME .
 dns.msk.hexagon1736.com CNAME .
 *.dns.msk.hexagon1736.com CNAME .
-dns.hexservers.com CNAME .
-*.dns.hexservers.com CNAME .
 hexxitcompany.com CNAME .
 *.hexxitcompany.com CNAME .
 httpdns.ocloud.heytapmobi.com CNAME .
@@ -2499,8 +2497,6 @@ ag.felixf.eu CNAME .
 *.ag.felixf.eu CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
-dns.friezer.eu CNAME .
-*.dns.friezer.eu CNAME .
 gammesfeld.eu CNAME .
 *.gammesfeld.eu CNAME .
 dns.grinevich.eu CNAME .
@@ -2809,8 +2805,6 @@ commons.host CNAME .
 *.commons.host CNAME .
 mickedi.isgood.host CNAME .
 *.mickedi.isgood.host CNAME .
-mydndworld.isgood.host CNAME .
-*.mydndworld.isgood.host CNAME .
 wg-ag.isgood.host CNAME .
 *.wg-ag.isgood.host CNAME .
 dns.japan.joshcheng.host CNAME .
@@ -4029,8 +4023,6 @@ getdnsapi.net CNAME .
 *.getdnsapi.net CNAME .
 ashixu.ggff.net CNAME .
 *.ashixu.ggff.net CNAME .
-jkmoon.ggff.net CNAME .
-*.jkmoon.ggff.net CNAME .
 dns.gsmseti.net CNAME .
 *.dns.gsmseti.net CNAME .
 ordns.he.net CNAME .
@@ -5641,8 +5633,6 @@ dns.labar.re CNAME .
 *.5g.o0o.re CNAME .
 v.recipes CNAME .
 *.v.recipes CNAME .
-dns.fsociety.red CNAME .
-*.dns.fsociety.red CNAME .
 roadesdyn.go.ro CNAME .
 *.roadesdyn.go.ro CNAME .
 socolov.home.ro CNAME .

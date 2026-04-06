@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Apr 2026 20:43 UTC
-! Version: 2026.0405.2043.35
+! Last modified: 06 Apr 2026 09:21 UTC
+! Version: 2026.0406.0921.59
 ! Syntax: AdBlock
-! Number of entries: 10052
+! Number of entries: 10044
 !
 ||0.gp^
 ||00m.in^
@@ -1417,7 +1417,6 @@
 ||bung.ie^
 ||ship.bunnycart.com^
 ||buomto.life^
-||buoydeparturediscontent.com^
 ||burl.me^
 ||burnurl.com^
 ||buu.lat^
@@ -2844,7 +2843,6 @@
 ||fnote.it^
 ||foe.hn^
 ||foll.link^
-||followmy.bio^
 ||folm.org^
 ||folu.me^
 ||link.fomf.ch^
@@ -3070,7 +3068,6 @@
 ||git.new^
 ||github.co^
 ||giv.red^
-||give.bio^
 ||gizmo.do^
 ||gj.al^
 ||gjk.id^
@@ -3169,7 +3166,6 @@
 ||goodmoejo.art^
 ||go.goodmotion.de^
 ||goodwinlink.com^
-||google-139382.com^
 ||google-url.com^
 ||googleidmaps.live^
 ||goolink.cc^
@@ -3184,7 +3180,6 @@
 ||gorio.page^
 ||goshopurl.com^
 ||goshort.pro^
-||goshrink.com^
 ||gosite.org^
 ||gosm.link^
 ||gosmart.fit^
@@ -3461,8 +3456,6 @@
 ||hsdt.co^
 ||hsh.sh^
 ||hsrw.info^
-||hstx.eu^
-||ht.ly^
 ||htawp.info^
 ||htgb.co^
 ||htgi.ru^
@@ -3627,7 +3620,6 @@
 ||imgus.cc^
 ||imlcc.link^
 ||imo.cx^
-||imo-call.shop^
 ||impl.us^
 ||in.gl^
 ||in.mt^
