@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Apr 2026 11:03 UTC
-# Version: 2026.0406.1103.08
+# Last modified: 07 Apr 2026 10:23 UTC
+# Version: 2026.0407.1023.21
 # Syntax: Domains (without subdomains)
-# Number of entries: 3479
+# Number of entries: 3474
 #
 ss.0001.xyz
 003153.xyz
@@ -1906,7 +1906,6 @@ adguard.kantinyoyok.xyz
 dns.kapite.in
 dns.kapoww.tk
 dns.karadag.me
-dns.karanovic.ca
 dns.karfamily.net
 dns.karl.one
 server01.karl.one
@@ -2125,8 +2124,6 @@ home.marcrnt.de
 ag.marschi.de
 dns.marschi.de
 ddns.martinmore.online
-n10.martkotur.ru
-n50.martkotur.ru
 adguard.marto.si
 extra.mask.ad
 standard.mask.ad
@@ -2140,7 +2137,6 @@ maxfong.cc
 dns.maybe.icu
 dns.mayr.ws
 dns.mbrjun.cn
-mc-sft.cn
 doh.mcasviper.de
 adguard.mcdrifter.de
 dns.mcexp.it
@@ -2222,7 +2218,6 @@ doh.moorecloud.id
 dns.moraes.tech
 dns.moraru.net
 morbitzer.de
-crypt.mostsecureme.com
 dns.motazhakim.com
 mresquire.com
 dns.mrkaran.dev

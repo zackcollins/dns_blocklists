@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775473380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775557380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Apr 2026 11:03 UTC
-; Version: 2026.0406.1103.08
+; Last modified: 07 Apr 2026 10:23 UTC
+; Version: 2026.0407.1023.21
 ; Syntax: RPZ
-; Number of entries: 6958
+; Number of entries: 6948
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -227,8 +227,6 @@ ag.ff0x.ca CNAME .
 *.ag.ff0x.ca CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
-dns.karanovic.ca CNAME .
-*.dns.karanovic.ca CNAME .
 doh.nukys.ca CNAME .
 *.doh.nukys.ca CNAME .
 router.sapib.ca CNAME .
@@ -543,8 +541,6 @@ lovekers.cn CNAME .
 *.lovekers.cn CNAME .
 dns.mbrjun.cn CNAME .
 *.dns.mbrjun.cn CNAME .
-mc-sft.cn CNAME .
-*.mc-sft.cn CNAME .
 dns.muxinghe.cn CNAME .
 *.dns.muxinghe.cn CNAME .
 myv2ray.cn CNAME .
@@ -1439,8 +1435,6 @@ riga91197.mooo.com CNAME .
 *.riga91197.mooo.com CNAME .
 vst-sh-se.mooo.com CNAME .
 *.vst-sh-se.mooo.com CNAME .
-crypt.mostsecureme.com CNAME .
-*.crypt.mostsecureme.com CNAME .
 dns.motazhakim.com CNAME .
 *.dns.motazhakim.com CNAME .
 mresquire.com CNAME .
@@ -5841,10 +5835,6 @@ landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .
 *.malanser.ru CNAME .
-n10.martkotur.ru CNAME .
-*.n10.martkotur.ru CNAME .
-n50.martkotur.ru CNAME .
-*.n50.martkotur.ru CNAME .
 mistasinresolver.ru CNAME .
 *.mistasinresolver.ru CNAME .
 dns.msxnet.ru CNAME .

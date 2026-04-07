@@ -1394,6 +1394,13 @@
       }
     },
     {
+      "PK": "dnslookup.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dnsspeedtest.online",
       "action": {
         "do": 1,

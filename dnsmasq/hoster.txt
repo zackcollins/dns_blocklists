@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Apr 2026 10:05 UTC
-# Version: 2026.0406.1005.06
+# Last modified: 07 Apr 2026 09:25 UTC
+# Version: 2026.0407.0925.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1210
+# Number of entries: 1204
 #
 local=/000a.de/
 local=/000space.com/
@@ -741,7 +741,6 @@ local=/kz.gp/
 local=/l.gp/
 local=/l4n.org/
 local=/laden.biz/
-local=/laexchange.top/
 local=/land.to/
 local=/launchaco.com/
 local=/leaguelineup.com/
@@ -756,7 +755,6 @@ local=/live-stream.eu/
 local=/live2.de/
 local=/liveblog365.com/
 local=/livehost.fr/
-local=/liveplan.club/
 local=/logdown.com/
 local=/look.in/
 local=/loveslife.biz/
@@ -788,7 +786,6 @@ local=/mmm.page/
 local=/mobi.ps/
 local=/mobinteg.com/
 local=/mochahost.com/
-local=/moneylower.top/
 local=/mp3.cr/
 local=/mpeblog.com/
 local=/muf.mobi/
@@ -876,14 +873,12 @@ local=/pancake.run/
 local=/parknhost.com/
 local=/party.lc/
 local=/pc.lc/
-local=/pcbusiness.club/
 local=/pcriot.com/
 local=/pe.gp/
 local=/pe.hu/
 local=/perfektionieren.de/
 local=/perl.sh/
 local=/ph.gp/
-local=/phonecode.club/
 local=/photos.lc/
 local=/phpnet.org/
 local=/phpnet.us/
@@ -901,7 +896,6 @@ local=/podia.com/
 local=/populr.me/
 local=/portal.lc/
 local=/postbit.com/
-local=/pressname.club/
 local=/preview-domain.com/
 local=/primetap.com/
 local=/privat.lc/

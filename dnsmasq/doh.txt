@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Apr 2026 11:03 UTC
-# Version: 2026.0406.1103.08
+# Last modified: 07 Apr 2026 10:23 UTC
+# Version: 2026.0407.1023.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3479
+# Number of entries: 3474
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1906,7 +1906,6 @@ local=/adguard.kantinyoyok.xyz/
 local=/dns.kapite.in/
 local=/dns.kapoww.tk/
 local=/dns.karadag.me/
-local=/dns.karanovic.ca/
 local=/dns.karfamily.net/
 local=/dns.karl.one/
 local=/server01.karl.one/
@@ -2125,8 +2124,6 @@ local=/home.marcrnt.de/
 local=/ag.marschi.de/
 local=/dns.marschi.de/
 local=/ddns.martinmore.online/
-local=/n10.martkotur.ru/
-local=/n50.martkotur.ru/
 local=/adguard.marto.si/
 local=/extra.mask.ad/
 local=/standard.mask.ad/
@@ -2140,7 +2137,6 @@ local=/maxfong.cc/
 local=/dns.maybe.icu/
 local=/dns.mayr.ws/
 local=/dns.mbrjun.cn/
-local=/mc-sft.cn/
 local=/doh.mcasviper.de/
 local=/adguard.mcdrifter.de/
 local=/dns.mcexp.it/
@@ -2222,7 +2218,6 @@ local=/doh.moorecloud.id/
 local=/dns.moraes.tech/
 local=/dns.moraru.net/
 local=/morbitzer.de/
-local=/crypt.mostsecureme.com/
 local=/dns.motazhakim.com/
 local=/mresquire.com/
 local=/dns.mrkaran.dev/

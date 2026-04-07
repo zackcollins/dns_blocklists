@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775469900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775553900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Apr 2026 10:05 UTC
-; Version: 2026.0406.1005.06
+; Last modified: 07 Apr 2026 09:25 UTC
+; Version: 2026.0407.0925.30
 ; Syntax: RPZ
-; Number of entries: 2420
+; Number of entries: 2408
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -168,16 +168,8 @@ webnode.cl CNAME .
 *.webnode.cl CNAME .
 autoscolor.club CNAME .
 *.autoscolor.club CNAME .
-liveplan.club CNAME .
-*.liveplan.club CNAME .
 manfeature.club CNAME .
 *.manfeature.club CNAME .
-pcbusiness.club CNAME .
-*.pcbusiness.club CNAME .
-phonecode.club CNAME .
-*.phonecode.club CNAME .
-pressname.club CNAME .
-*.pressname.club CNAME .
 radiola.club CNAME .
 *.radiola.club CNAME .
 soundtrue.club CNAME .
@@ -2330,12 +2322,8 @@ artsold.top CNAME .
 *.artsold.top CNAME .
 datesize.top CNAME .
 *.datesize.top CNAME .
-laexchange.top CNAME .
-*.laexchange.top CNAME .
 mdtwo.top CNAME .
 *.mdtwo.top CNAME .
-moneylower.top CNAME .
-*.moneylower.top CNAME .
 pl-oferta-id2387942371.top CNAME .
 *.pl-oferta-id2387942371.top CNAME .
 spaceplay.top CNAME .
