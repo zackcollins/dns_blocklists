@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 09:25 UTC
-# Version: 2026.0407.0925.30
+# Last modified: 07 Apr 2026 17:27 UTC
+# Version: 2026.0407.1727.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1204
+# Number of entries: 1201
 #
 local=/000a.de/
 local=/000space.com/
@@ -916,11 +916,9 @@ local=/ql4h.net/
 local=/qu.am/
 local=/quiztionnaire.uk/
 local=/r.gp/
-local=/radiola.club/
 local=/re2.de/
 local=/reco.ws/
 local=/regruhosting.ru/
-local=/rentvalues.biz/
 local=/rf.gd/
 local=/ro.gp/
 local=/royal-host.com/
@@ -980,7 +978,6 @@ local=/socialsmp.com/
 local=/solidwebhost.com/
 local=/somee.com/
 local=/sophiashantidaniel.com/
-local=/soundtrue.club/
 local=/soup.io/
 local=/space.lc/
 local=/spaceplay.top/

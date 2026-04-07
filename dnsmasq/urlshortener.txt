@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 08:40 UTC
-# Version: 2026.0407.0840.27
+# Last modified: 07 Apr 2026 16:41 UTC
+# Version: 2026.0407.1641.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10008
+# Number of entries: 9993
 #
 local=/0.gp/
 local=/00m.in/
@@ -6465,11 +6465,9 @@ local=/rbm.li/
 local=/rbrandly.com/
 local=/links.rbsoft.org/
 local=/rbtly.com/
-local=/rbtxt.com/
 local=/rbxurl.pro/
 local=/link.rccn.dev/
 local=/rch.lt/
-local=/rcknr.io/
 local=/rckstr.bz/
 local=/rcl.ink/
 local=/rcld.io/
@@ -6593,7 +6591,6 @@ local=/reqlick.com/
 local=/reshareme.com/
 local=/reshort.com/
 local=/reshortfly.com/
-local=/resmiteratai888.us/
 local=/resvoice.com/
 local=/reten.net/
 local=/rethinktw.cc/
@@ -6749,7 +6746,6 @@ local=/s1o.co/
 local=/s21.us/
 local=/s223.me/
 local=/s23.us/
-local=/s3rvicorapido.org/
 local=/s3vip.tw/
 local=/s3w.net/
 local=/s4.is/
@@ -6758,7 +6754,6 @@ local=/s7y.us/
 local=/s99.tech/
 local=/saasmaster.link/
 local=/sabriabi.net/
-local=/sac23.top/
 local=/s.sachiniyer.com/
 local=/sactiny.com/
 local=/sadar.id/
@@ -7011,7 +7006,6 @@ local=/shln.me/
 local=/shlom.in/
 local=/shme.io/
 local=/shmetalink.com/
-local=/shmz.me/
 local=/sho.ae/
 local=/sho.cat/
 local=/sho.pe/
@@ -7143,7 +7137,6 @@ local=/shorterlink.app/
 local=/shorterurl.net/
 local=/shortest.link/
 local=/shortet.com/
-local=/shortey.net/
 local=/shortezy.com/
 local=/shortfake.com/
 local=/shortfree.link/
@@ -7183,7 +7176,6 @@ local=/shortlink.sbs/
 local=/shortlink.uk/
 local=/shortlink1.com/
 local=/shortlink88.xyz/
-local=/shortlinkfly.biz/
 local=/shortlinkgenerator.com/
 local=/shortlinkpanel.com/
 local=/shortlinksakti.xyz/
@@ -7251,7 +7243,6 @@ local=/shortsurl.at/
 local=/shortsurl.site/
 local=/shortswitch.com/
 local=/shortsy.pro/
-local=/shortthis.app/
 local=/shortturl.co/
 local=/shortu.be/
 local=/shorturl.ae/
@@ -7259,7 +7250,6 @@ local=/shorturl.asia/
 local=/shorturl.at/
 local=/shorturl.az/
 local=/shorturl.best/
-local=/shorturl.biz/
 local=/shorturl.bond/
 local=/shorturl.click/
 local=/shorturl.com/
@@ -7302,7 +7292,6 @@ local=/shotxy.com/
 local=/shotzon.com/
 local=/shourl.com/
 local=/shout.to/
-local=/show-ma.com/
 local=/showhntoday.com/
 local=/showrtner.com/
 local=/shp.ee/
@@ -7324,7 +7313,6 @@ local=/shrinkforge.com/
 local=/shrinkify.com/
 local=/shrinkin.xyz/
 local=/shrinklinx.com/
-local=/shrinkly.co/
 local=/shrinkme.app/
 local=/shrinkme.cc/
 local=/shrinkme.click/
@@ -7530,7 +7518,6 @@ local=/sm.lol/
 local=/sm-s.in/
 local=/sm4ll.eu/
 local=/sm4ll.in/
-local=/sm4rtvoice.org/
 local=/sma.ug/
 local=/smaintenance.com/
 local=/smal.lu/
@@ -7556,12 +7543,10 @@ local=/smartz.link/
 local=/smashed.by/
 local=/smdisc.com/
 local=/url.smeirat.com/
-local=/smghf.ca/
 local=/wts2.smhi.se/
 local=/wts3.smhi.se/
 local=/smilytech.in/
 local=/smiurl.com/
-local=/smixtools.com/
 local=/smkt.app/
 local=/app.smler.in/
 local=/smlfy.com/

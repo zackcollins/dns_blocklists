@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 10:23 UTC
-# Version: 2026.0407.1023.21
+# Last modified: 07 Apr 2026 18:25 UTC
+# Version: 2026.0407.1825.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3474
+# Number of entries: 3472
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2816,7 +2816,6 @@ local=/uw-dns.rubyfish.cn/
 local=/rudolphdesigns.com/
 local=/adg.rueiliu.space/
 local=/rumpelsepp.org/
-local=/vps.rumpus.cc/
 local=/ramy.run.place/
 local=/doh.runsel.id/
 local=/agh-bitk.russel053.com/
@@ -2955,7 +2954,6 @@ local=/guard.sntrk.ru/
 local=/adguardhome.softcloud.pe/
 local=/clientdns3.softcom.net/
 local=/myprivityvpn.softether.net/
-local=/adguard.soloanvill.ru/
 local=/wtbd02.solowalk.top/
 local=/ns.solutics.ec/
 local=/ns.solutionsbest.de/

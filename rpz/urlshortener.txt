@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775551200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775580060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Apr 2026 08:40 UTC
-; Version: 2026.0407.0840.27
+; Last modified: 07 Apr 2026 16:41 UTC
+; Version: 2026.0407.1641.12
 ; Syntax: RPZ
-; Number of entries: 20016
+; Number of entries: 19986
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -459,8 +459,6 @@ shortner.app CNAME .
 *.shortner.app CNAME .
 shortshare.app CNAME .
 *.shortshare.app CNAME .
-shortthis.app CNAME .
-*.shortthis.app CNAME .
 shrinkme.app CNAME .
 *.shrinkme.app CNAME .
 shrtn.app CNAME .
@@ -1185,10 +1183,6 @@ lets.rok.biz CNAME .
 *.lets.rok.biz CNAME .
 sbms.biz CNAME .
 *.sbms.biz CNAME .
-shortlinkfly.biz CNAME .
-*.shortlinkfly.biz CNAME .
-shorturl.biz CNAME .
-*.shorturl.biz CNAME .
 sinyi.biz CNAME .
 *.sinyi.biz CNAME .
 tinyurls.biz CNAME .
@@ -1525,8 +1519,6 @@ sdot.ca CNAME .
 *.sdot.ca CNAME .
 sflx.ca CNAME .
 *.sflx.ca CNAME .
-smghf.ca CNAME .
-*.smghf.ca CNAME .
 smst.ca CNAME .
 *.smst.ca CNAME .
 sophy.ca CNAME .
@@ -2885,8 +2877,6 @@ shortmylink.co CNAME .
 *.shortmylink.co CNAME .
 shortturl.co CNAME .
 *.shortturl.co CNAME .
-shrinkly.co CNAME .
-*.shrinkly.co CNAME .
 shrt.co CNAME .
 *.shrt.co CNAME .
 slugy.co CNAME .
@@ -6127,8 +6117,6 @@ rbrandly.com CNAME .
 *.rbrandly.com CNAME .
 rbtly.com CNAME .
 *.rbtly.com CNAME .
-rbtxt.com CNAME .
-*.rbtxt.com CNAME .
 rd-client.com CNAME .
 *.rd-client.com CNAME .
 rdrclk.com CNAME .
@@ -6557,8 +6545,6 @@ shotzon.com CNAME .
 *.shotzon.com CNAME .
 shourl.com CNAME .
 *.shourl.com CNAME .
-show-ma.com CNAME .
-*.show-ma.com CNAME .
 showhntoday.com CNAME .
 *.showhntoday.com CNAME .
 showrtner.com CNAME .
@@ -6689,8 +6675,6 @@ url.smeirat.com CNAME .
 *.url.smeirat.com CNAME .
 smiurl.com CNAME .
 *.smiurl.com CNAME .
-smixtools.com CNAME .
-*.smixtools.com CNAME .
 smlfy.com CNAME .
 *.smlfy.com CNAME .
 url.smmizo.com CNAME .
@@ -11115,8 +11099,6 @@ links.rasa.io CNAME .
 *.links.rasa.io CNAME .
 rbcz.io CNAME .
 *.rbcz.io CNAME .
-rcknr.io CNAME .
-*.rcknr.io CNAME .
 rcld.io CNAME .
 *.rcld.io CNAME .
 readb.io CNAME .
@@ -14453,8 +14435,6 @@ shink.me CNAME .
 *.shink.me CNAME .
 shln.me CNAME .
 *.shln.me CNAME .
-shmz.me CNAME .
-*.shmz.me CNAME .
 short-link.me CNAME .
 *.short-link.me CNAME .
 short-me.me CNAME .
@@ -15483,8 +15463,6 @@ shortenly.net CNAME .
 *.shortenly.net CNAME .
 shorterurl.net CNAME .
 *.shorterurl.net CNAME .
-shortey.net CNAME .
-*.shortey.net CNAME .
 shortl.net CNAME .
 *.shortl.net CNAME .
 shortlink.net CNAME .
@@ -16379,8 +16357,6 @@ rieketeam.org CNAME .
 *.rieketeam.org CNAME .
 rvrsd.org CNAME .
 *.rvrsd.org CNAME .
-s3rvicorapido.org CNAME .
-*.s3rvicorapido.org CNAME .
 sc.org CNAME .
 *.sc.org CNAME .
 scbet88vvip.org CNAME .
@@ -16425,8 +16401,6 @@ shrinkme.org CNAME .
 *.shrinkme.org CNAME .
 shrinkz.org CNAME .
 *.shrinkz.org CNAME .
-sm4rtvoice.org CNAME .
-*.sm4rtvoice.org CNAME .
 snapurl.org CNAME .
 *.snapurl.org CNAME .
 squeez.org CNAME .
@@ -18709,8 +18683,6 @@ roids.top CNAME .
 *.roids.top CNAME .
 rutgon.top CNAME .
 *.rutgon.top CNAME .
-sac23.top CNAME .
-*.sac23.top CNAME .
 selink.top CNAME .
 *.selink.top CNAME .
 shortclient.top CNAME .
@@ -19275,8 +19247,6 @@ redtext.us CNAME .
 *.redtext.us CNAME .
 referer.us CNAME .
 *.referer.us CNAME .
-resmiteratai888.us CNAME .
-*.resmiteratai888.us CNAME .
 ryps.us CNAME .
 *.ryps.us CNAME .
 s21.us CNAME .

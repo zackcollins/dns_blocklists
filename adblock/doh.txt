@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Apr 2026 10:23 UTC
-! Version: 2026.0407.1023.21
+! Last modified: 07 Apr 2026 18:25 UTC
+! Version: 2026.0407.1825.21
 ! Syntax: AdBlock
-! Number of entries: 3474
+! Number of entries: 3472
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2817,7 +2817,6 @@
 ||rudolphdesigns.com^
 ||adg.rueiliu.space^
 ||rumpelsepp.org^
-||vps.rumpus.cc^
 ||ramy.run.place^
 ||doh.runsel.id^
 ||agh-bitk.russel053.com^
@@ -2956,7 +2955,6 @@
 ||adguardhome.softcloud.pe^
 ||clientdns3.softcom.net^
 ||myprivityvpn.softether.net^
-||adguard.soloanvill.ru^
 ||wtbd02.solowalk.top^
 ||ns.solutics.ec^
 ||ns.solutionsbest.de^

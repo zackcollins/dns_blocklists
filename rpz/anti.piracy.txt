@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775556840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775585820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Apr 2026 10:14 UTC
-; Version: 2026.0407.1014.59
+; Last modified: 07 Apr 2026 18:17 UTC
+; Version: 2026.0407.1817.55
 ; Syntax: RPZ
-; Number of entries: 24404
+; Number of entries: 24392
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1792,8 +1792,6 @@ seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
 seedr.cc CNAME .
 *.seedr.cc CNAME .
-seriesflix.cc CNAME .
-*.seriesflix.cc CNAME .
 serversicuro.cc CNAME .
 *.serversicuro.cc CNAME .
 soaper.cc CNAME .
@@ -11138,8 +11136,6 @@ rintor.info CNAME .
 *.rintor.info CNAME .
 rlsbb.info CNAME .
 *.rlsbb.info CNAME .
-roarzone.info CNAME .
-*.roarzone.info CNAME .
 stream.rodrixtv.info CNAME .
 *.stream.rodrixtv.info CNAME .
 roxiestreams.info CNAME .
@@ -14940,8 +14936,6 @@ serialnews.net CNAME .
 *.serialnews.net CNAME .
 serie-streaming.net CNAME .
 *.serie-streaming.net CNAME .
-series2watch.net CNAME .
-*.series2watch.net CNAME .
 seriesfilmestorrent.net CNAME .
 *.seriesfilmestorrent.net CNAME .
 serieson.net CNAME .
@@ -19566,8 +19560,6 @@ servandroidkino.ru CNAME .
 *.servandroidkino.ru CNAME .
 seuedu.ru CNAME .
 *.seuedu.ru CNAME .
-sexy-torrents.ru CNAME .
-*.sexy-torrents.ru CNAME .
 sharereactor.ru CNAME .
 *.sharereactor.ru CNAME .
 shopdoc.ru CNAME .
@@ -20284,8 +20276,6 @@ rainshine28.site CNAME .
 *.rainshine28.site CNAME .
 rojadirectaenvivo.site CNAME .
 *.rojadirectaenvivo.site CNAME .
-rojadirectatvhd.site CNAME .
-*.rojadirectatvhd.site CNAME .
 scooter-repacks.site CNAME .
 *.scooter-repacks.site CNAME .
 tracker.skillindia.site CNAME .
@@ -22566,8 +22556,6 @@ seriestowatch.tv CNAME .
 *.seriestowatch.tv CNAME .
 simplecloud.tv CNAME .
 *.simplecloud.tv CNAME .
-simplywatch.tv CNAME .
-*.simplywatch.tv CNAME .
 simpsonai.tv CNAME .
 *.simpsonai.tv CNAME .
 simpsonsua.tv CNAME .
