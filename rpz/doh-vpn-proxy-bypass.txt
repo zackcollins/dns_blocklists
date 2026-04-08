@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775586360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775643660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Apr 2026 18:26 UTC
-; Version: 2026.0407.1826.40
+; Last modified: 08 Apr 2026 10:21 UTC
+; Version: 2026.0408.1021.49
 ; Syntax: RPZ
-; Number of entries: 36456
+; Number of entries: 36344
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -709,8 +709,6 @@ shandian.asia CNAME .
 *.shandian.asia CNAME .
 tlz.asia CNAME .
 *.tlz.asia CNAME .
-unblocked.asia CNAME .
-*.unblocked.asia CNAME .
 uproxy.asia CNAME .
 *.uproxy.asia CNAME .
 vpn.asia CNAME .
@@ -1409,8 +1407,6 @@ hexagon000.surfnet.ca CNAME .
 *.hexagon000.surfnet.ca CNAME .
 ramadaramada.surfnet.ca CNAME .
 *.ramadaramada.surfnet.ca CNAME .
-center.k12.mo.us.surfnet.ca CNAME .
-*.center.k12.mo.us.surfnet.ca CNAME .
 dns.tapawan.ca CNAME .
 *.dns.tapawan.ca CNAME .
 dot.tooli.ca CNAME .
@@ -3091,8 +3087,6 @@ guard.thefather.cloud CNAME .
 *.guard.thefather.cloud CNAME .
 dns.thore.cloud CNAME .
 *.dns.thore.cloud CNAME .
-tuantran.cloud CNAME .
-*.tuantran.cloud CNAME .
 unblocked.cloud CNAME .
 *.unblocked.cloud CNAME .
 tls.vietguards.cloud CNAME .
@@ -14323,10 +14317,6 @@ tablebook92.com CNAME .
 *.tablebook92.com CNAME .
 tablecar92.com CNAME .
 *.tablecar92.com CNAME .
-tablechair92.com CNAME .
-*.tablechair92.com CNAME .
-tablephone92.com CNAME .
-*.tablephone92.com CNAME .
 tagss11.com CNAME .
 *.tagss11.com CNAME .
 tagss4.com CNAME .
@@ -14375,8 +14365,6 @@ teacat999.com CNAME .
 *.teacat999.com CNAME .
 keeplearning.teachthinklearn.com CNAME .
 *.keeplearning.teachthinklearn.com CNAME .
-arab.is.goated.teamradicus.com CNAME .
-*.arab.is.goated.teamradicus.com CNAME .
 techdatacdn.com CNAME .
 *.techdatacdn.com CNAME .
 grammar.techmaxasia.com CNAME .
@@ -14735,10 +14723,6 @@ trickbyte.com CNAME .
 *.trickbyte.com CNAME .
 triplemlk.com CNAME .
 *.triplemlk.com CNAME .
-interact.learn.trivialime.com CNAME .
-*.interact.learn.trivialime.com CNAME .
-zatoga.learn.trivialime.com CNAME .
-*.zatoga.learn.trivialime.com CNAME .
 tronlit.com CNAME .
 *.tronlit.com CNAME .
 tronyza.com CNAME .
@@ -15003,8 +14987,6 @@ unblockmyweb.com CNAME .
 *.unblockmyweb.com CNAME .
 unblockmywebsite.com CNAME .
 *.unblockmywebsite.com CNAME .
-unblockninja.com CNAME .
-*.unblockninja.com CNAME .
 unblockprox.com CNAME .
 *.unblockprox.com CNAME .
 unblockvid.com CNAME .
@@ -15225,8 +15207,6 @@ videounblocked.com CNAME .
 *.videounblocked.com CNAME .
 vidproxy.com CNAME .
 *.vidproxy.com CNAME .
-vietnam-air.vietnamddns.com CNAME .
-*.vietnam-air.vietnamddns.com CNAME .
 viewlak.com CNAME .
 *.viewlak.com CNAME .
 vikingvpn.com CNAME .
@@ -15593,10 +15573,6 @@ weather-doc.com CNAME .
 *.weather-doc.com CNAME .
 weathercloudapp.com CNAME .
 *.weathercloudapp.com CNAME .
-arlingtonisd.weatherpixel.com CNAME .
-*.arlingtonisd.weatherpixel.com CNAME .
-irvingisd.weatherpixel.com CNAME .
-*.irvingisd.weatherpixel.com CNAME .
 web-kuailian.com CNAME .
 *.web-kuailian.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
@@ -15701,8 +15677,6 @@ windowcar92.com CNAME .
 *.windowcar92.com CNAME .
 windowphone92.com CNAME .
 *.windowphone92.com CNAME .
-windowtable92.com CNAME .
-*.windowtable92.com CNAME .
 windscribe.com CNAME .
 *.windscribe.com CNAME .
 wipter.com CNAME .
@@ -15833,8 +15807,6 @@ dot.xfinity.com CNAME .
 *.dot.xfinity.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 *.doh2.gslb2.xfinity.com CNAME .
-xfxssr.com CNAME .
-*.xfxssr.com CNAME .
 xgcloudjc.com CNAME .
 *.xgcloudjc.com CNAME .
 xgndgeyn.com CNAME .
@@ -16463,10 +16435,6 @@ xn--i8sz42aukrmna.com CNAME .
 *.xn--i8sz42aukrmna.com CNAME .
 xn--imm-qr6el54e.com CNAME .
 *.xn--imm-qr6el54e.com CNAME .
-xn--infiniport-cn3r594m.com CNAME .
-*.xn--infiniport-cn3r594m.com CNAME .
-xn--ios-x03f946a09d.com CNAME .
-*.xn--ios-x03f946a09d.com CNAME .
 xn--justmysocks-pr1t577n.com CNAME .
 *.xn--justmysocks-pr1t577n.com CNAME .
 xn--justmysocks-yh8u864d2q7c.com CNAME .
@@ -17127,8 +17095,6 @@ xn--zwwa296b.com CNAME .
 *.xn--zwwa296b.com CNAME .
 xngkupy.com CNAME .
 *.xngkupy.com CNAME .
-xonlrnrujxbx.com CNAME .
-*.xonlrnrujxbx.com CNAME .
 xorbiadns.com CNAME .
 *.xorbiadns.com CNAME .
 xozoquat.com CNAME .
@@ -20283,8 +20249,6 @@ doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
 tikvpn.in CNAME .
 *.tikvpn.in CNAME .
-center.k12.mo.us.tornotluk.in CNAME .
-*.center.k12.mo.us.tornotluk.in CNAME .
 dns.webfork.in CNAME .
 *.dns.webfork.in CNAME .
 websurf.in CNAME .
@@ -20729,8 +20693,6 @@ web3vpn.info CNAME .
 *.web3vpn.info CNAME .
 wgetcloud.info CNAME .
 *.wgetcloud.info CNAME .
-fax.2.xeonxu.info CNAME .
-*.fax.2.xeonxu.info CNAME .
 xiaoxuanfeng.info CNAME .
 *.xiaoxuanfeng.info CNAME .
 yiyuanjichang.info CNAME .
@@ -23015,36 +22977,10 @@ math.nass.my CNAME .
 *.math.nass.my CNAME .
 riponex.my CNAME .
 *.riponex.my CNAME .
-galaxy.is.cool.tcloud.my CNAME .
-*.galaxy.is.cool.tcloud.my CNAME .
-dms.dms.dms.tcloud.my CNAME .
-*.dms.dms.dms.tcloud.my CNAME .
-galaxy.tcloud.my CNAME .
-*.galaxy.tcloud.my CNAME .
-galaxyisthebest.tcloud.my CNAME .
-*.galaxyisthebest.tcloud.my CNAME .
-math1.tcloud.my CNAME .
-*.math1.tcloud.my CNAME .
-math2.tcloud.my CNAME .
-*.math2.tcloud.my CNAME .
-math3.tcloud.my CNAME .
-*.math3.tcloud.my CNAME .
-math4.tcloud.my CNAME .
-*.math4.tcloud.my CNAME .
-math5.tcloud.my CNAME .
-*.math5.tcloud.my CNAME .
-schoolsucks.tcloud.my CNAME .
-*.schoolsucks.tcloud.my CNAME .
-wehateschool.tcloud.my CNAME .
-*.wehateschool.tcloud.my CNAME .
-werwer.tcloud.my CNAME .
-*.werwer.tcloud.my CNAME .
 tulanek.my CNAME .
 *.tulanek.my CNAME .
 vamekor.my CNAME .
 *.vamekor.my CNAME .
-vapor.my CNAME .
-*.vapor.my CNAME .
 vpn.my CNAME .
 *.vpn.my CNAME .
 dns.xuann.my CNAME .
@@ -26797,8 +26733,6 @@ virmamp33.sytes.net CNAME .
 *.virmamp33.sytes.net CNAME .
 www.iloveto.talk4fun.net CNAME .
 *.www.iloveto.talk4fun.net CNAME .
-bio.alumn.tamersoft.net CNAME .
-*.bio.alumn.tamersoft.net CNAME .
 tap2free.net CNAME .
 *.tap2free.net CNAME .
 adguard.taufner.net CNAME .
@@ -26913,8 +26847,6 @@ net.tt6.net CNAME .
 *.net.tt6.net CNAME .
 sainttech.tu-dresden.net CNAME .
 *.sainttech.tu-dresden.net CNAME .
-twoproxy.net CNAME .
-*.twoproxy.net CNAME .
 ubgus.net CNAME .
 *.ubgus.net CNAME .
 ubint.net CNAME .
@@ -28175,8 +28107,6 @@ udpcustom.online CNAME .
 *.udpcustom.online CNAME .
 uhgnzr44.online CNAME .
 *.uhgnzr44.online CNAME .
-ujywh54.online CNAME .
-*.ujywh54.online CNAME .
 ukumlmrst0igs.online CNAME .
 *.ukumlmrst0igs.online CNAME .
 umbfvjlx.online CNAME .
@@ -28189,8 +28119,6 @@ unblockwebsite.online CNAME .
 *.unblockwebsite.online CNAME .
 uproxy.online CNAME .
 *.uproxy.online CNAME .
-ushftcgtkzplcz.online CNAME .
-*.ushftcgtkzplcz.online CNAME .
 uu32ygcyfhr.online CNAME .
 *.uu32ygcyfhr.online CNAME .
 v0jlq071shapnlnhj0p9.online CNAME .
@@ -28219,8 +28147,6 @@ vthrnrwrbtq2n1xpjt5d.online CNAME .
 *.vthrnrwrbtq2n1xpjt5d.online CNAME .
 wdg5as2.online CNAME .
 *.wdg5as2.online CNAME .
-webproxy.online CNAME .
-*.webproxy.online CNAME .
 weontoplmsbauchi.online CNAME .
 *.weontoplmsbauchi.online CNAME .
 wgcwwk1ksso0rb9kkn6.online CNAME .
@@ -28231,16 +28157,12 @@ wkd4zoi1.online CNAME .
 *.wkd4zoi1.online CNAME .
 xbgkzcvnfjkjh7ccggvniet.online CNAME .
 *.xbgkzcvnfjkjh7ccggvniet.online CNAME .
-xblu4dblhhb.online CNAME .
-*.xblu4dblhhb.online CNAME .
 xbsjssr.online CNAME .
 *.xbsjssr.online CNAME .
 xqctecxwha.online CNAME .
 *.xqctecxwha.online CNAME .
 xvmess.online CNAME .
 *.xvmess.online CNAME .
-xvrhlzcfzt5ej5ze.online CNAME .
-*.xvrhlzcfzt5ej5ze.online CNAME .
 ybqjaguuii0obex4w.online CNAME .
 *.ybqjaguuii0obex4w.online CNAME .
 yoeu47e.online CNAME .
@@ -29997,8 +29919,6 @@ ny.teradns.org CNAME .
 *.ny.teradns.org CNAME .
 sg.teradns.org CNAME .
 *.sg.teradns.org CNAME .
-algebra2.texasmath.org CNAME .
-*.algebra2.texasmath.org CNAME .
 test.texasmath.org CNAME .
 *.test.texasmath.org CNAME .
 dns.thebuckners.org CNAME .
@@ -30485,8 +30405,6 @@ dns.stresslab.party CNAME .
 *.dns.stresslab.party CNAME .
 femboys.tierlistsforspotify.party CNAME .
 *.femboys.tierlistsforspotify.party CNAME .
-unblock.party CNAME .
-*.unblock.party CNAME .
 unblocked2.party CNAME .
 *.unblocked2.party CNAME .
 grade.major.grupoinca.com.pe CNAME .
@@ -31213,8 +31131,6 @@ resubmit.timekeeper.ro CNAME .
 *.resubmit.timekeeper.ro CNAME .
 edu.ucecom-craiova.ro CNAME .
 *.edu.ucecom-craiova.ro CNAME .
-mango-learning.valuero.ro CNAME .
-*.mango-learning.valuero.ro CNAME .
 vik.ro CNAME .
 *.vik.ro CNAME .
 tutoring.services.voievodate.ro CNAME .
@@ -32287,8 +32203,6 @@ xbox-dns.ru CNAME .
 *.xbox-dns.ru CNAME .
 dns.xcapenet.ru CNAME .
 *.dns.xcapenet.ru CNAME .
-dns2.xcapenet.ru CNAME .
-*.dns2.xcapenet.ru CNAME .
 xendria.ru CNAME .
 *.xendria.ru CNAME .
 xendro.ru CNAME .
@@ -32431,8 +32345,6 @@ shanhai.sbs CNAME .
 *.shanhai.sbs CNAME .
 ssnet.sbs CNAME .
 *.ssnet.sbs CNAME .
-dns.tbs6920.sbs CNAME .
-*.dns.tbs6920.sbs CNAME .
 zinko.sbs CNAME .
 *.zinko.sbs CNAME .
 imhigheffortsite.school CNAME .
@@ -32831,8 +32743,6 @@ snapclass.site CNAME .
 *.snapclass.site CNAME .
 dns.srijan.site CNAME .
 *.dns.srijan.site CNAME .
-ssh0.site CNAME .
-*.ssh0.site CNAME .
 sshtun.site CNAME .
 *.sshtun.site CNAME .
 ssobfs.site CNAME .
@@ -33181,8 +33091,6 @@ thiscost1dollar.store CNAME .
 *.thiscost1dollar.store CNAME .
 thisthingrighthere.store CNAME .
 *.thisthingrighthere.store CNAME .
-tildenderek.store CNAME .
-*.tildenderek.store CNAME .
 dmit.wangjiaqi.store CNAME .
 *.dmit.wangjiaqi.store CNAME .
 wuxx.store CNAME .
@@ -34093,8 +34001,6 @@ qaz.tw CNAME .
 *.qaz.tw CNAME .
 qianmo.tw CNAME .
 *.qianmo.tw CNAME .
-ferntheplantithink.truefruit.tw CNAME .
-*.ferntheplantithink.truefruit.tw CNAME .
 dns.twnic.tw CNAME .
 *.dns.twnic.tw CNAME .
 dns.xhost.tw CNAME .
@@ -34673,8 +34579,6 @@ grid.know.hs.vc CNAME .
 *.grid.know.hs.vc CNAME .
 browserstephen.webs.vc CNAME .
 *.browserstephen.webs.vc CNAME .
-delta.webs.vc CNAME .
-*.delta.webs.vc CNAME .
 kahoot67.webs.vc CNAME .
 *.kahoot67.webs.vc CNAME .
 sillykitty.webs.vc CNAME .
@@ -34997,8 +34901,6 @@ wgetcloud.win CNAME .
 *.wgetcloud.win CNAME .
 worldwideproxy4u.win CNAME .
 *.worldwideproxy4u.win CNAME .
-xfltd.win CNAME .
-*.xfltd.win CNAME .
 dns.youni.win CNAME .
 *.dns.youni.win CNAME .
 134744072.work CNAME .
@@ -35091,8 +34993,6 @@ pkt.world CNAME .
 *.pkt.world CNAME .
 shaft.world CNAME .
 *.shaft.world CNAME .
-spinalfluid.world CNAME .
-*.spinalfluid.world CNAME .
 webshots.world CNAME .
 *.webshots.world CNAME .
 dns.busold.ws CNAME .
@@ -36095,10 +35995,6 @@ dns.thezudrive.xyz CNAME .
 *.dns.thezudrive.xyz CNAME .
 tiptopvpn.xyz CNAME .
 *.tiptopvpn.xyz CNAME .
-kailovegooning.topazgrid.xyz CNAME .
-*.kailovegooning.topazgrid.xyz CNAME .
-trentonlovesmen.topazgrid.xyz CNAME .
-*.trentonlovesmen.topazgrid.xyz CNAME .
 trafflink.xyz CNAME .
 *.trafflink.xyz CNAME .
 truvium.xyz CNAME .
@@ -36227,18 +36123,10 @@ xn--9kq52et30a.xyz CNAME .
 *.xn--9kq52et30a.xyz CNAME .
 xn--akkcloud-le7n539j.xyz CNAME .
 *.xn--akkcloud-le7n539j.xyz CNAME .
-xn--csso2npqovv3a.xyz CNAME .
-*.xn--csso2npqovv3a.xyz CNAME .
 xn--dlqs4sc0nope.xyz CNAME .
 *.xn--dlqs4sc0nope.xyz CNAME .
 xn--rss276g.xyz CNAME .
 *.xn--rss276g.xyz CNAME .
-xn--vpn-128dw501a.xyz CNAME .
-*.xn--vpn-128dw501a.xyz CNAME .
-xn--vpn-3t4kt0e.xyz CNAME .
-*.xn--vpn-3t4kt0e.xyz CNAME .
-xn--vpn-us2fv01b.xyz CNAME .
-*.xn--vpn-us2fv01b.xyz CNAME .
 xn--yfrw1glt6awpb6x3e.xyz CNAME .
 *.xn--yfrw1glt6awpb6x3e.xyz CNAME .
 xundera.xyz CNAME .

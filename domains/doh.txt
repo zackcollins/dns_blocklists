@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 18:25 UTC
-# Version: 2026.0407.1825.21
+# Last modified: 08 Apr 2026 10:20 UTC
+# Version: 2026.0408.1020.54
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3931
+# Number of entries: 3927
 #
 ss.0001.xyz
 003153.xyz
@@ -3469,7 +3469,6 @@ dns1.tardishost.ru
 adguard.taufner.net
 dns.tb4.me
 httpdns.danuoyi.tbcache.com
-dns.tbs6920.sbs
 de51.tcpdoor.net
 adguard.tcpu.io
 dns.teaminfo.fr
@@ -3595,7 +3594,6 @@ adg.tshost.no
 net.tt6.net
 doh.ibr.cs.tu-bs.de
 dns.tuankhaiit.com
-tuantran.cloud
 tujenasnaszato.xyz
 tuskythehusky.tech
 nat64.tuxis.nl
@@ -3746,7 +3744,6 @@ server.padil.web.id
 panser.web.id
 doh.this.web.id
 web-rated.ie
-pg.web-rated.ie
 quadrogramma.vps.webdock.cloud
 dns.webfork.in
 doh.webnmail.de
@@ -3809,7 +3806,6 @@ adb-wan.xaoimoon.fr
 xbcpb668.com
 xbox-dns.ru
 dns.xcapenet.ru
-dns2.xcapenet.ru
 doh.xcom.pro
 xenergy.cc
 vsrv15195.customer.xenway.de

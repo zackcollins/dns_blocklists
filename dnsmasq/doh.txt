@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 18:25 UTC
-# Version: 2026.0407.1825.21
+# Last modified: 08 Apr 2026 10:20 UTC
+# Version: 2026.0408.1020.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3472
+# Number of entries: 3469
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3058,7 +3058,6 @@ local=/dns1.tardishost.ru/
 local=/adguard.taufner.net/
 local=/dns.tb4.me/
 local=/httpdns.danuoyi.tbcache.com/
-local=/dns.tbs6920.sbs/
 local=/de51.tcpdoor.net/
 local=/adguard.tcpu.io/
 local=/dns.teaminfo.fr/
@@ -3178,7 +3177,6 @@ local=/adg.tshost.no/
 local=/net.tt6.net/
 local=/doh.ibr.cs.tu-bs.de/
 local=/dns.tuankhaiit.com/
-local=/tuantran.cloud/
 local=/tujenasnaszato.xyz/
 local=/tuskythehusky.tech/
 local=/nat64.tuxis.nl/
@@ -3359,7 +3357,6 @@ local=/adb-wan.xaoimoon.fr/
 local=/xbcpb668.com/
 local=/xbox-dns.ru/
 local=/dns.xcapenet.ru/
-local=/dns2.xcapenet.ru/
 local=/doh.xcom.pro/
 local=/xenergy.cc/
 local=/vsrv15195.customer.xenway.de/

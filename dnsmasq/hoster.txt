@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 17:27 UTC
-# Version: 2026.0407.1727.02
+# Last modified: 08 Apr 2026 09:24 UTC
+# Version: 2026.0408.0924.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1201
+# Number of entries: 1197
 #
 local=/000a.de/
 local=/000space.com/
@@ -980,7 +980,6 @@ local=/somee.com/
 local=/sophiashantidaniel.com/
 local=/soup.io/
 local=/space.lc/
-local=/spaceplay.top/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
 local=/spruz.com/
@@ -1023,7 +1022,6 @@ local=/tilda.ws/
 local=/timeforchangecounselling.com/
 local=/tld.cc/
 local=/tmweb.ru/
-local=/tokyoca.top/
 local=/top.lc/
 local=/top.tc/
 local=/top8.com/
@@ -1072,7 +1070,6 @@ local=/usa.gg/
 local=/usafreespace.com/
 local=/usclargo.com/
 local=/user.lc/
-local=/ussource.club/
 local=/uz.gp/
 local=/uzblog.net/
 local=/v.gp/
@@ -1157,7 +1154,6 @@ local=/weeblysite.com/
 local=/welt.tl/
 local=/wiki.lc/
 local=/will-dich.eu/
-local=/workplan.club/
 local=/world.mu/
 local=/world-blog.de/
 local=/world-store.de/

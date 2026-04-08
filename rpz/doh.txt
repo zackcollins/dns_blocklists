@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775586300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775643600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Apr 2026 18:25 UTC
-; Version: 2026.0407.1825.21
+; Last modified: 08 Apr 2026 10:20 UTC
+; Version: 2026.0408.1020.54
 ; Syntax: RPZ
-; Number of entries: 6944
+; Number of entries: 6938
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -447,8 +447,6 @@ guard.thefather.cloud CNAME .
 *.guard.thefather.cloud CNAME .
 dns.thore.cloud CNAME .
 *.dns.thore.cloud CNAME .
-tuantran.cloud CNAME .
-*.tuantran.cloud CNAME .
 tls.vietguards.cloud CNAME .
 *.tls.vietguards.cloud CNAME .
 quadrogramma.vps.webdock.cloud CNAME .
@@ -5949,8 +5947,6 @@ xbox-dns.ru CNAME .
 *.xbox-dns.ru CNAME .
 dns.xcapenet.ru CNAME .
 *.dns.xcapenet.ru CNAME .
-dns2.xcapenet.ru CNAME .
-*.dns2.xcapenet.ru CNAME .
 doh.xorlet.ru CNAME .
 *.doh.xorlet.ru CNAME .
 dns.yandex.ru CNAME .
@@ -5975,8 +5971,6 @@ dns.butterfly87.sbs CNAME .
 *.dns.butterfly87.sbs CNAME .
 myatris.sbs CNAME .
 *.myatris.sbs CNAME .
-dns.tbs6920.sbs CNAME .
-*.dns.tbs6920.sbs CNAME .
 dnssecure.aluwela.se CNAME .
 *.dnssecure.aluwela.se CNAME .
 dns1.feear.se CNAME .

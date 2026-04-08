@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775582820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775640240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Apr 2026 17:27 UTC
-; Version: 2026.0407.1727.02
+; Last modified: 08 Apr 2026 09:24 UTC
+; Version: 2026.0408.0924.16
 ; Syntax: RPZ
-; Number of entries: 2402
+; Number of entries: 2394
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -168,12 +168,8 @@ autoscolor.club CNAME .
 *.autoscolor.club CNAME .
 manfeature.club CNAME .
 *.manfeature.club CNAME .
-ussource.club CNAME .
-*.ussource.club CNAME .
 wapka.club CNAME .
 *.wapka.club CNAME .
-workplan.club CNAME .
-*.workplan.club CNAME .
 yourbar.club CNAME .
 *.yourbar.club CNAME .
 asia.cm CNAME .
@@ -2320,10 +2316,6 @@ mdtwo.top CNAME .
 *.mdtwo.top CNAME .
 pl-oferta-id2387942371.top CNAME .
 *.pl-oferta-id2387942371.top CNAME .
-spaceplay.top CNAME .
-*.spaceplay.top CNAME .
-tokyoca.top CNAME .
-*.tokyoca.top CNAME .
 wapka.top CNAME .
 *.wapka.top CNAME .
 ygrrvlvvgf.top CNAME .

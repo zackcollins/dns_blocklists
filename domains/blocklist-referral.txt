@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Apr 2026 09:04 UTC
-# Version: 2026.0406.0904.28
+# Last modified: 08 Apr 2026 08:24 UTC
+# Version: 2026.0408.0824.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2081
+# Number of entries: 2084
 #
 1-aclk.net
 1aurl.io
@@ -962,6 +962,7 @@ cdn.network.exponea.com
 pan-cdn.exponea.com
 raisin-cdn.exponea.com
 ri-cdn.exponea.com
+rozetka-cdn.exponea.com
 sofology-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
@@ -1093,6 +1094,7 @@ sites.hscoscdn-eu1.net
 25357283.sites.hscoscdn-eu1.net
 25378200.sites.hscoscdn-eu1.net
 25385986.sites.hscoscdn-eu1.net
+25608636.sites.hscoscdn-eu1.net
 25696692.sites.hscoscdn-eu1.net
 25758250.sites.hscoscdn-eu1.net
 25874232.sites.hscoscdn-eu1.net
@@ -1544,6 +1546,7 @@ mkto-sj360076.com
 mkto-sj360142.com
 mkto-sj390015.com
 mkto-sj390079.com
+mkto-sj410004.com
 mkto-sjg0030.com
 mkto-sjg0056.com
 mkto-sjp0267.com

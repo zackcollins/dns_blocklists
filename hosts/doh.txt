@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Apr 2026 18:25 UTC
-# Version: 2026.0407.1825.21
+# Last modified: 08 Apr 2026 10:20 UTC
+# Version: 2026.0408.1020.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3931
+# Number of entries: 3927
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3469,7 +3469,6 @@
 0.0.0.0 adguard.taufner.net
 0.0.0.0 dns.tb4.me
 0.0.0.0 httpdns.danuoyi.tbcache.com
-0.0.0.0 dns.tbs6920.sbs
 0.0.0.0 de51.tcpdoor.net
 0.0.0.0 adguard.tcpu.io
 0.0.0.0 dns.teaminfo.fr
@@ -3595,7 +3594,6 @@
 0.0.0.0 net.tt6.net
 0.0.0.0 doh.ibr.cs.tu-bs.de
 0.0.0.0 dns.tuankhaiit.com
-0.0.0.0 tuantran.cloud
 0.0.0.0 tujenasnaszato.xyz
 0.0.0.0 tuskythehusky.tech
 0.0.0.0 nat64.tuxis.nl
@@ -3746,7 +3744,6 @@
 0.0.0.0 panser.web.id
 0.0.0.0 doh.this.web.id
 0.0.0.0 web-rated.ie
-0.0.0.0 pg.web-rated.ie
 0.0.0.0 quadrogramma.vps.webdock.cloud
 0.0.0.0 dns.webfork.in
 0.0.0.0 doh.webnmail.de
@@ -3809,7 +3806,6 @@
 0.0.0.0 xbcpb668.com
 0.0.0.0 xbox-dns.ru
 0.0.0.0 dns.xcapenet.ru
-0.0.0.0 dns2.xcapenet.ru
 0.0.0.0 doh.xcom.pro
 0.0.0.0 xenergy.cc
 0.0.0.0 vsrv15195.customer.xenway.de
