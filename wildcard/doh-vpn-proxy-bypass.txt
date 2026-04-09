@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 10:21 UTC
-# Version: 2026.0408.1021.49
+# Last modified: 09 Apr 2026 10:25 UTC
+# Version: 2026.0409.1025.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 18172
+# Number of entries: 18192
 #
 *.000000555.xyz
 *.ss.0001.xyz
@@ -70,6 +70,7 @@
 *.d1.12342345.xyz
 *.123adsas.store
 *.123ani.me
+*.123anonymous.com
 *.123app.info
 *.123bay.org
 *.123book.info
@@ -89,6 +90,7 @@
 *.123proxy.cool
 *.123roms.com
 *.123rooms.net
+*.123sports.org
 *.123streaming.org
 *.123sumo.net
 *.123superproxy.com
@@ -277,6 +279,7 @@
 *.3qguvtvrpyzkatp2.online
 *.3rclash.com
 *.dns.3wv.de
+*.3x.nz
 *.dns.4-the.win
 *.vpn.4-the.win
 *.904523.404.mn
@@ -473,6 +476,7 @@
 *.9b1c27beccb631169b1533c65cca8246.top
 *.9ilvg7rfx2r79tq4.online
 *.9sskdjs.shop
+*.9w9.org
 *.study.9x.at
 *.studying.9x.at
 *.9yuan.top
@@ -1315,6 +1319,8 @@
 *.grgrgrkeepcalmkeepcalm.asatid12.ir
 *.asback.xyz
 *.asdsajs120sm.online
+*.doh.asecdns.com
+*.dot.asecdns.com
 *.asfhfkqn.com
 *.midgard.asguardian.de
 *.nilfheim.asguardian.de
@@ -1352,7 +1358,10 @@
 *.astrilldownloads.com
 *.astroutercn.com
 *.astrovpn.co
+*.amgr.asuscomm.com
 *.dandelionsprout.asuscomm.com
+*.himeko297.asuscomm.com
+*.xkariak.asuscomm.com
 *.dns.asysec.com
 *.at5w361xq.online
 *.oci02.at9.eu
@@ -1375,6 +1384,7 @@
 *.atomicspike.art
 *.next.atomix.in
 *.vps.atomix.in
+*.atozproxy.com
 *.atris.cyou
 *.atsilva.link
 *.atsssgo.xyz
@@ -1472,6 +1482,8 @@
 *.dns.azfar.my
 *.azi.homes
 *.azi.re
+*.learn.azimei.cn
+*.teachers.azimei.cn
 *.azirevpn.com
 *.azirevpn.net
 *.doh.azoris.ovh
@@ -1674,6 +1686,10 @@
 *.peninsulaeducation.baselinux.net
 *.studyeasy.baselinux.net
 *.basildo.beer
+*.0.6gpaactivities.bastaff.ru
+*.galaxy-glint.bastaff.ru
+*.jmcookinginamctenmath.bastaff.ru
+*.tacobelljobs.bastaff.ru
 *.we-hate-school.bastaff.ru
 *.home.basthorst.eu
 *.bastlipv.com
@@ -2175,6 +2191,8 @@
 *.booiuu.com
 *.bookcar92.com
 *.booket.cf
+*.bookkey82.com
+*.bookpen82.com
 *.bookphone92.com
 *.www.securly.com.bookpropofplace.com
 *.boomproxy.com
@@ -2340,6 +2358,7 @@
 *.dns.brono.cloud
 *.brooklyndancefestival.org
 *.classroom.broomleigh.org
+*.linewize.broomleigh.org
 *.schoolwork.broomleigh.org
 *.bropay.org
 *.brothebro.com
@@ -2545,10 +2564,12 @@
 *.cantfindme.org
 *.canuletmeeep.run
 *.canvas.mom
+*.canvasarts.org
 *.dnscrypt-cert.captnemo.in
 *.doh.captnemo.in
 *.carbook92.com
 *.carcar92.com
+*.carchair92.com
 *.carebuzz.com
 *.carebuzz.io
 *.careersandjobs.org
@@ -2556,6 +2577,7 @@
 *.kirkification.cargo-dv.com
 *.secretsubdomain1.caribbeanpremierhotels.com
 *.unifi.carioka.com
+*.carkey82.com
 *.carnegle.com
 *.carpetcouriers.com
 *.dns.carson-family.com
@@ -2757,6 +2779,7 @@
 *.chairbook92.com
 *.chaircar92.com
 *.chairchair92.com
+*.chairkey82.com
 *.dns.chalkychalk.com
 *.core.goal.challengepursuit.com
 *.chamvpn.com
@@ -5722,7 +5745,6 @@
 *.ebumna.net
 *.emis-kf-homework.echofx.com
 *.emis-tech.echofx.com
-*.echolink.org
 *.barbecue.echoparklake.com
 *.echous.info
 *.dns.echpochmak-club.ru
@@ -18001,7 +18023,6 @@
 *.zcvss.xyz
 *.zdaclann.cc
 *.zdn.ro
-*.zearn.buzz
 *.register.zedzander.com
 *.zemhcyg.org
 *.dns.zemows.industries
@@ -18096,7 +18117,6 @@
 *.ziyoumaoclash.com
 *.ziyun.cyou
 *.zjavr.cn
-*.skibidiboi333.zjhmz.cn
 *.zkcfi3szz.online
 *.zkjgcbxp.com
 *.doh.zknt.org

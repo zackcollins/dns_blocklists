@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 10:24 UTC
-# Version: 2026.0405.1024.55
+# Last modified: 09 Apr 2026 10:24 UTC
+# Version: 2026.0409.1024.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1479
+# Number of entries: 1480
 #
 *.0000000000000000000000.com
 *.0x.no
@@ -101,6 +101,7 @@
 *.authorizeddns.us
 *.autoipset.com
 *.avandns.com
+*.awiki.org
 *.ax.lt
 *.b0tnet.com
 *.b33r.us

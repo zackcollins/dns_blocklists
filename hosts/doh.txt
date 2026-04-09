@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 10:20 UTC
-# Version: 2026.0408.1020.54
+# Last modified: 09 Apr 2026 10:24 UTC
+# Version: 2026.0409.1024.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3927
+# Number of entries: 3935
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -378,12 +378,17 @@
 0.0.0.0 resolver.as203038.net
 0.0.0.0 doh.asagiri.moe
 0.0.0.0 grgrgrkeepcalmkeepcalm.asatid12.ir
+0.0.0.0 doh.asecdns.com
+0.0.0.0 dot.asecdns.com
 0.0.0.0 midgard.asguardian.de
 0.0.0.0 nilfheim.asguardian.de
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 doh.asli.id
 0.0.0.0 dns.asterimoon.com
+0.0.0.0 amgr.asuscomm.com
 0.0.0.0 dandelionsprout.asuscomm.com
+0.0.0.0 himeko297.asuscomm.com
+0.0.0.0 xkariak.asuscomm.com
 0.0.0.0 dns.asysec.com
 0.0.0.0 oci02.at9.eu
 0.0.0.0 adguardhome.atakorah.com
@@ -649,10 +654,13 @@
 0.0.0.0 crd.circl.lu
 0.0.0.0 dns.circl.lu
 0.0.0.0 circumitor.de
+0.0.0.0 c-asm.circumitor.de
 0.0.0.0 c-rm.circumitor.de
 0.0.0.0 fritz-er.circumitor.de
 0.0.0.0 fritz-hbh.circumitor.de
+0.0.0.0 m-asm.circumitor.de
 0.0.0.0 m-cm.circumitor.de
+0.0.0.0 m-rm.circumitor.de
 0.0.0.0 dns.citrahost.com
 0.0.0.0 dns.citystars.cn
 0.0.0.0 ns.ciwer.cn

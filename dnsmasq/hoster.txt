@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 09:24 UTC
-# Version: 2026.0408.0924.16
+# Last modified: 09 Apr 2026 09:26 UTC
+# Version: 2026.0409.0926.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1197
+# Number of entries: 1199
 #
 local=/000a.de/
 local=/000space.com/
@@ -151,6 +151,7 @@ local=/ac6.de/
 local=/admarketlocation.com/
 local=/aeza.network/
 local=/ag.gp/
+local=/ag0rcgwjv5.com/
 local=/ahlamountada.com/
 local=/al6.de/
 local=/all.lc/
@@ -231,6 +232,7 @@ local=/bloggt.de/
 local=/blogia.com/
 local=/blogmaster.net/
 local=/blogmonster.de/
+local=/blogrip.com/
 local=/blogsky.com/
 local=/blogspot.ae/
 local=/blogspot.al/
@@ -292,6 +294,7 @@ local=/bravenet.com/
 local=/bravepages.com/
 local=/bravesites.com/
 local=/brizy.site/
+local=/bugs3.com/
 local=/builderall.net/
 local=/builtfree.org/
 local=/business.site/
@@ -1190,7 +1193,6 @@ local=/yj.ae/
 local=/yola.com/
 local=/yooco.org/
 local=/you.lc/
-local=/yourbar.club/
 local=/yourdomain.com/
 local=/yourfreehosting.net/
 local=/yourjavascript.com/

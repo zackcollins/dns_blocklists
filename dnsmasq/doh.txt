@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 10:20 UTC
-# Version: 2026.0408.1020.54
+# Last modified: 09 Apr 2026 10:24 UTC
+# Version: 2026.0409.1024.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3469
+# Number of entries: 3474
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -312,12 +312,17 @@ local=/dns.artikel10.org/
 local=/resolver.as203038.net/
 local=/doh.asagiri.moe/
 local=/grgrgrkeepcalmkeepcalm.asatid12.ir/
+local=/doh.asecdns.com/
+local=/dot.asecdns.com/
 local=/midgard.asguardian.de/
 local=/nilfheim.asguardian.de/
 local=/dns.ashleyjackson.net/
 local=/doh.asli.id/
 local=/dns.asterimoon.com/
+local=/amgr.asuscomm.com/
 local=/dandelionsprout.asuscomm.com/
+local=/himeko297.asuscomm.com/
+local=/xkariak.asuscomm.com/
 local=/dns.asysec.com/
 local=/oci02.at9.eu/
 local=/adguardhome.atakorah.com/

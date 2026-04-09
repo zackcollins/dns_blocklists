@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775643600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775730240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Apr 2026 10:20 UTC
-; Version: 2026.0408.1020.54
+; Last modified: 09 Apr 2026 10:24 UTC
+; Version: 2026.0409.1024.34
 ; Syntax: RPZ
-; Number of entries: 6938
+; Number of entries: 6948
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -703,10 +703,20 @@ dns.ares-taiwan.com CNAME .
 *.dns.ares-taiwan.com CNAME .
 dns.arkbotech.com CNAME .
 *.dns.arkbotech.com CNAME .
+doh.asecdns.com CNAME .
+*.doh.asecdns.com CNAME .
+dot.asecdns.com CNAME .
+*.dot.asecdns.com CNAME .
 dns.asterimoon.com CNAME .
 *.dns.asterimoon.com CNAME .
+amgr.asuscomm.com CNAME .
+*.amgr.asuscomm.com CNAME .
 dandelionsprout.asuscomm.com CNAME .
 *.dandelionsprout.asuscomm.com CNAME .
+himeko297.asuscomm.com CNAME .
+*.himeko297.asuscomm.com CNAME .
+xkariak.asuscomm.com CNAME .
+*.xkariak.asuscomm.com CNAME .
 dns.asysec.com CNAME .
 *.dns.asysec.com CNAME .
 adguardhome.atakorah.com CNAME .

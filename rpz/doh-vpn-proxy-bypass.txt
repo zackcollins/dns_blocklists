@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775643660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775730300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Apr 2026 10:21 UTC
-; Version: 2026.0408.1021.49
+; Last modified: 09 Apr 2026 10:25 UTC
+; Version: 2026.0409.1025.23
 ; Syntax: RPZ
-; Number of entries: 36344
+; Number of entries: 36384
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1267,8 +1267,6 @@ unblocked.buzz CNAME .
 *.unblocked.buzz CNAME .
 velara.buzz CNAME .
 *.velara.buzz CNAME .
-zearn.buzz CNAME .
-*.zearn.buzz CNAME .
 doh.datahata.by CNAME .
 *.doh.datahata.by CNAME .
 browsec.bz CNAME .
@@ -3231,6 +3229,10 @@ apibyjc.cn CNAME .
 *.apibyjc.cn CNAME .
 app-kuailian.cn CNAME .
 *.app-kuailian.cn CNAME .
+learn.azimei.cn CNAME .
+*.learn.azimei.cn CNAME .
+teachers.azimei.cn CNAME .
+*.teachers.azimei.cn CNAME .
 alhe.baodacn.cn CNAME .
 *.alhe.baodacn.cn CNAME .
 alphabio.baodacn.cn CNAME .
@@ -3581,8 +3583,6 @@ zhangdong25.cn CNAME .
 *.zhangdong25.cn CNAME .
 zjavr.cn CNAME .
 *.zjavr.cn CNAME .
-skibidiboi333.zjhmz.cn CNAME .
-*.skibidiboi333.zjhmz.cn CNAME .
 dns.zzuhacker.cn CNAME .
 *.dns.zzuhacker.cn CNAME .
 acskey.co CNAME .
@@ -3763,6 +3763,8 @@ ejlkjsdfks.xklvjdsf.1000pizzas.com CNAME .
 *.104prxy.com CNAME .
 1145145.com CNAME .
 *.1145145.com CNAME .
+123anonymous.com CNAME .
+*.123anonymous.com CNAME .
 123goproxy.com CNAME .
 *.123goproxy.com CNAME .
 123hideip.com CNAME .
@@ -4853,6 +4855,10 @@ dns.arkbotech.com CNAME .
 *.dns.arkbotech.com CNAME .
 as-stats.com CNAME .
 *.as-stats.com CNAME .
+doh.asecdns.com CNAME .
+*.doh.asecdns.com CNAME .
+dot.asecdns.com CNAME .
+*.dot.asecdns.com CNAME .
 asfhfkqn.com CNAME .
 *.asfhfkqn.com CNAME .
 ash6.com CNAME .
@@ -4877,8 +4883,14 @@ astrilldownloads.com CNAME .
 *.astrilldownloads.com CNAME .
 astroutercn.com CNAME .
 *.astroutercn.com CNAME .
+amgr.asuscomm.com CNAME .
+*.amgr.asuscomm.com CNAME .
 dandelionsprout.asuscomm.com CNAME .
 *.dandelionsprout.asuscomm.com CNAME .
+himeko297.asuscomm.com CNAME .
+*.himeko297.asuscomm.com CNAME .
+xkariak.asuscomm.com CNAME .
+*.xkariak.asuscomm.com CNAME .
 dns.asysec.com CNAME .
 *.dns.asysec.com CNAME .
 adguardhome.atakorah.com CNAME .
@@ -4887,6 +4899,8 @@ atlasvpn.com CNAME .
 *.atlasvpn.com CNAME .
 atomapi.com CNAME .
 *.atomapi.com CNAME .
+atozproxy.com CNAME .
+*.atozproxy.com CNAME .
 attractoverall.com CNAME .
 *.attractoverall.com CNAME .
 auraclient.com CNAME .
@@ -5591,6 +5605,10 @@ booiuu.com CNAME .
 *.booiuu.com CNAME .
 bookcar92.com CNAME .
 *.bookcar92.com CNAME .
+bookkey82.com CNAME .
+*.bookkey82.com CNAME .
+bookpen82.com CNAME .
+*.bookpen82.com CNAME .
 bookphone92.com CNAME .
 *.bookphone92.com CNAME .
 www.securly.com.bookpropofplace.com CNAME .
@@ -5917,6 +5935,8 @@ carbook92.com CNAME .
 *.carbook92.com CNAME .
 carcar92.com CNAME .
 *.carcar92.com CNAME .
+carchair92.com CNAME .
+*.carchair92.com CNAME .
 carebuzz.com CNAME .
 *.carebuzz.com CNAME .
 careproxy.com CNAME .
@@ -5927,6 +5947,8 @@ secretsubdomain1.caribbeanpremierhotels.com CNAME .
 *.secretsubdomain1.caribbeanpremierhotels.com CNAME .
 unifi.carioka.com CNAME .
 *.unifi.carioka.com CNAME .
+carkey82.com CNAME .
+*.carkey82.com CNAME .
 carnegle.com CNAME .
 *.carnegle.com CNAME .
 carpetcouriers.com CNAME .
@@ -6009,6 +6031,8 @@ chaircar92.com CNAME .
 *.chaircar92.com CNAME .
 chairchair92.com CNAME .
 *.chairchair92.com CNAME .
+chairkey82.com CNAME .
+*.chairkey82.com CNAME .
 dns.chalkychalk.com CNAME .
 *.dns.chalkychalk.com CNAME .
 core.goal.challengepursuit.com CNAME .
@@ -27455,6 +27479,8 @@ type.shela.nu CNAME .
 *.type.shela.nu CNAME .
 unblocked.nu CNAME .
 *.unblocked.nu CNAME .
+3x.nz CNAME .
+*.3x.nz CNAME .
 bo.what.cloudns.nz CNAME .
 *.bo.what.cloudns.nz CNAME .
 vp.what.cloudns.nz CNAME .
@@ -28211,6 +28237,8 @@ riolu.ooo CNAME .
 *.123book.org CNAME .
 123down.org CNAME .
 *.123down.org CNAME .
+123sports.org CNAME .
+*.123sports.org CNAME .
 123streaming.org CNAME .
 *.123streaming.org CNAME .
 1vpn.org CNAME .
@@ -28229,6 +28257,8 @@ ns2.4netguides.org CNAME .
 *.ns2.4netguides.org CNAME .
 dns.52306.org CNAME .
 *.dns.52306.org CNAME .
+9w9.org CNAME .
+*.9w9.org CNAME .
 abpvn.org CNAME .
 *.abpvn.org CNAME .
 apexofficial.accesscam.org CNAME .
@@ -28417,6 +28447,8 @@ brooklyndancefestival.org CNAME .
 *.brooklyndancefestival.org CNAME .
 classroom.broomleigh.org CNAME .
 *.classroom.broomleigh.org CNAME .
+linewize.broomleigh.org CNAME .
+*.linewize.broomleigh.org CNAME .
 schoolwork.broomleigh.org CNAME .
 *.schoolwork.broomleigh.org CNAME .
 bropay.org CNAME .
@@ -28469,6 +28501,8 @@ canlite.org CNAME .
 *.canlite.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
+canvasarts.org CNAME .
+*.canvasarts.org CNAME .
 careersandjobs.org CNAME .
 *.careersandjobs.org CNAME .
 catdns.org CNAME .
@@ -28885,8 +28919,6 @@ canyonsinstructer.e-m-a-i-l.org CNAME .
 *.canyonsinstructer.e-m-a-i-l.org CNAME .
 easy-tennis-tips.org CNAME .
 *.easy-tennis-tips.org CNAME .
-echolink.org CNAME .
-*.echolink.org CNAME .
 ednovas.org CNAME .
 *.ednovas.org CNAME .
 edublue.org CNAME .
@@ -31245,6 +31277,14 @@ node3.b4el.ru CNAME .
 *.node3.b4el.ru CNAME .
 baikalvpn.ru CNAME .
 *.baikalvpn.ru CNAME .
+0.6gpaactivities.bastaff.ru CNAME .
+*.0.6gpaactivities.bastaff.ru CNAME .
+galaxy-glint.bastaff.ru CNAME .
+*.galaxy-glint.bastaff.ru CNAME .
+jmcookinginamctenmath.bastaff.ru CNAME .
+*.jmcookinginamctenmath.bastaff.ru CNAME .
+tacobelljobs.bastaff.ru CNAME .
+*.tacobelljobs.bastaff.ru CNAME .
 we-hate-school.bastaff.ru CNAME .
 *.we-hate-school.bastaff.ru CNAME .
 baxtri.ru CNAME .

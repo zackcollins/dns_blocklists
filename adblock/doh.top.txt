@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Apr 2026 10:21 UTC
-! Version: 2026.0408.1021.35
+! Last modified: 09 Apr 2026 10:25 UTC
+! Version: 2026.0409.1025.09
 ! Syntax: AdBlock
-! Number of entries: 3463
+! Number of entries: 3469
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -313,12 +313,17 @@
 ||resolver.as203038.net^
 ||doh.asagiri.moe^
 ||grgrgrkeepcalmkeepcalm.asatid12.ir^
+||doh.asecdns.com^
+||dot.asecdns.com^
 ||midgard.asguardian.de^
 ||nilfheim.asguardian.de^
 ||dns.ashleyjackson.net^
 ||doh.asli.id^
 ||dns.asterimoon.com^
+||amgr.asuscomm.com^
 ||dandelionsprout.asuscomm.com^
+||himeko297.asuscomm.com^
+||xkariak.asuscomm.com^
 ||dns.asysec.com^
 ||oci02.at9.eu^
 ||adguardhome.atakorah.com^
@@ -3303,6 +3308,7 @@
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
 ||resov.wehao.net^
+||dns.weibo.cn^
 ||home.weisbrod.me^
 ||dns.wellstsai.com^
 ||zhang.wenru.xyz^
