@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775729760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775758800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 10:16 UTC
-; Version: 2026.0409.1016.50
+; Last modified: 09 Apr 2026 18:20 UTC
+; Version: 2026.0409.1820.30
 ; Syntax: RPZ
-; Number of entries: 24390
+; Number of entries: 24414
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1336,6 +1336,8 @@ unblockit.bz CNAME .
 *.unblockit.bz CNAME .
 vipbox.bz CNAME .
 *.vipbox.bz CNAME .
+digitalmusicians.ca CNAME .
+*.digitalmusicians.ca CNAME .
 egydead.ca CNAME .
 *.egydead.ca CNAME .
 filmstreaming.ca CNAME .
@@ -1550,6 +1552,10 @@ coflix.cc CNAME .
 *.coflix.cc CNAME .
 crownbit.cc CNAME .
 *.crownbit.cc CNAME .
+proxy-cool-n-forex-hot-list.cz.cc CNAME .
+*.proxy-cool-n-forex-hot-list.cz.cc CNAME .
+sons-of-anarchy-3.cz.cc CNAME .
+*.sons-of-anarchy-3.cz.cc CNAME .
 darkvod.cc CNAME .
 *.darkvod.cc CNAME .
 ddl-warez.cc CNAME .
@@ -3940,6 +3946,8 @@ colivioo.com CNAME .
 *.colivioo.com CNAME .
 comandofilmetorrent.com CNAME .
 *.comandofilmetorrent.com CNAME .
+comandohdtorrents.com CNAME .
+*.comandohdtorrents.com CNAME .
 comandotorrents.com CNAME .
 *.comandotorrents.com CNAME .
 comcentral.com CNAME .
@@ -4216,6 +4224,8 @@ defianceprotocol.com CNAME .
 *.defianceprotocol.com CNAME .
 degree-anime.com CNAME .
 *.degree-anime.com CNAME .
+deimonhigh.com CNAME .
+*.deimonhigh.com CNAME .
 dekhobd.com CNAME .
 *.dekhobd.com CNAME .
 dekhvhai.com CNAME .
@@ -8946,6 +8956,8 @@ rlsbb.unblockit.date CNAME .
 *.rlsbb.unblockit.date CNAME .
 altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
+tracker.cutie.dating CNAME .
+*.tracker.cutie.dating CNAME .
 tracker-de-2.cutie.dating CNAME .
 *.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
@@ -10382,6 +10394,8 @@ annas-archive.gs CNAME .
 *.3ds.hacks.guide CNAME .
 piracy.guide CNAME .
 *.piracy.guide CNAME .
+crichd.guru CNAME .
+*.crichd.guru CNAME .
 hdmovie2.guru CNAME .
 *.hdmovie2.guru CNAME .
 lookmovie.guru CNAME .
@@ -13986,6 +14000,8 @@ defconpro.net CNAME .
 *.defconpro.net CNAME .
 deviloid.net CNAME .
 *.deviloid.net CNAME .
+em.dfnbd.net CNAME .
+*.em.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
 diakov.net CNAME .
@@ -15578,6 +15594,8 @@ warez-wawa.fr.nf CNAME .
 *.warez-wawa.fr.nf CNAME .
 seriezloaded.com.ng CNAME .
 *.seriezloaded.com.ng CNAME .
+vidnaija.com.ng CNAME .
+*.vidnaija.com.ng CNAME .
 hdmovie2.ng CNAME .
 *.hdmovie2.ng CNAME .
 booter.ninja CNAME .
@@ -16496,6 +16514,8 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
+crackedpc.org CNAME .
+*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 creative-bits.org CNAME .
@@ -19288,6 +19308,8 @@ cwer.ru CNAME .
 *.cwer.ru CNAME .
 cyberwares.ru CNAME .
 *.cyberwares.ru CNAME .
+tracker.cypherpunks.ru CNAME .
+*.tracker.cypherpunks.ru CNAME .
 bingoportal.da.ru CNAME .
 *.bingoportal.da.ru CNAME .
 dizcompany.ru CNAME .
@@ -22880,6 +22902,8 @@ cb01.us CNAME .
 *.cb01.us CNAME .
 cmovies.us CNAME .
 *.cmovies.us CNAME .
+deadfrog.us CNAME .
+*.deadfrog.us CNAME .
 empornium.us CNAME .
 *.empornium.us CNAME .
 eprojectfreetv.us CNAME .

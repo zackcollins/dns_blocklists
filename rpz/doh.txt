@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775730240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775759160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,8 +10,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 10:24 UTC
-; Version: 2026.0409.1024.34
+; Last modified: 09 Apr 2026 18:26 UTC
+; Version: 2026.0409.1826.47
 ; Syntax: RPZ
 ; Number of entries: 6948
 ;
@@ -245,8 +245,6 @@ dns.native.cat CNAME .
 *.dns.native.cat CNAME .
 affsoft.cc CNAME .
 *.affsoft.cc CNAME .
-ag.alexf.cc CNAME .
-*.ag.alexf.cc CNAME .
 kintoun.alves.cc CNAME .
 *.kintoun.alves.cc CNAME .
 dns.articrevised.cc CNAME .
@@ -967,6 +965,8 @@ dns.dns-over-https.com CNAME .
 *.dns.dns-over-https.com CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
+ns2.recursive.dnsbycomodo.com CNAME .
+*.ns2.recursive.dnsbycomodo.com CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 dnsenc.com CNAME .
@@ -2305,8 +2305,8 @@ dns.blaumer.dev CNAME .
 *.dns.blaumer.dev CNAME .
 dns.caliph.dev CNAME .
 *.dns.caliph.dev CNAME .
-dns.curser.dev CNAME .
-*.dns.curser.dev CNAME .
+curser.dev CNAME .
+*.curser.dev CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
 dns.dewei.dev CNAME .

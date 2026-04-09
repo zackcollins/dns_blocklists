@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 08:39 UTC
-# Version: 2026.0409.0839.29
+# Last modified: 09 Apr 2026 16:40 UTC
+# Version: 2026.0409.1640.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 9981
+# Number of entries: 9983
 #
 0.gp
 00m.in
@@ -1841,6 +1841,7 @@ cocn.in
 codango.run
 codegood.net
 codesm.com
+codewithcode.com
 codimenu.com
 slug.codingcodax.dev
 codly.com
@@ -2254,6 +2255,7 @@ dgkad.com
 dglnk.me
 dgms.es
 dgo.to
+dgshort.com
 dgt.fm
 dgt77.click
 dhe.one

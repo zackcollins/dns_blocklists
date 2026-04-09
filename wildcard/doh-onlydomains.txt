@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 10:24 UTC
-# Version: 2026.0409.1024.34
+# Last modified: 09 Apr 2026 18:26 UTC
+# Version: 2026.0409.1826.47
 # Syntax: Domains (without subdomains)
 # Number of entries: 3474
 #
@@ -230,7 +230,6 @@ dns.akbxr.com
 dns.albony.xyz
 dnsnl.alekberg.net
 agh.alematho.de
-ag.alexf.cc
 diskstation.alexpollard.net
 management.alexpollard.net
 httpdns.alicdn.com
@@ -737,7 +736,7 @@ webdav.cubecloud.win
 cubedns.com
 iux3-s.cuiy4trg8fmosya2iip3ci.name
 qual.cuprum.ru
-dns.curser.dev
+curser.dev
 dns.cwlys.com
 gc.cyberbeta.cn
 nanopi.cybergroove.net
@@ -919,6 +918,7 @@ srv04.dns64.de
 dns8.org
 dnsbunker.org
 ns1.recursive.dnsbycomodo.com
+ns2.recursive.dnsbycomodo.com
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 dnscity.org
 abe01.dnscry.pt

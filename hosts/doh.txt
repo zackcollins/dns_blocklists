@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 10:24 UTC
-# Version: 2026.0409.1024.34
+# Last modified: 09 Apr 2026 18:26 UTC
+# Version: 2026.0409.1826.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3935
+# Number of entries: 3936
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -273,7 +273,6 @@
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 agh.alematho.de
-0.0.0.0 ag.alexf.cc
 0.0.0.0 diskstation.alexpollard.net
 0.0.0.0 management.alexpollard.net
 0.0.0.0 httpdns.alicdn.com
@@ -884,6 +883,7 @@
 0.0.0.0 cubedns.com
 0.0.0.0 iux3-s.cuiy4trg8fmosya2iip3ci.name
 0.0.0.0 qual.cuprum.ru
+0.0.0.0 curser.dev
 0.0.0.0 dns.curser.dev
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
@@ -1101,6 +1101,7 @@
 0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
+0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 0.0.0.0 dnscity.org
 0.0.0.0 abe01.dnscry.pt

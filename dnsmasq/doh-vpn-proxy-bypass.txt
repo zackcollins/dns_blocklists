@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 10:25 UTC
-# Version: 2026.0409.1025.23
+# Last modified: 09 Apr 2026 18:27 UTC
+# Version: 2026.0409.1827.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18192
+# Number of entries: 18198
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -949,7 +949,6 @@ local=/tech.vcsa.alcrb.ru/
 local=/dnsnl.alekberg.net/
 local=/agh.alematho.de/
 local=/alexahub.net/
-local=/ag.alexf.cc/
 local=/diskstation.alexpollard.net/
 local=/management.alexpollard.net/
 local=/alfavpn.ru/
@@ -4324,6 +4323,7 @@ local=/competemine.com/
 local=/compsci.college/
 local=/pleasedontblockthissevnlaks.computacionsur.ar/
 local=/computercar92.com/
+local=/computerkey82.com/
 local=/13.computerne.com/
 local=/21.computerne.com/
 local=/3.computerne.com/
@@ -4410,6 +4410,7 @@ local=/peace.corporateadworld.com/
 local=/proxy.corsfix.com/
 local=/corsproxy.io/
 local=/waguri.corti.to/
+local=/cosmohacker.space/
 local=/adguardhome.fr.couli.fr/
 local=/sci.add.countyohio.info/
 local=/craft.tech.countyohio.net/
@@ -4581,7 +4582,7 @@ local=/cunybr.com/
 local=/qual.cuprum.ru/
 local=/curd.io/
 local=/shadow.curesoutpost.com/
-local=/dns.curser.dev/
+local=/curser.dev/
 local=/cusoahxuaobwhdieah.fun/
 local=/customudp.site/
 local=/cv-unfiltered.xyz/
@@ -4817,6 +4818,7 @@ local=/hgkf01001ghakami.ddo.jp/
 local=/test180.ddo.jp/
 local=/ddsss1.xyz/
 local=/renaissance-go.de.com/
+local=/why.is.it.my.fault.de-a.org/
 local=/kevinss-us-1.kevinss886.de5.net/
 local=/dns.deadsec.net/
 local=/dean52.top/
@@ -5047,13 +5049,17 @@ local=/dns.google/
 local=/dns.pub/
 local=/dns.sb/
 local=/dns.watch/
+local=/3mvrb6-1vwdl6gb5xnyl.dns.army/
 local=/cloudsync.dns.army/
 local=/deep-sea.dns.navy/
 local=/fargos2.dns.army/
 local=/guigu.dns.army/
 local=/hehehegnmath.dns.army/
 local=/homec92.dns.army/
+local=/jolly1.dns.army/
+local=/lawless-zone.dns.army/
 local=/wolf-zone.dns.army/
+local=/wolfzone.dns.army/
 local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/

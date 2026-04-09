@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775730300 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775759220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 10:25 UTC
-; Version: 2026.0409.1025.23
+; Last modified: 09 Apr 2026 18:27 UTC
+; Version: 2026.0409.1827.34
 ; Syntax: RPZ
-; Number of entries: 36384
+; Number of entries: 36396
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -641,6 +641,8 @@ sneakersotoolefurryfanwiki.tablero-anmac.ar CNAME .
 *.sneakersotoolefurryfanwiki.tablero-anmac.ar CNAME .
 study.tablero-anmac.ar CNAME .
 *.study.tablero-anmac.ar CNAME .
+3mvrb6-1vwdl6gb5xnyl.dns.army CNAME .
+*.3mvrb6-1vwdl6gb5xnyl.dns.army CNAME .
 cloudsync.dns.army CNAME .
 *.cloudsync.dns.army CNAME .
 fargos2.dns.army CNAME .
@@ -651,8 +653,14 @@ hehehegnmath.dns.army CNAME .
 *.hehehegnmath.dns.army CNAME .
 homec92.dns.army CNAME .
 *.homec92.dns.army CNAME .
+jolly1.dns.army CNAME .
+*.jolly1.dns.army CNAME .
+lawless-zone.dns.army CNAME .
+*.lawless-zone.dns.army CNAME .
 wolf-zone.dns.army CNAME .
 *.wolf-zone.dns.army CNAME .
+wolfzone.dns.army CNAME .
+*.wolfzone.dns.army CNAME .
 fancy.v6.army CNAME .
 *.fancy.v6.army CNAME .
 fancy1.v6.army CNAME .
@@ -1457,8 +1465,6 @@ affsoft.cc CNAME .
 *.affsoft.cc CNAME .
 akzhfsyv.cc CNAME .
 *.akzhfsyv.cc CNAME .
-ag.alexf.cc CNAME .
-*.ag.alexf.cc CNAME .
 kintoun.alves.cc CNAME .
 *.kintoun.alves.cc CNAME .
 andyvpn.cc CNAME .
@@ -6577,6 +6583,8 @@ competemine.com CNAME .
 *.competemine.com CNAME .
 computercar92.com CNAME .
 *.computercar92.com CNAME .
+computerkey82.com CNAME .
+*.computerkey82.com CNAME .
 13.computerne.com CNAME .
 *.13.computerne.com CNAME .
 21.computerne.com CNAME .
@@ -18197,8 +18205,8 @@ changjinglu.dev CNAME .
 *.changjinglu.dev CNAME .
 v.cheerfun.dev CNAME .
 *.v.cheerfun.dev CNAME .
-dns.curser.dev CNAME .
-*.dns.curser.dev CNAME .
+curser.dev CNAME .
+*.curser.dev CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
 dns.dewei.dev CNAME .
@@ -28693,6 +28701,8 @@ math.davidandasabi.org CNAME .
 *.math.davidandasabi.org CNAME .
 learnsowashcoorg.ddnss.org CNAME .
 *.learnsowashcoorg.ddnss.org CNAME .
+why.is.it.my.fault.de-a.org CNAME .
+*.why.is.it.my.fault.de-a.org CNAME .
 definitechaos.org CNAME .
 *.definitechaos.org CNAME .
 adguard.ext.devkon.org CNAME .
@@ -32909,6 +32919,8 @@ cdnbb.space CNAME .
 *.cdnbb.space CNAME .
 contentrush.space CNAME .
 *.contentrush.space CNAME .
+cosmohacker.space CNAME .
+*.cosmohacker.space CNAME .
 crunchymunchy.space CNAME .
 *.crunchymunchy.space CNAME .
 cryptd.space CNAME .

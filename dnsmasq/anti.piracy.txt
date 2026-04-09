@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 10:16 UTC
-# Version: 2026.0409.1016.50
+# Last modified: 09 Apr 2026 18:20 UTC
+# Version: 2026.0409.1820.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12195
+# Number of entries: 12207
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -2350,11 +2350,13 @@ local=/vegamoviesg.com.in/
 local=/vegamoviesl.com.in/
 local=/vegamoviesm.com.in/
 local=/vegamoviesw.com.in/
+local=/vidnaija.com.ng/
 local=/wormsblast.com.pl/
 local=/xalaflix.com.se/
 local=/yt1s.com.co/
 local=/www.midea123.z-media.com.cn/
 local=/comandofilmetorrent.com/
+local=/comandohdtorrents.com/
 local=/comandotorrenthd.net/
 local=/comandotorrents.com/
 local=/comandotorrents.org/
@@ -2445,6 +2447,7 @@ local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
+local=/crackedpc.org/
 local=/crackedstream.tv/
 local=/crackedversion.com/
 local=/crackfind.com/
@@ -2511,6 +2514,7 @@ local=/crichd.bar/
 local=/crichd.buzz/
 local=/crichd.com/
 local=/crichd.cyou/
+local=/crichd.guru/
 local=/crichd.info/
 local=/crichd.io/
 local=/crichd.lc/
@@ -2594,6 +2598,7 @@ local=/cuevana3.video/
 local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
+local=/tracker.cutie.dating/
 local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
@@ -2613,7 +2618,10 @@ local=/cyberwares.ru/
 local=/cyberwarez.info/
 local=/cyclingtorrents.nl/
 local=/cyonix.net/
+local=/tracker.cypherpunks.ru/
 local=/cytu.be/
+local=/proxy-cool-n-forex-hot-list.cz.cc/
+local=/sons-of-anarchy-3.cz.cc/
 local=/torrents.czteam.ro/
 local=/cztorrent.net/
 local=/d-addicts.com/
@@ -2714,6 +2722,7 @@ local=/ddownload.com/
 local=/tracker.ddunlimited.net/
 local=/ddwarez.com/
 local=/loveintheholyquran.de.com/
+local=/deadfrog.us/
 local=/fe.dealclub.de/
 local=/deamonbytes.net/
 local=/deathlord.eu/
@@ -2727,6 +2736,7 @@ local=/defconpro.net/
 local=/defianceprotocol.com/
 local=/deflix.tv/
 local=/degree-anime.com/
+local=/deimonhigh.com/
 local=/torrents.dekadence.ro/
 local=/dekhobd.com/
 local=/dekhvhai.com/
@@ -2775,6 +2785,7 @@ local=/dezflight-underground.com/
 local=/dfast.app/
 local=/dfichiers.com/
 local=/dflix.live/
+local=/em.dfnbd.net/
 local=/tube.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
@@ -2811,6 +2822,7 @@ local=/tracker.digitalcore.club/
 local=/www2.digitaldistractions.org/
 local=/digitalduniya.net/
 local=/digitalhive.org/
+local=/digitalmusicians.ca/
 local=/digitalpanic.org/
 local=/digitalstreet.org/
 local=/dilandau.com/

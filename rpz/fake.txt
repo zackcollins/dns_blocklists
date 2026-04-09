@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775723820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775752740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 08:37 UTC
-; Version: 2026.0409.0837.40
+; Last modified: 09 Apr 2026 16:39 UTC
+; Version: 2026.0409.1639.07
 ; Syntax: RPZ
-; Number of entries: 28132
+; Number of entries: 28176
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4648,6 +4648,8 @@ commercewealth.com CNAME .
 *.commercewealth.com CNAME .
 commiodity.com CNAME .
 *.commiodity.com CNAME .
+commodityk.com CNAME .
+*.commodityk.com CNAME .
 commodityt.com CNAME .
 *.commodityt.com CNAME .
 communicatk.com CNAME .
@@ -4682,6 +4684,8 @@ confiemm.com CNAME .
 *.confiemm.com CNAME .
 conforim.com CNAME .
 *.conforim.com CNAME .
+confortacharme.com CNAME .
+*.confortacharme.com CNAME .
 congratulatiy.com CNAME .
 *.congratulatiy.com CNAME .
 congresshotelamsguestsportalarriva.com CNAME .
@@ -4710,6 +4714,8 @@ containerwelt24.com CNAME .
 *.containerwelt24.com CNAME .
 conteneursducoin.com CNAME .
 *.conteneursducoin.com CNAME .
+contiflexv.com CNAME .
+*.contiflexv.com CNAME .
 controllerkunst.com CNAME .
 *.controllerkunst.com CNAME .
 convergek.com CNAME .
@@ -4758,6 +4764,8 @@ cosplayshow.com CNAME .
 *.cosplayshow.com CNAME .
 cosplayverkauf.com CNAME .
 *.cosplayverkauf.com CNAME .
+cottline.com CNAME .
+*.cottline.com CNAME .
 cottonshoesshop.com CNAME .
 *.cottonshoesshop.com CNAME .
 cottonwears.com CNAME .
@@ -4930,6 +4938,8 @@ cvc-capital-partners.com CNAME .
 *.cvc-capital-partners.com CNAME .
 cvneed.com CNAME .
 *.cvneed.com CNAME .
+cycasturkey.com CNAME .
+*.cycasturkey.com CNAME .
 cycle100percent.com CNAME .
 *.cycle100percent.com CNAME .
 cycleexplorer.com CNAME .
@@ -5038,14 +5048,20 @@ daveintheshop.com CNAME .
 *.daveintheshop.com CNAME .
 davinci-wear.com CNAME .
 *.davinci-wear.com CNAME .
+daxrise.com CNAME .
+*.daxrise.com CNAME .
 daysgiftrewards.com CNAME .
 *.daysgiftrewards.com CNAME .
 daytoday-deals.com CNAME .
 *.daytoday-deals.com CNAME .
 dazalle.com CNAME .
 *.dazalle.com CNAME .
+dbestbrands.com CNAME .
+*.dbestbrands.com CNAME .
 dbflink.com CNAME .
 *.dbflink.com CNAME .
+dcshoes-eu.com CNAME .
+*.dcshoes-eu.com CNAME .
 dcsresearch.com CNAME .
 *.dcsresearch.com CNAME .
 223.de.com CNAME .
@@ -5330,6 +5346,8 @@ destineding.com CNAME .
 *.destineding.com CNAME .
 destinedy.com CNAME .
 *.destinedy.com CNAME .
+destjarnaapparel.com CNAME .
+*.destjarnaapparel.com CNAME .
 destrellson.com CNAME .
 *.destrellson.com CNAME .
 detapetenonline.com CNAME .
@@ -5408,6 +5426,8 @@ digital-starten.com CNAME .
 *.digital-starten.com CNAME .
 digitalsecurefix.com CNAME .
 *.digitalsecurefix.com CNAME .
+digitech-shop.com CNAME .
+*.digitech-shop.com CNAME .
 dilary.com CNAME .
 *.dilary.com CNAME .
 diliving.com CNAME .
@@ -5470,6 +5490,8 @@ distributem.com CNAME .
 *.distributem.com CNAME .
 dithclerk.com CNAME .
 *.dithclerk.com CNAME .
+dittmarwerkzeuge.com CNAME .
+*.dittmarwerkzeuge.com CNAME .
 divisaautopecas.com CNAME .
 *.divisaautopecas.com CNAME .
 divisconcept.com CNAME .
@@ -18794,6 +18816,8 @@ ondeutschland.com.de CNAME .
 *.ondeutschland.com.de CNAME .
 owala.com.de CNAME .
 *.owala.com.de CNAME .
+pokemoncenter.com.de CNAME .
+*.pokemoncenter.com.de CNAME .
 polaroid.com.de CNAME .
 *.polaroid.com.de CNAME .
 ragwear.com.de CNAME .
@@ -19064,6 +19088,8 @@ deuhr.de CNAME .
 *.deuhr.de CNAME .
 deutmart.de CNAME .
 *.deutmart.de CNAME .
+deutsch-brennholz.de CNAME .
+*.deutsch-brennholz.de CNAME .
 deutsche-rentenauskunft.de CNAME .
 *.deutsche-rentenauskunft.de CNAME .
 deutschechic.de CNAME .
@@ -19134,6 +19160,10 @@ dirndlzeit.de CNAME .
 *.dirndlzeit.de CNAME .
 discount-baustoff.de CNAME .
 *.discount-baustoff.de CNAME .
+discountheldende.de CNAME .
+*.discountheldende.de CNAME .
+discounttraumde.de CNAME .
+*.discounttraumde.de CNAME .
 diskrete-apotheke.de CNAME .
 *.diskrete-apotheke.de CNAME .
 disneykinder.de CNAME .
@@ -25694,6 +25724,8 @@ bextradefx.online CNAME .
 *.bextradefx.online CNAME .
 cialis-online20mg.online CNAME .
 *.cialis-online20mg.online CNAME .
+cryptocase.online CNAME .
+*.cryptocase.online CNAME .
 de-upwork.online CNAME .
 *.de-upwork.online CNAME .
 decorsolutions.online CNAME .
@@ -26322,6 +26354,8 @@ comfypjs.shop CNAME .
 *.comfypjs.shop CNAME .
 containercompany.shop CNAME .
 *.containercompany.shop CNAME .
+cooltv.shop CNAME .
+*.cooltv.shop CNAME .
 corkandoeu.shop CNAME .
 *.corkandoeu.shop CNAME .
 corkandopop.shop CNAME .
@@ -26340,6 +26374,8 @@ crunchysnacksava.shop CNAME .
 *.crunchysnacksava.shop CNAME .
 crxjik.shop CNAME .
 *.crxjik.shop CNAME .
+curiosi.shop CNAME .
+*.curiosi.shop CNAME .
 cyjumay.shop CNAME .
 *.cyjumay.shop CNAME .
 dailyjoy.shop CNAME .
@@ -27438,6 +27474,8 @@ viagraeshop.sk CNAME .
 *.viagraeshop.sk CNAME .
 tesler.software CNAME .
 *.tesler.software CNAME .
+cryptos.solutions CNAME .
+*.cryptos.solutions CNAME .
 franke-it.solutions CNAME .
 *.franke-it.solutions CNAME .
 birkshoes.space CNAME .
@@ -27984,6 +28022,8 @@ batsedgx.vip CNAME .
 *.batsedgx.vip CNAME .
 breville.vip CNAME .
 *.breville.vip CNAME .
+de-addictedtohandbags.vip CNAME .
+*.de-addictedtohandbags.vip CNAME .
 degussa.vip CNAME .
 *.degussa.vip CNAME .
 h5.ecoinf.vip CNAME .
@@ -28026,6 +28066,10 @@ karcher.work CNAME .
 *.karcher.work CNAME .
 aspierhireworksde.works CNAME .
 *.aspierhireworksde.works CNAME .
+detlinkx.works CNAME .
+*.detlinkx.works CNAME .
+deworkfusion.works CNAME .
+*.deworkfusion.works CNAME .
 earnavioat.works CNAME .
 *.earnavioat.works CNAME .
 flexiworkde.works CNAME .

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Apr 2026 10:25 UTC
-! Version: 2026.0409.1025.23
+! Last modified: 09 Apr 2026 18:27 UTC
+! Version: 2026.0409.1827.34
 ! Syntax: AdBlock
-! Number of entries: 18192
+! Number of entries: 18198
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -950,7 +950,6 @@
 ||dnsnl.alekberg.net^
 ||agh.alematho.de^
 ||alexahub.net^
-||ag.alexf.cc^
 ||diskstation.alexpollard.net^
 ||management.alexpollard.net^
 ||alfavpn.ru^
@@ -4325,6 +4324,7 @@
 ||compsci.college^
 ||pleasedontblockthissevnlaks.computacionsur.ar^
 ||computercar92.com^
+||computerkey82.com^
 ||13.computerne.com^
 ||21.computerne.com^
 ||3.computerne.com^
@@ -4411,6 +4411,7 @@
 ||proxy.corsfix.com^
 ||corsproxy.io^
 ||waguri.corti.to^
+||cosmohacker.space^
 ||adguardhome.fr.couli.fr^
 ||sci.add.countyohio.info^
 ||craft.tech.countyohio.net^
@@ -4582,7 +4583,7 @@
 ||qual.cuprum.ru^
 ||curd.io^
 ||shadow.curesoutpost.com^
-||dns.curser.dev^
+||curser.dev^
 ||cusoahxuaobwhdieah.fun^
 ||customudp.site^
 ||cv-unfiltered.xyz^
@@ -4818,6 +4819,7 @@
 ||test180.ddo.jp^
 ||ddsss1.xyz^
 ||renaissance-go.de.com^
+||why.is.it.my.fault.de-a.org^
 ||kevinss-us-1.kevinss886.de5.net^
 ||dns.deadsec.net^
 ||dean52.top^
@@ -5048,13 +5050,17 @@
 ||dns.pub^
 ||dns.sb^
 ||dns.watch^
+||3mvrb6-1vwdl6gb5xnyl.dns.army^
 ||cloudsync.dns.army^
 ||deep-sea.dns.navy^
 ||fargos2.dns.army^
 ||guigu.dns.army^
 ||hehehegnmath.dns.army^
 ||homec92.dns.army^
+||jolly1.dns.army^
+||lawless-zone.dns.army^
 ||wolf-zone.dns.army^
+||wolfzone.dns.army^
 ||dns.dns-53.com^
 ||dns.dns-53.uk^
 ||dns.dns-53.us^

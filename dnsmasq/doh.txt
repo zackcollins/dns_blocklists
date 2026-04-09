@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 10:24 UTC
-# Version: 2026.0409.1024.34
+# Last modified: 09 Apr 2026 18:26 UTC
+# Version: 2026.0409.1826.47
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3474
 #
@@ -230,7 +230,6 @@ local=/dns.akbxr.com/
 local=/dns.albony.xyz/
 local=/dnsnl.alekberg.net/
 local=/agh.alematho.de/
-local=/ag.alexf.cc/
 local=/diskstation.alexpollard.net/
 local=/management.alexpollard.net/
 local=/httpdns.alicdn.com/
@@ -737,7 +736,7 @@ local=/webdav.cubecloud.win/
 local=/cubedns.com/
 local=/iux3-s.cuiy4trg8fmosya2iip3ci.name/
 local=/qual.cuprum.ru/
-local=/dns.curser.dev/
+local=/curser.dev/
 local=/dns.cwlys.com/
 local=/gc.cyberbeta.cn/
 local=/nanopi.cybergroove.net/
@@ -919,6 +918,7 @@ local=/srv04.dns64.de/
 local=/dns8.org/
 local=/dnsbunker.org/
 local=/ns1.recursive.dnsbycomodo.com/
+local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
 local=/dnscity.org/
 local=/abe01.dnscry.pt/
