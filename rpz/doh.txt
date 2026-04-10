@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775759160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775816760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 18:26 UTC
-; Version: 2026.0409.1826.47
+; Last modified: 10 Apr 2026 10:26 UTC
+; Version: 2026.0410.1026.46
 ; Syntax: RPZ
-; Number of entries: 6948
+; Number of entries: 6956
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1119,6 +1119,10 @@ lamdtl.giize.com CNAME .
 *.lamdtl.giize.com CNAME .
 dns.giriprabhat.com CNAME .
 *.dns.giriprabhat.com CNAME .
+sdns22.gkonuralp.com CNAME .
+*.sdns22.gkonuralp.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 panel.gogolvpn.com CNAME .
 *.panel.gogolvpn.com CNAME .
 dev.gonnadive.com CNAME .
@@ -2321,6 +2325,8 @@ dns.edison42.dev CNAME .
 *.dns.edison42.dev CNAME .
 ejaysss.dev CNAME .
 *.ejaysss.dev CNAME .
+dns.faze.dev CNAME .
+*.dns.faze.dev CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
@@ -6219,6 +6225,8 @@ dnssilo.top CNAME .
 *.dnssilo.top CNAME .
 dns.doserver.top CNAME .
 *.dns.doserver.top CNAME .
+droyd.top CNAME .
+*.droyd.top CNAME .
 yukito.duanzx.top CNAME .
 *.yukito.duanzx.top CNAME .
 az.dz4fun.top CNAME .

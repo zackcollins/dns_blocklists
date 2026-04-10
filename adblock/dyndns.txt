@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Apr 2026 10:24 UTC
-! Version: 2026.0409.1024.03
+! Last modified: 10 Apr 2026 10:26 UTC
+! Version: 2026.0410.1026.18
 ! Syntax: AdBlock
-! Number of entries: 1480
+! Number of entries: 1482
 !
 ||0000000000000000000000.com^
 ||0x.no^
@@ -487,6 +487,7 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
+||evils.in^
 ||expired-dns.com^
 ||ez-dns.com^
 ||ez-ip.net^
@@ -519,6 +520,7 @@
 ||for-our.info^
 ||for-some.biz^
 ||for-the.biz^
+||foroemprende.com^
 ||forss.to^
 ||fortiddns.com^
 ||forumz.info^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 08:23 UTC
-# Version: 2026.0409.0823.38
+# Last modified: 10 Apr 2026 08:24 UTC
+# Version: 2026.0410.0824.29
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2086
+# Number of entries: 2090
 #
 1-aclk.net
 1aurl.io
@@ -768,6 +768,7 @@ suite30.emarsys.net
 suite30-cf.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
+suite33-cf.emarsys.net
 suite34.emarsys.net
 suite36.emarsys.net
 suite36-cf.emarsys.net
@@ -961,6 +962,7 @@ cdn.mie.exponea.com
 neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
+puc-cdn.exponea.com
 raisin-cdn.exponea.com
 ri-cdn.exponea.com
 rozetka-cdn.exponea.com
@@ -1461,6 +1463,7 @@ mkto-ab690011.com
 mkto-ab690019.com
 mkto-ab690062.com
 mkto-abc0038.com
+mkto-abc0114.com
 mkto-abc0203.com
 mkto-abc0241.com
 mkto-abd0206.com
@@ -1517,6 +1520,7 @@ mkto-sj130243.com
 mkto-sj140007.com
 mkto-sj140163.com
 mkto-sj150025.com
+mkto-sj160006.com
 mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com

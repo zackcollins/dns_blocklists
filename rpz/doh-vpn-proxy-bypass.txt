@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775759220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775816820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 18:27 UTC
-; Version: 2026.0409.1827.34
+; Last modified: 10 Apr 2026 10:27 UTC
+; Version: 2026.0410.1027.28
 ; Syntax: RPZ
-; Number of entries: 36396
+; Number of entries: 36420
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -7337,6 +7337,8 @@ doonion.com CNAME .
 *.doonion.com CNAME .
 doorcar92.com CNAME .
 *.doorcar92.com CNAME .
+doorkey82.com CNAME .
+*.doorkey82.com CNAME .
 doorphone92.com CNAME .
 *.doorphone92.com CNAME .
 doproapp.com CNAME .
@@ -7461,6 +7463,8 @@ dreamoblige.com CNAME .
 *.dreamoblige.com CNAME .
 dressnano.com CNAME .
 *.dressnano.com CNAME .
+www-webprxsvc.drewcotech.com CNAME .
+*.www-webprxsvc.drewcotech.com CNAME .
 drinksnucleus.com CNAME .
 *.drinksnucleus.com CNAME .
 drmvkcdd.com CNAME .
@@ -8477,6 +8481,8 @@ www-server.freewebsproxy.com CNAME .
 *.www-server.freewebsproxy.com CNAME .
 freexite.com CNAME .
 *.freexite.com CNAME .
+freeyouproxytube.com CNAME .
+*.freeyouproxytube.com CNAME .
 freloop.com CNAME .
 *.freloop.com CNAME .
 french-vpn.com CNAME .
@@ -8669,6 +8675,8 @@ gjhjdofn.com CNAME .
 *.gjhjdofn.com CNAME .
 gjxbqmgk.com CNAME .
 *.gjxbqmgk.com CNAME .
+sdns22.gkonuralp.com CNAME .
+*.sdns22.gkonuralp.com CNAME .
 gladosgw.com CNAME .
 *.gladosgw.com CNAME .
 fr33ze.gleeze.com CNAME .
@@ -8685,6 +8693,8 @@ globalreject.com CNAME .
 *.globalreject.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 gmodsandbox.com CNAME .
@@ -18231,6 +18241,8 @@ sixseven67.errorrail.dev CNAME .
 *.sixseven67.errorrail.dev CNAME .
 extrememath.dev CNAME .
 *.extrememath.dev CNAME .
+dns.faze.dev CNAME .
+*.dns.faze.dev CNAME .
 finalgo.dev CNAME .
 *.finalgo.dev CNAME .
 frogiesarcade.dev CNAME .
@@ -25285,6 +25297,10 @@ gustamadh.dynv6.net CNAME .
 *.gustamadh.dynv6.net CNAME .
 ineedmymoney.dynv6.net CNAME .
 *.ineedmymoney.dynv6.net CNAME .
+sagamihara.dynv6.net CNAME .
+*.sagamihara.dynv6.net CNAME .
+slayer2wild.dynv6.net CNAME .
+*.slayer2wild.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
 *.t9rke-5zq1m.dynv6.net CNAME .
 treesareplanted.dynv6.net CNAME .
@@ -25639,6 +25655,8 @@ gogoletsgogo.net CNAME .
 *.gogoletsgogo.net CNAME .
 goodusa.net CNAME .
 *.goodusa.net CNAME .
+dns-tunnel-check.googlezip.net CNAME .
+*.dns-tunnel-check.googlezip.net CNAME .
 tunnel.googlezip.net CNAME .
 *.tunnel.googlezip.net CNAME .
 goshadow.net CNAME .
@@ -30467,6 +30485,8 @@ defined.pics CNAME .
 *.defined.pics CNAME .
 endis.furryporn.pics CNAME .
 *.endis.furryporn.pics CNAME .
+gmsmedia.pics CNAME .
+*.gmsmedia.pics CNAME .
 hintz.pics CNAME .
 *.hintz.pics CNAME .
 mouse.pics CNAME .
@@ -33631,6 +33651,8 @@ dotu02-6bnjnqnd.top CNAME .
 *.dotu02-6bnjnqnd.top CNAME .
 dovanvu.top CNAME .
 *.dovanvu.top CNAME .
+droyd.top CNAME .
+*.droyd.top CNAME .
 yukito.duanzx.top CNAME .
 *.yukito.duanzx.top CNAME .
 az.dz4fun.top CNAME .
@@ -35523,6 +35545,8 @@ agent.frankutils.xyz CNAME .
 *.agent.frankutils.xyz CNAME .
 free-proxy.xyz CNAME .
 *.free-proxy.xyz CNAME .
+free-vpn.xyz CNAME .
+*.free-vpn.xyz CNAME .
 freeruleonline.xyz CNAME .
 *.freeruleonline.xyz CNAME .
 frogiesarcade.xyz CNAME .

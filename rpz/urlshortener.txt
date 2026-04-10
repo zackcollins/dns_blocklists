@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775752800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775810400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 16:40 UTC
-; Version: 2026.0409.1640.55
+; Last modified: 10 Apr 2026 08:40 UTC
+; Version: 2026.0410.0840.09
 ; Syntax: RPZ
-; Number of entries: 19966
+; Number of entries: 19992
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -367,6 +367,8 @@ grey-sphere-536600.framer.app CNAME .
 *.grey-sphere-536600.framer.app CNAME .
 gacor.app CNAME .
 *.gacor.app CNAME .
+gigbridge.app CNAME .
+*.gigbridge.app CNAME .
 gosnip.app CNAME .
 *.gosnip.app CNAME .
 hisc.app CNAME .
@@ -4259,6 +4261,8 @@ eiwebs.com CNAME .
 *.eiwebs.com CNAME .
 el1nk.com CNAME .
 *.el1nk.com CNAME .
+el32.com CNAME .
+*.el32.com CNAME .
 elfdirect.com CNAME .
 *.elfdirect.com CNAME .
 eliasbrickner.com CNAME .
@@ -4373,6 +4377,8 @@ linksmanager.fivedollarsaas.com CNAME .
 *.linksmanager.fivedollarsaas.com CNAME .
 fjr24.com CNAME .
 *.fjr24.com CNAME .
+fl-y.com CNAME .
+*.fl-y.com CNAME .
 flameurl.com CNAME .
 *.flameurl.com CNAME .
 flashwombat.com CNAME .
@@ -4403,6 +4409,8 @@ flyurls.com CNAME .
 *.flyurls.com CNAME .
 fneezet.com CNAME .
 *.fneezet.com CNAME .
+fnleasing.com CNAME .
+*.fnleasing.com CNAME .
 fnoogy.com CNAME .
 *.fnoogy.com CNAME .
 fondby.com CNAME .
@@ -8593,6 +8601,8 @@ emirat.es CNAME .
 *.emirat.es CNAME .
 epochtim.es CNAME .
 *.epochtim.es CNAME .
+fnk.es CNAME .
+*.fnk.es CNAME .
 kamo.es CNAME .
 *.kamo.es CNAME .
 liu.es CNAME .
@@ -9963,6 +9973,8 @@ g-web.in CNAME .
 *.g-web.in CNAME .
 gejje.in CNAME .
 *.gejje.in CNAME .
+geti.in CNAME .
+*.geti.in CNAME .
 getshort.in CNAME .
 *.getshort.in CNAME .
 gigaz.in CNAME .
@@ -11437,6 +11449,8 @@ ee9.ir CNAME .
 *.ee9.ir CNAME .
 fna.ir CNAME .
 *.fna.ir CNAME .
+go2l.ir CNAME .
+*.go2l.ir CNAME .
 h3x.ir CNAME .
 *.h3x.ir CNAME .
 amirhossein.id.ir CNAME .
@@ -14077,6 +14091,8 @@ housga.me CNAME .
 *.housga.me CNAME .
 hrbl.me CNAME .
 *.hrbl.me CNAME .
+hurl.me CNAME .
+*.hurl.me CNAME .
 ichini.me CNAME .
 *.ichini.me CNAME .
 ictv.me CNAME .
@@ -15167,6 +15183,8 @@ gatustox.net CNAME .
 *.gatustox.net CNAME .
 gbpg.net CNAME .
 *.gbpg.net CNAME .
+gdanstum.net CNAME .
+*.gdanstum.net CNAME .
 geralink.net CNAME .
 *.geralink.net CNAME .
 getpcp.net CNAME .
@@ -15673,6 +15691,8 @@ coupa.ng CNAME .
 *.coupa.ng CNAME .
 dcc.ng CNAME .
 *.dcc.ng CNAME .
+shar.i.ng CNAME .
+*.shar.i.ng CNAME .
 myurl.ng CNAME .
 *.myurl.ng CNAME .
 owlti.ng CNAME .
@@ -18101,6 +18121,8 @@ amz.tf CNAME .
 *.amz.tf CNAME .
 drop.tf CNAME .
 *.drop.tf CNAME .
+f1.tf CNAME .
+*.f1.tf CNAME .
 fsv.tf CNAME .
 *.fsv.tf CNAME .
 ohw.tf CNAME .
@@ -18317,6 +18339,8 @@ hpe.to CNAME .
 *.hpe.to CNAME .
 htn.to CNAME .
 *.htn.to CNAME .
+huff.to CNAME .
+*.huff.to CNAME .
 imdb.to CNAME .
 *.imdb.to CNAME .
 inf.to CNAME .
@@ -19465,6 +19489,8 @@ fileshortlinks.vip CNAME .
 *.fileshortlinks.vip CNAME .
 getmovie.vip CNAME .
 *.getmovie.vip CNAME .
+hokidana.vip CNAME .
+*.hokidana.vip CNAME .
 lihi.vip CNAME .
 *.lihi.vip CNAME .
 link-me.vip CNAME .

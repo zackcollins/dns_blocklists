@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 18:27 UTC
-# Version: 2026.0409.1827.34
+# Last modified: 10 Apr 2026 10:27 UTC
+# Version: 2026.0410.1027.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18198
+# Number of entries: 18210
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -5256,6 +5256,7 @@ local=/doo2.net/
 local=/doonion.com/
 local=/doorcar92.com/
 local=/doorigin.net/
+local=/doorkey82.com/
 local=/doorphone92.com/
 local=/dopanda.net/
 local=/doprivate.net/
@@ -5373,6 +5374,7 @@ local=/dreamvpn.us/
 local=/dns.dremaxx.de/
 local=/dressnano.com/
 local=/day.dresus.org/
+local=/www-webprxsvc.drewcotech.com/
 local=/driftvibe.cfd/
 local=/drinksnucleus.com/
 local=/drixel.ru/
@@ -5381,6 +5383,7 @@ local=/drmvkcdd.com/
 local=/droidvpn.com/
 local=/drovanel.ru/
 local=/droxyproxy.com/
+local=/droyd.top/
 local=/drtmsxnj.com/
 local=/dns.druta.me/
 local=/agh.dshubham.xyz/
@@ -5536,6 +5539,8 @@ local=/saomai.dynu.com/
 local=/getjumpscared.dynv6.net/
 local=/gustamadh.dynv6.net/
 local=/ineedmymoney.dynv6.net/
+local=/sagamihara.dynv6.net/
+local=/slayer2wild.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/treesareplanted.dynv6.net/
 local=/dns.dynx.pro/
@@ -6340,6 +6345,7 @@ local=/api.fatibara.com/
 local=/favoriteshoes.us/
 local=/adguardhome.favrep.ovh/
 local=/faxknz.cn/
+local=/dns.faze.dev/
 local=/fbaff.pro/
 local=/fbaff01.pro/
 local=/fbaffa01.cc/
@@ -6684,6 +6690,7 @@ local=/free-vpn.club/
 local=/free-vpn.cn/
 local=/free-vpn.mom/
 local=/free-vpn.pro/
+local=/free-vpn.xyz/
 local=/free-vpn-planet.net/
 local=/free-vpnapp.com/
 local=/free-vpnplanet.net/
@@ -6800,6 +6807,7 @@ local=/freevpnsoftware.net/
 local=/freewebproxy.eu/
 local=/www-server.freewebsproxy.com/
 local=/freexite.com/
+local=/freeyouproxytube.com/
 local=/freeyoutube.net/
 local=/freloop.com/
 local=/french-vpn.com/
@@ -7128,6 +7136,7 @@ local=/gizlibaglanti.com/
 local=/gjhjdofn.com/
 local=/h.gjrick.tw/
 local=/gjxbqmgk.com/
+local=/sdns22.gkonuralp.com/
 local=/gkxicaht.cc/
 local=/gl33tch.pro/
 local=/glacius.top/
@@ -7167,6 +7176,7 @@ local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/glock.my/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/glowstream.art/
 local=/glseries.net/
 local=/dns.glsoft.ai/
@@ -7179,6 +7189,7 @@ local=/qwertyuiop.gmsgroup.app/
 local=/rs.gmsgroup.app/
 local=/typeanything.gmsgroup.app/
 local=/wasdasd.gmsgroup.app/
+local=/gmsmedia.pics/
 local=/www-proxy.gn-hsrv.space/
 local=/dns.gnb09.id/
 local=/gnuvpn.com/
@@ -7264,6 +7275,7 @@ local=/googlecloudserviceapi.com/
 local=/googleforge.com/
 local=/googlelabhub.com/
 local=/googlevpn.help/
+local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/googo.us/
 local=/googo-appdns.top/

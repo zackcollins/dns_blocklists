@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775730240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775816760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 10:24 UTC
-; Version: 2026.0409.1024.03
+; Last modified: 10 Apr 2026 10:26 UTC
+; Version: 2026.0410.1026.18
 ; Syntax: RPZ
-; Number of entries: 2960
+; Number of entries: 2964
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -628,6 +628,8 @@ flazzard.com CNAME .
 *.flazzard.com CNAME .
 flowergardendaycare.com CNAME .
 *.flowergardendaycare.com CNAME .
+foroemprende.com CNAME .
+*.foroemprende.com CNAME .
 fortiddns.com CNAME .
 *.fortiddns.com CNAME .
 freeddns.com CNAME .
@@ -1676,6 +1678,8 @@ now.im CNAME .
 *.now.im CNAME .
 cloudns.in CNAME .
 *.cloudns.in CNAME .
+evils.in CNAME .
+*.evils.in CNAME .
 indevs.in CNAME .
 *.indevs.in CNAME .
 aintno.info CNAME .

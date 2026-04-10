@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 18:26 UTC
-# Version: 2026.0409.1826.47
+# Last modified: 10 Apr 2026 10:26 UTC
+# Version: 2026.0410.1026.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3936
+# Number of entries: 3940
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1388,6 +1388,7 @@
 0.0.0.0 webmail.drahonn.pro
 0.0.0.0 www.drahonn.pro
 0.0.0.0 dns.dremaxx.de
+0.0.0.0 droyd.top
 0.0.0.0 dns.druta.me
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 adguard.dsns.cloud
@@ -1617,6 +1618,7 @@
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 adguardhome.favrep.ovh
+0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 dns.fdue.de
@@ -1749,6 +1751,7 @@
 0.0.0.0 dns.giriprabhat.com
 0.0.0.0 doh.ptqy.gitv.tv
 0.0.0.0 h.gjrick.tw
+0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 gl33tch.pro
 0.0.0.0 glacius.top
 0.0.0.0 dns.glampool.cloud
@@ -1762,6 +1765,7 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
+0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.glsoft.ai
 0.0.0.0 dns.gnb09.id
 0.0.0.0 moph.go.th

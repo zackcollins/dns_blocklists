@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 16:40 UTC
-# Version: 2026.0409.1640.55
+# Last modified: 10 Apr 2026 08:40 UTC
+# Version: 2026.0410.0840.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9983
+# Number of entries: 9996
 #
 local=/0.gp/
 local=/00m.in/
@@ -2563,6 +2563,7 @@ local=/ekotex.link/
 local=/el.lk/
 local=/el.ly/
 local=/el1nk.com/
+local=/el32.com/
 local=/ela.st/
 local=/elaxima.pro/
 local=/elfdirect.com/
@@ -2701,6 +2702,7 @@ local=/f-ast.me/
 local=/f-internal.info/
 local=/f-n.link/
 local=/f0rk.in/
+local=/f1.tf/
 local=/f1m.in/
 local=/f1mate.com/
 local=/f24.link/
@@ -2807,6 +2809,7 @@ local=/linksmanager.fivedollarsaas.com/
 local=/fixi.me/
 local=/fiy.no/
 local=/fjr24.com/
+local=/fl-y.com/
 local=/flameurl.com/
 local=/flashsc.re/
 local=/flashwombat.com/
@@ -2859,6 +2862,8 @@ local=/fnb.ink/
 local=/fnb.lc/
 local=/fndry.ch/
 local=/fneezet.com/
+local=/fnk.es/
+local=/fnleasing.com/
 local=/fnoogy.com/
 local=/fnord.eu/
 local=/fnote.it/
@@ -2998,6 +3003,7 @@ local=/gbte.tech/
 local=/go.gcash.com/
 local=/gclnk.com/
 local=/gcrs.live/
+local=/gdanstum.net/
 local=/s.gdngs.de/
 local=/gdurl.com/
 local=/ge.tt/
@@ -3040,6 +3046,7 @@ local=/getbitly.pro/
 local=/getblue.me/
 local=/getcode.pw/
 local=/getf.ly/
+local=/geti.in/
 local=/getlasso.co/
 local=/getlickd.com/
 local=/getlink.space/
@@ -3078,6 +3085,7 @@ local=/gi.lt/
 local=/gibi.link/
 local=/gigalink.me/
 local=/gigaz.in/
+local=/gigbridge.app/
 local=/gil.re/
 local=/giosous.com/
 local=/gir.gg/
@@ -3135,6 +3143,7 @@ local=/go1.day/
 local=/go2.do/
 local=/go2.me/
 local=/go2ct.pro/
+local=/go2l.ir/
 local=/go2ln.com/
 local=/go2my.info/
 local=/go2sm.com/
@@ -3428,6 +3437,7 @@ local=/hoeg.it/
 local=/hoholah.xyz/
 local=/hoki1dana.site/
 local=/hoki22crot.com/
+local=/hokidana.vip/
 local=/hokie.co/
 local=/hokiku.link/
 local=/holxse.co/
@@ -3498,6 +3508,7 @@ local=/hubs.ly/
 local=/url.1.hubs.vn/
 local=/link.io.hubs.vn/
 local=/hubu.ru/
+local=/huff.to/
 local=/huffp.st/
 local=/hugeurl.com/
 local=/hulu.tv/
@@ -3506,6 +3517,7 @@ local=/urls.hungrito.com/
 local=/huntscreens.com/
 local=/hurirk.net/
 local=/hurl.it/
+local=/hurl.me/
 local=/hurl.ws/
 local=/husband92.com/
 local=/hutmat.in/
@@ -3522,6 +3534,7 @@ local=/hyperurl.co/
 local=/hyperx.gg/
 local=/bio.hypexstudio.com/
 local=/hyser.mx/
+local=/shar.i.ng/
 local=/i-ce.cm/
 local=/i-d.co/
 local=/i-mg.app/

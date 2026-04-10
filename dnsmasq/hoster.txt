@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Apr 2026 09:26 UTC
-# Version: 2026.0409.0926.46
+# Last modified: 10 Apr 2026 09:29 UTC
+# Version: 2026.0410.0929.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1199
+# Number of entries: 1201
 #
 local=/000a.de/
 local=/000space.com/
@@ -521,6 +521,7 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
+local=/facepl.com/
 local=/familylobby.com/
 local=/fast-page.org/
 local=/fat-fly.com/
@@ -641,6 +642,7 @@ local=/hostedforfree.com/
 local=/hostfree.pw/
 local=/hostingas.in/
 local=/hostingsiteforfree.com/
+local=/hostkda.com/
 local=/hostland.pro/
 local=/hostseba.com/
 local=/hot.lc/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775726760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775813340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Apr 2026 09:26 UTC
-; Version: 2026.0409.0926.46
+; Last modified: 10 Apr 2026 09:29 UTC
+; Version: 2026.0410.0929.20
 ; Syntax: RPZ
-; Number of entries: 2398
+; Number of entries: 2402
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -498,6 +498,8 @@ ezblogz.com CNAME .
 *.ezblogz.com CNAME .
 ezyro.com CNAME .
 *.ezyro.com CNAME .
+facepl.com CNAME .
+*.facepl.com CNAME .
 familylobby.com CNAME .
 *.familylobby.com CNAME .
 fat-fly.com CNAME .
@@ -600,6 +602,8 @@ hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
 hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
+hostkda.com CNAME .
+*.hostkda.com CNAME .
 hostseba.com CNAME .
 *.hostseba.com CNAME .
 hoxty.com CNAME .
