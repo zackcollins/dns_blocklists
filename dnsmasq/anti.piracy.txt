@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 10:20 UTC
-# Version: 2026.0410.1020.29
+# Last modified: 10 Apr 2026 13:43 UTC
+# Version: 2026.0410.1343.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12266
+# Number of entries: 12271
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -5379,6 +5379,7 @@ local=/app.icon256.com/
 local=/icoonet.com/
 local=/icouchtuner.club/
 local=/icrackmac.com/
+local=/icracks.net/
 local=/icynebula71.pro/
 local=/sensation.id-t.com/
 local=/iddl.org/
@@ -5420,15 +5421,18 @@ local=/ilgeniodellostreaming.golf/
 local=/ilgeniodellostreaming.icu/
 local=/ilgeniodellostreaming.it/
 local=/ilgeniodellostreaming.lat/
+local=/ilgeniodellostreaming.live/
 local=/ilgeniodellostreaming.mobi/
 local=/ilgeniodellostreaming.mom/
 local=/ilgeniodellostreaming.net/
+local=/ilgeniodellostreaming.org/
 local=/ilgeniodellostreaming.party/
 local=/ilgeniodellostreaming.pics/
 local=/ilgeniodellostreaming.pro/
 local=/ilgeniodellostreaming.quest/
 local=/ilgeniodellostreaming.re/
 local=/ilgeniodellostreaming.sale/
+local=/ilgeniodellostreaming.sbs/
 local=/ilgeniodellostreaming.site/
 local=/ilgeniodellostreaming.skin/
 local=/ilgeniodellostreaming.space/
@@ -5464,6 +5468,7 @@ local=/imovietube.com/
 local=/imperiofilmes.com/
 local=/imperiofilmes.org/
 local=/impulsive.hu/
+local=/imtorrents.com/
 local=/imzdl.com/
 local=/anitube.in.ua/
 local=/tracker.exe.in.th/

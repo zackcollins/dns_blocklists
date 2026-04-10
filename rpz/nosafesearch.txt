@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1774627200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775828400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Mar 2026 16:00 UTC
-; Version: 2026.0327.1600.09
+; Last modified: 10 Apr 2026 13:40 UTC
+; Version: 2026.0410.1340.34
 ; Syntax: RPZ
-; Number of entries: 422
+; Number of entries: 412
 ;
 search.femboy.ad CNAME .
 *.search.femboy.ad CNAME .
@@ -28,8 +28,6 @@ searx.bar CNAME .
 *.searx.bar CNAME .
 search.ipsys.bf CNAME .
 *.search.ipsys.bf CNAME .
-searxng.biz CNAME .
-*.searxng.biz CNAME .
 search.aol.ca CNAME .
 *.search.aol.ca CNAME .
 dynabyte.ca CNAME .
@@ -186,8 +184,6 @@ search.minus27315.dev CNAME .
 *.search.minus27315.dev CNAME .
 search.zina.dev CNAME .
 *.search.zina.dev CNAME .
-search.pabloferreiro.es CNAME .
-*.search.pabloferreiro.es CNAME .
 searx.divided-by-zero.eu CNAME .
 *.searx.divided-by-zero.eu CNAME .
 librex.myroware.eu CNAME .
@@ -232,18 +228,12 @@ offtheradar.info CNAME .
 *.offtheradar.info CNAME .
 openworlds.info CNAME .
 *.openworlds.info CNAME .
-searx.ouahpiti.info CNAME .
-*.searx.ouahpiti.info CNAME .
 searx.info CNAME .
 *.searx.info CNAME .
-searx.daetalytica.io CNAME .
-*.searx.daetalytica.io CNAME .
 gigablast.io CNAME .
 *.gigablast.io CNAME .
 search.privacytools.io CNAME .
 *.search.privacytools.io CNAME .
-searx.ir CNAME .
-*.searx.ir CNAME .
 librex.devol.it CNAME .
 *.librex.devol.it CNAME .
 searx.devol.it CNAME .

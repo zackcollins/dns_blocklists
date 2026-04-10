@@ -43,6 +43,13 @@
       }
     },
     {
+      "PK": "ads1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads.bing.com",
       "action": {
         "do": 0,
@@ -2704,41 +2711,6 @@
     },
     {
       "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "www.a.ads1.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "www.a.ads2.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "www.ads1.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "www.adsinapps.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "www.b.ads1.msn.com",
       "action": {
         "do": 0,
         "status": 1

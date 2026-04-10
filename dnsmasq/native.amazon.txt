@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 16:58 UTC
-# Version: 2026.0403.1658.48
+# Last modified: 10 Apr 2026 13:53 UTC
+# Version: 2026.0410.1353.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 320
+# Number of entries: 319
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -185,7 +185,6 @@ local=/h4g3z1-native.amazon.web.app/
 local=/identity.browserapps.amazon.de/
 local=/imdb.amazon-adsystem.com/
 local=/insights.video.a2z.com/
-local=/ir-ae.amazon-adsystem.com/
 local=/ir-br.amazon-adsystem.com/
 local=/ir-ca.amazon-adsystem.com/
 local=/ir-cn.amazon-adsystem.com/

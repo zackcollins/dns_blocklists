@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Apr 2026 08:40 UTC
-! Version: 2026.0410.0840.09
+! Last modified: 10 Apr 2026 13:43 UTC
+! Version: 2026.0410.1343.18
 ! Syntax: AdBlock
-! Number of entries: 9996
+! Number of entries: 9998
 !
 ||0.gp^
 ||00m.in^
@@ -3557,6 +3557,7 @@
 ||ibelocal.com^
 ||ibest.in^
 ||ibf.tw^
+||ibio.app^
 ||ibis.li^
 ||ibit.ly^
 ||ibitsy.com^
@@ -3673,6 +3674,7 @@
 ||indeedhi.re^
 ||indexure.com^
 ||inds.me^
+||indvix.com^
 ||indy.st^
 ||inf.money^
 ||inf.so^

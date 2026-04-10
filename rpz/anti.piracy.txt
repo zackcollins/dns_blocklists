@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775816400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775828580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Apr 2026 10:20 UTC
-; Version: 2026.0410.1020.29
+; Last modified: 10 Apr 2026 13:43 UTC
+; Version: 2026.0410.1343.47
 ; Syntax: RPZ
-; Number of entries: 24532
+; Number of entries: 24542
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5452,6 +5452,8 @@ imovietube.com CNAME .
 *.imovietube.com CNAME .
 imperiofilmes.com CNAME .
 *.imperiofilmes.com CNAME .
+imtorrents.com CNAME .
+*.imtorrents.com CNAME .
 imzdl.com CNAME .
 *.imzdl.com CNAME .
 inclouddrive.com CNAME .
@@ -12398,6 +12400,8 @@ hiperflix.live CNAME .
 *.hiperflix.live CNAME .
 ihub.live CNAME .
 *.ihub.live CNAME .
+ilgeniodellostreaming.live CNAME .
+*.ilgeniodellostreaming.live CNAME .
 itvhd.live CNAME .
 *.itvhd.live CNAME .
 jhakkas.live CNAME .
@@ -14438,6 +14442,8 @@ hyperproxy.net CNAME .
 *.hyperproxy.net CNAME .
 ibdplex.net CNAME .
 *.ibdplex.net CNAME .
+icracks.net CNAME .
+*.icracks.net CNAME .
 igruhi.net CNAME .
 *.igruhi.net CNAME .
 ilf.net CNAME .
@@ -17006,6 +17012,8 @@ igrovuha.org CNAME .
 *.igrovuha.org CNAME .
 ikwilthepiratebay.org CNAME .
 *.ikwilthepiratebay.org CNAME .
+ilgeniodellostreaming.org CNAME .
+*.ilgeniodellostreaming.org CNAME .
 tracker.ilibr.org CNAME .
 *.tracker.ilibr.org CNAME .
 imojado.org CNAME .
@@ -19916,6 +19924,8 @@ flemmix.sbs CNAME .
 *.flemmix.sbs CNAME .
 guardaserietv.sbs CNAME .
 *.guardaserietv.sbs CNAME .
+ilgeniodellostreaming.sbs CNAME .
+*.ilgeniodellostreaming.sbs CNAME .
 moviedokan.sbs CNAME .
 *.moviedokan.sbs CNAME .
 movies123.sbs CNAME .

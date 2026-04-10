@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775810280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775829900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Apr 2026 08:38 UTC
-; Version: 2026.0410.0838.23
+; Last modified: 10 Apr 2026 14:05 UTC
+; Version: 2026.0410.1405.04
 ; Syntax: RPZ
-; Number of entries: 28356
+; Number of entries: 28388
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -360,6 +360,8 @@ everlastosterreich.at CNAME .
 *.everlastosterreich.at CNAME .
 evershape.at CNAME .
 *.evershape.at CNAME .
+fakeshop.at CNAME .
+*.fakeshop.at CNAME .
 falinas.at CNAME .
 *.falinas.at CNAME .
 fatburnerking.at CNAME .
@@ -494,6 +496,8 @@ idigital.at CNAME .
 *.idigital.at CNAME .
 imfocus.at CNAME .
 *.imfocus.at CNAME .
+immobilien-schaller.at CNAME .
+*.immobilien-schaller.at CNAME .
 imtrend.at CNAME .
 *.imtrend.at CNAME .
 innerekraft.at CNAME .
@@ -8044,6 +8048,8 @@ gutgarten.com CNAME .
 *.gutgarten.com CNAME .
 gutgolf.com CNAME .
 *.gutgolf.com CNAME .
+gutmotorradteile.com CNAME .
+*.gutmotorradteile.com CNAME .
 gv-invest.com CNAME .
 *.gv-invest.com CNAME .
 de.gvgmall.com CNAME .
@@ -8884,6 +8890,8 @@ icebugfioutlet.com CNAME .
 *.icebugfioutlet.com CNAME .
 icmswisscs.com CNAME .
 *.icmswisscs.com CNAME .
+icmtrading.com CNAME .
+*.icmtrading.com CNAME .
 iconiclndn.com CNAME .
 *.iconiclndn.com CNAME .
 iconmobel.com CNAME .
@@ -8910,6 +8918,8 @@ iglangeh.com CNAME .
 *.iglangeh.com CNAME .
 igm-financial.com CNAME .
 *.igm-financial.com CNAME .
+igmaferramentas.com CNAME .
+*.igmaferramentas.com CNAME .
 igmholdings.com CNAME .
 *.igmholdings.com CNAME .
 ignitionmodelcars.com CNAME .
@@ -8944,6 +8954,8 @@ immediate-aus.com CNAME .
 *.immediate-aus.com CNAME .
 immediate-bitcoin.com CNAME .
 *.immediate-bitcoin.com CNAME .
+immediate-connect.com CNAME .
+*.immediate-connect.com CNAME .
 immediate-coraldex.com CNAME .
 *.immediate-coraldex.com CNAME .
 immediate-direct.com CNAME .
@@ -8954,12 +8966,16 @@ immediate-flik.com CNAME .
 *.immediate-flik.com CNAME .
 immediate-momentum.com CNAME .
 *.immediate-momentum.com CNAME .
+immediate-peak.com CNAME .
+*.immediate-peak.com CNAME .
 immediate-thorenext.com CNAME .
 *.immediate-thorenext.com CNAME .
 immediateavita.com CNAME .
 *.immediateavita.com CNAME .
 immediatebitwave.com CNAME .
 *.immediatebitwave.com CNAME .
+immediateconnect.com CNAME .
+*.immediateconnect.com CNAME .
 immediateera.com CNAME .
 *.immediateera.com CNAME .
 immediategran360.com CNAME .
@@ -19262,6 +19278,8 @@ dirkuhren.de CNAME .
 *.dirkuhren.de CNAME .
 dirndlzeit.de CNAME .
 *.dirndlzeit.de CNAME .
+discheschuhe.de CNAME .
+*.discheschuhe.de CNAME .
 discount-baustoff.de CNAME .
 *.discount-baustoff.de CNAME .
 discountheldende.de CNAME .
@@ -20910,6 +20928,8 @@ ilsemunchen.de CNAME .
 *.ilsemunchen.de CNAME .
 ilsevonbach.de CNAME .
 *.ilsevonbach.de CNAME .
+imeafinanz.de CNAME .
+*.imeafinanz.de CNAME .
 imfixies.de CNAME .
 *.imfixies.de CNAME .
 imhaushalt.de CNAME .
@@ -25060,6 +25080,8 @@ vldep.lat CNAME .
 *.vldep.lat CNAME .
 betrug.law CNAME .
 *.betrug.law CNAME .
+ilikehksm.life CNAME .
+*.ilikehksm.life CNAME .
 kidgames.life CNAME .
 *.kidgames.life CNAME .
 lovessivs.life CNAME .
@@ -26068,6 +26090,8 @@ hotelsinvienna.org CNAME .
 *.hotelsinvienna.org CNAME .
 ibc-cpt.org CNAME .
 *.ibc-cpt.org CNAME .
+icego.org CNAME .
+*.icego.org CNAME .
 immediate-momentum.org CNAME .
 *.immediate-momentum.org CNAME .
 immediateconnect.org CNAME .
@@ -26560,6 +26584,8 @@ deharaldsoldieava.shop CNAME .
 *.deharaldsoldieava.shop CNAME .
 agebob.dehorse.shop CNAME .
 *.agebob.dehorse.shop CNAME .
+cccup.dehorse.shop CNAME .
+*.cccup.dehorse.shop CNAME .
 deichmannoutlet.shop CNAME .
 *.deichmannoutlet.shop CNAME .
 deichmannsale.shop CNAME .
@@ -26670,6 +26696,8 @@ fbsportonline.shop CNAME .
 *.fbsportonline.shop CNAME .
 adl.fcnqy.shop CNAME .
 *.adl.fcnqy.shop CNAME .
+fermil.shop CNAME .
+*.fermil.shop CNAME .
 ferplastdeutschland.shop CNAME .
 *.ferplastdeutschland.shop CNAME .
 festoolz.shop CNAME .
@@ -26836,6 +26864,8 @@ hundvonedenstoreava.shop CNAME .
 *.hundvonedenstoreava.shop CNAME .
 icelandichorse.shop CNAME .
 *.icelandichorse.shop CNAME .
+impulsa.shop CNAME .
+*.impulsa.shop CNAME .
 incude.shop CNAME .
 *.incude.shop CNAME .
 ingridemil.shop CNAME .
@@ -27098,6 +27128,8 @@ nmcvsaxio.shop CNAME .
 *.nmcvsaxio.shop CNAME .
 not-bad.shop CNAME .
 *.not-bad.shop CNAME .
+nqior.shop CNAME .
+*.nqior.shop CNAME .
 nrlrqk.shop CNAME .
 *.nrlrqk.shop CNAME .
 nsrarlou.shop CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 08:40 UTC
-# Version: 2026.0410.0840.09
+# Last modified: 10 Apr 2026 13:43 UTC
+# Version: 2026.0410.1343.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9996
+# Number of entries: 9998
 #
 local=/0.gp/
 local=/00m.in/
@@ -3556,6 +3556,7 @@ local=/ibd.ink/
 local=/ibelocal.com/
 local=/ibest.in/
 local=/ibf.tw/
+local=/ibio.app/
 local=/ibis.li/
 local=/ibit.ly/
 local=/ibitsy.com/
@@ -3672,6 +3673,7 @@ local=/inddrive.com/
 local=/indeedhi.re/
 local=/indexure.com/
 local=/inds.me/
+local=/indvix.com/
 local=/indy.st/
 local=/inf.money/
 local=/inf.so/
