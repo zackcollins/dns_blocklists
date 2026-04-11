@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775235540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775829240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 16:59 UTC
-; Version: 2026.0403.1659.35
+; Last modified: 10 Apr 2026 13:54 UTC
+; Version: 2026.0410.1354.36
 ; Syntax: RPZ
-; Number of entries: 784
+; Number of entries: 776
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -264,8 +264,6 @@ ads.microsoft.com CNAME .
 *.ads.microsoft.com CNAME .
 adsdk.microsoft.com CNAME .
 *.adsdk.microsoft.com CNAME .
-www.adsinapps.microsoft.com CNAME .
-*.www.adsinapps.microsoft.com CNAME .
 advertising.microsoft.com CNAME .
 *.advertising.microsoft.com CNAME .
 analyticspixel.microsoft.com CNAME .
@@ -350,14 +348,8 @@ adevents.msn.com CNAME .
 *.adevents.msn.com CNAME .
 ads.msn.com CNAME .
 *.ads.msn.com CNAME .
-www.a.ads1.msn.com CNAME .
-*.www.a.ads1.msn.com CNAME .
-www.b.ads1.msn.com CNAME .
-*.www.b.ads1.msn.com CNAME .
-www.ads1.msn.com CNAME .
-*.www.ads1.msn.com CNAME .
-www.a.ads2.msn.com CNAME .
-*.www.a.ads2.msn.com CNAME .
+ads1.msn.com CNAME .
+*.ads1.msn.com CNAME .
 metric.appex-rf.msn.com CNAME .
 *.metric.appex-rf.msn.com CNAME .
 c.ar.msn.com CNAME .

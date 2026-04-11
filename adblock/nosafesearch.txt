@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Mar 2026 16:00 UTC
-! Version: 2026.0327.1600.09
+! Last modified: 10 Apr 2026 13:40 UTC
+! Version: 2026.0410.1340.34
 ! Syntax: AdBlock
-! Number of entries: 211
+! Number of entries: 206
 !
 ||search.0xcb.dev^
 ||search.0xgingi.com^
@@ -50,7 +50,6 @@
 ||searx.com.au^
 ||search.cronobox.one^
 ||searxng.cups.moe^
-||searx.daetalytica.io^
 ||search.darkness.services^
 ||search.davidovski.xyz^
 ||whoogle.dcs0.hu^
@@ -145,8 +144,6 @@
 ||searx.openhoofd.nl^
 ||openworlds.info^
 ||oscobo.com^
-||searx.ouahpiti.info^
-||search.pabloferreiro.es^
 ||peekier.com^
 ||presearch.com^
 ||privacia.org^
@@ -169,7 +166,6 @@
 ||searx.bar^
 ||searx.ch^
 ||searx.info^
-||searx.ir^
 ||searx.ninja^
 ||searx.org^
 ||searx.party^
@@ -179,7 +175,6 @@
 ||searx.stream^
 ||searx.work^
 ||searx.xyz^
-||searxng.biz^
 ||searxzh.cn^
 ||search.seds.nl^
 ||searx.semipvt.com^

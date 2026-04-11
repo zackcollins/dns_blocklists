@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775643600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775903340 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Apr 2026 10:20 UTC
-; Version: 2026.0408.1020.54
+; Last modified: 11 Apr 2026 10:29 UTC
+; Version: 2026.0411.1029.02
 ; Syntax: RPZ
-; Number of entries: 6938
+; Number of entries: 6962
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -245,8 +245,6 @@ dns.native.cat CNAME .
 *.dns.native.cat CNAME .
 affsoft.cc CNAME .
 *.affsoft.cc CNAME .
-ag.alexf.cc CNAME .
-*.ag.alexf.cc CNAME .
 kintoun.alves.cc CNAME .
 *.kintoun.alves.cc CNAME .
 dns.articrevised.cc CNAME .
@@ -285,6 +283,8 @@ bt.luoo.cc CNAME .
 *.bt.luoo.cc CNAME .
 maxfong.cc CNAME .
 *.maxfong.cc CNAME .
+dns.mytest.cc CNAME .
+*.dns.mytest.cc CNAME .
 dns.niccoli.cc CNAME .
 *.dns.niccoli.cc CNAME .
 dns.nonomi.cc CNAME .
@@ -703,10 +703,20 @@ dns.ares-taiwan.com CNAME .
 *.dns.ares-taiwan.com CNAME .
 dns.arkbotech.com CNAME .
 *.dns.arkbotech.com CNAME .
+doh.asecdns.com CNAME .
+*.doh.asecdns.com CNAME .
+dot.asecdns.com CNAME .
+*.dot.asecdns.com CNAME .
 dns.asterimoon.com CNAME .
 *.dns.asterimoon.com CNAME .
+amgr.asuscomm.com CNAME .
+*.amgr.asuscomm.com CNAME .
 dandelionsprout.asuscomm.com CNAME .
 *.dandelionsprout.asuscomm.com CNAME .
+himeko297.asuscomm.com CNAME .
+*.himeko297.asuscomm.com CNAME .
+xkariak.asuscomm.com CNAME .
+*.xkariak.asuscomm.com CNAME .
 dns.asysec.com CNAME .
 *.dns.asysec.com CNAME .
 adguardhome.atakorah.com CNAME .
@@ -957,6 +967,8 @@ dns.dns-over-https.com CNAME .
 *.dns.dns-over-https.com CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
+ns2.recursive.dnsbycomodo.com CNAME .
+*.ns2.recursive.dnsbycomodo.com CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 dnsenc.com CNAME .
@@ -1109,6 +1121,10 @@ lamdtl.giize.com CNAME .
 *.lamdtl.giize.com CNAME .
 dns.giriprabhat.com CNAME .
 *.dns.giriprabhat.com CNAME .
+sdns22.gkonuralp.com CNAME .
+*.sdns22.gkonuralp.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 panel.gogolvpn.com CNAME .
 *.panel.gogolvpn.com CNAME .
 dev.gonnadive.com CNAME .
@@ -2295,8 +2311,8 @@ dns.blaumer.dev CNAME .
 *.dns.blaumer.dev CNAME .
 dns.caliph.dev CNAME .
 *.dns.caliph.dev CNAME .
-dns.curser.dev CNAME .
-*.dns.curser.dev CNAME .
+curser.dev CNAME .
+*.curser.dev CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
 dns.dewei.dev CNAME .
@@ -2311,6 +2327,8 @@ dns.edison42.dev CNAME .
 *.dns.edison42.dev CNAME .
 ejaysss.dev CNAME .
 *.ejaysss.dev CNAME .
+dns.faze.dev CNAME .
+*.dns.faze.dev CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
@@ -4627,6 +4645,8 @@ dns.mahiro.online CNAME .
 *.dns.mahiro.online CNAME .
 ddns.martinmore.online CNAME .
 *.ddns.martinmore.online CNAME .
+dns.mathewakhil.online CNAME .
+*.dns.mathewakhil.online CNAME .
 dns.mymachinepanda.online CNAME .
 *.dns.mymachinepanda.online CNAME .
 n8nmegapixar.online CNAME .
@@ -6209,6 +6229,8 @@ dnssilo.top CNAME .
 *.dnssilo.top CNAME .
 dns.doserver.top CNAME .
 *.dns.doserver.top CNAME .
+droyd.top CNAME .
+*.droyd.top CNAME .
 yukito.duanzx.top CNAME .
 *.yukito.duanzx.top CNAME .
 az.dz4fun.top CNAME .
@@ -6827,6 +6849,8 @@ opennic.i2pd.xyz CNAME .
 *.opennic.i2pd.xyz CNAME .
 opennic2.i2pd.xyz CNAME .
 *.opennic2.i2pd.xyz CNAME .
+ikarosalpha.xyz CNAME .
+*.ikarosalpha.xyz CNAME .
 dns.itya.xyz CNAME .
 *.dns.itya.xyz CNAME .
 ivnkn.xyz CNAME .

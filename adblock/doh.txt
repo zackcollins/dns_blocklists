@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Apr 2026 10:20 UTC
-! Version: 2026.0408.1020.54
+! Last modified: 11 Apr 2026 10:29 UTC
+! Version: 2026.0411.1029.02
 ! Syntax: AdBlock
-! Number of entries: 3469
+! Number of entries: 3481
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -231,7 +231,6 @@
 ||dns.albony.xyz^
 ||dnsnl.alekberg.net^
 ||agh.alematho.de^
-||ag.alexf.cc^
 ||diskstation.alexpollard.net^
 ||management.alexpollard.net^
 ||httpdns.alicdn.com^
@@ -313,12 +312,17 @@
 ||resolver.as203038.net^
 ||doh.asagiri.moe^
 ||grgrgrkeepcalmkeepcalm.asatid12.ir^
+||doh.asecdns.com^
+||dot.asecdns.com^
 ||midgard.asguardian.de^
 ||nilfheim.asguardian.de^
 ||dns.ashleyjackson.net^
 ||doh.asli.id^
 ||dns.asterimoon.com^
+||amgr.asuscomm.com^
 ||dandelionsprout.asuscomm.com^
+||himeko297.asuscomm.com^
+||xkariak.asuscomm.com^
 ||dns.asysec.com^
 ||oci02.at9.eu^
 ||adguardhome.atakorah.com^
@@ -733,7 +737,7 @@
 ||cubedns.com^
 ||iux3-s.cuiy4trg8fmosya2iip3ci.name^
 ||qual.cuprum.ru^
-||dns.curser.dev^
+||curser.dev^
 ||dns.cwlys.com^
 ||gc.cyberbeta.cn^
 ||nanopi.cybergroove.net^
@@ -915,6 +919,7 @@
 ||dns8.org^
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
+||ns2.recursive.dnsbycomodo.com^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||dnscity.org^
 ||abe01.dnscry.pt^
@@ -1152,6 +1157,7 @@
 ||dns.dragon0697.me^
 ||drahonn.pro^
 ||dns.dremaxx.de^
+||droyd.top^
 ||dns.druta.me^
 ||agh.dshubham.xyz^
 ||adguard.dsns.cloud^
@@ -1371,6 +1377,7 @@
 ||dns.farshmc.ru^
 ||adh.fastpacefixit.info^
 ||adguardhome.favrep.ovh^
+||dns.faze.dev^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||dns.fdue.de^
@@ -1500,6 +1507,7 @@
 ||dns.giriprabhat.com^
 ||doh.ptqy.gitv.tv^
 ||h.gjrick.tw^
+||sdns22.gkonuralp.com^
 ||gl33tch.pro^
 ||glacius.top^
 ||dns.glampool.cloud^
@@ -1513,6 +1521,7 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
+||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||moph.go.th^
@@ -1751,6 +1760,7 @@
 ||adguard.ihatemy.live^
 ||dns.ihaveacloud.com^
 ||iij.jp^
+||ikarosalpha.xyz^
 ||dns.ikataruto.com^
 ||mnsvless.ikwb.com^
 ||ilinhy.com^
@@ -2132,6 +2142,7 @@
 ||mastergad.me^
 ||masters-of-cloud.de^
 ||dns.mateo.ovh^
+||dns.mathewakhil.online^
 ||rasp.matthias-iwer.de^
 ||dns.matthias-prost.com^
 ||maxfong.cc^
@@ -2284,6 +2295,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||myrusvpn.de^
 ||mysolod.xyz^
+||dns.mytest.cc^
 ||myv2ray.cn^
 ||area51.mywire.org^
 ||dnsmm.mywire.org^

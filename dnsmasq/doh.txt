@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 10:20 UTC
-# Version: 2026.0408.1020.54
+# Last modified: 11 Apr 2026 10:29 UTC
+# Version: 2026.0411.1029.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3469
+# Number of entries: 3481
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -230,7 +230,6 @@ local=/dns.akbxr.com/
 local=/dns.albony.xyz/
 local=/dnsnl.alekberg.net/
 local=/agh.alematho.de/
-local=/ag.alexf.cc/
 local=/diskstation.alexpollard.net/
 local=/management.alexpollard.net/
 local=/httpdns.alicdn.com/
@@ -312,12 +311,17 @@ local=/dns.artikel10.org/
 local=/resolver.as203038.net/
 local=/doh.asagiri.moe/
 local=/grgrgrkeepcalmkeepcalm.asatid12.ir/
+local=/doh.asecdns.com/
+local=/dot.asecdns.com/
 local=/midgard.asguardian.de/
 local=/nilfheim.asguardian.de/
 local=/dns.ashleyjackson.net/
 local=/doh.asli.id/
 local=/dns.asterimoon.com/
+local=/amgr.asuscomm.com/
 local=/dandelionsprout.asuscomm.com/
+local=/himeko297.asuscomm.com/
+local=/xkariak.asuscomm.com/
 local=/dns.asysec.com/
 local=/oci02.at9.eu/
 local=/adguardhome.atakorah.com/
@@ -732,7 +736,7 @@ local=/webdav.cubecloud.win/
 local=/cubedns.com/
 local=/iux3-s.cuiy4trg8fmosya2iip3ci.name/
 local=/qual.cuprum.ru/
-local=/dns.curser.dev/
+local=/curser.dev/
 local=/dns.cwlys.com/
 local=/gc.cyberbeta.cn/
 local=/nanopi.cybergroove.net/
@@ -914,6 +918,7 @@ local=/srv04.dns64.de/
 local=/dns8.org/
 local=/dnsbunker.org/
 local=/ns1.recursive.dnsbycomodo.com/
+local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
 local=/dnscity.org/
 local=/abe01.dnscry.pt/
@@ -1151,6 +1156,7 @@ local=/twingatedns.dr3ff1c13nt.com/
 local=/dns.dragon0697.me/
 local=/drahonn.pro/
 local=/dns.dremaxx.de/
+local=/droyd.top/
 local=/dns.druta.me/
 local=/agh.dshubham.xyz/
 local=/adguard.dsns.cloud/
@@ -1370,6 +1376,7 @@ local=/dns.farshidhakimy.de/
 local=/dns.farshmc.ru/
 local=/adh.fastpacefixit.info/
 local=/adguardhome.favrep.ovh/
+local=/dns.faze.dev/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
 local=/dns.fdue.de/
@@ -1499,6 +1506,7 @@ local=/dns.girino.org/
 local=/dns.giriprabhat.com/
 local=/doh.ptqy.gitv.tv/
 local=/h.gjrick.tw/
+local=/sdns22.gkonuralp.com/
 local=/gl33tch.pro/
 local=/glacius.top/
 local=/dns.glampool.cloud/
@@ -1512,6 +1520,7 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/dns.glsoft.ai/
 local=/dns.gnb09.id/
 local=/moph.go.th/
@@ -1750,6 +1759,7 @@ local=/gitea.sukon.idv.tw/
 local=/adguard.ihatemy.live/
 local=/dns.ihaveacloud.com/
 local=/iij.jp/
+local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
 local=/mnsvless.ikwb.com/
 local=/ilinhy.com/
@@ -2131,6 +2141,7 @@ local=/doh.maskab.com/
 local=/mastergad.me/
 local=/masters-of-cloud.de/
 local=/dns.mateo.ovh/
+local=/dns.mathewakhil.online/
 local=/rasp.matthias-iwer.de/
 local=/dns.matthias-prost.com/
 local=/maxfong.cc/
@@ -2283,6 +2294,7 @@ local=/egshe.myqnapcloud.com/
 local=/newlibrarian.myqnapcloud.com/
 local=/myrusvpn.de/
 local=/mysolod.xyz/
+local=/dns.mytest.cc/
 local=/myv2ray.cn/
 local=/area51.mywire.org/
 local=/dnsmm.mywire.org/

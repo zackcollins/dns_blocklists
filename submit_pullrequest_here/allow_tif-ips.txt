@@ -1,5 +1,21 @@
 # IPs to be removed from the tif IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/9727
+23.48.23
+23.48.23.182
+23.48.23.183
+23.48.23.186
+23.48.23.187
+23.48.23.135
+23.48.23.174
+23.48.23.175
+23.48.23.176
+23.48.23.178
+
+# https://github.com/hagezi/dns-blocklists/issues/9706
+13.248
+76.223
+
 # https://github.com/hagezi/dns-blocklists/discussions/9408
 2.16.10.171
 

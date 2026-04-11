@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775640240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775899680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Apr 2026 09:24 UTC
-; Version: 2026.0408.0924.16
+; Last modified: 11 Apr 2026 09:28 UTC
+; Version: 2026.0411.0928.54
 ; Syntax: RPZ
-; Number of entries: 2394
+; Number of entries: 2406
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -170,8 +170,6 @@ manfeature.club CNAME .
 *.manfeature.club CNAME .
 wapka.club CNAME .
 *.wapka.club CNAME .
-yourbar.club CNAME .
-*.yourbar.club CNAME .
 asia.cm CNAME .
 *.asia.cm CNAME .
 de.cm CNAME .
@@ -288,6 +286,8 @@ wapka.co CNAME .
 *.9k.com CNAME .
 admarketlocation.com CNAME .
 *.admarketlocation.com CNAME .
+ag0rcgwjv5.com CNAME .
+*.ag0rcgwjv5.com CNAME .
 ahlamountada.com CNAME .
 *.ahlamountada.com CNAME .
 amarillozoo.com CNAME .
@@ -332,6 +332,8 @@ blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
 *.blogia.com CNAME .
+blogrip.com CNAME .
+*.blogrip.com CNAME .
 blogsky.com CNAME .
 *.blogsky.com CNAME .
 blogzet.com CNAME .
@@ -346,6 +348,8 @@ bravepages.com CNAME .
 *.bravepages.com CNAME .
 bravesites.com CNAME .
 *.bravesites.com CNAME .
+bugs3.com CNAME .
+*.bugs3.com CNAME .
 business-minagne.com CNAME .
 *.business-minagne.com CNAME .
 byethost.com CNAME .
@@ -494,6 +498,8 @@ ezblogz.com CNAME .
 *.ezblogz.com CNAME .
 ezyro.com CNAME .
 *.ezyro.com CNAME .
+facepl.com CNAME .
+*.facepl.com CNAME .
 familylobby.com CNAME .
 *.familylobby.com CNAME .
 fat-fly.com CNAME .
@@ -596,6 +602,8 @@ hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
 hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
+hostkda.com CNAME .
+*.hostkda.com CNAME .
 hostseba.com CNAME .
 *.hostseba.com CNAME .
 hoxty.com CNAME .
@@ -1886,6 +1894,8 @@ kilu.net CNAME .
 *.kilu.net CNAME .
 kulichki.net CNAME .
 *.kulichki.net CNAME .
+l8n5kafm6l.net CNAME .
+*.l8n5kafm6l.net CNAME .
 megabyet.net CNAME .
 *.megabyet.net CNAME .
 mydiscussion.net CNAME .
@@ -2314,6 +2324,8 @@ datesize.top CNAME .
 *.datesize.top CNAME .
 mdtwo.top CNAME .
 *.mdtwo.top CNAME .
+moneyash.top CNAME .
+*.moneyash.top CNAME .
 pl-oferta-id2387942371.top CNAME .
 *.pl-oferta-id2387942371.top CNAME .
 wapka.top CNAME .

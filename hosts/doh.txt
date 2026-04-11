@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 10:20 UTC
-# Version: 2026.0408.1020.54
+# Last modified: 11 Apr 2026 10:29 UTC
+# Version: 2026.0411.1029.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3927
+# Number of entries: 3943
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -273,7 +273,6 @@
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 agh.alematho.de
-0.0.0.0 ag.alexf.cc
 0.0.0.0 diskstation.alexpollard.net
 0.0.0.0 management.alexpollard.net
 0.0.0.0 httpdns.alicdn.com
@@ -378,12 +377,17 @@
 0.0.0.0 resolver.as203038.net
 0.0.0.0 doh.asagiri.moe
 0.0.0.0 grgrgrkeepcalmkeepcalm.asatid12.ir
+0.0.0.0 doh.asecdns.com
+0.0.0.0 dot.asecdns.com
 0.0.0.0 midgard.asguardian.de
 0.0.0.0 nilfheim.asguardian.de
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 doh.asli.id
 0.0.0.0 dns.asterimoon.com
+0.0.0.0 amgr.asuscomm.com
 0.0.0.0 dandelionsprout.asuscomm.com
+0.0.0.0 himeko297.asuscomm.com
+0.0.0.0 xkariak.asuscomm.com
 0.0.0.0 dns.asysec.com
 0.0.0.0 oci02.at9.eu
 0.0.0.0 adguardhome.atakorah.com
@@ -649,10 +653,13 @@
 0.0.0.0 crd.circl.lu
 0.0.0.0 dns.circl.lu
 0.0.0.0 circumitor.de
+0.0.0.0 c-asm.circumitor.de
 0.0.0.0 c-rm.circumitor.de
 0.0.0.0 fritz-er.circumitor.de
 0.0.0.0 fritz-hbh.circumitor.de
+0.0.0.0 m-asm.circumitor.de
 0.0.0.0 m-cm.circumitor.de
+0.0.0.0 m-rm.circumitor.de
 0.0.0.0 dns.citrahost.com
 0.0.0.0 dns.citystars.cn
 0.0.0.0 ns.ciwer.cn
@@ -876,6 +883,7 @@
 0.0.0.0 cubedns.com
 0.0.0.0 iux3-s.cuiy4trg8fmosya2iip3ci.name
 0.0.0.0 qual.cuprum.ru
+0.0.0.0 curser.dev
 0.0.0.0 dns.curser.dev
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
@@ -1093,6 +1101,7 @@
 0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
+0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 0.0.0.0 dnscity.org
 0.0.0.0 abe01.dnscry.pt
@@ -1379,6 +1388,7 @@
 0.0.0.0 webmail.drahonn.pro
 0.0.0.0 www.drahonn.pro
 0.0.0.0 dns.dremaxx.de
+0.0.0.0 droyd.top
 0.0.0.0 dns.druta.me
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 adguard.dsns.cloud
@@ -1608,6 +1618,7 @@
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 adguardhome.favrep.ovh
+0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 dns.fdue.de
@@ -1740,6 +1751,7 @@
 0.0.0.0 dns.giriprabhat.com
 0.0.0.0 doh.ptqy.gitv.tv
 0.0.0.0 h.gjrick.tw
+0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 gl33tch.pro
 0.0.0.0 glacius.top
 0.0.0.0 dns.glampool.cloud
@@ -1753,6 +1765,7 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
+0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.glsoft.ai
 0.0.0.0 dns.gnb09.id
 0.0.0.0 moph.go.th
@@ -2044,6 +2057,7 @@
 0.0.0.0 dns.ihaveacloud.com
 0.0.0.0 iij.jp
 0.0.0.0 public.dns.iij.jp
+0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 mnsvless.ikwb.com
 0.0.0.0 ilinhy.com
@@ -2446,6 +2460,7 @@
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 www.masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
+0.0.0.0 dns.mathewakhil.online
 0.0.0.0 rasp.matthias-iwer.de
 0.0.0.0 dns.matthias-prost.com
 0.0.0.0 maxfong.cc
@@ -2624,6 +2639,7 @@
 0.0.0.0 newlibrarian.myqnapcloud.com
 0.0.0.0 myrusvpn.de
 0.0.0.0 mysolod.xyz
+0.0.0.0 dns.mytest.cc
 0.0.0.0 myv2ray.cn
 0.0.0.0 area51.mywire.org
 0.0.0.0 dnsmm.mywire.org

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775235720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775829480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's LG webOS Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 17:02 UTC
-; Version: 2026.0403.1702.48
+; Last modified: 10 Apr 2026 13:58 UTC
+; Version: 2026.0410.1358.41
 ; Syntax: RPZ
 ; Number of entries: 676
 ;

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Apr 2026 09:24 UTC
-# Version: 2026.0408.0924.16
+# Last modified: 11 Apr 2026 09:28 UTC
+# Version: 2026.0411.0928.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1197
+# Number of entries: 1203
 #
 *.000a.de
 *.000space.com
@@ -151,6 +151,7 @@
 *.admarketlocation.com
 *.aeza.network
 *.ag.gp
+*.ag0rcgwjv5.com
 *.ahlamountada.com
 *.al6.de
 *.all.lc
@@ -231,6 +232,7 @@
 *.blogia.com
 *.blogmaster.net
 *.blogmonster.de
+*.blogrip.com
 *.blogsky.com
 *.blogspot.ae
 *.blogspot.al
@@ -292,6 +294,7 @@
 *.bravepages.com
 *.bravesites.com
 *.brizy.site
+*.bugs3.com
 *.builderall.net
 *.builtfree.org
 *.business.site
@@ -518,6 +521,7 @@
 *.ezblogz.com
 *.ezyro.com
 *.f11.us
+*.facepl.com
 *.familylobby.com
 *.fast-page.org
 *.fat-fly.com
@@ -638,6 +642,7 @@
 *.hostfree.pw
 *.hostingas.in
 *.hostingsiteforfree.com
+*.hostkda.com
 *.hostland.pro
 *.hostseba.com
 *.hot.lc
@@ -740,6 +745,7 @@
 *.kz.gp
 *.l.gp
 *.l4n.org
+*.l8n5kafm6l.net
 *.laden.biz
 *.land.to
 *.launchaco.com
@@ -786,6 +792,7 @@
 *.mobi.ps
 *.mobinteg.com
 *.mochahost.com
+*.moneyash.top
 *.mp3.cr
 *.mpeblog.com
 *.muf.mobi
@@ -1190,7 +1197,6 @@
 *.yola.com
 *.yooco.org
 *.you.lc
-*.yourbar.club
 *.yourdomain.com
 *.yourfreehosting.net
 *.yourjavascript.com

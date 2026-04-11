@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 16:58 UTC
-# Version: 2026.0403.1658.48
+# Last modified: 10 Apr 2026 13:53 UTC
+# Version: 2026.0410.1353.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 664
+# Number of entries: 675
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -71,6 +71,7 @@ aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
+aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.us-west.3px.axp.amazon-adsystem.com
 aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
@@ -224,6 +225,7 @@ beta-c.aps.amazon-adsystem.com
 beta-config.aps.amazon-adsystem.com
 beta-krypton.aps.amazon-adsystem.com
 bid-eu.ads.aps.amazon-adsystem.com
+bid-fe.ads.aps.amazon-adsystem.com
 bid-na.ads-beta.aps.amazon-adsystem.com
 bid-na.ads-gamma.aps.amazon-adsystem.com
 bid-na.ads.aps.amazon-adsystem.com
@@ -289,6 +291,9 @@ cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 cell8012.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 cell8013.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
+cell8013.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
+cell8021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
+cell8021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 cell8031.dub.stv.event-eu.ads.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
@@ -334,6 +339,7 @@ eu-west.3px.axp.amazon-adsystem.com
 eu-west.aps.axp.amazon-adsystem.com
 eu-west.ono.axp.amazon-adsystem.com
 event-eu.ads.aps.amazon-adsystem.com
+event-fe.ads.aps.amazon-adsystem.com
 event-na.ads-beta.aps.amazon-adsystem.com
 event-na.ads-gamma.aps.amazon-adsystem.com
 event-na.ads.aps.amazon-adsystem.com
@@ -391,7 +397,6 @@ identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
 insights.video.a2z.com
 ipv6.unagi-na.amazon.com
-ir-ae.amazon-adsystem.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
 ir-cn.amazon-adsystem.com
@@ -427,6 +432,7 @@ maws-aax-us-east-test4.amazon-adsystem.com
 maws-aax-us-east.amazon-adsystem.com
 maws-aax-us-pdx-rtb.amazon-adsystem.com
 mdtb-cf-3.ads.aps.amazon-adsystem.com
+mdtb-cf-4.ads.aps.amazon-adsystem.com
 mdtb-eu-2.ads.aps.amazon-adsystem.com
 mdtb-eu.ads.aps.amazon-adsystem.com
 mdtb-na-2.ads.aps.amazon-adsystem.com
@@ -435,9 +441,11 @@ mdtb.ads.aps.amazon-adsystem.com
 metrics.media-amazon.com
 minerva.devices.a2z.com
 mobile.bid-eu.ads.aps.amazon-adsystem.com
+mobile.bid-fe.ads.aps.amazon-adsystem.com
 mobile.bid-na.ads.aps.amazon-adsystem.com
 mobile.eu-west.aps.axp.amazon-adsystem.com
 mobile.event-eu.ads.aps.amazon-adsystem.com
+mobile.event-fe.ads.aps.amazon-adsystem.com
 mobile.event-na.ads.aps.amazon-adsystem.com
 mobile.us-east.aps.axp.amazon-adsystem.com
 mobile.us-west.aps.axp.amazon-adsystem.com
@@ -454,7 +462,6 @@ ott.eu-west.aps.axp.amazon-adsystem.com
 ott.us-east.aps.axp.amazon-adsystem.com
 ott.us-west.aps.axp.amazon-adsystem.com
 paa-reporting-advertising.amazon
-pdx.web.event-na.ads.aps.amazon-adsystem.com
 pg.bid-na.ads.aps.amazon-adsystem.com
 pg.event-na.ads.aps.amazon-adsystem.com
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -517,6 +524,8 @@ session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
 sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
+sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
+sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
 spp.bid-na.ads.aps.amazon-adsystem.com
@@ -637,6 +646,8 @@ web-banner-event-cell8002.ads.aps.amazon-adsystem.com
 web-banner-event-cell8005.ads.aps.amazon-adsystem.com
 web-banner-event-cell8006.ads.aps.amazon-adsystem.com
 web-banner.ads.aps.amazon-adsystem.com
+web-cf-event-cell8003.ads.aps.amazon-adsystem.com
+web-cf-event-cell8004.ads.aps.amazon-adsystem.com
 web-video.ads.aps.amazon-adsystem.com
 web.ads.aps.amazon-adsystem.com
 web.ap-southeast.aps.axp.amazon-adsystem.com

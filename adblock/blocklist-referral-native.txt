@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Apr 2026 08:24 UTC
-! Version: 2026.0408.0824.59
+! Last modified: 11 Apr 2026 08:25 UTC
+! Version: 2026.0411.0825.34
 ! Syntax: AdBlock
-! Number of entries: 1489
+! Number of entries: 1496
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -442,6 +442,7 @@
 ||suite30-cf.emarsys.net^
 ||suite32.emarsys.net^
 ||suite33.emarsys.net^
+||suite33-cf.emarsys.net^
 ||suite34.emarsys.net^
 ||suite36.emarsys.net^
 ||suite36-cf.emarsys.net^
@@ -449,6 +450,7 @@
 ||suite40.emarsys.net^
 ||suite40-cf.emarsys.net^
 ||suite41.emarsys.net^
+||suite43.emarsys.net^
 ||suite45.emarsys.net^
 ||suite46.emarsys.net^
 ||suite47-cf.emarsys.net^
@@ -546,6 +548,7 @@
 ||neoengage-va-cdn.exponea.com^
 ||cdn.network.exponea.com^
 ||pan-cdn.exponea.com^
+||puc-cdn.exponea.com^
 ||raisin-cdn.exponea.com^
 ||ri-cdn.exponea.com^
 ||rozetka-cdn.exponea.com^
@@ -871,6 +874,7 @@
 ||mkto-ab560068.com^
 ||mkto-ab560119.com^
 ||mkto-ab560136.com^
+||mkto-ab560171.com^
 ||mkto-ab570110.com^
 ||mkto-ab570128.com^
 ||mkto-ab580004.com^
@@ -893,6 +897,7 @@
 ||mkto-ab690019.com^
 ||mkto-ab690062.com^
 ||mkto-abc0038.com^
+||mkto-abc0114.com^
 ||mkto-abc0203.com^
 ||mkto-abc0241.com^
 ||mkto-abd0206.com^
@@ -949,6 +954,7 @@
 ||mkto-sj140007.com^
 ||mkto-sj140163.com^
 ||mkto-sj150025.com^
+||mkto-sj160006.com^
 ||mkto-sj170094.com^
 ||mkto-sj180011.com^
 ||mkto-sj190104.com^
@@ -1188,6 +1194,7 @@
 ||ri7ofgjab.cc.rs6.net^
 ||ripon4tab.cc.rs6.net^
 ||rismehabb.cc.rs6.net^
+||riwhpbyab.cc.rs6.net^
 ||rjpz4ucab.cc.rs6.net^
 ||rjrpmitab.cc.rs6.net^
 ||rka9exdbb.cc.rs6.net^

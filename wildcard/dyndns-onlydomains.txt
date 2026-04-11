@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Apr 2026 10:24 UTC
-# Version: 2026.0405.1024.55
+# Last modified: 10 Apr 2026 10:26 UTC
+# Version: 2026.0410.1026.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 1479
+# Number of entries: 1482
 #
 0000000000000000000000.com
 0x.no
@@ -101,6 +101,7 @@ authorizeddns.org
 authorizeddns.us
 autoipset.com
 avandns.com
+awiki.org
 ax.lt
 b0tnet.com
 b33r.us
@@ -485,6 +486,7 @@ etitrans.com
 eurotank.ro
 eva.hk
 everton.com
+evils.in
 expired-dns.com
 ez-dns.com
 ez-ip.net
@@ -517,6 +519,7 @@ for-more.biz
 for-our.info
 for-some.biz
 for-the.biz
+foroemprende.com
 forss.to
 fortiddns.com
 forumz.info
