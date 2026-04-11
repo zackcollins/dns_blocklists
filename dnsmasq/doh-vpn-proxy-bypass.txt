@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 10:29 UTC
-# Version: 2026.0411.1029.51
+# Last modified: 11 Apr 2026 19:37 UTC
+# Version: 2026.0411.1937.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18257
+# Number of entries: 18270
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -12366,6 +12366,7 @@ local=/platoxvpn.com/
 local=/plavino.ru/
 local=/play-vpn.mom/
 local=/play5r.com/
+local=/edu.playariviera.com/
 local=/playerstation.net/
 local=/playingvpn.help/
 local=/playproxy.com/
@@ -12615,6 +12616,7 @@ local=/67-sucks.probac.cl/
 local=/rc-1140.probac.cl/
 local=/prohashing.com/
 local=/proigor.com/
+local=/prointern.info/
 local=/project-cyber.com/
 local=/project-evoex.de/
 local=/projectorpoint.website/
@@ -12648,8 +12650,10 @@ local=/proxbud.com/
 local=/proxery.com/
 local=/proxfree.com/
 local=/proxidize.com/
+local=/proxie.us/
 local=/proxied.org/
 local=/proxies.biz/
+local=/proxies.center/
 local=/proxies.sx/
 local=/proxifi.app/
 local=/proxify.biz/
@@ -12826,6 +12830,7 @@ local=/proxyspace.pro/
 local=/proxytime.net/
 local=/proxytitan.com/
 local=/proxytree.net/
+local=/proxyturbo.com/
 local=/proxyunblocker.org/
 local=/proxyvpn.eu/
 local=/proxyvpnserver.com/
@@ -12907,6 +12912,7 @@ local=/purevpn.de/
 local=/purevpn.fr/
 local=/purevpn-tools.com/
 local=/purevqn.com/
+local=/aprilhasa.purplesausage.com/
 local=/pursuant.run/
 local=/adguard.pushedv.de/
 local=/pushvpn.com/
@@ -13278,6 +13284,7 @@ local=/wg.req1.fr/
 local=/x.res.wang/
 local=/resisttake.com/
 local=/dns.resoft.org/
+local=/resolver.arpa/
 local=/restaurantgift.us/
 local=/restena.lu/
 local=/dns.retakecs.com/
@@ -13427,6 +13434,7 @@ local=/jp.rslvr.eu/
 local=/nl.rslvr.eu/
 local=/sg.rslvr.eu/
 local=/us.rslvr.eu/
+local=/rsocks.net/
 local=/rszptlqwe.com/
 local=/rtcstudio.ru/
 local=/rtfyxhju.com/
@@ -13475,8 +13483,10 @@ local=/rwzlsmyv.com/
 local=/dns1.ryan-palmer.com/
 local=/ryanprojects.ir/
 local=/excel.theme.ryansilvester.com/
+local=/vpn.rynet.link/
 local=/ryonosuke.jp/
 local=/ryonosuke.xyz/
+local=/hi.ryuflowing.org/
 local=/rztlku.com/
 local=/s-vpn.org/
 local=/s0r4nd0m.com/
@@ -13491,6 +13501,7 @@ local=/s8ks.us/
 local=/doh.sa-sa.eu/
 local=/sdfesdfgsf.fghsdfgdr.saahee.cn/
 local=/xhcvjesjdfhdjs.iocijkwedsf.saahee.cn/
+local=/scienceforkids.saahee.cn/
 local=/pojkldfsdn.sdjkfnm.saahee.cn/
 local=/vxjcklsjdklfjd.wijklkfdsf.saahee.cn/
 local=/cxvklkjxcvlksfd.wkjlofdsfe.saahee.cn/
@@ -13659,6 +13670,7 @@ local=/gravity.sciencevictory.org/
 local=/scientificsense.org/
 local=/scjzrku6zui5o9.online/
 local=/programming.scmdatasolution.com/
+local=/dns.scott.ovh/
 local=/dns.scott-smith.us/
 local=/scottdylewski.com/
 local=/scrapbooking-directory.com/
@@ -13737,6 +13749,7 @@ local=/securehole.com/
 local=/securemy.name/
 local=/securereach.net/
 local=/securesupervpn.net/
+local=/securetunnel.com/
 local=/securetunnels.net/
 local=/securevpn.co/
 local=/securevpn.com/

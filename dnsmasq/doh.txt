@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 10:29 UTC
-# Version: 2026.0411.1029.02
+# Last modified: 11 Apr 2026 19:36 UTC
+# Version: 2026.0411.1936.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3481
+# Number of entries: 3482
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2873,6 +2873,7 @@ local=/dns.schlagheck.berlin/
 local=/dns.schmidt-zoarn.de/
 local=/moise-et-maurice-gardent-la-maison.schneiderus.org/
 local=/dns1.schooldns.nl/
+local=/dns.scott.ovh/
 local=/dns.scott-smith.us/
 local=/scottdylewski.com/
 local=/dns.sct-pro.com/

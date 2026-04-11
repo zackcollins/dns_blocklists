@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775903340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775936220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 10:29 UTC
-; Version: 2026.0411.1029.51
+; Last modified: 11 Apr 2026 19:37 UTC
+; Version: 2026.0411.1937.03
 ; Syntax: RPZ
-; Number of entries: 36514
+; Number of entries: 36540
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -667,6 +667,8 @@ fancy1.v6.army CNAME .
 *.fancy1.v6.army CNAME .
 selenite.v6.army CNAME .
 *.selenite.v6.army CNAME .
+resolver.arpa CNAME .
+*.resolver.arpa CNAME .
 atomicspike.art CNAME .
 *.atomicspike.art CNAME .
 cdnexpress.art CNAME .
@@ -2309,6 +2311,8 @@ ns.cd CNAME .
 *.ns.cd CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
+proxies.center CNAME .
+*.proxies.center CNAME .
 ababi-nimma.cf CNAME .
 *.ababi-nimma.cf CNAME .
 login.achievementnetwork.cf CNAME .
@@ -3521,6 +3525,8 @@ sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
 *.sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
 xhcvjesjdfhdjs.iocijkwedsf.saahee.cn CNAME .
 *.xhcvjesjdfhdjs.iocijkwedsf.saahee.cn CNAME .
+scienceforkids.saahee.cn CNAME .
+*.scienceforkids.saahee.cn CNAME .
 pojkldfsdn.sdjkfnm.saahee.cn CNAME .
 *.pojkldfsdn.sdjkfnm.saahee.cn CNAME .
 vxjcklsjdklfjd.wijklkfdsf.saahee.cn CNAME .
@@ -12749,6 +12755,8 @@ platoxvpn.com CNAME .
 *.platoxvpn.com CNAME .
 play5r.com CNAME .
 *.play5r.com CNAME .
+edu.playariviera.com CNAME .
+*.edu.playariviera.com CNAME .
 playproxy.com CNAME .
 *.playproxy.com CNAME .
 secure-dns.pleumkungz.com CNAME .
@@ -13043,6 +13051,8 @@ proxysocks5.com CNAME .
 *.proxysocks5.com CNAME .
 proxytitan.com CNAME .
 *.proxytitan.com CNAME .
+proxyturbo.com CNAME .
+*.proxyturbo.com CNAME .
 proxyvpnserver.com CNAME .
 *.proxyvpnserver.com CNAME .
 proxyway.com CNAME .
@@ -13115,6 +13125,8 @@ purevpn-tools.com CNAME .
 *.purevpn-tools.com CNAME .
 purevqn.com CNAME .
 *.purevqn.com CNAME .
+aprilhasa.purplesausage.com CNAME .
+*.aprilhasa.purplesausage.com CNAME .
 pushvpn.com CNAME .
 *.pushvpn.com CNAME .
 connect.pvdatanet.com CNAME .
@@ -13633,6 +13645,8 @@ secureguardpro.com CNAME .
 *.secureguardpro.com CNAME .
 securehole.com CNAME .
 *.securehole.com CNAME .
+securetunnel.com CNAME .
+*.securetunnel.com CNAME .
 securevpn.com CNAME .
 *.securevpn.com CNAME .
 securevpnmaster.com CNAME .
@@ -20651,6 +20665,8 @@ primeproxy23.info CNAME .
 *.primeproxy23.info CNAME .
 agh.printk.info CNAME .
 *.agh.printk.info CNAME .
+prointern.info CNAME .
+*.prointern.info CNAME .
 science.prole.info CNAME .
 *.science.prole.info CNAME .
 proxify.info CNAME .
@@ -21921,6 +21937,8 @@ riolu-node.link CNAME .
 *.riolu-node.link CNAME .
 riolu00.link CNAME .
 *.riolu00.link CNAME .
+vpn.rynet.link CNAME .
+*.vpn.rynet.link CNAME .
 seed360.link CNAME .
 *.seed360.link CNAME .
 skipdns.link CNAME .
@@ -26627,6 +26645,8 @@ asimplesanirb.rotorootie.net CNAME .
 *.asimplesanirb.rotorootie.net CNAME .
 dns.rotunneling.net CNAME .
 *.dns.rotunneling.net CNAME .
+rsocks.net CNAME .
+*.rsocks.net CNAME .
 ru-vpnly.net CNAME .
 *.ru-vpnly.net CNAME .
 runnervamp.net CNAME .
@@ -29859,6 +29879,8 @@ rumpelsepp.org CNAME .
 *.rumpelsepp.org CNAME .
 runnerpromotion.org CNAME .
 *.runnerpromotion.org CNAME .
+hi.ryuflowing.org CNAME .
+*.hi.ryuflowing.org CNAME .
 s-vpn.org CNAME .
 *.s-vpn.org CNAME .
 dns1.saferbfc.org CNAME .
@@ -30463,6 +30485,8 @@ dns2.rocksdns.ovh CNAME .
 *.dns2.rocksdns.ovh CNAME .
 lime.samonte.ovh CNAME .
 *.lime.samonte.ovh CNAME .
+dns.scott.ovh CNAME .
+*.dns.scott.ovh CNAME .
 dns.searom.ovh CNAME .
 *.dns.searom.ovh CNAME .
 adguard.sre.ovh CNAME .
@@ -34649,6 +34673,8 @@ printruns.us CNAME .
 *.printruns.us CNAME .
 printtools.us CNAME .
 *.printtools.us CNAME .
+proxie.us CNAME .
+*.proxie.us CNAME .
 proxify.us CNAME .
 *.proxify.us CNAME .
 proxysite.us CNAME .

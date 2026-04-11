@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 10:29 UTC
-# Version: 2026.0411.1029.02
+# Last modified: 11 Apr 2026 19:36 UTC
+# Version: 2026.0411.1936.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 3481
+# Number of entries: 3482
 #
 ss.0001.xyz
 003153.xyz
@@ -2873,6 +2873,7 @@ dns.schlagheck.berlin
 dns.schmidt-zoarn.de
 moise-et-maurice-gardent-la-maison.schneiderus.org
 dns1.schooldns.nl
+dns.scott.ovh
 dns.scott-smith.us
 scottdylewski.com
 dns.sct-pro.com

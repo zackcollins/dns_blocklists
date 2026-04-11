@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 10:26 UTC
-# Version: 2026.0410.1026.18
+# Last modified: 11 Apr 2026 19:35 UTC
+# Version: 2026.0411.1935.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1482
+# Number of entries: 1483
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -1199,6 +1199,7 @@ local=/root.sx/
 local=/root64.de/
 local=/roth.ca/
 local=/route64.de/
+local=/rpz.su/
 local=/rtam.net/
 local=/rum.si/
 local=/run.place/

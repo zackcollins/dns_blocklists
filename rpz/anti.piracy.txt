@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775902920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775935800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 10:22 UTC
-; Version: 2026.0411.1022.37
+; Last modified: 11 Apr 2026 19:30 UTC
+; Version: 2026.0411.1930.27
 ; Syntax: RPZ
-; Number of entries: 24612
+; Number of entries: 24648
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -986,6 +986,8 @@ megakino.biz CNAME .
 *.megakino.biz CNAME .
 megakino1.biz CNAME .
 *.megakino1.biz CNAME .
+megakino2.biz CNAME .
+*.megakino2.biz CNAME .
 mininova.biz CNAME .
 *.mininova.biz CNAME .
 moviedokan.biz CNAME .
@@ -1784,6 +1786,8 @@ pirateproxy.cc CNAME .
 *.pirateproxy.cc CNAME .
 piratexplay.cc CNAME .
 *.piratexplay.cc CNAME .
+point-blank.cc CNAME .
+*.point-blank.cc CNAME .
 popcorntimeonline.cc CNAME .
 *.popcorntimeonline.cc CNAME .
 region.nl1.privex.cc CNAME .
@@ -6826,6 +6830,8 @@ premilkyway.com CNAME .
 *.premilkyway.com CNAME .
 prescene.com CNAME .
 *.prescene.com CNAME .
+primartists.com CNAME .
+*.primartists.com CNAME .
 privtracker.com CNAME .
 *.privtracker.com CNAME .
 prodesigntools.com CNAME .
@@ -6844,6 +6850,8 @@ warez.programasfull.com CNAME .
 *.warez.programasfull.com CNAME .
 programaswarez.com CNAME .
 *.programaswarez.com CNAME .
+progressivetorrents.com CNAME .
+*.progressivetorrents.com CNAME .
 prolikewoah.com CNAME .
 *.prolikewoah.com CNAME .
 promoddl.com CNAME .
@@ -6908,6 +6916,8 @@ putlockerwatch.com CNAME .
 *.putlockerwatch.com CNAME .
 qimanhwa.com CNAME .
 *.qimanhwa.com CNAME .
+quebec-partage.com CNAME .
+*.quebec-partage.com CNAME .
 quedustreaming.com CNAME .
 *.quedustreaming.com CNAME .
 quezstresser.com CNAME .
@@ -6920,6 +6930,8 @@ qvvo.com CNAME .
 *.qvvo.com CNAME .
 qwemovies.com CNAME .
 *.qwemovies.com CNAME .
+r123movie.com CNAME .
+*.r123movie.com CNAME .
 racing-underground.com CNAME .
 *.racing-underground.com CNAME .
 media.radiantbd.com CNAME .
@@ -7054,6 +7066,8 @@ rodelaonlinebd.com CNAME .
 *.rodelaonlinebd.com CNAME .
 rojadirectaenvivo.com CNAME .
 *.rojadirectaenvivo.com CNAME .
+rojadirectahdenvivo.com CNAME .
+*.rojadirectahdenvivo.com CNAME .
 rojadirectaorg.com CNAME .
 *.rojadirectaorg.com CNAME .
 rojadirectatvs.com CNAME .
@@ -7118,6 +7132,8 @@ sasa68.com CNAME .
 *.sasa68.com CNAME .
 sastatus.com CNAME .
 *.sastatus.com CNAME .
+satanwarez.com CNAME .
+*.satanwarez.com CNAME .
 saturninternetbd.com CNAME .
 *.saturninternetbd.com CNAME .
 save-free.com CNAME .
@@ -7178,6 +7194,8 @@ serialcoded.com CNAME .
 *.serialcoded.com CNAME .
 serialfan.com CNAME .
 *.serialfan.com CNAME .
+serialkeysoftware.com CNAME .
+*.serialkeysoftware.com CNAME .
 serialnews.com CNAME .
 *.serialnews.com CNAME .
 serialportal.com CNAME .
@@ -10354,6 +10372,8 @@ netmirror.gg CNAME .
 *.netmirror.gg CNAME .
 nulls.gg CNAME .
 *.nulls.gg CNAME .
+rarbg.gg CNAME .
+*.rarbg.gg CNAME .
 sendit.gg CNAME .
 *.sendit.gg CNAME .
 seriesonline.gg CNAME .
@@ -11246,6 +11266,8 @@ piratereverse.info CNAME .
 *.piratereverse.info CNAME .
 tpb.proxyduck.info CNAME .
 *.tpb.proxyduck.info CNAME .
+psytorrents.info CNAME .
+*.psytorrents.info CNAME .
 publicdomaintorrents.info CNAME .
 *.publicdomaintorrents.info CNAME .
 putlockertv.info CNAME .
@@ -12026,6 +12048,8 @@ boerse.kz CNAME .
 *.boerse.kz CNAME .
 btr.kz CNAME .
 *.btr.kz CNAME .
+putlocker.kz CNAME .
+*.putlocker.kz CNAME .
 slider.kz CNAME .
 *.slider.kz CNAME .
 123movies.la CNAME .
@@ -12182,6 +12206,8 @@ mp3.li CNAME .
 *.mp3.li CNAME .
 pahe.li CNAME .
 *.pahe.li CNAME .
+primewire.li CNAME .
+*.primewire.li CNAME .
 readcomiconline.li CNAME .
 *.readcomiconline.li CNAME .
 streamingcommunity.li CNAME .
@@ -13158,6 +13184,8 @@ putlocker123.me CNAME .
 *.putlocker123.me CNAME .
 qatarstreams.me CNAME .
 *.qatarstreams.me CNAME .
+rarbg.me CNAME .
+*.rarbg.me CNAME .
 rojadirecta.me CNAME .
 *.rojadirecta.me CNAME .
 rojadirectai.me CNAME .
@@ -17522,6 +17550,8 @@ share.popgo.org CNAME .
 *.share.popgo.org CNAME .
 powerbits.org CNAME .
 *.powerbits.org CNAME .
+powertracker.org CNAME .
+*.powertracker.org CNAME .
 forum.ppcwarez.org CNAME .
 *.forum.ppcwarez.org CNAME .
 predb.org CNAME .
@@ -19204,6 +19234,8 @@ blackrevolution.ro CNAME .
 *.blackrevolution.ro CNAME .
 blackz.ro CNAME .
 *.blackz.ro CNAME .
+nosteam.com.ro CNAME .
+*.nosteam.com.ro CNAME .
 torrents.czteam.ro CNAME .
 *.torrents.czteam.ro CNAME .
 torrents.dekadence.ro CNAME .
@@ -19720,6 +19752,8 @@ servandroidkino.ru CNAME .
 *.servandroidkino.ru CNAME .
 seuedu.ru CNAME .
 *.seuedu.ru CNAME .
+sexy-torrents.ru CNAME .
+*.sexy-torrents.ru CNAME .
 sharereactor.ru CNAME .
 *.sharereactor.ru CNAME .
 shopdoc.ru CNAME .
@@ -24426,6 +24460,8 @@ tracker.riverarmy.xyz CNAME .
 *.tracker.riverarmy.xyz CNAME .
 rivestream.xyz CNAME .
 *.rivestream.xyz CNAME .
+ronnyflix.xyz CNAME .
+*.ronnyflix.xyz CNAME .
 tracker.sakurato.xyz CNAME .
 *.tracker.sakurato.xyz CNAME .
 selcuksportshdc78e4a78c6.xyz CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 08:25 UTC
-# Version: 2026.0411.0825.34
+# Last modified: 11 Apr 2026 17:32 UTC
+# Version: 2026.0411.1732.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2092
+# Number of entries: 2093
 #
 1-aclk.net
 1aurl.io
@@ -1286,6 +1286,7 @@ click.chp.kohls.com
 click.s.kohls.com
 kqzyfj.com
 click.e.krogermail.com
+apiservices.krxd.net
 r.lafamo.com
 click.landsend.com
 lddy.no

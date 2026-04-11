@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 08:42 UTC
-# Version: 2026.0411.0842.46
+# Last modified: 11 Apr 2026 17:49 UTC
+# Version: 2026.0411.1749.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10024
+# Number of entries: 10033
 #
 local=/0.gp/
 local=/00m.in/
@@ -6162,6 +6162,7 @@ local=/pogle.pl/
 local=/poie.ma/
 local=/pointpay.live/
 local=/pojonews.co/
+local=/pokoknya.top/
 local=/polamax.win/
 local=/polbb.eu/
 local=/politi.co/
@@ -6193,6 +6194,7 @@ local=/pp24.nl/
 local=/ppa.as/
 local=/ppcent.org/
 local=/ppcnqq.com/
+local=/ppfr.it/
 local=/pplx.ai/
 local=/ppmc.me/
 local=/ppscourse.com/
@@ -6245,7 +6247,9 @@ local=/profyler.de/
 local=/project418.org/
 local=/projects.id/
 local=/projycto.com/
+local=/prolink.website/
 local=/prolink168.com/
+local=/promo-visits.site/
 local=/pronat360.com/
 local=/proof.click/
 local=/proofstuff.com/
@@ -6336,6 +6340,7 @@ local=/qdl.pw/
 local=/qdls.io/
 local=/qevime.com/
 local=/url.qhon.com/
+local=/qicute.com/
 local=/qikli.co/
 local=/jobs.qjobsindia.com/
 local=/qk.lc/
@@ -6451,6 +6456,7 @@ local=/quickcard-smartbusinesscard.me/
 local=/quickchart.io/
 local=/quickcode.digital/
 local=/quicklinkpro.io/
+local=/quickqr.be/
 local=/quickshr.ink/
 local=/quickshrink.ovh/
 local=/quicky.digital/
@@ -6544,6 +6550,7 @@ local=/rdr.gr/
 local=/rdrclk.com/
 local=/rdrct.site/
 local=/rdre.me/
+local=/rdrt.cc/
 local=/rds.ovh/
 local=/rdsaid.com/
 local=/rdt.li/
@@ -6759,6 +6766,7 @@ local=/rtube.nl/
 local=/rtvote.com/
 local=/rtxt.co/
 local=/goo-gl.ru.com/
+local=/bio.rub3n.io/
 local=/short.ruksk.com/
 local=/runty.link/
 local=/rupilinks.com/
@@ -6818,6 +6826,7 @@ local=/sabriabi.net/
 local=/s.sachiniyer.com/
 local=/sactiny.com/
 local=/sadar.id/
+local=/saddr.xyz/
 local=/url.sae.digital/
 local=/saerly.com/
 local=/saf.li/

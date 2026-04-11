@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775896920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775929740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 08:42 UTC
-; Version: 2026.0411.0842.46
+; Last modified: 11 Apr 2026 17:49 UTC
+; Version: 2026.0411.1749.12
 ; Syntax: RPZ
-; Number of entries: 20048
+; Number of entries: 20066
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -951,6 +951,8 @@ qr1.be CNAME .
 *.qr1.be CNAME .
 qrme.be CNAME .
 *.qrme.be CNAME .
+quickqr.be CNAME .
+*.quickqr.be CNAME .
 rdcu.be CNAME .
 *.rdcu.be CNAME .
 rr.be CNAME .
@@ -1755,6 +1757,8 @@ puxt.cc CNAME .
 *.puxt.cc CNAME .
 qrurl.cc CNAME .
 *.qrurl.cc CNAME .
+rdrt.cc CNAME .
+*.rdrt.cc CNAME .
 redvt.cc CNAME .
 *.redvt.cc CNAME .
 reline.cc CNAME .
@@ -6025,6 +6029,8 @@ qevime.com CNAME .
 *.qevime.com CNAME .
 url.qhon.com CNAME .
 *.url.qhon.com CNAME .
+qicute.com CNAME .
+*.qicute.com CNAME .
 jobs.qjobsindia.com CNAME .
 *.jobs.qjobsindia.com CNAME .
 qkvlk.com CNAME .
@@ -11161,6 +11167,8 @@ rpf.io CNAME .
 *.rpf.io CNAME .
 rptl.io CNAME .
 *.rptl.io CNAME .
+bio.rub3n.io CNAME .
+*.bio.rub3n.io CNAME .
 rvtv.io CNAME .
 *.rvtv.io CNAME .
 rwl.io CNAME .
@@ -11785,6 +11793,8 @@ padspl.it CNAME .
 *.padspl.it CNAME .
 pin.it CNAME .
 *.pin.it CNAME .
+ppfr.it CNAME .
+*.ppfr.it CNAME .
 ptab.it CNAME .
 *.ptab.it CNAME .
 puulp.it CNAME .
@@ -17745,6 +17755,8 @@ owly.site CNAME .
 *.owly.site CNAME .
 play-app.site CNAME .
 *.play-app.site CNAME .
+promo-visits.site CNAME .
+*.promo-visits.site CNAME .
 rajamahjong.site CNAME .
 *.rajamahjong.site CNAME .
 rdrct.site CNAME .
@@ -18731,6 +18743,8 @@ short.organicweb.top CNAME .
 *.short.organicweb.top CNAME .
 pastihoki.top CNAME .
 *.pastihoki.top CNAME .
+pokoknya.top CNAME .
+*.pokoknya.top CNAME .
 ref11.top CNAME .
 *.ref11.top CNAME .
 roids.top CNAME .
@@ -19661,6 +19675,8 @@ earnesst.website CNAME .
 *.earnesst.website CNAME .
 loginsaja.website CNAME .
 *.loginsaja.website CNAME .
+prolink.website CNAME .
+*.prolink.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
 yourls.website CNAME .
@@ -19969,6 +19985,8 @@ rusuhkali.xyz CNAME .
 *.rusuhkali.xyz CNAME .
 s-hub.xyz CNAME .
 *.s-hub.xyz CNAME .
+saddr.xyz CNAME .
+*.saddr.xyz CNAME .
 selfurl.xyz CNAME .
 *.selfurl.xyz CNAME .
 shortenerlink.xyz CNAME .
