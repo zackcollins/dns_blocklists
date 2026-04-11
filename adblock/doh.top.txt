@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Apr 2026 13:42 UTC
-! Version: 2026.0410.1342.11
+! Last modified: 11 Apr 2026 10:29 UTC
+! Version: 2026.0411.1029.35
 ! Syntax: AdBlock
-! Number of entries: 3474
+! Number of entries: 3476
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2137,6 +2137,7 @@
 ||mastergad.me^
 ||masters-of-cloud.de^
 ||dns.mateo.ovh^
+||dns.mathewakhil.online^
 ||rasp.matthias-iwer.de^
 ||dns.matthias-prost.com^
 ||maxfong.cc^
@@ -2289,6 +2290,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||myrusvpn.de^
 ||mysolod.xyz^
+||dns.mytest.cc^
 ||myv2ray.cn^
 ||area51.mywire.org^
 ||dnsmm.mywire.org^

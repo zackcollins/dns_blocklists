@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Apr 2026 13:43 UTC
-! Version: 2026.0410.1343.18
+! Last modified: 11 Apr 2026 08:42 UTC
+! Version: 2026.0411.0842.46
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3779,6 +3779,7 @@
 @@||itlinks.me^
 @@||itly.in^
 @@||itm.im^
+@@||itop.so^
 @@||itp24.com^
 @@||itrk.it^
 @@||its-4-u.com^
@@ -3853,6 +3854,7 @@
 @@||jdem.cz^
 @@||jdev.uk^
 @@||board.jdownloader.org^
+@@||jdp.am^
 @@||jeetbuzzlinks.com^
 @@||jek.it^
 @@||jelink.id^
@@ -4010,6 +4012,7 @@
 @@||ki.gy^
 @@||kick.is^
 @@||skif-com.kiev.ua^
+@@||kilat.ink^
 @@||kilat.io^
 @@||kimmel.trade^
 @@||kingplate.lol^
@@ -4038,6 +4041,7 @@
 @@||kkday.me^
 @@||kkne.ws^
 @@||kko.to^
+@@||kkon.ir^
 @@||kkstre.am^
 @@||hi.kktv.to^
 @@||kku.digital^
@@ -4080,15 +4084,18 @@
 @@||knw.one^
 @@||knz.app^
 @@||ko.gl^
+@@||bio.kodekami.com^
 @@||koi800.cc^
 @@||koinko.in^
 @@||kol.vin^
+@@||kolaylink.com^
 @@||kollylad.com^
 @@||go.koloua.com^
 @@||koninfo.de^
 @@||kont.ly^
 @@||kontentino.com^
 @@||kootah.me^
+@@||kopo.live^
 @@||koreanbiolink.com^
 @@||korek.bio^
 @@||kornferry.live^
@@ -4135,6 +4142,7 @@
 @@||kurzelinks.de^
 @@||kuta.ir^
 @@||kutt.in^
+@@||kutt.it^
 @@||kutt.to^
 @@||kuttify.com^
 @@||kuty.us^
@@ -4429,9 +4437,11 @@
 @@||linkhuddle.com^
 @@||linki.run^
 @@||linkify.page^
+@@||linkifyer.com^
 @@||linkila.com^
 @@||linkim.cc^
 @@||linkin.icu^
+@@||linkinbio.pro^
 @@||linkinbio.to^
 @@||linking.is^
 @@||linkinto.net^
@@ -4508,6 +4518,7 @@
 @@||linkoqr.com^
 @@||linkotomy.com^
 @@||linkotw.live^
+@@||linkp.ir^
 @@||linkp.online^
 @@||linkpad.pro^
 @@||linkpage.it^
@@ -4668,6 +4679,7 @@
 @@||lk1.uk^
 @@||lkbx.in^
 @@||lkdg.yoga^
+@@||lkgw.cc^
 @@||lkit.me^
 @@||lksfy.com^
 @@||ll.sa^
@@ -4726,6 +4738,7 @@
 @@||lnkup.us^
 @@||lnkw.co^
 @@||lnkx.link^
+@@||lnky.fr^
 @@||lnky.jp^
 @@||lnky.pk^
 @@||lnkz.my^
@@ -4737,6 +4750,7 @@
 @@||lnsrt.com^
 @@||lnst.eu^
 @@||lnv.gy^
+@@||lnwlink.com^
 @@||lnwurl.com^
 @@||lo.ge^
 @@||lob.ee^
@@ -4888,6 +4902,7 @@
 @@||magaus.org^
 @@||magaus.xyz^
 @@||magicwlinks.com^
+@@||magnet-mind.com^
 @@||mah.to^
 @@||maha77.site^
 @@||urlshortener.mahamafzar.com^
@@ -4936,6 +4951,7 @@
 @@||masuk.cfd^
 @@||masuk.to^
 @@||masuk-id.info^
+@@||masuksini.my^
 @@||masy.uk^
 @@||match-heaven.club^
 @@||matchurl.com^
@@ -5172,6 +5188,7 @@
 @@||mobiusracing.us^
 @@||mod.lk^
 @@||modash.io^
+@@||modash.link^
 @@||moderncampus.com^
 @@||modk.ir^
 @@||modurl.com^
@@ -5205,6 +5222,7 @@
 @@||moovit.me^
 @@||mooxi.io^
 @@||more.sh^
+@@||moreluck.xyz^
 @@||morimo.info^
 @@||mork.ro^
 @@||morphurl.com^
@@ -5299,6 +5317,7 @@
 @@||aiolink.my.id^
 @@||cbnet.my.id^
 @@||fic.my.id^
+@@||googl.my.id^
 @@||rcx.my.id^
 @@||unp.my.id^
 @@||yusite.my.id^
@@ -5400,6 +5419,7 @@
 @@||n-short.me^
 @@||n28.it^
 @@||n2l.me^
+@@||n3y.ir^
 @@||n66d.com^
 @@||n7i.cn^
 @@||n9.cl^
@@ -5533,6 +5553,7 @@
 @@||njqeooqq.fun^
 @@||nkbp.jp^
 @@||nkf.re^
+@@||nkisa.link^
 @@||nks.li^
 @@||nkxe.com^
 @@||nlab.cg^
@@ -5574,6 +5595,7 @@
 @@||nowshort.com^
 @@||go.nowth.is^
 @@||nowtrade.live^
+@@||noxogo.com^
 @@||npath.au^
 @@||npcs.us^
 @@||npliv.in^
@@ -5889,6 +5911,7 @@
 @@||lien.paribal.fr^
 @@||parklandssolar.com^
 @@||parky.tv^
+@@||pascol.bio^
 @@||pasir.me^
 @@||go.passamontagne.org^
 @@||passion-radio.net^
@@ -5935,6 +5958,7 @@
 @@||pdkadu.com^
 @@||pdora.co^
 @@||pdxint.at^
+@@||pdy.one^
 @@||pe.ga^
 @@||pe8.at^
 @@||peachpoll.com^
@@ -5951,6 +5975,7 @@
 @@||peen.ca^
 @@||peerwith.me^
 @@||pegasurl.com^
+@@||pego.work^
 @@||pekcamke.link^
 @@||pellz.link^
 @@||pencetdulu.com^
@@ -5997,6 +6022,7 @@
 @@||link.phsz.ch^
 @@||phuongso.com^
 @@||phygo.io^
+@@||pi.uz^
 @@||pia.sh^
 @@||pic.gd^
 @@||pich.in^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 12:28 UTC
-# Version: 2026.0410.1228.00
+# Last modified: 11 Apr 2026 10:29 UTC
+# Version: 2026.0411.1029.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3941
+# Number of entries: 3943
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2460,6 +2460,7 @@
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 www.masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
+0.0.0.0 dns.mathewakhil.online
 0.0.0.0 rasp.matthias-iwer.de
 0.0.0.0 dns.matthias-prost.com
 0.0.0.0 maxfong.cc
@@ -2638,6 +2639,7 @@
 0.0.0.0 newlibrarian.myqnapcloud.com
 0.0.0.0 myrusvpn.de
 0.0.0.0 mysolod.xyz
+0.0.0.0 dns.mytest.cc
 0.0.0.0 myv2ray.cn
 0.0.0.0 area51.mywire.org
 0.0.0.0 dnsmm.mywire.org

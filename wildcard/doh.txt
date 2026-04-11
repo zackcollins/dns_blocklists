@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 12:28 UTC
-# Version: 2026.0410.1228.00
+# Last modified: 11 Apr 2026 10:29 UTC
+# Version: 2026.0411.1029.02
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3479
+# Number of entries: 3481
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2141,6 +2141,7 @@
 *.mastergad.me
 *.masters-of-cloud.de
 *.dns.mateo.ovh
+*.dns.mathewakhil.online
 *.rasp.matthias-iwer.de
 *.dns.matthias-prost.com
 *.maxfong.cc
@@ -2293,6 +2294,7 @@
 *.newlibrarian.myqnapcloud.com
 *.myrusvpn.de
 *.mysolod.xyz
+*.dns.mytest.cc
 *.myv2ray.cn
 *.area51.mywire.org
 *.dnsmm.mywire.org

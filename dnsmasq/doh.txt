@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 12:28 UTC
-# Version: 2026.0410.1228.00
+# Last modified: 11 Apr 2026 10:29 UTC
+# Version: 2026.0411.1029.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3479
+# Number of entries: 3481
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2141,6 +2141,7 @@ local=/doh.maskab.com/
 local=/mastergad.me/
 local=/masters-of-cloud.de/
 local=/dns.mateo.ovh/
+local=/dns.mathewakhil.online/
 local=/rasp.matthias-iwer.de/
 local=/dns.matthias-prost.com/
 local=/maxfong.cc/
@@ -2293,6 +2294,7 @@ local=/egshe.myqnapcloud.com/
 local=/newlibrarian.myqnapcloud.com/
 local=/myrusvpn.de/
 local=/mysolod.xyz/
+local=/dns.mytest.cc/
 local=/myv2ray.cn/
 local=/area51.mywire.org/
 local=/dnsmm.mywire.org/

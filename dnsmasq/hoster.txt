@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 09:29 UTC
-# Version: 2026.0410.0929.20
+# Last modified: 11 Apr 2026 09:28 UTC
+# Version: 2026.0411.0928.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1201
+# Number of entries: 1203
 #
 local=/000a.de/
 local=/000space.com/
@@ -745,6 +745,7 @@ local=/kurzschliessen.de/
 local=/kz.gp/
 local=/l.gp/
 local=/l4n.org/
+local=/l8n5kafm6l.net/
 local=/laden.biz/
 local=/land.to/
 local=/launchaco.com/
@@ -791,6 +792,7 @@ local=/mmm.page/
 local=/mobi.ps/
 local=/mobinteg.com/
 local=/mochahost.com/
+local=/moneyash.top/
 local=/mp3.cr/
 local=/mpeblog.com/
 local=/muf.mobi/

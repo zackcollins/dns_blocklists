@@ -1071,6 +1071,13 @@
       }
     },
     {
+      "PK": "cdprojekt.red",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.center",
       "action": {
         "do": 0,
@@ -4831,6 +4838,13 @@
     },
     {
       "PK": "namu.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "narpy.shop",
       "action": {
         "do": 1,
         "status": 1
