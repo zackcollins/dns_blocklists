@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775936100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775993940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 19:35 UTC
-; Version: 2026.0411.1935.49
+; Last modified: 12 Apr 2026 11:39 UTC
+; Version: 2026.0412.1139.04
 ; Syntax: RPZ
-; Number of entries: 2966
+; Number of entries: 2972
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1662,6 +1662,8 @@ eva.hk CNAME .
 *.eva.hk CNAME .
 ismoke.hk CNAME .
 *.ismoke.hk CNAME .
+sleepless.hk CNAME .
+*.sleepless.hk CNAME .
 portmap.host CNAME .
 *.portmap.host CNAME .
 digikabel.hu CNAME .
@@ -1784,6 +1786,8 @@ tru.io CNAME .
 *.tru.io CNAME .
 ydns.io CNAME .
 *.ydns.io CNAME .
+star.is CNAME .
+*.star.is CNAME .
 16-b.it CNAME .
 *.16-b.it CNAME .
 32-b.it CNAME .
@@ -2272,6 +2276,8 @@ viiic.net CNAME .
 *.viiic.net CNAME .
 vpndns.net CNAME .
 *.vpndns.net CNAME .
+vxe6.net CNAME .
+*.vxe6.net CNAME .
 webhop.net CNAME .
 *.webhop.net CNAME .
 webok.net CNAME .

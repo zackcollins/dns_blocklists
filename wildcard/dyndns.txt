@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 19:35 UTC
-# Version: 2026.0411.1935.49
+# Last modified: 12 Apr 2026 11:39 UTC
+# Version: 2026.0412.1139.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1483
+# Number of entries: 1486
 #
 *.0000000000000000000000.com
 *.0x.no
@@ -1285,6 +1285,7 @@
 *.skc.su
 *.skies.tw
 *.slasdot.com
+*.sleepless.hk
 *.sline.net
 *.sly.io
 *.slyip.net
@@ -1314,6 +1315,7 @@
 *.ssl443.org
 *.sslip.io
 *.ssmailer.com
+*.star.is
 *.stemmetje.com
 *.stes.fi
 *.stfu-kthx.net
@@ -1428,6 +1430,7 @@
 *.vpntraki.com
 *.vpnx.nl
 *.vr.lt
+*.vxe6.net
 *.wakingmoon.com
 *.wan64.de
 *.wanip.ch

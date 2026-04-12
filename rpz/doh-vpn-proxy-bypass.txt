@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775936220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775994000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 19:37 UTC
-; Version: 2026.0411.1937.03
+; Last modified: 12 Apr 2026 11:40 UTC
+; Version: 2026.0412.1140.16
 ; Syntax: RPZ
-; Number of entries: 36540
+; Number of entries: 36598
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -677,6 +677,8 @@ dnsdoh.art CNAME .
 *.dnsdoh.art CNAME .
 elsinistro.art CNAME .
 *.elsinistro.art CNAME .
+www-g.ggtbg.art CNAME .
+*.www-g.ggtbg.art CNAME .
 glowstream.art CNAME .
 *.glowstream.art CNAME .
 kainoaslothower.art CNAME .
@@ -1077,6 +1079,8 @@ torguard.biz CNAME .
 *.torguard.biz CNAME .
 ffd.travelpage.biz CNAME .
 *.ffd.travelpage.biz CNAME .
+ultraproxy.biz CNAME .
+*.ultraproxy.biz CNAME .
 unblock3d.biz CNAME .
 *.unblock3d.biz CNAME .
 unblockbook.biz CNAME .
@@ -3105,6 +3109,8 @@ unblocked.cloud CNAME .
 *.unblocked.cloud CNAME .
 tls.vietguards.cloud CNAME .
 *.tls.vietguards.cloud CNAME .
+vpn.vosjes.cloud CNAME .
+*.vpn.vosjes.cloud CNAME .
 quadrogramma.vps.webdock.cloud CNAME .
 *.quadrogramma.vps.webdock.cloud CNAME .
 dns.wibenson.cloud CNAME .
@@ -14849,6 +14855,8 @@ tubeprox.com CNAME .
 *.tubeprox.com CNAME .
 tujdixrq.com CNAME .
 *.tujdixrq.com CNAME .
+tunnel4.com CNAME .
+*.tunnel4.com CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
 learn.how.tupuola.com CNAME .
@@ -15069,6 +15077,8 @@ unblockedwarez.com CNAME .
 *.unblockedwarez.com CNAME .
 unblockfreeproxy.com CNAME .
 *.unblockfreeproxy.com CNAME .
+unblockitnow.com CNAME .
+*.unblockitnow.com CNAME .
 unblockmate.com CNAME .
 *.unblockmate.com CNAME .
 unblockmyweb.com CNAME .
@@ -15423,6 +15433,8 @@ proxy.vpner.com CNAME .
 *.proxy.vpner.com CNAME .
 vpnfan.com CNAME .
 *.vpnfan.com CNAME .
+vpngame.com CNAME .
+*.vpngame.com CNAME .
 vpngn.com CNAME .
 *.vpngn.com CNAME .
 vpngocn.com CNAME .
@@ -15639,6 +15651,8 @@ wanxianggw.com CNAME .
 *.wanxianggw.com CNAME .
 albertcoolters.server.warhawkenterprises.com CNAME .
 *.albertcoolters.server.warhawkenterprises.com CNAME .
+warninglog.com CNAME .
+*.warninglog.com CNAME .
 warpproxy.com CNAME .
 *.warpproxy.com CNAME .
 waselpro.com CNAME .
@@ -19345,6 +19359,12 @@ iphoneget.fyi CNAME .
 *.iphoneget.fyi CNAME .
 greenhubtx.ga CNAME .
 *.greenhubtx.ga CNAME .
+bold-river-186.sz.games CNAME .
+*.bold-river-186.sz.games CNAME .
+large-dark-576.sz.games CNAME .
+*.large-dark-576.sz.games CNAME .
+wild-moon-986.sz.games CNAME .
+*.wild-moon-986.sz.games CNAME .
 zkit.above.gay CNAME .
 *.zkit.above.gay CNAME .
 rammerhead.is-confirmed.gay CNAME .
@@ -20763,6 +20783,8 @@ unblockedsite.info CNAME .
 *.unblockedsite.info CNAME .
 uproxy2.info CNAME .
 *.uproxy2.info CNAME .
+usafastproxy.info CNAME .
+*.usafastproxy.info CNAME .
 usproxies.info CNAME .
 *.usproxies.info CNAME .
 v4f.info CNAME .
@@ -21479,6 +21501,8 @@ utunnel.io CNAME .
 *.utunnel.io CNAME .
 www-web.veranon.io CNAME .
 *.www-web.veranon.io CNAME .
+vpn24.io CNAME .
+*.vpn24.io CNAME .
 vpnd.io CNAME .
 *.vpnd.io CNAME .
 vpnn.io CNAME .
@@ -21599,6 +21623,8 @@ unity4world.ir CNAME .
 *.unity4world.ir CNAME .
 dns.virtual-qr.ir CNAME .
 *.dns.virtual-qr.ir CNAME .
+webjax.ir CNAME .
+*.webjax.ir CNAME .
 xqnetwork.ir CNAME .
 *.xqnetwork.ir CNAME .
 lemonlimesuckers.barabesta.is CNAME .
@@ -21619,6 +21645,8 @@ dns.flatuslifir.is CNAME .
 *.dns.flatuslifir.is CNAME .
 ricko.is CNAME .
 *.ricko.is CNAME .
+use.star.is CNAME .
+*.use.star.is CNAME .
 block.abstergo.it CNAME .
 *.block.abstergo.it CNAME .
 skills.coach.afaa.it CNAME .
@@ -21991,6 +22019,8 @@ redshieldvpn.live CNAME .
 *.redshieldvpn.live CNAME .
 rinki.live CNAME .
 *.rinki.live CNAME .
+solaxy.live CNAME .
+*.solaxy.live CNAME .
 speedstream.live CNAME .
 *.speedstream.live CNAME .
 turbo-vpn.live CNAME .
@@ -22095,6 +22125,10 @@ rainforest.lol CNAME .
 *.rainforest.lol CNAME .
 renvpn.lol CNAME .
 *.renvpn.lol CNAME .
+bright-bear-630.shuttle.lol CNAME .
+*.bright-bear-630.shuttle.lol CNAME .
+kind-wolf-912.shuttle.lol CNAME .
+*.kind-wolf-912.shuttle.lol CNAME .
 sigmavpn.lol CNAME .
 *.sigmavpn.lol CNAME .
 sillyy.lol CNAME .
@@ -22105,6 +22139,8 @@ softether-vpn.lol CNAME .
 *.softether-vpn.lol CNAME .
 themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 *.themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
+theproxy.lol CNAME .
+*.theproxy.lol CNAME .
 tianhang.lol CNAME .
 *.tianhang.lol CNAME .
 toaster.lol CNAME .
@@ -26781,6 +26817,8 @@ lousiana-history-careers-ixl-geoly-education.spacetechnology.net CNAME .
 *.lousiana-history-careers-ixl-geoly-education.spacetechnology.net CNAME .
 srfshrk.net CNAME .
 *.srfshrk.net CNAME .
+sshagan.net CNAME .
+*.sshagan.net CNAME .
 sshdropbear.net CNAME .
 *.sshdropbear.net CNAME .
 sshmax.net CNAME .
@@ -27027,6 +27065,8 @@ unblockedstreaming.net CNAME .
 *.unblockedstreaming.net CNAME .
 unblocker.net CNAME .
 *.unblocker.net CNAME .
+unblocks.net CNAME .
+*.unblocks.net CNAME .
 unblockyoutubefree.net CNAME .
 *.unblockyoutubefree.net CNAME .
 universityproxy.net CNAME .
@@ -30089,6 +30129,10 @@ ny.teradns.org CNAME .
 *.ny.teradns.org CNAME .
 sg.teradns.org CNAME .
 *.sg.teradns.org CNAME .
+tx.teradns.org CNAME .
+*.tx.teradns.org CNAME .
+uk.teradns.org CNAME .
+*.uk.teradns.org CNAME .
 test.texasmath.org CNAME .
 *.test.texasmath.org CNAME .
 dns.thebuckners.org CNAME .
@@ -31345,6 +31389,8 @@ quasarkeepthisasecret.undoanarchy.rocks CNAME .
 *.quasarkeepthisasecret.undoanarchy.rocks CNAME .
 selenitekeepthisasecret.undoanarchy.rocks CNAME .
 *.selenitekeepthisasecret.undoanarchy.rocks CNAME .
+edge-v6x.v6.rocks CNAME .
+*.edge-v6x.v6.rocks CNAME .
 adguard.dbase.in.rs CNAME .
 *.adguard.dbase.in.rs CNAME .
 selenite.luxurytransport.com.signup.luxurytransport.rs CNAME .
@@ -32931,6 +32977,8 @@ sshtun.site CNAME .
 *.sshtun.site CNAME .
 ssobfs.site CNAME .
 *.ssobfs.site CNAME .
+starrynight.site CNAME .
+*.starrynight.site CNAME .
 startvless.site CNAME .
 *.startvless.site CNAME .
 agha.sunryu.site CNAME .
@@ -33201,6 +33249,8 @@ vkrysk.space CNAME .
 *.vkrysk.space CNAME .
 vles.space CNAME .
 *.vles.space CNAME .
+voidnetwork.space CNAME .
+*.voidnetwork.space CNAME .
 vpneko.space CNAME .
 *.vpneko.space CNAME .
 vpnn.space CNAME .
@@ -34747,12 +34797,16 @@ unblocker.us CNAME .
 *.unblocker.us CNAME .
 unblockme.us CNAME .
 *.unblockme.us CNAME .
+untraceable.us CNAME .
+*.untraceable.us CNAME .
 valuepremium.us CNAME .
 *.valuepremium.us CNAME .
 videocollage.us CNAME .
 *.videocollage.us CNAME .
 waitfree.us CNAME .
 *.waitfree.us CNAME .
+webproxy.us CNAME .
+*.webproxy.us CNAME .
 wedding-present.us CNAME .
 *.wedding-present.us CNAME .
 woodenclock.us CNAME .
@@ -34849,6 +34903,8 @@ theproxy.vip CNAME .
 *.theproxy.vip CNAME .
 unblocked2.vip CNAME .
 *.unblocked2.vip CNAME .
+uproxy.vip CNAME .
+*.uproxy.vip CNAME .
 v2ny.vip CNAME .
 *.v2ny.vip CNAME .
 vonodefly.vip CNAME .
@@ -35065,6 +35121,8 @@ imfroggingit.soloo.win CNAME .
 *.imfroggingit.soloo.win CNAME .
 adguard.sscw.win CNAME .
 *.adguard.sscw.win CNAME .
+dns.sshub.win CNAME .
+*.dns.sshub.win CNAME .
 www-web.sshub.win CNAME .
 *.www-web.sshub.win CNAME .
 doh.ntu.ssooss.win CNAME .

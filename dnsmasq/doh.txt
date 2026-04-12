@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 19:36 UTC
-# Version: 2026.0411.1936.18
+# Last modified: 12 Apr 2026 11:39 UTC
+# Version: 2026.0412.1139.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3482
+# Number of entries: 3486
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2967,6 +2967,7 @@ local=/guard.sntrk.ru/
 local=/adguardhome.softcloud.pe/
 local=/clientdns3.softcom.net/
 local=/myprivityvpn.softether.net/
+local=/solaxy.live/
 local=/wtbd02.solowalk.top/
 local=/ns.solutics.ec/
 local=/ns.solutionsbest.de/
@@ -2990,6 +2991,7 @@ local=/resolve02.srv-pro.de/
 local=/resolve2.srv-pro.de/
 local=/adguard.sscw.win/
 local=/ssh-storage.ru/
+local=/dns.sshub.win/
 local=/doh.ntu.ssooss.win/
 local=/ag.ssrahul96.xyz/
 local=/dns.sstomp.nl/
@@ -3105,6 +3107,8 @@ local=/au.teradns.org/
 local=/de.teradns.org/
 local=/ny.teradns.org/
 local=/sg.teradns.org/
+local=/tx.teradns.org/
+local=/uk.teradns.org/
 local=/apne1.dns.terumi.club/
 local=/dns.soldier.terumi.club/
 local=/dns.tesem.dog/

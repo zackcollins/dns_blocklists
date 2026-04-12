@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775936160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1775993940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 19:36 UTC
-; Version: 2026.0411.1936.18
+; Last modified: 12 Apr 2026 11:39 UTC
+; Version: 2026.0412.1139.32
 ; Syntax: RPZ
-; Number of entries: 6964
+; Number of entries: 6972
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -3367,6 +3367,8 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 lifeisa.live CNAME .
 *.lifeisa.live CNAME .
+solaxy.live CNAME .
+*.solaxy.live CNAME .
 xins.live CNAME .
 *.xins.live CNAME .
 acomit.lk CNAME .
@@ -5095,6 +5097,10 @@ ny.teradns.org CNAME .
 *.ny.teradns.org CNAME .
 sg.teradns.org CNAME .
 *.sg.teradns.org CNAME .
+tx.teradns.org CNAME .
+*.tx.teradns.org CNAME .
+uk.teradns.org CNAME .
+*.uk.teradns.org CNAME .
 dns.thebuckners.org CNAME .
 *.dns.thebuckners.org CNAME .
 yh.themcgoughs.org CNAME .
@@ -6635,6 +6641,8 @@ roycom.win CNAME .
 *.roycom.win CNAME .
 adguard.sscw.win CNAME .
 *.adguard.sscw.win CNAME .
+dns.sshub.win CNAME .
+*.dns.sshub.win CNAME .
 doh.ntu.ssooss.win CNAME .
 *.doh.ntu.ssooss.win CNAME .
 adguard.superstefan.win CNAME .

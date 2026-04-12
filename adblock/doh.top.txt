@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Apr 2026 19:36 UTC
-! Version: 2026.0411.1936.49
+! Last modified: 12 Apr 2026 11:40 UTC
+! Version: 2026.0412.1140.03
 ! Syntax: AdBlock
-! Number of entries: 3477
+! Number of entries: 3479
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2963,6 +2963,7 @@
 ||adguardhome.softcloud.pe^
 ||clientdns3.softcom.net^
 ||myprivityvpn.softether.net^
+||solaxy.live^
 ||wtbd02.solowalk.top^
 ||ns.solutics.ec^
 ||ns.solutionsbest.de^
@@ -3101,6 +3102,8 @@
 ||de.teradns.org^
 ||ny.teradns.org^
 ||sg.teradns.org^
+||tx.teradns.org^
+||uk.teradns.org^
 ||apne1.dns.terumi.club^
 ||dns.soldier.terumi.club^
 ||dns.tesem.dog^
@@ -3316,7 +3319,6 @@
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
 ||resov.wehao.net^
-||dns.weibo.cn^
 ||home.weisbrod.me^
 ||dns.wellstsai.com^
 ||zhang.wenru.xyz^

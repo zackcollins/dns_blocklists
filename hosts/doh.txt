@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 19:36 UTC
-# Version: 2026.0411.1936.18
+# Last modified: 12 Apr 2026 11:39 UTC
+# Version: 2026.0412.1139.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3944
+# Number of entries: 3948
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3377,6 +3377,7 @@
 0.0.0.0 adguardhome.softcloud.pe
 0.0.0.0 clientdns3.softcom.net
 0.0.0.0 myprivityvpn.softether.net
+0.0.0.0 solaxy.live
 0.0.0.0 wtbd02.solowalk.top
 0.0.0.0 ns.solutics.ec
 0.0.0.0 ns.solutionsbest.de
@@ -3400,6 +3401,7 @@
 0.0.0.0 resolve2.srv-pro.de
 0.0.0.0 adguard.sscw.win
 0.0.0.0 ssh-storage.ru
+0.0.0.0 dns.sshub.win
 0.0.0.0 doh.ntu.ssooss.win
 0.0.0.0 ag.ssrahul96.xyz
 0.0.0.0 dns.sstomp.nl
@@ -3522,6 +3524,8 @@
 0.0.0.0 de.teradns.org
 0.0.0.0 ny.teradns.org
 0.0.0.0 sg.teradns.org
+0.0.0.0 tx.teradns.org
+0.0.0.0 uk.teradns.org
 0.0.0.0 apne1.dns.terumi.club
 0.0.0.0 dns.soldier.terumi.club
 0.0.0.0 dns.tesem.dog

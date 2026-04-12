@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Apr 2026 17:49 UTC
-! Version: 2026.0411.1749.12
+! Last modified: 12 Apr 2026 09:41 UTC
+! Version: 2026.0412.0941.55
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -6962,6 +6962,7 @@
 @@||sfwx.me^
 @@||sfx.su^
 @@||sg0.co^
+@@||sgq.io^
 @@||sgrtldm.com^
 @@||sgsg.sg^
 @@||sgsu.ru^
@@ -6990,6 +6991,7 @@
 @@||shavel.ink^
 @@||shavelinks.com^
 @@||shct.io^
+@@||shelbyknox.com^
 @@||go.shell.com^
 @@||shentharindu.com^
 @@||shero.link^
@@ -7031,6 +7033,7 @@
 @@||short.asia^
 @@||short.bid^
 @@||short.cc^
+@@||short.cl^
 @@||short.cm^
 @@||short.do^
 @@||short.gy^
@@ -7134,6 +7137,7 @@
 @@||shortenx.com^
 @@||shorter.gg^
 @@||shorter.me^
+@@||shorterall.com^
 @@||shorterflix.com^
 @@||shorterin.com^
 @@||shorterit.com^
@@ -7223,6 +7227,7 @@
 @@||shortner.app^
 @@||shortner.cc^
 @@||shortner.us^
+@@||shortnermaxi.com^
 @@||shortnerurl.org^
 @@||shortng.com^
 @@||shortntrack.com^
@@ -7249,6 +7254,7 @@
 @@||shortsy.pro^
 @@||shortturl.co^
 @@||shortu.be^
+@@||shorturl.ac^
 @@||shorturl.asia^
 @@||shorturl.at^
 @@||shorturl.az^
@@ -7274,8 +7280,13 @@
 @@||shorturlbot.com^
 @@||shorturlhub.com^
 @@||shorturlmagic.link^
+@@||shorturls.asia^
+@@||shorturls.click^
+@@||shorturls.fyi^
 @@||shorturls.me^
+@@||shorturls.my^
 @@||shorturls.pro^
+@@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
 @@||shortwave.pro^
@@ -7325,6 +7336,7 @@
 @@||shrinkme.io^
 @@||shrinkme.link^
 @@||shrinkme.org^
+@@||shrinkme.pro^
 @@||shrinkme.site^
 @@||shrinkme.space^
 @@||shrinkme.top^
@@ -7675,6 +7687,7 @@
 @@||spdurl.com^
 @@||spectre.work^
 @@||spedr.com^
+@@||speedyshort.com^
 @@||spgrp.sg^
 @@||spicc.io^
 @@||spid.io^
@@ -7684,6 +7697,7 @@
 @@||spigen.co^
 @@||link.spirofly.com^
 @@||spk.st^
+@@||spkm.co^
 @@||splashurl.com^
 @@||split.to^
 @@||splitterhq.com^
@@ -8020,6 +8034,7 @@
 @@||tek.io^
 @@||teknut.com^
 @@||telega.io^
+@@||telegramviral.com^
 @@||teleko.me^
 @@||developer.telesign.com^
 @@||tellurl.com^
@@ -8067,6 +8082,7 @@
 @@||thd.co^
 @@||sexy.jill.survive.from.the.monster^
 @@||the-bithub.com^
+@@||app.the-pro.info^
 @@||the360tools.com^
 @@||the818challenge.com^
 @@||thebindaas.com^
@@ -8084,6 +8100,7 @@
 @@||thein.fo^
 @@||thejoekuskie.com^
 @@||chat.thekphub.com^
+@@||thekrew.net^
 @@||thekreww.com^
 @@||thelegends.land^
 @@||thelinkmaster.com^
@@ -8228,6 +8245,7 @@
 @@||tinyurl.dev^
 @@||tinyurl.ee^
 @@||tinyurl.hu^
+@@||tinyurl.mobi^
 @@||tinyurl.my^
 @@||tinyurl.rest^
 @@||tinyurl.rocks^
@@ -8365,6 +8383,7 @@
 @@||toto.pe^
 @@||totopecah.site^
 @@||toui.cc^
+@@||touraboutworld.org^
 @@||tourefly.com^
 @@||tourl.in^
 @@||tov1.net^
@@ -8433,6 +8452,7 @@
 @@||trimrly.com^
 @@||trimrr.link^
 @@||trims.me^
+@@||trimuly.com^
 @@||trimurl.co^
 @@||trimurls.com^
 @@||trisula88short.xyz^
@@ -8493,6 +8513,7 @@
 @@||ttcclear.io^
 @@||ttco.io^
 @@||ttdt.info^
+@@||ttis.us^
 @@||tto.jp^
 @@||ttoo.top^
 @@||ttr.ir^
@@ -8876,6 +8897,7 @@
 @@||urlo.in^
 @@||urlo12x.com^
 @@||urlpi.com^
+@@||urlplus.net^
 @@||urlpoints.com^
 @@||urlq.com^
 @@||urlr.me^
@@ -8915,6 +8937,7 @@
 @@||urlshortenervip.com^
 @@||urlshortenerx.com^
 @@||urlshortly.com^
+@@||urlshortn.com^
 @@||urlshortner.org^
 @@||urlshortnerpassive.com^
 @@||urlshortx.com^
@@ -8936,6 +8959,7 @@
 @@||urltiger.com^
 @@||urltiger.li^
 @@||urltiny.cc^
+@@||urltiny.one^
 @@||urltiny.xyz^
 @@||urlto.me^
 @@||urltools.com^
@@ -9215,6 +9239,7 @@
 @@||vioshortlink.one^
 @@||vip-gacha99.info^
 @@||vip123.biz^
+@@||vipb.io^
 @@||vipcair.click^
 @@||vipjus.click^
 @@||vipp.link^
@@ -9325,6 +9350,7 @@
 @@||w0of-woof.com^
 @@||w1p.fr^
 @@||w2link.com^
+@@||w2u.io^
 @@||w33.li^
 @@||w3dv.com^
 @@||w3n.us^

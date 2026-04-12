@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 19:35 UTC
-# Version: 2026.0411.1935.49
+# Last modified: 12 Apr 2026 11:39 UTC
+# Version: 2026.0412.1139.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1483
+# Number of entries: 1486
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -1285,6 +1285,7 @@ local=/sitelutions.com/
 local=/skc.su/
 local=/skies.tw/
 local=/slasdot.com/
+local=/sleepless.hk/
 local=/sline.net/
 local=/sly.io/
 local=/slyip.net/
@@ -1314,6 +1315,7 @@ local=/ssitech.bg/
 local=/ssl443.org/
 local=/sslip.io/
 local=/ssmailer.com/
+local=/star.is/
 local=/stemmetje.com/
 local=/stes.fi/
 local=/stfu-kthx.net/
@@ -1428,6 +1430,7 @@ local=/vpndns.net/
 local=/vpntraki.com/
 local=/vpnx.nl/
 local=/vr.lt/
+local=/vxe6.net/
 local=/wakingmoon.com/
 local=/wan64.de/
 local=/wanip.ch/

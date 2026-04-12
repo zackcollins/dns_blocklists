@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 17:32 UTC
-# Version: 2026.0411.1732.31
+# Last modified: 12 Apr 2026 09:24 UTC
+# Version: 2026.0412.0924.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2093
+# Number of entries: 2096
 #
 1-aclk.net
 1aurl.io
@@ -595,6 +595,7 @@ click.convertkit-mail4.com
 51ce15f1.click.convertkit-mail4.com
 985c544d.click.convertkit-mail4.com
 9a0ee07c.click.convertkit-mail4.com
+d3b9d64f.click.convertkit-mail4.com
 e4c5c2ea.click.convertkit-mail4.com
 ff2daa42.click.convertkit-mail4.com
 el2.convertkit-mail4.com
@@ -752,6 +753,7 @@ suite1.emarsys.net
 suite10.emarsys.net
 suite10-cf.emarsys.net
 suite11.emarsys.net
+suite11-cf.emarsys.net
 suite12.emarsys.net
 suite15.emarsys.net
 suite16.emarsys.net
@@ -1113,6 +1115,7 @@ sites.hscoscdn-eu1.net
 26609264.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
 27031067.sites.hscoscdn-eu1.net
+27090143.sites.hscoscdn-eu1.net
 27102898.sites.hscoscdn-eu1.net
 5955977.sites.hscoscdn-eu1.net
 7885891.sites.hscoscdn-eu1.net
