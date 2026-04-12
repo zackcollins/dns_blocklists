@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775986860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776019860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Apr 2026 09:41 UTC
-; Version: 2026.0412.0941.55
+; Last modified: 12 Apr 2026 18:51 UTC
+; Version: 2026.0412.1851.10
 ; Syntax: RPZ
-; Number of entries: 20118
+; Number of entries: 20134
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7831,6 +7831,8 @@ x-shrtn.com CNAME .
 *.x-shrtn.com CNAME .
 x2t.com CNAME .
 *.x2t.com CNAME .
+xaddr.com CNAME .
+*.xaddr.com CNAME .
 xailr.com CNAME .
 *.xailr.com CNAME .
 xb5.com CNAME .
@@ -7851,6 +7853,10 @@ xn--bj0bm0rf3a.xn--bm4b52j.com CNAME .
 *.xn--bj0bm0rf3a.xn--bm4b52j.com CNAME .
 xn--jvrr59b7kt3rm.com CNAME .
 *.xn--jvrr59b7kt3rm.com CNAME .
+xortly.com CNAME .
+*.xortly.com CNAME .
+xoxourl.com CNAME .
+*.xoxourl.com CNAME .
 xozap.com CNAME .
 *.xozap.com CNAME .
 xplinks.com CNAME .
@@ -7905,6 +7911,8 @@ yrkus.com CNAME .
 *.yrkus.com CNAME .
 yshorten.com CNAME .
 *.yshorten.com CNAME .
+yukibio.com CNAME .
+*.yukibio.com CNAME .
 d.yunzhuyun.com CNAME .
 *.d.yunzhuyun.com CNAME .
 yweb.com CNAME .
@@ -8849,6 +8857,8 @@ xrshort.eu CNAME .
 *.xrshort.eu CNAME .
 xsurl.eu CNAME .
 *.xsurl.eu CNAME .
+xy2.eu CNAME .
+*.xy2.eu CNAME .
 yeca.eu CNAME .
 *.yeca.eu CNAME .
 dfds.events CNAME .
@@ -13263,6 +13273,8 @@ yolla.link CNAME .
 *.yolla.link CNAME .
 youneedthis.link CNAME .
 *.youneedthis.link CNAME .
+zhort.link CNAME .
+*.zhort.link CNAME .
 zik.link CNAME .
 *.zik.link CNAME .
 zipurl.link CNAME .
@@ -16131,6 +16143,8 @@ witly.online CNAME .
 *.witly.online CNAME .
 wplinks.online CNAME .
 *.wplinks.online CNAME .
+xboys.online CNAME .
+*.xboys.online CNAME .
 yulllu01.online CNAME .
 *.yulllu01.online CNAME .
 sah.ooo CNAME .
@@ -16593,6 +16607,8 @@ yourls.org CNAME .
 *.yourls.org CNAME .
 zpurl.org CNAME .
 *.zpurl.org CNAME .
+zyva.org CNAME .
+*.zyva.org CNAME .
 aka.ovh CNAME .
 *.aka.ovh CNAME .
 analyticslinker.ovh CNAME .

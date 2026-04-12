@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775993520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776025800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Apr 2026 11:32 UTC
-; Version: 2026.0412.1132.38
+; Last modified: 12 Apr 2026 20:30 UTC
+; Version: 2026.0412.2030.58
 ; Syntax: RPZ
-; Number of entries: 24770
+; Number of entries: 24786
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -8590,6 +8590,8 @@ x-oo.com CNAME .
 *.x-oo.com CNAME .
 x4f7yww4ddr.com CNAME .
 *.x4f7yww4ddr.com CNAME .
+bt.xbox-sky.com CNAME .
+*.bt.xbox-sky.com CNAME .
 xbox360iso.com CNAME .
 *.xbox360iso.com CNAME .
 xcine-tv.com CNAME .
@@ -8604,6 +8606,8 @@ xforce-cracks.com CNAME .
 *.xforce-cracks.com CNAME .
 share.xfsub.com CNAME .
 *.share.xfsub.com CNAME .
+xie22.com CNAME .
+*.xie22.com CNAME .
 xn--80a4b.com CNAME .
 *.xn--80a4b.com CNAME .
 xn--thepratebay-fcb.com CNAME .
@@ -8622,6 +8626,8 @@ xtorx.com CNAME .
 *.xtorx.com CNAME .
 xtovideo.com CNAME .
 *.xtovideo.com CNAME .
+xtraseed.com CNAME .
+*.xtraseed.com CNAME .
 xtvi.com CNAME .
 *.xtvi.com CNAME .
 xubster.com CNAME .
@@ -9728,6 +9734,8 @@ x1337x.eu CNAME .
 *.x1337x.eu CNAME .
 xdcc.eu CNAME .
 *.xdcc.eu CNAME .
+xn--firstrowsport-8xe.eu CNAME .
+*.xn--firstrowsport-8xe.eu CNAME .
 budvartrekker.xn-s.eu CNAME .
 *.budvartrekker.xn-s.eu CNAME .
 hd-hu.xn-s.eu CNAME .
@@ -10428,6 +10436,8 @@ torrent9.gg CNAME .
 *.torrent9.gg CNAME .
 tracker.tritan.gg CNAME .
 *.tracker.tritan.gg CNAME .
+yesmovies.gg CNAME .
+*.yesmovies.gg CNAME .
 mkvcinemas.gift CNAME .
 *.mkvcinemas.gift CNAME .
 moviesmod.gift CNAME .
@@ -15754,6 +15764,8 @@ yoyomovies.net CNAME .
 *.yoyomovies.net CNAME .
 yt1s.net CNAME .
 *.yt1s.net CNAME .
+ytsyify.net CNAME .
+*.ytsyify.net CNAME .
 yubraca.net CNAME .
 *.yubraca.net CNAME .
 bt.yumeru.net CNAME .
@@ -23896,6 +23908,8 @@ xalaflix2.world CNAME .
 *.xalaflix2.world CNAME .
 xalaflixs.world CNAME .
 *.xalaflixs.world CNAME .
+yesmovies.world CNAME .
+*.yesmovies.world CNAME .
 0123movie.ws CNAME .
 *.0123movie.ws CNAME .
 2ddl.ws CNAME .
@@ -24678,6 +24692,8 @@ wilothepilo.xyz CNAME .
 *.wilothepilo.xyz CNAME .
 worldofpcgames.xyz CNAME .
 *.worldofpcgames.xyz CNAME .
+omg.wtftrackr.xyz CNAME .
+*.omg.wtftrackr.xyz CNAME .
 wwmovies.xyz CNAME .
 *.wwmovies.xyz CNAME .
 tracker.xiaoduola.xyz CNAME .

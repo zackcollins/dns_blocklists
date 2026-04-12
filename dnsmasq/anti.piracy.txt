@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 11:32 UTC
-# Version: 2026.0412.1132.38
+# Last modified: 12 Apr 2026 20:30 UTC
+# Version: 2026.0412.2030.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12385
+# Number of entries: 12393
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -11932,6 +11932,7 @@ local=/csrinstaff.writeas.com/
 local=/bt.wrzru.com/
 local=/wtfnzb.pw/
 local=/wtftrackr.pw/
+local=/omg.wtftrackr.xyz/
 local=/wunza.ws/
 local=/wushare.com/
 local=/wvw-fmovies.com/
@@ -11987,6 +11988,7 @@ local=/xatab-repack.net/
 local=/xatab-repack.rip/
 local=/xbins.org/
 local=/xboot.net/
+local=/bt.xbox-sky.com/
 local=/xbox360iso.com/
 local=/xcine.click/
 local=/xcine.cx/
@@ -12012,6 +12014,7 @@ local=/xforce-cracks.com/
 local=/share.xfsub.com/
 local=/tracker.xiaoduola.xyz/
 local=/xider.hu/
+local=/xie22.com/
 local=/ximepa.ru/
 local=/xlist.ro/
 local=/xmovie8.pro/
@@ -12027,6 +12030,7 @@ local=/xmovies8.si/
 local=/tracker-zhuqiy.xn--1r3au8b.space/
 local=/xn--80a4b.com/
 local=/tracker.xn--djrq4gl4hvoi.top/
+local=/xn--firstrowsport-8xe.eu/
 local=/xn--thepratebay-fcb.com/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
@@ -12050,6 +12054,7 @@ local=/xtorrentp2p.com/
 local=/xtorrenty.org/
 local=/xtorx.com/
 local=/xtovideo.com/
+local=/xtraseed.com/
 local=/xtreme.cc/
 local=/xtremespeeds.net/
 local=/xtremewrestlingtorrents.net/
@@ -12109,6 +12114,7 @@ local=/yesmovies.cloud/
 local=/yesmovies.com/
 local=/yesmovies.do/
 local=/yesmovies.fun/
+local=/yesmovies.gg/
 local=/yesmovies.id/
 local=/yesmovies.io/
 local=/yesmovies.is/
@@ -12132,6 +12138,7 @@ local=/yesmovies.to/
 local=/yesmovies.vc/
 local=/yesmovies.vin/
 local=/yesmovies.vip/
+local=/yesmovies.world/
 local=/yesmovies.wtf/
 local=/yesmovies.zone/
 local=/yesnetcommunication.com/
@@ -12240,6 +12247,7 @@ local=/ytsstreaming.com/
 local=/ytstorrent.com/
 local=/ytstv.me/
 local=/ytstvmovies.xyz/
+local=/ytsyify.net/
 local=/yubraca.net/
 local=/yugenani.me/
 local=/yui-nya.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 09:24 UTC
-# Version: 2026.0412.0924.09
+# Last modified: 12 Apr 2026 18:35 UTC
+# Version: 2026.0412.1835.00
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2096
+# Number of entries: 2097
 #
 1-aclk.net
 1aurl.io
@@ -2020,6 +2020,7 @@ onboard.triptease.io
 trkjkamaret.com
 trkn.us
 trkrcc.com
+trk.trktrackier.com
 tracking.trucliks.com
 tracker.trust-link.io
 analytics.trustyou.com

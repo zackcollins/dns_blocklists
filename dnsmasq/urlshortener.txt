@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 09:41 UTC
-# Version: 2026.0412.0941.55
+# Last modified: 12 Apr 2026 18:51 UTC
+# Version: 2026.0412.1851.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10059
+# Number of entries: 10067
 #
 local=/0.gp/
 local=/00m.in/
@@ -9695,10 +9695,12 @@ local=/x3.cx/
 local=/x5n.cn/
 local=/x7.lv/
 local=/x89.us/
+local=/xaddr.com/
 local=/xailr.com/
 local=/xb5.com/
 local=/xbig.info/
 local=/xbitly.com/
+local=/xboys.online/
 local=/xbrch.com/
 local=/xbx.lv/
 local=/url.xcode.no/
@@ -9743,6 +9745,8 @@ local=/xo.sd/
 local=/xo0.ir/
 local=/xoe.cz/
 local=/xor.tw/
+local=/xortly.com/
+local=/xoxourl.com/
 local=/xozap.com/
 local=/xpixl.me/
 local=/xplinks.com/
@@ -9793,6 +9797,7 @@ local=/xxxdwz.com/
 local=/xxxdwz.pro/
 local=/xxxl.ink/
 local=/xy.ar/
+local=/xy2.eu/
 local=/xzb.cc/
 local=/y0utu.be/
 local=/y2.nz/
@@ -9900,6 +9905,7 @@ local=/yu3.io/
 local=/yubi.co/
 local=/yui.co/
 local=/yuk.nu/
+local=/yukibio.com/
 local=/yul.is/
 local=/yulllu01.online/
 local=/d.yunzhuyun.com/
@@ -9964,6 +9970,7 @@ local=/zhcen.cc/
 local=/link.zhdk.ch/
 local=/zhergrush.com/
 local=/zhort.de/
+local=/zhort.link/
 local=/zhx.su/
 local=/zi.ma/
 local=/zi.pe/
@@ -10069,6 +10076,7 @@ local=/zyguer.com/
 local=/zynexly.com/
 local=/zynga.my/
 local=/zyp.to/
+local=/zyva.org/
 local=/zywv.us/
 local=/zz.gd/
 local=/zz.sd/

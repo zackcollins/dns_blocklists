@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775994000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776026220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Apr 2026 11:40 UTC
-; Version: 2026.0412.1140.16
+; Last modified: 12 Apr 2026 20:37 UTC
+; Version: 2026.0412.2037.42
 ; Syntax: RPZ
-; Number of entries: 36598
+; Number of entries: 36634
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -14153,16 +14153,46 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
+eu-proxy.startpage.com CNAME .
+*.eu-proxy.startpage.com CNAME .
+eu1-browse.startpage.com CNAME .
+*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 eu3-browse.startpage.com CNAME .
 *.eu3-browse.startpage.com CNAME .
+eu4-browse.startpage.com CNAME .
+*.eu4-browse.startpage.com CNAME .
+proxy.startpage.com CNAME .
+*.proxy.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
+proxy4.startpage.com CNAME .
+*.proxy4.startpage.com CNAME .
+proxy5.startpage.com CNAME .
+*.proxy5.startpage.com CNAME .
+s14-eu5.startpage.com CNAME .
+*.s14-eu5.startpage.com CNAME .
+s15-us2.startpage.com CNAME .
+*.s15-us2.startpage.com CNAME .
+s16-us2.startpage.com CNAME .
+*.s16-us2.startpage.com CNAME .
+s17-us2.startpage.com CNAME .
+*.s17-us2.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
+s5-us3.startpage.com CNAME .
+*.s5-us3.startpage.com CNAME .
+us-browse.startpage.com CNAME .
+*.us-browse.startpage.com CNAME .
+us-proxy.startpage.com CNAME .
+*.us-proxy.startpage.com CNAME .
+us1-browse.startpage.com CNAME .
+*.us1-browse.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
 *.us2-browse.startpage.com CNAME .
 starvpn.com CNAME .
@@ -15755,6 +15785,8 @@ whitehatvpn.com CNAME .
 *.whitehatvpn.com CNAME .
 whoisping.com CNAME .
 *.whoisping.com CNAME .
+whyproxy.com CNAME .
+*.whyproxy.com CNAME .
 wicrypt.com CNAME .
 *.wicrypt.com CNAME .
 widenjewel.com CNAME .
@@ -16537,6 +16569,10 @@ xn--i8sz42aukrmna.com CNAME .
 *.xn--i8sz42aukrmna.com CNAME .
 xn--imm-qr6el54e.com CNAME .
 *.xn--imm-qr6el54e.com CNAME .
+xn--infiniport-cn3r594m.com CNAME .
+*.xn--infiniport-cn3r594m.com CNAME .
+xn--ios-x03f946a09d.com CNAME .
+*.xn--ios-x03f946a09d.com CNAME .
 xn--justmysocks-pr1t577n.com CNAME .
 *.xn--justmysocks-pr1t577n.com CNAME .
 xn--justmysocks-yh8u864d2q7c.com CNAME .

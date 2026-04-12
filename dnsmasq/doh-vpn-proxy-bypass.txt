@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 11:40 UTC
-# Version: 2026.0412.1140.16
+# Last modified: 12 Apr 2026 20:37 UTC
+# Version: 2026.0412.2037.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18299
+# Number of entries: 18317
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -14422,11 +14422,26 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
+local=/eu-proxy.startpage.com/
+local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/eu3-browse.startpage.com/
+local=/eu4-browse.startpage.com/
+local=/proxy.startpage.com/
 local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
+local=/proxy4.startpage.com/
+local=/proxy5.startpage.com/
+local=/s14-eu5.startpage.com/
+local=/s15-us2.startpage.com/
+local=/s16-us2.startpage.com/
+local=/s17-us2.startpage.com/
 local=/s4-us2.startpage.com/
+local=/s5-us3.startpage.com/
+local=/us-browse.startpage.com/
+local=/us-proxy.startpage.com/
+local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/
 local=/dns.startupstack.tech/
 local=/startvless.site/
@@ -16755,6 +16770,7 @@ local=/whoer.net/
 local=/whoisit.co/
 local=/whoisping.com/
 local=/bwh.why4free.top/
+local=/whyproxy.com/
 local=/dns.wibenson.cloud/
 local=/wicrypt.com/
 local=/widenjewel.com/
@@ -17367,6 +17383,8 @@ local=/xn--hxlm-tg0i904cpukm5s.com/
 local=/xn--i8sz42af0t3gm.com/
 local=/xn--i8sz42aukrmna.com/
 local=/xn--imm-qr6el54e.com/
+local=/xn--infiniport-cn3r594m.com/
+local=/xn--ios-x03f946a09d.com/
 local=/xn--justmysocks-pr1t577n.com/
 local=/xn--justmysocks-yh8u864d2q7c.com/
 local=/xn--kbt314a76igqcrwn.com/
