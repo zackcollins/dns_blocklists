@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776019560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776069720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Apr 2026 18:46 UTC
-; Version: 2026.0412.1846.51
+; Last modified: 13 Apr 2026 08:42 UTC
+; Version: 2026.0413.0842.32
 ; Syntax: RPZ
-; Number of entries: 108090
+; Number of entries: 108178
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -3022,6 +3022,8 @@ cn2f.cn CNAME .
 *.91xueli.com.cn CNAME .
 9221.com.cn CNAME .
 *.9221.com.cn CNAME .
+a-todesk.com.cn CNAME .
+*.a-todesk.com.cn CNAME .
 ad4.com.cn CNAME .
 *.ad4.com.cn CNAME .
 ai-sogou.com.cn CNAME .
@@ -3062,6 +3064,8 @@ ck1.duanzipai.com.cn CNAME .
 *.ck1.duanzipai.com.cn CNAME .
 tr.dwjq.com.cn CNAME .
 *.tr.dwjq.com.cn CNAME .
+f-sogou.com.cn CNAME .
+*.f-sogou.com.cn CNAME .
 fire3.com.cn CNAME .
 *.fire3.com.cn CNAME .
 foxea.com.cn CNAME .
@@ -3142,12 +3146,18 @@ offiio-wps.com.cn CNAME .
 *.offiio-wps.com.cn CNAME .
 panoeye.com.cn CNAME .
 *.panoeye.com.cn CNAME .
+pc-todesk.com.cn CNAME .
+*.pc-todesk.com.cn CNAME .
 pian.com.cn CNAME .
 *.pian.com.cn CNAME .
+q-sogou.com.cn CNAME .
+*.q-sogou.com.cn CNAME .
 qingfa.com.cn CNAME .
 *.qingfa.com.cn CNAME .
 qishmusic.com.cn CNAME .
 *.qishmusic.com.cn CNAME .
+qishuide.com.cn CNAME .
+*.qishuide.com.cn CNAME .
 qka.com.cn CNAME .
 *.qka.com.cn CNAME .
 qufu.com.cn CNAME .
@@ -3160,8 +3170,12 @@ sarahchapman.com.cn CNAME .
 *.sarahchapman.com.cn CNAME .
 sfjx.com.cn CNAME .
 *.sfjx.com.cn CNAME .
+sogou2.com.cn CNAME .
+*.sogou2.com.cn CNAME .
 solsticeadvancedmaterials.com.cn CNAME .
 *.solsticeadvancedmaterials.com.cn CNAME .
+sougoupy.com.cn CNAME .
+*.sougoupy.com.cn CNAME .
 arnonym.spotify.com.cn CNAME .
 *.arnonym.spotify.com.cn CNAME .
 cohorts.spotify.com.cn CNAME .
@@ -3188,6 +3202,8 @@ wcsl.com.cn CNAME .
 *.wcsl.com.cn CNAME .
 www-office-wps.com.cn CNAME .
 *.www-office-wps.com.cn CNAME .
+www-qishiu.com.cn CNAME .
+*.www-qishiu.com.cn CNAME .
 wzlaw.com.cn CNAME .
 *.wzlaw.com.cn CNAME .
 yingjie.com.cn CNAME .
@@ -3310,8 +3326,36 @@ hctyzx.cn CNAME .
 *.hctyzx.cn CNAME .
 hengde.cn CNAME .
 *.hengde.cn CNAME .
-hl.cn CNAME .
-*.hl.cn CNAME .
+app-google-zh.hl.cn CNAME .
+*.app-google-zh.hl.cn CNAME .
+apps-chrome-zh.hl.cn CNAME .
+*.apps-chrome-zh.hl.cn CNAME .
+apps-google-hl.hl.cn CNAME .
+*.apps-google-hl.hl.cn CNAME .
+chrome-gooogle-zh.hl.cn CNAME .
+*.chrome-gooogle-zh.hl.cn CNAME .
+chrome-hl.hl.cn CNAME .
+*.chrome-hl.hl.cn CNAME .
+cnzh-google-apps.hl.cn CNAME .
+*.cnzh-google-apps.hl.cn CNAME .
+go-todesk.hl.cn CNAME .
+*.go-todesk.hl.cn CNAME .
+googgle-chrrome.hl.cn CNAME .
+*.googgle-chrrome.hl.cn CNAME .
+google-chrrome-zh.hl.cn CNAME .
+*.google-chrrome-zh.hl.cn CNAME .
+office-wps-hl.hl.cn CNAME .
+*.office-wps-hl.hl.cn CNAME .
+qishui-yinle.hl.cn CNAME .
+*.qishui-yinle.hl.cn CNAME .
+qishui-zn.hl.cn CNAME .
+*.qishui-zn.hl.cn CNAME .
+todesk-zh.hl.cn CNAME .
+*.todesk-zh.hl.cn CNAME .
+zh-googlle-chrome.hl.cn CNAME .
+*.zh-googlle-chrome.hl.cn CNAME .
+zhcn-googele.hl.cn CNAME .
+*.zhcn-googele.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -3470,10 +3514,14 @@ mzxl.org.cn CNAME .
 *.mzxl.org.cn CNAME .
 qqma.org.cn CNAME .
 *.qqma.org.cn CNAME .
+shurufa-sogou.org.cn CNAME .
+*.shurufa-sogou.org.cn CNAME .
 stcl.org.cn CNAME .
 *.stcl.org.cn CNAME .
 transplantation.org.cn CNAME .
 *.transplantation.org.cn CNAME .
+www-cn-google.org.cn CNAME .
+*.www-cn-google.org.cn CNAME .
 xsfy.org.cn CNAME .
 *.xsfy.org.cn CNAME .
 yujinyulechengzenmeying.yj93.org.cn CNAME .
@@ -3550,6 +3598,8 @@ signtu.cn CNAME .
 *.signtu.cn CNAME .
 skicc.cn CNAME .
 *.skicc.cn CNAME .
+sogou-sogou.cn CNAME .
+*.sogou-sogou.cn CNAME .
 m.sowz.cn CNAME .
 *.m.sowz.cn CNAME .
 spinexpo.cn CNAME .
@@ -3584,6 +3634,8 @@ tjnkxy.cn CNAME .
 *.tjnkxy.cn CNAME .
 tlauncher.cn CNAME .
 *.tlauncher.cn CNAME .
+todesk-zh.cn CNAME .
+*.todesk-zh.cn CNAME .
 tokenisation.cn CNAME .
 *.tokenisation.cn CNAME .
 tuba.toolg.cn CNAME .
@@ -3622,6 +3674,8 @@ whitenoise.cn CNAME .
 *.whitenoise.cn CNAME .
 wipu.cn CNAME .
 *.wipu.cn CNAME .
+ww-sogou.cn CNAME .
+*.ww-sogou.cn CNAME .
 wwads.cn CNAME .
 *.wwads.cn CNAME .
 wxjtce.cn CNAME .
@@ -16048,6 +16102,10 @@ app-momentum.com CNAME .
 *.app-momentum.com CNAME .
 app-rush.com CNAME .
 *.app-rush.com CNAME .
+app-wegame.com CNAME .
+*.app-wegame.com CNAME .
+app-wg.com CNAME .
+*.app-wg.com CNAME .
 app9888.com CNAME .
 *.app9888.com CNAME .
 appads.com CNAME .
@@ -24354,6 +24412,8 @@ cmvrclicks000.com CNAME .
 *.cmvrclicks000.com CNAME .
 cmzdm.com CNAME .
 *.cmzdm.com CNAME .
+cn-idm.com CNAME .
+*.cn-idm.com CNAME .
 cn846.com CNAME .
 *.cn846.com CNAME .
 cngcpy.com CNAME .
@@ -29546,6 +29606,8 @@ dksundhed.com CNAME .
 *.dksundhed.com CNAME .
 dl-rms.com CNAME .
 *.dl-rms.com CNAME .
+dl-sogou.com CNAME .
+*.dl-sogou.com CNAME .
 dlmonitize.com CNAME .
 *.dlmonitize.com CNAME .
 dlrectdates.com CNAME .
@@ -37294,6 +37356,8 @@ go-to-website.com CNAME .
 *.go-to-website.com CNAME .
 a.go-traffic.com CNAME .
 *.a.go-traffic.com CNAME .
+go-wegame.com CNAME .
+*.go-wegame.com CNAME .
 go2affise.com CNAME .
 *.go2affise.com CNAME .
 go2bdmbet.com CNAME .
@@ -39944,6 +40008,8 @@ holyfrenchtoast.com CNAME .
 *.holyfrenchtoast.com CNAME .
 holyworldusa.com CNAME .
 *.holyworldusa.com CNAME .
+home-wegame.com CNAME .
+*.home-wegame.com CNAME .
 home4ugoog10you.com CNAME .
 *.home4ugoog10you.com CNAME .
 homecomingwoollen.com CNAME .
@@ -40394,6 +40460,8 @@ huangfushan.com CNAME .
 *.huangfushan.com CNAME .
 huanweitong.com CNAME .
 *.huanweitong.com CNAME .
+hub-wegame.com CNAME .
+*.hub-wegame.com CNAME .
 hubbyrangerfry.com CNAME .
 *.hubbyrangerfry.com CNAME .
 hubhc.com CNAME .
@@ -42908,6 +42976,8 @@ jabmascarastorey.com CNAME .
 *.jabmascarastorey.com CNAME .
 jabodzaxfja.com CNAME .
 *.jabodzaxfja.com CNAME .
+jabturfembitter.com CNAME .
+*.jabturfembitter.com CNAME .
 jacabcolrta.com CNAME .
 *.jacabcolrta.com CNAME .
 jackadamo.com CNAME .
@@ -51368,6 +51438,8 @@ nn5nnn.com CNAME .
 *.nn5nnn.com CNAME .
 nnowa.com CNAME .
 *.nnowa.com CNAME .
+nnraytheon.com CNAME .
+*.nnraytheon.com CNAME .
 nnyff.com CNAME .
 *.nnyff.com CNAME .
 no-gbh.com CNAME .
@@ -52392,6 +52464,8 @@ official-permission.com CNAME .
 *.official-permission.com CNAME .
 official-permit.com CNAME .
 *.official-permit.com CNAME .
+official-wegame.com CNAME .
+*.official-wegame.com CNAME .
 officialkmspico.com CNAME .
 *.officialkmspico.com CNAME .
 officialpatientego.com CNAME .
@@ -66378,6 +66452,8 @@ kh.teaglebauson.com CNAME .
 *.kh.teaglebauson.com CNAME .
 teakagency.com CNAME .
 *.teakagency.com CNAME .
+team-wegame.com CNAME .
+*.team-wegame.com CNAME .
 teamavili.com CNAME .
 *.teamavili.com CNAME .
 teamhealthcareclinic.com CNAME .
@@ -66414,6 +66490,8 @@ teawareczar.com CNAME .
 *.teawareczar.com CNAME .
 tech-best.com CNAME .
 *.tech-best.com CNAME .
+tech-sogou.com CNAME .
+*.tech-sogou.com CNAME .
 techcruncheventbrite.com CNAME .
 *.techcruncheventbrite.com CNAME .
 techinnsrl.com CNAME .
@@ -67652,6 +67730,8 @@ top-best.com CNAME .
 *.top-best.com CNAME .
 top-official-app.com CNAME .
 *.top-official-app.com CNAME .
+top-wegame.com CNAME .
+*.top-wegame.com CNAME .
 top10canadabet.com CNAME .
 *.top10canadabet.com CNAME .
 topadbid.com CNAME .
@@ -71872,6 +71952,8 @@ weepy-attack.com CNAME .
 *.weepy-attack.com CNAME .
 weepypapreg.com CNAME .
 *.weepypapreg.com CNAME .
+wegameesport.com CNAME .
+*.wegameesport.com CNAME .
 wehrm.com CNAME .
 *.wehrm.com CNAME .
 sh.weigheroutraze.com CNAME .
@@ -81418,6 +81500,8 @@ bakemm.net CNAME .
 *.bakemm.net CNAME .
 bakjaqa.net CNAME .
 *.bakjaqa.net CNAME .
+bandizip.net CNAME .
+*.bandizip.net CNAME .
 bannerbridge.net CNAME .
 *.bannerbridge.net CNAME .
 bannerconnect.net CNAME .
@@ -88976,6 +89060,8 @@ bahaizoom.org CNAME .
 *.bahaizoom.org CNAME .
 balticvoices.org CNAME .
 *.balticvoices.org CNAME .
+bandisoft.org CNAME .
+*.bandisoft.org CNAME .
 beachvolleyballleague.org CNAME .
 *.beachvolleyballleague.org CNAME .
 beijingjs.org CNAME .
@@ -90450,6 +90536,8 @@ babyish-mixture.pro CNAME .
 *.babyish-mixture.pro CNAME .
 bahochyde.pro CNAME .
 *.bahochyde.pro CNAME .
+bandizip.pro CNAME .
+*.bandizip.pro CNAME .
 bare-type.pro CNAME .
 *.bare-type.pro CNAME .
 baredue.pro CNAME .

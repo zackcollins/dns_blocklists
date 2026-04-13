@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 18:46 UTC
-# Version: 2026.0412.1846.51
+# Last modified: 13 Apr 2026 08:42 UTC
+# Version: 2026.0413.0842.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54045
+# Number of entries: 54089
 #
 *.0.beer
 *.0.club
@@ -8378,6 +8378,8 @@
 *.app-gamesonline-9zhq.com
 *.app-momentum.com
 *.app-rush.com
+*.app-wegame.com
+*.app-wg.com
 *.app6.cc
 *.app9888.com
 *.appads.com
@@ -9823,6 +9825,9 @@
 *.banddisordergraceless.com
 *.bandelcot.com
 *.zl.bandhpensils.com
+*.bandisoft.org
+*.bandizip.net
+*.bandizip.pro
 *.bandoraclink.com
 *.bandswell.com
 *.bandyrefrigeratefeign.com
@@ -14144,6 +14149,7 @@
 *.cmzdm.com
 *.dynamic.163data.com.cn.tv
 *.everpharmanet.cn.tv
+*.cn-idm.com
 *.cn2f.cn
 *.cn846.com
 *.cndsdsva.top
@@ -14504,6 +14510,7 @@
 *.3dchat.com.cn
 *.91xueli.com.cn
 *.9221.com.cn
+*.a-todesk.com.cn
 *.abtiedu.com.au
 *.ad4.com.cn
 *.admatic.com.tr
@@ -14539,6 +14546,7 @@
 *.dusk.com.tw
 *.tr.dwjq.com.cn
 *.ebayobjects.com.au
+*.f-sogou.com.cn
 *.faceb00k.com.vn
 *.www.fifthwall.com.au
 *.fire3.com.cn
@@ -14596,9 +14604,12 @@
 *.offiio-wps.com.cn
 *.orcanmedikal.com.tr
 *.panoeye.com.cn
+*.pc-todesk.com.cn
 *.pian.com.cn
+*.q-sogou.com.cn
 *.qingfa.com.cn
 *.qishmusic.com.cn
+*.qishuide.com.cn
 *.qka.com.cn
 *.qufu.com.cn
 *.ralliant.com.cn
@@ -14611,7 +14622,9 @@
 *.sfjx.com.cn
 *.shegotloud.com.au
 *.shuanshu.com.com
+*.sogou2.com.cn
 *.solsticeadvancedmaterials.com.cn
+*.sougoupy.com.cn
 *.arnonym.spotify.com.cn
 *.cohorts.spotify.com.cn
 *.mcwp.spotify.com.cn
@@ -14634,6 +14647,7 @@
 *.tickets.website.com.se
 *.www-facebooks.com.vn
 *.www-office-wps.com.cn
+*.www-qishiu.com.cn
 *.wzlaw.com.cn
 *.www.xzc.com.tw
 *.yingjie.com.cn
@@ -17829,6 +17843,7 @@
 *.dkwtrzrrejqls.club
 *.dkyzxjlvlfjae.store
 *.dl-rms.com
+*.dl-sogou.com
 *.dl38b03.club
 *.dlasdbj.cn
 *.dldvfyshpgftw.website
@@ -23639,6 +23654,7 @@
 *.go-static.info
 *.go-to-website.com
 *.a.go-traffic.com
+*.go-wegame.com
 *.go1eulife.ai
 *.go2.global
 *.go2affise.com
@@ -25538,7 +25554,21 @@
 *.hkwrwuqlcpelq.site
 *.hkygalzumaqv.com
 *.hkzhongzhuangzhan.cc
-*.hl.cn
+*.app-google-zh.hl.cn
+*.apps-chrome-zh.hl.cn
+*.apps-google-hl.hl.cn
+*.chrome-gooogle-zh.hl.cn
+*.chrome-hl.hl.cn
+*.cnzh-google-apps.hl.cn
+*.go-todesk.hl.cn
+*.googgle-chrrome.hl.cn
+*.google-chrrome-zh.hl.cn
+*.office-wps-hl.hl.cn
+*.qishui-yinle.hl.cn
+*.qishui-zn.hl.cn
+*.todesk-zh.hl.cn
+*.zh-googlle-chrome.hl.cn
+*.zhcn-googele.hl.cn
 *.hl2u.com
 *.hlbmaat.com
 *.hldijphcjszui.store
@@ -25674,6 +25704,7 @@
 *.holyworldusa.com
 *.linelife.home-chat.jp
 *.1litteno.home-walil1.jp
+*.home-wegame.com
 *.home4ugoog10you.com
 *.homecomingwoollen.com
 *.homeconstructionmanagementllc.mobi
@@ -26041,6 +26072,7 @@
 *.huanygl11.top
 *.huawoyjmdtyag.love
 *.huaxikou.cc
+*.hub-wegame.com
 *.hubbyrangerfry.com
 *.hubhc.com
 *.hubhubhub.name
@@ -27868,6 +27900,7 @@
 *.oy.jabirussulcus.shop
 *.jabmascarastorey.com
 *.jabodzaxfja.com
+*.jabturfembitter.com
 *.jacabcolrta.com
 *.jacatoooras.top
 *.jackadamo.com
@@ -34939,6 +34972,7 @@
 *.nnjlvfmz.icu
 *.nnoulqmhxrskm.store
 *.nnowa.com
+*.nnraytheon.com
 *.nnyejjtckhxkp.online
 *.nnyff.com
 *.no-gbh.com
@@ -35815,6 +35849,7 @@
 *.official-kmspico.org
 *.official-permission.com
 *.official-permit.com
+*.official-wegame.com
 *.next.official7-frkoi.net
 *.officialkmspico.com
 *.officialpatientego.com
@@ -36457,9 +36492,11 @@
 *.jlsqgsp.org.cn
 *.mzxl.org.cn
 *.qqma.org.cn
+*.shurufa-sogou.org.cn
 *.stcl.org.cn
 *.transplantation.org.cn
 *.uniswap.org.in
+*.www-cn-google.org.cn
 *.xsfy.org.cn
 *.yujinyulechengzenmeying.yj93.org.cn
 *.orga29.com
@@ -44499,6 +44536,7 @@
 *.sogetcoupes.com
 *.soggy-surround.com
 *.sognoansofou.net
+*.sogou-sogou.cn
 *.sogoushurf.com
 *.sogropidy.com
 *.soha.jp
@@ -46555,6 +46593,7 @@
 *.ph.teaerpregame.com
 *.kh.teaglebauson.com
 *.teakagency.com
+*.team-wegame.com
 *.teamavili.com
 *.teamhealthcareclinic.com
 *.teamrefcoins.com
@@ -46576,6 +46615,7 @@
 *.teawareczar.com
 *.tebie.cn
 *.tech-best.com
+*.tech-sogou.com
 *.tech4u.app
 *.techbazaarx.store
 *.techblock.info
@@ -47436,6 +47476,7 @@
 *.todeataxed.website
 *.todecorstore.com
 *.todesk.im
+*.todesk-zh.cn
 *.todeskapp.com
 *.todopick.com
 *.todseenegnie.xyz
@@ -47543,6 +47584,7 @@
 *.top-official-app.com
 *.top-performance.top
 *.top-performance.work
+*.top-wegame.com
 *.top10canadabet.com
 *.topadbid.com
 *.topadsservices.com
@@ -51128,6 +51170,7 @@
 *.weepypapreg.com
 *.weewoogloogru.net
 *.weezoptez.net
+*.wegameesport.com
 *.wegetpaid.net
 *.wegnpzpsgjpzx.space
 *.wehrm.com
@@ -52121,6 +52164,7 @@
 *.wvqljkowybfxe.space
 *.wvtsnyncckesw.site
 *.wvwaerpeqvzpb.fun
+*.ww-sogou.cn
 *.ww6559.com
 *.ww6981.com
 *.ww8979.com

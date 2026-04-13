@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776025800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776075720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Apr 2026 20:30 UTC
-; Version: 2026.0412.2030.58
+; Last modified: 13 Apr 2026 10:22 UTC
+; Version: 2026.0413.1022.18
 ; Syntax: RPZ
-; Number of entries: 24786
+; Number of entries: 24788
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -6010,6 +6010,8 @@ megagames.com CNAME .
 *.megagames.com CNAME .
 megakino2.com CNAME .
 *.megakino2.com CNAME .
+megakino3.com CNAME .
+*.megakino3.com CNAME .
 megamanmaker.com CNAME .
 *.megamanmaker.com CNAME .
 megamodapk.com CNAME .

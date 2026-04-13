@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 18:51 UTC
-# Version: 2026.0412.1851.10
+# Last modified: 13 Apr 2026 08:46 UTC
+# Version: 2026.0413.0846.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10067
+# Number of entries: 10069
 #
 local=/0.gp/
 local=/00m.in/
@@ -2052,6 +2052,7 @@ local=/cut.pe/
 local=/cut.sk/
 local=/cut.vin/
 local=/cut-ly.com/
+local=/cut2.eu/
 local=/cutdown.link/
 local=/cute.link/
 local=/cutearns.com/
@@ -2831,6 +2832,7 @@ local=/fliplink.io/
 local=/fll.sh/
 local=/fllk.io/
 local=/fllw.link/
+local=/flnk.fr/
 local=/flomuz.io/
 local=/florantevaldez.com/
 local=/flow.page/

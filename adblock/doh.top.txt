@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Apr 2026 11:40 UTC
-! Version: 2026.0412.1140.03
+! Last modified: 13 Apr 2026 10:29 UTC
+! Version: 2026.0413.1029.14
 ! Syntax: AdBlock
-! Number of entries: 3479
+! Number of entries: 3480
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2987,6 +2987,7 @@
 ||resolve2.srv-pro.de^
 ||adguard.sscw.win^
 ||ssh-storage.ru^
+||dns.sshub.win^
 ||doh.ntu.ssooss.win^
 ||ag.ssrahul96.xyz^
 ||dns.sstomp.nl^

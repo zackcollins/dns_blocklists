@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Apr 2026 18:51 UTC
-! Version: 2026.0412.1851.10
+! Last modified: 13 Apr 2026 08:46 UTC
+! Version: 2026.0413.0846.52
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2032,6 +2032,7 @@
 @@||cut.sk^
 @@||cut.vin^
 @@||cut-ly.com^
+@@||cut2.eu^
 @@||cutdown.link^
 @@||cute.link^
 @@||cutearns.com^
@@ -2806,6 +2807,7 @@
 @@||fll.sh^
 @@||fllk.io^
 @@||fllw.link^
+@@||flnk.fr^
 @@||flomuz.io^
 @@||florantevaldez.com^
 @@||flow.page^
