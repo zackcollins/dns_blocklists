@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Apr 2026 10:22 UTC
-# Version: 2026.0413.1022.18
+# Last modified: 14 Apr 2026 11:18 UTC
+# Version: 2026.0414.1118.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12394
+# Number of entries: 12395
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -3173,6 +3173,7 @@ local=/kamikazee.duckdns.org/
 local=/rekcart.duckdns.org/
 local=/thinking.duckdns.org/
 local=/tr4ck3r.duckdns.org/
+local=/vito-tracker.duckdns.org/
 local=/tracker.ducks.party/
 local=/duckwad.net/
 local=/dummipedia.org/
