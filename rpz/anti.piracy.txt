@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776165480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776252240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Apr 2026 11:18 UTC
-; Version: 2026.0414.1118.30
+; Last modified: 15 Apr 2026 11:24 UTC
+; Version: 2026.0415.1124.33
 ; Syntax: RPZ
-; Number of entries: 24790
+; Number of entries: 24814
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1858,12 +1858,18 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
+archive.torrentonline.cc CNAME .
+*.archive.torrentonline.cc CNAME .
 coeus.torrentonline.cc CNAME .
 *.coeus.torrentonline.cc CNAME .
 node01.torrentonline.cc CNAME .
 *.node01.torrentonline.cc CNAME .
 node02.torrentonline.cc CNAME .
 *.node02.torrentonline.cc CNAME .
+obey.torrentonline.cc CNAME .
+*.obey.torrentonline.cc CNAME .
+whybother.torrentonline.cc CNAME .
+*.whybother.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -4956,6 +4962,8 @@ freemovies360.com CNAME .
 *.freemovies360.com CNAME .
 freemoviesfull.com CNAME .
 *.freemoviesfull.com CNAME .
+freemp4moviez.com CNAME .
+*.freemp4moviez.com CNAME .
 freeoldies.com CNAME .
 *.freeoldies.com CNAME .
 freeroms.com CNAME .
@@ -10022,6 +10030,8 @@ tantifilm.food CNAME .
 *.tantifilm.food CNAME .
 vegamovies.food CNAME .
 *.vegamovies.food CNAME .
+mp4moviez.football CNAME .
+*.mp4moviez.football CNAME .
 pirlotv.football CNAME .
 *.pirlotv.football CNAME .
 soccerstreams.football CNAME .
@@ -20116,6 +20126,8 @@ filmstreaming.sbs CNAME .
 *.filmstreaming.sbs CNAME .
 flemmix.sbs CNAME .
 *.flemmix.sbs CNAME .
+gtorrents.sbs CNAME .
+*.gtorrents.sbs CNAME .
 guardaserietv.sbs CNAME .
 *.guardaserietv.sbs CNAME .
 ilgeniodellostreaming.sbs CNAME .
@@ -21348,6 +21360,8 @@ vegamovies.tg CNAME .
 *.vegamovies.tg CNAME .
 tracker.exe.in.th CNAME .
 *.tracker.exe.in.th CNAME .
+5movierulz.theater CNAME .
+*.5movierulz.theater CNAME .
 hdmovie2.theater CNAME .
 *.hdmovie2.theater CNAME .
 vegamovies.theater CNAME .
@@ -23532,6 +23546,10 @@ cmovieshd.vip CNAME .
 *.cmovieshd.vip CNAME .
 crichd.vip CNAME .
 *.crichd.vip CNAME .
+dizipal754.vip CNAME .
+*.dizipal754.vip CNAME .
+dizipal755.vip CNAME .
+*.dizipal755.vip CNAME .
 doodstream.vip CNAME .
 *.doodstream.vip CNAME .
 dramaqu.vip CNAME .
@@ -23736,8 +23754,12 @@ streamsports99.website CNAME .
 *.streamsports99.website CNAME .
 vegamovies.website CNAME .
 *.vegamovies.website CNAME .
+vegamovies.wedding CNAME .
+*.vegamovies.wedding CNAME .
 dood.wf CNAME .
 *.dood.wf CNAME .
+elitetorrent.wf CNAME .
+*.elitetorrent.wf CNAME .
 eztv.wf CNAME .
 *.eztv.wf CNAME .
 ilgeniodellostreaming.wf CNAME .
@@ -24368,6 +24390,8 @@ cinemagratis.xyz CNAME .
 *.cinemagratis.xyz CNAME .
 cloudblink91.xyz CNAME .
 *.cloudblink91.xyz CNAME .
+cmovieshd.xyz CNAME .
+*.cmovieshd.xyz CNAME .
 cruzing.xyz CNAME .
 *.cruzing.xyz CNAME .
 tracker.cubonegro.xyz CNAME .

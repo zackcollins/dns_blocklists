@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Apr 2026 11:18 UTC
-# Version: 2026.0414.1118.30
+# Last modified: 15 Apr 2026 11:24 UTC
+# Version: 2026.0415.1124.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12395
+# Number of entries: 12407
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -341,6 +341,7 @@ local=/5927778.xyz/
 local=/5dbgwxjk.com/
 local=/5mins.shop/
 local=/5mod.ru/
+local=/5movierulz.theater/
 local=/5movierulz.vc/
 local=/5movies.buzz/
 local=/5movies.cloud/
@@ -2199,6 +2200,7 @@ local=/cmovieshd.bz/
 local=/cmovieshd.com/
 local=/cmovieshd.net/
 local=/cmovieshd.vip/
+local=/cmovieshd.xyz/
 local=/cn101.ru/
 local=/cnetworkbd.net/
 local=/cny.fan/
@@ -2871,6 +2873,8 @@ local=/dizipal1543.com/
 local=/dizipal1544.com/
 local=/dizipal1936.com/
 local=/dizipal22.plus/
+local=/dizipal754.vip/
+local=/dizipal755.vip/
 local=/dizipall32.com/
 local=/djconway.com/
 local=/djleak.com/
@@ -3313,6 +3317,7 @@ local=/elitetorrent.in/
 local=/elitetorrent.net/
 local=/elitetorrent.nl/
 local=/elitetorrent.pl/
+local=/elitetorrent.wf/
 local=/elitetorrent1.com/
 local=/elkoora.live/
 local=/elsewhere.org/
@@ -4255,6 +4260,7 @@ local=/freemovies360.com/
 local=/freemoviesfull.com/
 local=/freemp3.cc/
 local=/freemp3.fm/
+local=/freemp4moviez.com/
 local=/freeoldies.com/
 local=/freepeer.org/
 local=/freeroms.com/
@@ -4691,6 +4697,7 @@ local=/gtdb.cc/
 local=/gtdb.to/
 local=/gtorrent.pro/
 local=/gtorrent.ru/
+local=/gtorrents.sbs/
 local=/guarda-serie.click/
 local=/guardaflix.com/
 local=/guardaflix.fm/
@@ -7117,6 +7124,7 @@ local=/mp4hydra.info/
 local=/mp4hydra.org/
 local=/mp4hydra.top/
 local=/mp4mania1.net/
+local=/mp4moviez.football/
 local=/mp4moviezhub.xyz/
 local=/mrgamingstreams.app/
 local=/tracker.mrhei.tech/
@@ -10590,9 +10598,12 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
+local=/archive.torrentonline.cc/
 local=/coeus.torrentonline.cc/
 local=/node01.torrentonline.cc/
 local=/node02.torrentonline.cc/
+local=/obey.torrentonline.cc/
+local=/whybother.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/
@@ -11378,6 +11389,7 @@ local=/vegamovies.voto/
 local=/vegamovies.voyage/
 local=/vegamovies.vu/
 local=/vegamovies.website/
+local=/vegamovies.wedding/
 local=/vegamovies.work/
 local=/vegamovies.works/
 local=/vegamovies.world/

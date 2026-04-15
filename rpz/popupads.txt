@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776159240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776245880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Apr 2026 09:34 UTC
-; Version: 2026.0414.0934.45
+; Last modified: 15 Apr 2026 09:38 UTC
+; Version: 2026.0415.0938.02
 ; Syntax: RPZ
-; Number of entries: 108152
+; Number of entries: 108186
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -3320,8 +3320,36 @@ hctyzx.cn CNAME .
 *.hctyzx.cn CNAME .
 hengde.cn CNAME .
 *.hengde.cn CNAME .
-hl.cn CNAME .
-*.hl.cn CNAME .
+app-google-zh.hl.cn CNAME .
+*.app-google-zh.hl.cn CNAME .
+apps-chrome-zh.hl.cn CNAME .
+*.apps-chrome-zh.hl.cn CNAME .
+apps-google-hl.hl.cn CNAME .
+*.apps-google-hl.hl.cn CNAME .
+chrome-gooogle-zh.hl.cn CNAME .
+*.chrome-gooogle-zh.hl.cn CNAME .
+chrome-hl.hl.cn CNAME .
+*.chrome-hl.hl.cn CNAME .
+cnzh-google-apps.hl.cn CNAME .
+*.cnzh-google-apps.hl.cn CNAME .
+go-todesk.hl.cn CNAME .
+*.go-todesk.hl.cn CNAME .
+googgle-chrrome.hl.cn CNAME .
+*.googgle-chrrome.hl.cn CNAME .
+google-chrrome-zh.hl.cn CNAME .
+*.google-chrrome-zh.hl.cn CNAME .
+office-wps-hl.hl.cn CNAME .
+*.office-wps-hl.hl.cn CNAME .
+qishui-yinle.hl.cn CNAME .
+*.qishui-yinle.hl.cn CNAME .
+qishui-zn.hl.cn CNAME .
+*.qishui-zn.hl.cn CNAME .
+todesk-zh.hl.cn CNAME .
+*.todesk-zh.hl.cn CNAME .
+zh-googlle-chrome.hl.cn CNAME .
+*.zh-googlle-chrome.hl.cn CNAME .
+zhcn-googele.hl.cn CNAME .
+*.zhcn-googele.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -14614,6 +14642,8 @@ aimprojectionselect.com CNAME .
 *.aimprojectionselect.com CNAME .
 aimyy.com CNAME .
 *.aimyy.com CNAME .
+ainelremp.com CNAME .
+*.ainelremp.com CNAME .
 ainokotoba1515.com CNAME .
 *.ainokotoba1515.com CNAME .
 ainsyndication.com CNAME .
@@ -17862,8 +17892,6 @@ aypa8.com CNAME .
 *.aypa8.com CNAME .
 ayrtpmwuymzbbq.com CNAME .
 *.ayrtpmwuymzbbq.com CNAME .
-aywgucxmh.com CNAME .
-*.aywgucxmh.com CNAME .
 az-l.com CNAME .
 *.az-l.com CNAME .
 az980.com CNAME .
@@ -27730,6 +27758,8 @@ dcfnihzg81pa.com CNAME .
 *.dcfnihzg81pa.com CNAME .
 dcoatqha.com CNAME .
 *.dcoatqha.com CNAME .
+dcrtb-pixel.com CNAME .
+*.dcrtb-pixel.com CNAME .
 dcssptrack.com CNAME .
 *.dcssptrack.com CNAME .
 dctracking.com CNAME .
@@ -34284,8 +34314,6 @@ fitnesspools.com CNAME .
 *.fitnesspools.com CNAME .
 fitnesspovertyparting.com CNAME .
 *.fitnesspovertyparting.com CNAME .
-fitoutcomereconvene.com CNAME .
-*.fitoutcomereconvene.com CNAME .
 fitsagitateacid.com CNAME .
 *.fitsagitateacid.com CNAME .
 fittingcentermondaysunday.com CNAME .
@@ -35972,8 +36000,6 @@ gabfbnaqodnvfafnj.com CNAME .
 *.gabfbnaqodnvfafnj.com CNAME .
 gablabiereigas.com CNAME .
 *.gablabiereigas.com CNAME .
-gabmoustacheparty.com CNAME .
-*.gabmoustacheparty.com CNAME .
 gabomrqaxnu.com CNAME .
 *.gabomrqaxnu.com CNAME .
 gadgetoutcome.com CNAME .
@@ -44408,8 +44434,6 @@ kinley.com CNAME .
 *.kinley.com CNAME .
 kinoneeloign.com CNAME .
 *.kinoneeloign.com CNAME .
-kinun-2023.com CNAME .
-*.kinun-2023.com CNAME .
 kinun-777.com CNAME .
 *.kinun-777.com CNAME .
 kiosked.com CNAME .
@@ -45242,8 +45266,6 @@ latentdesert.com CNAME .
 *.latentdesert.com CNAME .
 latentpebble.com CNAME .
 *.latentpebble.com CNAME .
-latentquarrel.com CNAME .
-*.latentquarrel.com CNAME .
 latgooon.com CNAME .
 *.latgooon.com CNAME .
 lathegladly.com CNAME .
@@ -55122,6 +55144,8 @@ phoroglopsu.com CNAME .
 *.phoroglopsu.com CNAME .
 phortaub.com CNAME .
 *.phortaub.com CNAME .
+photcheefets.com CNAME .
+*.photcheefets.com CNAME .
 photographcrushingsouvenirs.com CNAME .
 *.photographcrushingsouvenirs.com CNAME .
 photographerparsonproprietor.com CNAME .
@@ -70066,6 +70090,8 @@ ei.ursalscopate.com CNAME .
 *.ei.ursalscopate.com CNAME .
 zg.ursamonel.com CNAME .
 *.zg.ursamonel.com CNAME .
+urtirepor.com CNAME .
+*.urtirepor.com CNAME .
 urtyert.com CNAME .
 *.urtyert.com CNAME .
 us-aliexpress.com CNAME .
@@ -78040,8 +78066,6 @@ matches4you.info CNAME .
 *.matches4you.info CNAME .
 mbreviews.info CNAME .
 *.mbreviews.info CNAME .
-mckensecuryr.info CNAME .
-*.mckensecuryr.info CNAME .
 mcurrentlysea.info CNAME .
 *.mcurrentlysea.info CNAME .
 mddsp.info CNAME .
@@ -83022,6 +83046,8 @@ jmeoyypc.net CNAME .
 *.jmeoyypc.net CNAME .
 joapaptuwaihy.net CNAME .
 *.joapaptuwaihy.net CNAME .
+joaphaufouy.net CNAME .
+*.joaphaufouy.net CNAME .
 jocempiziptuvub.net CNAME .
 *.jocempiziptuvub.net CNAME .
 jofovinges.net CNAME .
@@ -83680,6 +83706,8 @@ moowoduzivoatie.net CNAME .
 *.moowoduzivoatie.net CNAME .
 moptaimpoo.net CNAME .
 *.moptaimpoo.net CNAME .
+mordeegroo.net CNAME .
+*.mordeegroo.net CNAME .
 moremorelove.net CNAME .
 *.moremorelove.net CNAME .
 moremoremail.net CNAME .
@@ -85222,6 +85250,8 @@ ogndazuezobmzgl.strlklngdate.net CNAME .
 *.ogndazuezobmzgl.strlklngdate.net CNAME .
 kgo.stske.net CNAME .
 *.kgo.stske.net CNAME .
+studio-obs.net CNAME .
+*.studio-obs.net CNAME .
 stulophovedsy.net CNAME .
 *.stulophovedsy.net CNAME .
 stunoolri.net CNAME .
@@ -90814,6 +90844,8 @@ cyjocamu.pro CNAME .
 *.cyjocamu.pro CNAME .
 cylindrical-good.pro CNAME .
 *.cylindrical-good.pro CNAME .
+cylindrical-leg.pro CNAME .
+*.cylindrical-leg.pro CNAME .
 cysegreglo.pro CNAME .
 *.cysegreglo.pro CNAME .
 cywhepupsy.pro CNAME .
@@ -94310,6 +94342,8 @@ corneamandra.shop CNAME .
 *.corneamandra.shop CNAME .
 cornrowbygone.shop CNAME .
 *.cornrowbygone.shop CNAME .
+corralsspatio.shop CNAME .
+*.corralsspatio.shop CNAME .
 hf.courtbymolosse.shop CNAME .
 *.hf.courtbymolosse.shop CNAME .
 cozeyunclear.shop CNAME .
@@ -94338,6 +94372,8 @@ cyclismairwave.shop CNAME .
 *.cyclismairwave.shop CNAME .
 d-position.shop CNAME .
 *.d-position.shop CNAME .
+daftarfilles.shop CNAME .
+*.daftarfilles.shop CNAME .
 kw.daggerchoke.shop CNAME .
 *.kw.daggerchoke.shop CNAME .
 dallopremop.shop CNAME .
@@ -94552,8 +94588,6 @@ hectarbiddies.shop CNAME .
 *.hectarbiddies.shop CNAME .
 cw.hemalnihils.shop CNAME .
 *.cw.hemalnihils.shop CNAME .
-hennishskelet.shop CNAME .
-*.hennishskelet.shop CNAME .
 hentaixxxxaz.shop CNAME .
 *.hentaixxxxaz.shop CNAME .
 heparbejesus.shop CNAME .
