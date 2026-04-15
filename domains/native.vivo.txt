@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 15:54 UTC
-# Version: 2026.0402.1554.46
+# Last modified: 15 Apr 2026 17:06 UTC
+# Version: 2026.0415.1706.12
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 247
+# Number of entries: 248
 #
 vhs.wwstat.com.eo.unicomcdn.com.cn
 adlog.vivo.com.cn
@@ -108,6 +108,7 @@ ex-adreq-in.vivoglobal.com
 ex-romsp-unifyconfig.vivoglobal.com
 id-analyzer-appstore.vivoglobal.com
 id-third-appstore.vivoglobal.com
+il-vcode-od.vivoglobal.com
 in-ad-mkt-vivofs.vivoglobal.com
 in-adlog.vivoglobal.com
 in-adreq.vivoglobal.com

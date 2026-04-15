@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 11:31 UTC
-# Version: 2026.0415.1131.01
+# Last modified: 15 Apr 2026 16:52 UTC
+# Version: 2026.0415.1652.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18317
+# Number of entries: 18305
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -20,14 +20,10 @@ local=/dns.010812.xyz/
 local=/666.020202.best/
 local=/02akgaayi2fi3xkdi13s0jtxj.online/
 local=/041ad0cfb636.xyz/
-local=/048808e0c16e14d4a8a0b13a3e9d226299d2a4a1.com/
 local=/04a0f262f2f391ead91af1f0ecc6ef3a.top/
 local=/04bsox5tuyzbhndhrkphxt8t.online/
-local=/04df72fd51bbf22b7ad9b97354d5cf4bad819419.com/
-local=/0525e2dec3a618a29309a7ca27557dc65832cc6c.com/
 local=/0538c3060b94774da3ee011552255739.top/
 local=/069538.xyz/
-local=/06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com/
 local=/dns.080590.xyz/
 local=/0815cloud.de/
 local=/084899.cn/
@@ -53,7 +49,6 @@ local=/icvklerwdf.jklvrdsfsf.1000pizzas.com/
 local=/jrlksmfgurdijgldfg.lxjcvlkewfds.1000pizzas.com/
 local=/poikjklewjrkdsssdsfew.sfjklewhcivsd.1000pizzas.com/
 local=/ejlkjsdfks.xklvjdsf.1000pizzas.com/
-local=/100802e6778a29189f9aa2c0c3ce026d9a0a7005.com/
 local=/hk.100992.xyz/
 local=/seoul.101818.xyz/
 local=/sg.101818.xyz/
@@ -105,7 +100,6 @@ local=/hkali.13142233.xyz/
 local=/usxui.13142233.xyz/
 local=/zhk.13142233.xyz/
 local=/1323.world/
-local=/1334b71d15d22d1479651dd0773cf3cdf2a0abfd.com/
 local=/bubyrajkepepslap.1337.cx/
 local=/goal.music.1337.cx/
 local=/134744072.work/
@@ -141,15 +135,11 @@ local=/1bfwu5d5n.online/
 local=/1clickvpn.com/
 local=/1clickvpn.help/
 local=/1clickvpn.net/
-local=/2apoc.1copa.com/
 local=/donutdevcodingeducation.1copa.com/
 local=/education.1copa.com/
-local=/imtiredofmakinglinks.1copa.com/
 local=/county.news.1copa.com/
 local=/1ee.top/
-local=/1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com/
 local=/1f47epzt.online/
-local=/1f4832d80bf373568e78d5911735d041df4c617d.com/
 local=/1f76a2ba920d.space/
 local=/1proxy.de/
 local=/1svpn.biz/
@@ -179,7 +169,6 @@ local=/2024y.homes/
 local=/2025appdown.com/
 local=/canvas.2028.cl/
 local=/204806.xyz/
-local=/20c2597ab50173c5d50332009b2d1dda28f77fdd.com/
 local=/22044.vip/
 local=/22044.xyz/
 local=/220913.xyz/
@@ -188,7 +177,6 @@ local=/23081r.cn/
 local=/233jms.com/
 local=/233py.com/
 local=/chronos.24-7.ro/
-local=/hardthinkers.24-7.ro/
 local=/t2c.240130034.xyz/
 local=/24032949.xyz/
 local=/dns.240527.xyz/

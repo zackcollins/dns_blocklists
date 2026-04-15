@@ -442,13 +442,6 @@
       }
     },
     {
-      "PK": "cloudconf-app-apc.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cloudconf-app-ar.heytapmobile.com",
       "action": {
         "do": 0,
@@ -554,13 +547,6 @@
       }
     },
     {
-      "PK": "cloudconf-app-chl.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cloudconf-app-cl.heytapmobile.com",
       "action": {
         "do": 0,
@@ -632,13 +618,6 @@
     },
     {
       "PK": "cloudconf-app-es.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cloudconf-app-euex.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -820,13 +799,6 @@
       }
     },
     {
-      "PK": "cloudconf-app-latam.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cloudconf-app-lb.heytapmobile.com",
       "action": {
         "do": 0,
@@ -925,20 +897,6 @@
       }
     },
     {
-      "PK": "cloudconf-app-oca.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cloudconf-app-oc.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cloudconf-app-om.heytapmobile.com",
       "action": {
         "do": 0,
@@ -946,21 +904,7 @@
       }
     },
     {
-      "PK": "cloudconf-app-other.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cloudconf-app-pe.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cloudconf-app-per.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1010,13 +954,6 @@
     },
     {
       "PK": "cloudconf-app-ro.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cloudconf-app-row.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1

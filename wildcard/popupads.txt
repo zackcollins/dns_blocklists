@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 09:38 UTC
-# Version: 2026.0415.0938.02
+# Last modified: 15 Apr 2026 16:46 UTC
+# Version: 2026.0415.1646.10
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54093
+# Number of entries: 54055
 #
 *.0.beer
 *.0.club
@@ -35,7 +35,6 @@
 *.0-9.net
 *.0-architecture.com
 *.0-btc.com
-*.0-chameleon-0.com
 *.0-downpayment.com
 *.0-emission.com
 *.0-emissions.com
@@ -292,7 +291,6 @@
 *.007mh.com
 *.007mission.com
 *.007nft.com
-*.007paintballguns.com
 *.007pay.com
 *.007phone.com
 *.007roms.com
@@ -481,7 +479,6 @@
 *.0146.org
 *.01484.com
 *.0149.org
-*.014p.com
 *.015150.com
 *.01562.net
 *.01578.com
@@ -1425,7 +1422,6 @@
 *.0nthemarket.com
 *.0o2.net
 *.0o5y.com
-*.0penmypremiercard.net
 *.0pig.com
 *.0porno.name
 *.0ptique.com
@@ -2246,7 +2242,6 @@
 *.113bx.com
 *.113d.net
 *.113hackgame.com
-*.113movies.com
 *.113n.net
 *.113washington.com
 *.113ys.com
@@ -2309,7 +2304,6 @@
 *.119h.net
 *.119t.net
 *.11aa0.com
-*.11acemovies.site
 *.11adcss.com
 *.11akay.com
 *.11b11t.org
@@ -2334,7 +2328,6 @@
 *.11hilo.org
 *.11holding.com
 *.11informationenor.com
-*.11moe.com
 *.11nick.com
 *.11photography.com
 *.11pointsmeals.com
@@ -2420,7 +2413,6 @@
 *.123123movies.net
 *.12315tt.com
 *.12316ccr.com
-*.12316psu.com
 *.12316vdd.com
 *.12316xsw.com
 *.1232aa.com
@@ -2521,7 +2513,6 @@
 *.123kupi.net
 *.123lagu.org
 *.123latex4free.com
-*.123lendingcorp.com
 *.123linsen.de
 *.123logmein.com
 *.123marketingtips.com
@@ -2755,7 +2746,6 @@
 *.12voltguy.net
 *.12voltsmagazine.com
 *.12wo.com
-*.12x18popdisplays.com
 *.12x30.net
 *.12xelagua.org
 *.13000towed.com
@@ -3025,7 +3015,6 @@
 *.15cm.xyz
 *.15dgbyg.com
 *.15doc.com
-*.15domains.com
 *.15eflac.org
 *.15emit.net
 *.15gga.com
@@ -3162,7 +3151,6 @@
 *.1782group.com
 *.178st.com
 *.179832.com
-*.179jd.com
 *.17aa.net
 *.17ayw.com
 *.17bdb.com
@@ -3565,7 +3553,6 @@
 *.1o1birekstrax1.click
 *.1odi7j43c.de
 *.1p8ln1dtr.de
-*.1parkplace.org
 *.1payer.net
 *.1phads.com
 *.1piece.online
@@ -3752,7 +3739,6 @@
 *.21sexturycash.com
 *.21stcenturyfluency.com
 *.21streetwear.com
-*.21wevan.com
 *.21wiz.com
 *.22-plaisir.com
 *.220qp.com
@@ -3812,7 +3798,6 @@
 *.24-timepass.com
 *.24403.com
 *.2441march2024.com
-*.2443march2024.com
 *.2445march2024.com
 *.2449march2024.com
 *.244kecmb3.de
@@ -21563,18 +21548,7 @@
 *.flixtrial.com
 *.fllilr.icu
 *.krqkk.fllirtconnects.com
-*.anjxjo.flndboy.net
-*.jnlwgq.flndboy.net
-*.kekvlg.flndboy.net
-*.keoarr.flndboy.net
-*.olvma.flndboy.net
-*.qgerjk.flndboy.net
-*.rnozdd.flndboy.net
-*.rnwnle.flndboy.net
-*.wanmow.flndboy.net
-*.wjkda.flndboy.net
-*.zowman.flndboy.net
-*.zozlal.flndboy.net
+*.flndboy.net
 *.nrjbow.flndiove.net
 *.flndmyman.com
 *.float-next.com
@@ -25553,21 +25527,7 @@
 *.hkwrwuqlcpelq.site
 *.hkygalzumaqv.com
 *.hkzhongzhuangzhan.cc
-*.app-google-zh.hl.cn
-*.apps-chrome-zh.hl.cn
-*.apps-google-hl.hl.cn
-*.chrome-gooogle-zh.hl.cn
-*.chrome-hl.hl.cn
-*.cnzh-google-apps.hl.cn
-*.go-todesk.hl.cn
-*.googgle-chrrome.hl.cn
-*.google-chrrome-zh.hl.cn
-*.office-wps-hl.hl.cn
-*.qishui-yinle.hl.cn
-*.qishui-zn.hl.cn
-*.todesk-zh.hl.cn
-*.zh-googlle-chrome.hl.cn
-*.zhcn-googele.hl.cn
+*.hl.cn
 *.hl2u.com
 *.hlbmaat.com
 *.hldijphcjszui.store
@@ -27308,6 +27268,7 @@
 *.insouloxymel.com
 *.inspannondeaf.shop
 *.inspectioninstantly.com
+*.inspectionrefutation.com
 *.inspectorstrongerpill.com
 *.llozqb.inspiiredreams.com
 *.inspirationhistorical.com
@@ -45249,6 +45210,7 @@
 *.starrylightlake.com
 *.starrylook.com
 *.starryprogress.pro
+*.starsallowyear.com
 *.qw.starsgallops.com
 *.starspoker222.com
 *.starswalker.site

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776252660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776271920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Apr 2026 11:31 UTC
-; Version: 2026.0415.1131.01
+; Last modified: 15 Apr 2026 16:52 UTC
+; Version: 2026.0415.1652.14
 ; Syntax: RPZ
-; Number of entries: 36634
+; Number of entries: 36610
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3759,14 +3759,6 @@ schoology.college CNAME .
 *.schoology.college CNAME .
 spanish101.college CNAME .
 *.spanish101.college CNAME .
-048808e0c16e14d4a8a0b13a3e9d226299d2a4a1.com CNAME .
-*.048808e0c16e14d4a8a0b13a3e9d226299d2a4a1.com CNAME .
-04df72fd51bbf22b7ad9b97354d5cf4bad819419.com CNAME .
-*.04df72fd51bbf22b7ad9b97354d5cf4bad819419.com CNAME .
-0525e2dec3a618a29309a7ca27557dc65832cc6c.com CNAME .
-*.0525e2dec3a618a29309a7ca27557dc65832cc6c.com CNAME .
-06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com CNAME .
-*.06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com CNAME .
 09vpn.com CNAME .
 *.09vpn.com CNAME .
 cjklakljfsdfdfe.cxvjlkewdfw.1000pizzas.com CNAME .
@@ -3779,8 +3771,6 @@ poikjklewjrkdsssdsfew.sfjklewhcivsd.1000pizzas.com CNAME .
 *.poikjklewjrkdsssdsfew.sfjklewhcivsd.1000pizzas.com CNAME .
 ejlkjsdfks.xklvjdsf.1000pizzas.com CNAME .
 *.ejlkjsdfks.xklvjdsf.1000pizzas.com CNAME .
-100802e6778a29189f9aa2c0c3ce026d9a0a7005.com CNAME .
-*.100802e6778a29189f9aa2c0c3ce026d9a0a7005.com CNAME .
 103prxy.com CNAME .
 *.103prxy.com CNAME .
 104prxy.com CNAME .
@@ -3807,8 +3797,6 @@ ejlkjsdfks.xklvjdsf.1000pizzas.com CNAME .
 *.123xhj.com CNAME .
 12vpx.com CNAME .
 *.12vpx.com CNAME .
-1334b71d15d22d1479651dd0773cf3cdf2a0abfd.com CNAME .
-*.1334b71d15d22d1479651dd0773cf3cdf2a0abfd.com CNAME .
 dns.13evl.com CNAME .
 *.dns.13evl.com CNAME .
 dns1.13evl.com CNAME .
@@ -3825,20 +3813,12 @@ httpdns.music.163.com CNAME .
 *.1aclash.com CNAME .
 1clickvpn.com CNAME .
 *.1clickvpn.com CNAME .
-2apoc.1copa.com CNAME .
-*.2apoc.1copa.com CNAME .
 donutdevcodingeducation.1copa.com CNAME .
 *.donutdevcodingeducation.1copa.com CNAME .
 education.1copa.com CNAME .
 *.education.1copa.com CNAME .
-imtiredofmakinglinks.1copa.com CNAME .
-*.imtiredofmakinglinks.1copa.com CNAME .
 county.news.1copa.com CNAME .
 *.county.news.1copa.com CNAME .
-1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com CNAME .
-*.1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com CNAME .
-1f4832d80bf373568e78d5911735d041df4c617d.com CNAME .
-*.1f4832d80bf373568e78d5911735d041df4c617d.com CNAME .
 1svpn.com CNAME .
 *.1svpn.com CNAME .
 1xiaowang.com CNAME .
@@ -3851,8 +3831,6 @@ onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com CNAME .
 *.onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com CNAME .
 2025appdown.com CNAME .
 *.2025appdown.com CNAME .
-20c2597ab50173c5d50332009b2d1dda28f77fdd.com CNAME .
-*.20c2597ab50173c5d50332009b2d1dda28f77fdd.com CNAME .
 22laomao.com CNAME .
 *.22laomao.com CNAME .
 233jms.com CNAME .
@@ -31217,8 +31195,6 @@ www-proxy.spin.rip CNAME .
 *.www-proxy.spin.rip CNAME .
 chronos.24-7.ro CNAME .
 *.chronos.24-7.ro CNAME .
-hardthinkers.24-7.ro CNAME .
-*.hardthinkers.24-7.ro CNAME .
 learnaboutcareers.academiaderock.ro CNAME .
 *.learnaboutcareers.academiaderock.ro CNAME .
 theykeepmessingitup.aerodolsolutions.ro CNAME .

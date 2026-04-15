@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 09:40 UTC
-# Version: 2026.0415.0940.27
+# Last modified: 15 Apr 2026 17:09 UTC
+# Version: 2026.0415.1709.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14686
+# Number of entries: 14685
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -788,7 +788,6 @@ local=/asfintarg.com/
 local=/asflnaq.me/
 local=/asfnneghs.cyou/
 local=/asfrnagi.beer/
-local=/asfrnagi.lat/
 local=/asgeirpetursson.com/
 local=/ashatoslombardini.com/
 local=/ashbergh.com/

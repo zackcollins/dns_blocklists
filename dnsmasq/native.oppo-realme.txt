@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Apr 2026 07:13 UTC
-# Version: 2026.0413.0713.43
+# Last modified: 15 Apr 2026 17:06 UTC
+# Version: 2026.0415.1706.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 469
+# Number of entries: 460
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -326,7 +326,6 @@ local=/cldata-ads-ru.heytapmobile.com/
 local=/cloudconf-app-ae.heytapmobile.com/
 local=/cloudconf-app-af.heytapmobile.com/
 local=/cloudconf-app-al.heytapmobile.com/
-local=/cloudconf-app-apc.heytapmobile.com/
 local=/cloudconf-app-ar.heytapmobile.com/
 local=/cloudconf-app-at.heytapmobile.com/
 local=/cloudconf-app-au.heytapmobile.com/
@@ -342,7 +341,6 @@ local=/cloudconf-app-br.heytapmobile.com/
 local=/cloudconf-app-by.heytapmobile.com/
 local=/cloudconf-app-ca.heytapmobile.com/
 local=/cloudconf-app-ch.heytapmobile.com/
-local=/cloudconf-app-chl.heytapmobile.com/
 local=/cloudconf-app-cl.heytapmobile.com/
 local=/cloudconf-app-co.heytapmobile.com/
 local=/cloudconf-app-cr.heytapmobile.com/
@@ -355,7 +353,6 @@ local=/cloudconf-app-ec.heytapmobile.com/
 local=/cloudconf-app-eg.heytapmobile.com/
 local=/cloudconf-app-es.heytapmobile.com/
 local=/cloudconf-app-eu.heytapmobile.com/
-local=/cloudconf-app-euex.heytapmobile.com/
 local=/cloudconf-app-fi.heytapmobile.com/
 local=/cloudconf-app-fr.heytapmobile.com/
 local=/cloudconf-app-gb.heytapmobile.com/
@@ -380,7 +377,6 @@ local=/cloudconf-app-kh.heytapmobile.com/
 local=/cloudconf-app-kw.heytapmobile.com/
 local=/cloudconf-app-kz.heytapmobile.com/
 local=/cloudconf-app-la.heytapmobile.com/
-local=/cloudconf-app-latam.heytapmobile.com/
 local=/cloudconf-app-lb.heytapmobile.com/
 local=/cloudconf-app-lk.heytapmobile.com/
 local=/cloudconf-app-ly.heytapmobile.com/
@@ -395,12 +391,8 @@ local=/cloudconf-app-nl.heytapmobile.com/
 local=/cloudconf-app-no.heytapmobile.com/
 local=/cloudconf-app-np.heytapmobile.com/
 local=/cloudconf-app-nz.heytapmobile.com/
-local=/cloudconf-app-oc.heytapmobile.com/
-local=/cloudconf-app-oca.heytapmobile.com/
 local=/cloudconf-app-om.heytapmobile.com/
-local=/cloudconf-app-other.heytapmobile.com/
 local=/cloudconf-app-pe.heytapmobile.com/
-local=/cloudconf-app-per.heytapmobile.com/
 local=/cloudconf-app-ph.heytapmobile.com/
 local=/cloudconf-app-pk.heytapmobile.com/
 local=/cloudconf-app-pl.heytapmobile.com/
@@ -408,7 +400,6 @@ local=/cloudconf-app-ps.heytapmobile.com/
 local=/cloudconf-app-pt.heytapmobile.com/
 local=/cloudconf-app-qa.heytapmobile.com/
 local=/cloudconf-app-ro.heytapmobile.com/
-local=/cloudconf-app-row.heytapmobile.com/
 local=/cloudconf-app-rs.heytapmobile.com/
 local=/cloudconf-app-ru.heytapmobile.com/
 local=/cloudconf-app-sa.heytapmobile.com/

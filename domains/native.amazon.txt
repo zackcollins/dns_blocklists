@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 13:53 UTC
-# Version: 2026.0410.1353.35
+# Last modified: 15 Apr 2026 17:00 UTC
+# Version: 2026.0415.1700.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 675
+# Number of entries: 674
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -263,6 +263,7 @@ cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
@@ -524,8 +525,6 @@ session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
 sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
-sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
-sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
 spp.bid-na.ads.aps.amazon-adsystem.com

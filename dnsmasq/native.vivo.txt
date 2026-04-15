@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Apr 2026 15:54 UTC
-# Version: 2026.0402.1554.46
+# Last modified: 15 Apr 2026 17:06 UTC
+# Version: 2026.0415.1706.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 243
+# Number of entries: 244
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/adlog.vivo.com.cn/
@@ -108,6 +108,7 @@ local=/ex-adreq-in.vivoglobal.com/
 local=/ex-romsp-unifyconfig.vivoglobal.com/
 local=/id-analyzer-appstore.vivoglobal.com/
 local=/id-third-appstore.vivoglobal.com/
+local=/il-vcode-od.vivoglobal.com/
 local=/in-ad-mkt-vivofs.vivoglobal.com/
 local=/in-adlog.vivoglobal.com/
 local=/in-adreq.vivoglobal.com/

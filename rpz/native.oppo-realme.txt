@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776064380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776272760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Apr 2026 07:13 UTC
-; Version: 2026.0413.0713.43
+; Last modified: 15 Apr 2026 17:06 UTC
+; Version: 2026.0415.1706.55
 ; Syntax: RPZ
-; Number of entries: 938
+; Number of entries: 920
 ;
 h4g3z1-native.oppo-realme.web.app CNAME .
 *.h4g3z1-native.oppo-realme.web.app CNAME .
@@ -648,8 +648,6 @@ cloudconf-app-af.heytapmobile.com CNAME .
 *.cloudconf-app-af.heytapmobile.com CNAME .
 cloudconf-app-al.heytapmobile.com CNAME .
 *.cloudconf-app-al.heytapmobile.com CNAME .
-cloudconf-app-apc.heytapmobile.com CNAME .
-*.cloudconf-app-apc.heytapmobile.com CNAME .
 cloudconf-app-ar.heytapmobile.com CNAME .
 *.cloudconf-app-ar.heytapmobile.com CNAME .
 cloudconf-app-at.heytapmobile.com CNAME .
@@ -680,8 +678,6 @@ cloudconf-app-ca.heytapmobile.com CNAME .
 *.cloudconf-app-ca.heytapmobile.com CNAME .
 cloudconf-app-ch.heytapmobile.com CNAME .
 *.cloudconf-app-ch.heytapmobile.com CNAME .
-cloudconf-app-chl.heytapmobile.com CNAME .
-*.cloudconf-app-chl.heytapmobile.com CNAME .
 cloudconf-app-cl.heytapmobile.com CNAME .
 *.cloudconf-app-cl.heytapmobile.com CNAME .
 cloudconf-app-co.heytapmobile.com CNAME .
@@ -706,8 +702,6 @@ cloudconf-app-es.heytapmobile.com CNAME .
 *.cloudconf-app-es.heytapmobile.com CNAME .
 cloudconf-app-eu.heytapmobile.com CNAME .
 *.cloudconf-app-eu.heytapmobile.com CNAME .
-cloudconf-app-euex.heytapmobile.com CNAME .
-*.cloudconf-app-euex.heytapmobile.com CNAME .
 cloudconf-app-fi.heytapmobile.com CNAME .
 *.cloudconf-app-fi.heytapmobile.com CNAME .
 cloudconf-app-fr.heytapmobile.com CNAME .
@@ -756,8 +750,6 @@ cloudconf-app-kz.heytapmobile.com CNAME .
 *.cloudconf-app-kz.heytapmobile.com CNAME .
 cloudconf-app-la.heytapmobile.com CNAME .
 *.cloudconf-app-la.heytapmobile.com CNAME .
-cloudconf-app-latam.heytapmobile.com CNAME .
-*.cloudconf-app-latam.heytapmobile.com CNAME .
 cloudconf-app-lb.heytapmobile.com CNAME .
 *.cloudconf-app-lb.heytapmobile.com CNAME .
 cloudconf-app-lk.heytapmobile.com CNAME .
@@ -786,18 +778,10 @@ cloudconf-app-np.heytapmobile.com CNAME .
 *.cloudconf-app-np.heytapmobile.com CNAME .
 cloudconf-app-nz.heytapmobile.com CNAME .
 *.cloudconf-app-nz.heytapmobile.com CNAME .
-cloudconf-app-oc.heytapmobile.com CNAME .
-*.cloudconf-app-oc.heytapmobile.com CNAME .
-cloudconf-app-oca.heytapmobile.com CNAME .
-*.cloudconf-app-oca.heytapmobile.com CNAME .
 cloudconf-app-om.heytapmobile.com CNAME .
 *.cloudconf-app-om.heytapmobile.com CNAME .
-cloudconf-app-other.heytapmobile.com CNAME .
-*.cloudconf-app-other.heytapmobile.com CNAME .
 cloudconf-app-pe.heytapmobile.com CNAME .
 *.cloudconf-app-pe.heytapmobile.com CNAME .
-cloudconf-app-per.heytapmobile.com CNAME .
-*.cloudconf-app-per.heytapmobile.com CNAME .
 cloudconf-app-ph.heytapmobile.com CNAME .
 *.cloudconf-app-ph.heytapmobile.com CNAME .
 cloudconf-app-pk.heytapmobile.com CNAME .
@@ -812,8 +796,6 @@ cloudconf-app-qa.heytapmobile.com CNAME .
 *.cloudconf-app-qa.heytapmobile.com CNAME .
 cloudconf-app-ro.heytapmobile.com CNAME .
 *.cloudconf-app-ro.heytapmobile.com CNAME .
-cloudconf-app-row.heytapmobile.com CNAME .
-*.cloudconf-app-row.heytapmobile.com CNAME .
 cloudconf-app-rs.heytapmobile.com CNAME .
 *.cloudconf-app-rs.heytapmobile.com CNAME .
 cloudconf-app-ru.heytapmobile.com CNAME .
