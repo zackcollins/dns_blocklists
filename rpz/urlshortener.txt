@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776159540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776325200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Apr 2026 09:39 UTC
-; Version: 2026.0414.0939.08
+; Last modified: 16 Apr 2026 07:40 UTC
+; Version: 2026.0416.0740.00
 ; Syntax: RPZ
-; Number of entries: 20140
+; Number of entries: 20124
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2135,8 +2135,6 @@ cle.clinic CNAME .
 *.cle.clinic CNAME .
 affectit.cloud CNAME .
 *.affectit.cloud CNAME .
-anchorurl.cloud CNAME .
-*.anchorurl.cloud CNAME .
 belinki.cloud CNAME .
 *.belinki.cloud CNAME .
 biolink.cloud CNAME .
@@ -3189,8 +3187,6 @@ t.360scm.com CNAME .
 *.4ton.com CNAME .
 4uid.com CNAME .
 *.4uid.com CNAME .
-4xurl.com CNAME .
-*.4xurl.com CNAME .
 5-starevents.com CNAME .
 *.5-starevents.com CNAME .
 5278url.com CNAME .
@@ -3295,8 +3291,6 @@ advnutri.com CNAME .
 *.advnutri.com CNAME .
 affilylink.com CNAME .
 *.affilylink.com CNAME .
-affishort.com CNAME .
-*.affishort.com CNAME .
 aftvnews.com CNAME .
 *.aftvnews.com CNAME .
 agileurbia.com CNAME .
@@ -3409,8 +3403,6 @@ amzn.com CNAME .
 *.amzn.com CNAME .
 anbisu.com CNAME .
 *.anbisu.com CNAME .
-andmdo.com CNAME .
-*.andmdo.com CNAME .
 anetbio.com CNAME .
 *.anetbio.com CNAME .
 animxo.com CNAME .
@@ -16167,10 +16159,6 @@ a.6mqw.org CNAME .
 *.a.6mqw.org CNAME .
 9g9.org CNAME .
 *.9g9.org CNAME .
-a1ertavoice.org CNAME .
-*.a1ertavoice.org CNAME .
-a3utocall.org CNAME .
-*.a3utocall.org CNAME .
 abbriv.org CNAME .
 *.abbriv.org CNAME .
 acus.org CNAME .
@@ -17621,8 +17609,6 @@ url.sg CNAME .
 *.072.sh CNAME .
 2pu.sh CNAME .
 *.2pu.sh CNAME .
-999.sh CNAME .
-*.999.sh CNAME .
 bigfi.sh CNAME .
 *.bigfi.sh CNAME .
 bsy.sh CNAME .
@@ -19941,8 +19927,6 @@ wf0.xin CNAME .
 *.71a.xyz CNAME .
 aficlicktrack.xyz CNAME .
 *.aficlicktrack.xyz CNAME .
-akunjpvip.xyz CNAME .
-*.akunjpvip.xyz CNAME .
 alldomainwhois.xyz CNAME .
 *.alldomainwhois.xyz CNAME .
 amritlink.xyz CNAME .

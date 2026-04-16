@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 16:53 UTC
-# Version: 2026.0415.1653.19
+# Last modified: 16 Apr 2026 09:16 UTC
+# Version: 2026.0416.0916.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12406
+# Number of entries: 12409
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -4336,6 +4336,7 @@ local=/one.fsphost.com/
 local=/fstream.info/
 local=/fstream.net/
 local=/ftflix.com/
+local=/open.ftorrent.com/
 local=/ftp.pet/
 local=/ftp2web.com/
 local=/ftpbd.com/
@@ -6933,6 +6934,7 @@ local=/movieparadise.org/
 local=/moviepoka.com/
 local=/movierot.com/
 local=/movierr.online/
+local=/movierulz.yachts/
 local=/movierulzhd.gold/
 local=/movies.cab/
 local=/movies-d.com/
@@ -11738,6 +11740,7 @@ local=/watch-tvseries.net/
 local=/watch32.is/
 local=/watch32hd.co/
 local=/watch32hd.org/
+local=/watchadsontape.com/
 local=/watchamovie.today/
 local=/watchanimeworld.net/
 local=/watchasian.co/

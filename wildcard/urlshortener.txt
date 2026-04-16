@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Apr 2026 09:39 UTC
-# Version: 2026.0414.0939.08
+# Last modified: 16 Apr 2026 07:40 UTC
+# Version: 2026.0416.0740.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10070
+# Number of entries: 10062
 #
 *.0.gp
 *.00m.in
@@ -300,7 +300,6 @@
 *.4uid.com
 *.4url.cc
 *.4x.si
-*.4xurl.com
 *.5.gp
 *.5-starevents.com
 *.51tu.lol
@@ -386,7 +385,6 @@
 *.98.to
 *.985.so
 *.98pro.cc
-*.999.sh
 *.99forward.com
 *.99fw.in
 *.99links.in
@@ -411,13 +409,11 @@
 *.try.a-pay.one
 *.a0.fr
 *.a11ypm.com
-*.a1ertavoice.org
 *.a2a.me
 *.a2z.tools
 *.a360.co
 *.a38.fr
 *.a3st.in
-*.a3utocall.org
 *.a4k.co
 *.a4r.at
 *.a4u.me
@@ -566,7 +562,6 @@
 *.aet.na
 *.affectit.cloud
 *.affilylink.com
-*.affishort.com
 *.aficlicktrack.xyz
 *.afly.in
 *.afresh.link
@@ -629,7 +624,6 @@
 *.aktfclick.com
 *.akun.gg
 *.akunfix.com
-*.akunjpvip.xyz
 *.akunklik.com
 *.akunnp.com
 *.akunss.com
@@ -737,12 +731,10 @@
 *.link.anam.ch
 *.anbisu.com
 *.anch.co
-*.anchorurl.cloud
 *.ancstry.me
 *.and.ee
 *.anda.li
 *.andauth.co
-*.andmdo.com
 *.aneed.net
 *.anetbio.com
 *.angl.at

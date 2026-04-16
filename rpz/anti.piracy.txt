@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776271980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776330960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Apr 2026 16:53 UTC
-; Version: 2026.0415.1653.19
+; Last modified: 16 Apr 2026 09:16 UTC
+; Version: 2026.0416.0916.52
 ; Syntax: RPZ
-; Number of entries: 24812
+; Number of entries: 24818
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5014,6 +5014,8 @@ one.fsphost.com CNAME .
 *.one.fsphost.com CNAME .
 ftflix.com CNAME .
 *.ftflix.com CNAME .
+open.ftorrent.com CNAME .
+*.open.ftorrent.com CNAME .
 ftp2web.com CNAME .
 *.ftp2web.com CNAME .
 ftpbd.com CNAME .
@@ -8444,6 +8446,8 @@ warindustries.com CNAME .
 *.warindustries.com CNAME .
 wat32.com CNAME .
 *.wat32.com CNAME .
+watchadsontape.com CNAME .
+*.watchadsontape.com CNAME .
 watchcartoononline.com CNAME .
 *.watchcartoononline.com CNAME .
 watchepisodes4.com CNAME .
@@ -24750,6 +24754,8 @@ cb01.yachts CNAME .
 *.cb01.yachts CNAME .
 eurostreaming.yachts CNAME .
 *.eurostreaming.yachts CNAME .
+movierulz.yachts CNAME .
+*.movierulz.yachts CNAME .
 streamingcommunityz.yoga CNAME .
 *.streamingcommunityz.yoga CNAME .
 hdmovie2.yokohama CNAME .

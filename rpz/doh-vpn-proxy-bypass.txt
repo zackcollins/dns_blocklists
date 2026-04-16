@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776271920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776331440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Apr 2026 16:52 UTC
-; Version: 2026.0415.1652.14
+; Last modified: 16 Apr 2026 09:24 UTC
+; Version: 2026.0416.0924.22
 ; Syntax: RPZ
-; Number of entries: 36610
+; Number of entries: 36558
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3867,8 +3867,6 @@ dns.2poi.com CNAME .
 *.302verify.com CNAME .
 30eec7eee452ff883ea3d12afa49ef9147ae505f.com CNAME .
 *.30eec7eee452ff883ea3d12afa49ef9147ae505f.com CNAME .
-32a4d72553ef312ef80776398f08515bac249ee5.com CNAME .
-*.32a4d72553ef312ef80776398f08515bac249ee5.com CNAME .
 33bitbank.com CNAME .
 *.33bitbank.com CNAME .
 33laomao.com CNAME .
@@ -3879,30 +3877,10 @@ dns.2poi.com CNAME .
 *.365ld250904.com CNAME .
 365vpn.com CNAME .
 *.365vpn.com CNAME .
-36d275bc57ffbb02dc36d89816fa5be369d66113.com CNAME .
-*.36d275bc57ffbb02dc36d89816fa5be369d66113.com CNAME .
-3870fed631d7dd50d1057b4f5415bdd916dca9f9.com CNAME .
-*.3870fed631d7dd50d1057b4f5415bdd916dca9f9.com CNAME .
-3a0ef7502f6406decbec8ed5abf2aed35780234b.com CNAME .
-*.3a0ef7502f6406decbec8ed5abf2aed35780234b.com CNAME .
-3c9cb3d8220987079380c1eff68166716afea4e1.com CNAME .
-*.3c9cb3d8220987079380c1eff68166716afea4e1.com CNAME .
 3dphototwitch.com CNAME .
 *.3dphototwitch.com CNAME .
 3rclash.com CNAME .
 *.3rclash.com CNAME .
-40a9ae48588c080dfe207106c48baa8d805276fd.com CNAME .
-*.40a9ae48588c080dfe207106c48baa8d805276fd.com CNAME .
-418c31eb9e9155ef148bf64df4e9a004d7c0feac.com CNAME .
-*.418c31eb9e9155ef148bf64df4e9a004d7c0feac.com CNAME .
-445bc502a552ca3646f5505ac6b8f0cd6d2541de.com CNAME .
-*.445bc502a552ca3646f5505ac6b8f0cd6d2541de.com CNAME .
-4c2e8451c80c6d0aede01f60788f26caf0d2e5c2.com CNAME .
-*.4c2e8451c80c6d0aede01f60788f26caf0d2e5c2.com CNAME .
-4d4e70396c036c3412a3ca3d33960d0978c2aa4f.com CNAME .
-*.4d4e70396c036c3412a3ca3d33960d0978c2aa4f.com CNAME .
-4d8a47a16b1a54ce4108c99b0eb3e5b148699c02.com CNAME .
-*.4d8a47a16b1a54ce4108c99b0eb3e5b148699c02.com CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
 4rclash.com CNAME .
@@ -3919,12 +3897,6 @@ vpn.52oupa.com CNAME .
 *.vpn.52oupa.com CNAME .
 www-vpn.52oupa.com CNAME .
 *.www-vpn.52oupa.com CNAME .
-530e40d68a1f147a86c139427b64fac55ba83b87.com CNAME .
-*.530e40d68a1f147a86c139427b64fac55ba83b87.com CNAME .
-531274e80907f3a26c18dd8aabd4fca776d65870.com CNAME .
-*.531274e80907f3a26c18dd8aabd4fca776d65870.com CNAME .
-5537955585be9a774f79ea792941d72404fe69d3.com CNAME .
-*.5537955585be9a774f79ea792941d72404fe69d3.com CNAME .
 55clash.com CNAME .
 *.55clash.com CNAME .
 55gms.com CNAME .
@@ -3953,24 +3925,14 @@ dns.58jdl.com CNAME .
 *.66laomao.com CNAME .
 6brothersimports.com CNAME .
 *.6brothersimports.com CNAME .
-6c1a6e17cf21cd0a39f93c52fc8125d90dbcfba9.com CNAME .
-*.6c1a6e17cf21cd0a39f93c52fc8125d90dbcfba9.com CNAME .
-6d30b6be675f16d04e0b8d7e4ee8f15f208aefd0.com CNAME .
-*.6d30b6be675f16d04e0b8d7e4ee8f15f208aefd0.com CNAME .
 ayman-dns.731my.com CNAME .
 *.ayman-dns.731my.com CNAME .
 735ccd763ea591d7374902d8b1a39dd0f8f5eb39.com CNAME .
 *.735ccd763ea591d7374902d8b1a39dd0f8f5eb39.com CNAME .
 dns.73zls.com CNAME .
 *.dns.73zls.com CNAME .
-76d58ed8bc4a1b98a5b6247fcbb687f4607273ca.com CNAME .
-*.76d58ed8bc4a1b98a5b6247fcbb687f4607273ca.com CNAME .
 789jiasulinktools.com CNAME .
 *.789jiasulinktools.com CNAME .
-7ba6ed7c5fa3eab04881e1722f9a42e74d64e81f.com CNAME .
-*.7ba6ed7c5fa3eab04881e1722f9a42e74d64e81f.com CNAME .
-7c45b8ee2a19601f023836f7e22bae70ac80ca7f.com CNAME .
-*.7c45b8ee2a19601f023836f7e22bae70ac80ca7f.com CNAME .
 7f8a85466c4219fa725c511ec0a32b15707710b1.com CNAME .
 *.7f8a85466c4219fa725c511ec0a32b15707710b1.com CNAME .
 7gain.com CNAME .
@@ -3983,12 +3945,6 @@ dns.73zls.com CNAME .
 *.800vpns.com CNAME .
 85la.com CNAME .
 *.85la.com CNAME .
-86a92621565daca30de744165d15758699b37aa0.com CNAME .
-*.86a92621565daca30de744165d15758699b37aa0.com CNAME .
-8d4fac431a6657d7a3c2846f37b02c2e03719dc9.com CNAME .
-*.8d4fac431a6657d7a3c2846f37b02c2e03719dc9.com CNAME .
-8f19246a8b2b8b9bf42d63d919f06bb0ece902da.com CNAME .
-*.8f19246a8b2b8b9bf42d63d919f06bb0ece902da.com CNAME .
 8jclash.com CNAME .
 *.8jclash.com CNAME .
 8proxy.com CNAME .
@@ -3997,16 +3953,10 @@ dns.73zls.com CNAME .
 *.8v9m.com CNAME .
 webproxy.911proxy.com CNAME .
 *.webproxy.911proxy.com CNAME .
-9184e7e5d684dc56def4c6186122231660620807.com CNAME .
-*.9184e7e5d684dc56def4c6186122231660620807.com CNAME .
 91ftq.com CNAME .
 *.91ftq.com CNAME .
 91zfdao.com CNAME .
 *.91zfdao.com CNAME .
-9249c7687ddbc42eb7167e0e9030ef06b9528c98.com CNAME .
-*.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com CNAME .
-93a072e45efecc43f4660d0022a9d78fb5267b27.com CNAME .
-*.93a072e45efecc43f4660d0022a9d78fb5267b27.com CNAME .
 98cjl.com CNAME .
 *.98cjl.com CNAME .
 99catnet.com CNAME .
@@ -4521,8 +4471,6 @@ ailivechatweb.com CNAME .
 *.ailivechatweb.com CNAME .
 aiskyapp.com CNAME .
 *.aiskyapp.com CNAME .
-hehehehaw.ajalo.com CNAME .
-*.hehehehaw.ajalo.com CNAME .
 akbiuae.com CNAME .
 *.akbiuae.com CNAME .
 dns.akbxr.com CNAME .

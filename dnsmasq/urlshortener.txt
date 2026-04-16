@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Apr 2026 09:39 UTC
-# Version: 2026.0414.0939.08
+# Last modified: 16 Apr 2026 07:40 UTC
+# Version: 2026.0416.0740.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10070
+# Number of entries: 10062
 #
 local=/0.gp/
 local=/00m.in/
@@ -300,7 +300,6 @@ local=/4ty.me/
 local=/4uid.com/
 local=/4url.cc/
 local=/4x.si/
-local=/4xurl.com/
 local=/5.gp/
 local=/5-starevents.com/
 local=/51tu.lol/
@@ -386,7 +385,6 @@ local=/a.94inet.com/
 local=/98.to/
 local=/985.so/
 local=/98pro.cc/
-local=/999.sh/
 local=/99forward.com/
 local=/99fw.in/
 local=/99links.in/
@@ -411,13 +409,11 @@ local=/web.a.app/
 local=/try.a-pay.one/
 local=/a0.fr/
 local=/a11ypm.com/
-local=/a1ertavoice.org/
 local=/a2a.me/
 local=/a2z.tools/
 local=/a360.co/
 local=/a38.fr/
 local=/a3st.in/
-local=/a3utocall.org/
 local=/a4k.co/
 local=/a4r.at/
 local=/a4u.me/
@@ -566,7 +562,6 @@ local=/aerocovietnam.vn/
 local=/aet.na/
 local=/affectit.cloud/
 local=/affilylink.com/
-local=/affishort.com/
 local=/aficlicktrack.xyz/
 local=/afly.in/
 local=/afresh.link/
@@ -629,7 +624,6 @@ local=/akslot.io/
 local=/aktfclick.com/
 local=/akun.gg/
 local=/akunfix.com/
-local=/akunjpvip.xyz/
 local=/akunklik.com/
 local=/akunnp.com/
 local=/akunss.com/
@@ -737,12 +731,10 @@ local=/analyticslinker.ovh/
 local=/link.anam.ch/
 local=/anbisu.com/
 local=/anch.co/
-local=/anchorurl.cloud/
 local=/ancstry.me/
 local=/and.ee/
 local=/anda.li/
 local=/andauth.co/
-local=/andmdo.com/
 local=/aneed.net/
 local=/anetbio.com/
 local=/angl.at/
