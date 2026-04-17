@@ -3549,6 +3549,13 @@
       }
     },
     {
+      "PK": "intercom.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.international",
       "action": {
         "do": 0,
@@ -5020,6 +5027,13 @@
     },
     {
       "PK": "nordland.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "noru.top",
       "action": {
         "do": 1,
         "status": 1

@@ -2619,6 +2619,13 @@
       }
     },
     {
+      "PK": "intercom.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "intervals.icu",
       "action": {
         "do": 1,
@@ -3803,6 +3810,13 @@
     },
     {
       "PK": "nordland.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "noru.top",
       "action": {
         "do": 1,
         "status": 1

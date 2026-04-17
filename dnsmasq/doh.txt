@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 11:39 UTC
-# Version: 2026.0412.1139.32
+# Last modified: 17 Apr 2026 09:13 UTC
+# Version: 2026.0417.0913.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3486
+# Number of entries: 3483
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -354,7 +354,6 @@ local=/dns.azfar.my/
 local=/doh.azoris.ovh/
 local=/sradg.eastus.cloudapp.azure.com/
 local=/sradg2.eastus.cloudapp.azure.com/
-local=/kawpad.southeastasia.cloudapp.azure.com/
 local=/doh1.b-cdn.net/
 local=/doh2.b-cdn.net/
 local=/dns.b33.network/
@@ -557,7 +556,6 @@ local=/dns.chromeina.top/
 local=/dns.chunghwamc.com/
 local=/oraclejp2.chungyu.com/
 local=/c.cicitt.ch/
-local=/doh.cippapp.com/
 local=/canadianshield.cira.ca/
 local=/crd.circl.lu/
 local=/dns.circl.lu/
@@ -1170,7 +1168,6 @@ local=/adguardcalpena.duckdns.org/
 local=/andryk111.duckdns.org/
 local=/andrykarcew.duckdns.org/
 local=/armm.duckdns.org/
-local=/baksabal.duckdns.org/
 local=/blamb.duckdns.org/
 local=/cdzopi.duckdns.org/
 local=/chynik.duckdns.org/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776325200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776411300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Apr 2026 07:40 UTC
-; Version: 2026.0416.0740.00
+; Last modified: 17 Apr 2026 07:35 UTC
+; Version: 2026.0417.0735.02
 ; Syntax: RPZ
-; Number of entries: 20124
+; Number of entries: 20104
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -335,8 +335,6 @@ links.avalaunch.app CNAME .
 *.links.avalaunch.app CNAME .
 azipurl.app CNAME .
 *.azipurl.app CNAME .
-beurl.app CNAME .
-*.beurl.app CNAME .
 biolinkr.app CNAME .
 *.biolinkr.app CNAME .
 bitl.app CNAME .
@@ -2381,8 +2379,6 @@ aylink.co CNAME .
 *.aylink.co CNAME .
 biolinky.co CNAME .
 *.biolinky.co CNAME .
-bitgg.co CNAME .
-*.bitgg.co CNAME .
 bittyurl.co CNAME .
 *.bittyurl.co CNAME .
 bitvn.co CNAME .
@@ -3687,8 +3683,6 @@ blynkn.com CNAME .
 *.blynkn.com CNAME .
 blyto.com CNAME .
 *.blyto.com CNAME .
-bnetwhk.com CNAME .
-*.bnetwhk.com CNAME .
 bnidigital.com CNAME .
 *.bnidigital.com CNAME .
 bnishipping.com CNAME .
@@ -3911,8 +3905,6 @@ clkro.com CNAME .
 *.clkro.com CNAME .
 clktrack.com CNAME .
 *.clktrack.com CNAME .
-clockurl.com CNAME .
-*.clockurl.com CNAME .
 cloudshrinker.com CNAME .
 *.cloudshrinker.com CNAME .
 cloudtechlinks.com CNAME .
@@ -3953,8 +3945,6 @@ convertloom.com CNAME .
 *.convertloom.com CNAME .
 coopurl.com CNAME .
 *.coopurl.com CNAME .
-copymylink.com CNAME .
-*.copymylink.com CNAME .
 url.coronassh.com CNAME .
 *.url.coronassh.com CNAME .
 couldyouredirectmeplease.com CNAME .
@@ -4155,8 +4145,6 @@ dmvrenew.com CNAME .
 *.dmvrenew.com CNAME .
 doaistri.com CNAME .
 *.doaistri.com CNAME .
-doburl.com CNAME .
-*.doburl.com CNAME .
 doiop.com CNAME .
 *.doiop.com CNAME .
 domainsandlinks.com CNAME .
@@ -8965,8 +8953,6 @@ qr.attps.fr CNAME .
 *.qr.attps.fr CNAME .
 ayt.fr CNAME .
 *.ayt.fr CNAME .
-azali.fr CNAME .
-*.azali.fr CNAME .
 b00.fr CNAME .
 *.b00.fr CNAME .
 b1.fr CNAME .
@@ -10451,8 +10437,6 @@ calendrierbdp.info CNAME .
 *.calendrierbdp.info CNAME .
 ch-get.info CNAME .
 *.ch-get.info CNAME .
-chudaitrieuview.info CNAME .
-*.chudaitrieuview.info CNAME .
 cinecom.info CNAME .
 *.cinecom.info CNAME .
 cookcenter.info CNAME .
@@ -15143,8 +15127,6 @@ aporasal.net CNAME .
 *.aporasal.net CNAME .
 arnogo.net CNAME .
 *.arnogo.net CNAME .
-atoor.net CNAME .
-*.atoor.net CNAME .
 avhop.net CNAME .
 *.avhop.net CNAME .
 b4y.net CNAME .
@@ -19077,8 +19059,6 @@ ourmagazines.co.uk CNAME .
 *.ourmagazines.co.uk CNAME .
 p-it.co.uk CNAME .
 *.p-it.co.uk CNAME .
-qrgen.co.uk CNAME .
-*.qrgen.co.uk CNAME .
 go.sbws.co.uk CNAME .
 *.go.sbws.co.uk CNAME .
 shortlinks.co.uk CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Apr 2026 07:40 UTC
-# Version: 2026.0416.0740.00
+# Last modified: 17 Apr 2026 07:35 UTC
+# Version: 2026.0417.0735.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10062
+# Number of entries: 10052
 #
 local=/0.gp/
 local=/00m.in/
@@ -868,7 +868,6 @@ local=/atlantisgit.com/
 local=/atm.tk/
 local=/atmilb.com/
 local=/atmlb.com/
-local=/atoor.net/
 local=/atpz.ir/
 local=/atqiv.org/
 local=/atres.red/
@@ -929,7 +928,6 @@ local=/ayokale.me/
 local=/ayt.fr/
 local=/ayuk.link/
 local=/ayzyu.com/
-local=/azali.fr/
 local=/azc.cc/
 local=/azhfoom.com/
 local=/azipurl.app/
@@ -1069,7 +1067,6 @@ local=/beth.games/
 local=/bettercov.org/
 local=/betterlinks.io/
 local=/bettrechies.com/
-local=/beurl.app/
 local=/bez.link/
 local=/bezt.bio/
 local=/bfol.me/
@@ -1155,7 +1152,6 @@ local=/go.bitcomma.com/
 local=/bitded.com/
 local=/bitesli.com/
 local=/bitfy.cc/
-local=/bitgg.co/
 local=/bitigee.com/
 local=/bitl.app/
 local=/bitl.to/
@@ -1270,7 +1266,6 @@ local=/bmai.cc/
 local=/bmr.li/
 local=/bn8.us/
 local=/bnds.in/
-local=/bnetwhk.com/
 local=/bnidigital.com/
 local=/bnishipping.com/
 local=/bnrsol.com/
@@ -1622,7 +1617,6 @@ local=/chort.me/
 local=/chotourl.me/
 local=/chts.tw/
 local=/chuchik.com/
-local=/chudaitrieuview.info/
 local=/chunkylinks.com/
 local=/chx.to/
 local=/chzb.gr/
@@ -1747,7 +1741,6 @@ local=/clkro.com/
 local=/clktrack.com/
 local=/cllab.co/
 local=/clmp.me/
-local=/clockurl.com/
 local=/clotplaynews.live/
 local=/r.cloud8.eu/
 local=/cloudfare.icu/
@@ -1804,7 +1797,6 @@ local=/mypnp.co.za/
 local=/links.nivbook.co.il/
 local=/ourmagazines.co.uk/
 local=/p-it.co.uk/
-local=/qrgen.co.uk/
 local=/qtn.co.il/
 local=/go.sbws.co.uk/
 local=/shortlink.co.za/
@@ -1928,7 +1920,6 @@ local=/cookcenter.info/
 local=/coop.uk/
 local=/coopurl.com/
 local=/cop.vn/
-local=/copymylink.com/
 local=/core.airforce/
 local=/coreprob.coreprobation.org/
 local=/url.coronassh.com/
@@ -2319,7 +2310,6 @@ local=/dnt.st/
 local=/do.co/
 local=/do.my/
 local=/doaistri.com/
-local=/doburl.com/
 local=/dockr.ly/
 local=/docmti.id/
 local=/docremedio.xyz/

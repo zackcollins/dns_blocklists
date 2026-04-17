@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 11:39 UTC
-# Version: 2026.0412.1139.32
+# Last modified: 17 Apr 2026 09:13 UTC
+# Version: 2026.0417.0913.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3948
+# Number of entries: 3945
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -422,7 +422,6 @@
 0.0.0.0 doh.azoris.ovh
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 sradg2.eastus.cloudapp.azure.com
-0.0.0.0 kawpad.southeastasia.cloudapp.azure.com
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.b-cdn.net
 0.0.0.0 dns.b33.network
@@ -645,7 +644,6 @@
 0.0.0.0 dns.chunghwamc.com
 0.0.0.0 oraclejp2.chungyu.com
 0.0.0.0 c.cicitt.ch
-0.0.0.0 doh.cippapp.com
 0.0.0.0 canadianshield.cira.ca
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
@@ -1403,7 +1401,6 @@
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
-0.0.0.0 baksabal.duckdns.org
 0.0.0.0 blamb.duckdns.org
 0.0.0.0 cdzopi.duckdns.org
 0.0.0.0 chynik.duckdns.org

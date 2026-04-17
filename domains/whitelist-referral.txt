@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Apr 2026 07:23 UTC
-# Version: 2026.0416.0723.58
+# Last modified: 17 Apr 2026 07:18 UTC
+# Version: 2026.0417.0718.57
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2113
+# Number of entries: 2117
 #
 1-aclk.net
 1aurl.io
@@ -1428,6 +1428,7 @@ mkto-ab350042.com
 mkto-ab390033.com
 mkto-ab390087.com
 mkto-ab390196.com
+mkto-ab400068.com
 mkto-ab400124.com
 mkto-ab400143.com
 mkto-ab420081.com
@@ -1510,6 +1511,7 @@ mkto-m0106.com
 mkto-m0111.com
 mkto-mlm10010008.com
 mkto-mlm10030009.com
+mkto-n0092.com
 mkto-nld1010057.com
 mkto-nld1010150.com
 mkto-nld1020077.com
@@ -1568,6 +1570,7 @@ mkto-sj320047.com
 mkto-sj330006.com
 mkto-sj340004.com
 mkto-sj360076.com
+mkto-sj360104.com
 mkto-sj360142.com
 mkto-sj390015.com
 mkto-sj390079.com
@@ -2106,6 +2109,7 @@ redirect.appmetrica.yandex.ru
 317729.redirect.appmetrica.yandex.com
 3474082.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
+4190005.redirect.appmetrica.yandex.com
 4237138.redirect.appmetrica.yandex.com
 4259758.redirect.appmetrica.yandex.com
 4276573.redirect.appmetrica.yandex.com

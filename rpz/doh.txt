@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775993940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776417180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Apr 2026 11:39 UTC
-; Version: 2026.0412.1139.32
+; Last modified: 17 Apr 2026 09:13 UTC
+; Version: 2026.0417.0913.07
 ; Syntax: RPZ
-; Number of entries: 6972
+; Number of entries: 6966
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -737,8 +737,6 @@ sradg.eastus.cloudapp.azure.com CNAME .
 *.sradg.eastus.cloudapp.azure.com CNAME .
 sradg2.eastus.cloudapp.azure.com CNAME .
 *.sradg2.eastus.cloudapp.azure.com CNAME .
-kawpad.southeastasia.cloudapp.azure.com CNAME .
-*.kawpad.southeastasia.cloudapp.azure.com CNAME .
 dns.b72.com CNAME .
 *.dns.b72.com CNAME .
 dns.bai0012.com CNAME .
@@ -861,8 +859,6 @@ dns.chunghwamc.com CNAME .
 *.dns.chunghwamc.com CNAME .
 oraclejp2.chungyu.com CNAME .
 *.oraclejp2.chungyu.com CNAME .
-doh.cippapp.com CNAME .
-*.doh.cippapp.com CNAME .
 dns.citrahost.com CNAME .
 *.dns.citrahost.com CNAME .
 midns.clicinternet.com CNAME .
@@ -4743,8 +4739,6 @@ andrykarcew.duckdns.org CNAME .
 *.andrykarcew.duckdns.org CNAME .
 armm.duckdns.org CNAME .
 *.armm.duckdns.org CNAME .
-baksabal.duckdns.org CNAME .
-*.baksabal.duckdns.org CNAME .
 blamb.duckdns.org CNAME .
 *.blamb.duckdns.org CNAME .
 cdzopi.duckdns.org CNAME .

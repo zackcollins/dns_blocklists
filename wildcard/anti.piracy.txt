@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Apr 2026 09:16 UTC
-# Version: 2026.0416.0916.52
+# Last modified: 17 Apr 2026 09:07 UTC
+# Version: 2026.0417.0907.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12409
+# Number of entries: 12402
 #
 *.003396815.xyz
 *.004430.xyz
@@ -1263,7 +1263,6 @@
 *.bayfiles.com
 *.bayofpirates.xyz
 *.bb-tv.org
-*.torrents.bbccable.net
 *.bclearning.top
 *.bd-t.net
 *.bdbroadband.com
@@ -1894,7 +1893,6 @@
 *.cb01.taxi
 *.cb01.training
 *.cb01.us
-*.cb01.vet
 *.cb01.vg
 *.cb01.video
 *.cb01.vip
@@ -2287,7 +2285,6 @@
 *.colombo-bt.org
 *.123movies.com.pk
 *.9kmovies.com.co
-*.9kmovies.com.cv
 *.www.aenianos.com.br
 *.aruacfilmes.com.br
 *.btarg.com.ar
@@ -2361,7 +2358,6 @@
 *.comandofilmetorrent.com
 *.comandohdtorrents.com
 *.comandotorrenthd.net
-*.comandotorrents.com
 *.comandotorrents.org
 *.comandotorrentshd.net
 *.mywebpages.comcast.net
@@ -2475,7 +2471,6 @@
 *.cracksfiles.com
 *.crackslink.com
 *.cracksnow.com
-*.crackspider.net
 *.crackstore.com
 *.crackstreams.com
 *.crackstreams.dev
@@ -2934,7 +2929,6 @@
 *.dodi-repacks.site
 *.dognzb.cr
 *.doile378vtt.com
-*.doilybeguine.cyou
 *.dokumen.pub
 *.dokumentalne.net
 *.dolwiz.com
@@ -3125,17 +3119,11 @@
 *.drakulatv.eu
 *.drama-online.pl
 *.dramacafi-tv.quest
-*.dramacoolfirst.com
 *.dramaday.me
 *.dramago.com
 *.dramaqu.app
-*.dramaqu.beauty
 *.dramaqu.cloud
-*.dramaqu.digital
-*.dramaqu.live
-*.dramaqu.me
 *.dramaqu.net
-*.dramaqu.site
 *.dramaqu.vip
 *.dramaqu.website
 *.dramaqueen.pl
@@ -3182,9 +3170,7 @@
 *.dummipedia.org
 *.dunia21.cc
 *.dunia21.download
-*.dunia21.me
 *.dunia21.net
-*.dunia21.pw
 *.dup3.me
 *.dupefr.com
 *.durantonetworkbd.com
@@ -3511,6 +3497,7 @@
 *.eurostreamings.cam
 *.eurostreamings.casa
 *.eurostreamings.cfd
+*.eurostreamings.click
 *.eurostreamings.com
 *.eurostreamings.fun
 *.eurostreamings.hair
@@ -4880,6 +4867,7 @@
 *.hdencode.org
 *.hdf.world
 *.hdfilmcehennemi.now
+*.hdfilmcehennemi27.com
 *.hdfilme.app
 *.hdfilme.baby
 *.hdfilme.best
@@ -4892,6 +4880,7 @@
 *.hdfilme.cv
 *.hdfilme.cx
 *.hdfilme.day
+*.hdfilme.deals
 *.hdfilme.fit
 *.hdfilme.fun
 *.hdfilme.garden
@@ -4937,6 +4926,9 @@
 *.hdmatch.link
 *.hdme.eu
 *.hdmoie2.com
+*.hdmovi2.bz
+*.hdmovi2.fan
+*.hdmovi2.xyz
 *.hdmovia2.com
 *.hdmovie14.net
 *.hdmovie2.ac
@@ -5184,6 +5176,7 @@
 *.hdmoviesnxt.com
 *.hdmoviespark.com
 *.hdmoviesverse.xyz
+*.hdmovil.xyz
 *.hdmovil2.com
 *.hdmovit2.com
 *.hdmoviz2.xyz
