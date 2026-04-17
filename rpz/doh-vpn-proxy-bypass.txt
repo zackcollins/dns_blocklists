@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776417240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776444720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 09:14 UTC
-; Version: 2026.0417.0914.02
+; Last modified: 17 Apr 2026 16:52 UTC
+; Version: 2026.0417.1652.24
 ; Syntax: RPZ
-; Number of entries: 36450
+; Number of entries: 36408
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -863,8 +863,6 @@ educationperfect.wbcc.org.au CNAME .
 *.educationperfect.wbcc.org.au CNAME .
 xfer.au CNAME .
 *.xfer.au CNAME .
-galxy.autos CNAME .
-*.galxy.autos CNAME .
 gultrjaus.autos CNAME .
 *.gultrjaus.autos CNAME .
 please.sell-my-car.autos CNAME .
@@ -921,8 +919,6 @@ adguard.veanswart.cloudns.be CNAME .
 *.adguard.veanswart.cloudns.be CNAME .
 digitallink.be CNAME .
 *.digitallink.be CNAME .
-dns.fifux.be CNAME .
-*.dns.fifux.be CNAME .
 dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
@@ -1129,8 +1125,6 @@ uc.robby.blue CNAME .
 *.uc.robby.blue CNAME .
 ajh.boats CNAME .
 *.ajh.boats CNAME .
-galacticsurf.boats CNAME .
-*.galacticsurf.boats CNAME .
 heliu.bond CNAME .
 *.heliu.bond CNAME .
 hl-jsq.bond CNAME .
@@ -1241,10 +1235,6 @@ bigdihuptheahh.buzz CNAME .
 *.bigdihuptheahh.buzz CNAME .
 doh.buzz CNAME .
 *.doh.buzz CNAME .
-freediddy.buzz CNAME .
-*.freediddy.buzz CNAME .
-freepuff.buzz CNAME .
-*.freepuff.buzz CNAME .
 gyattmath.buzz CNAME .
 *.gyattmath.buzz CNAME .
 hardenglish.buzz CNAME .
@@ -3635,8 +3625,6 @@ express-vpn.co CNAME .
 *.express-vpn.co CNAME .
 fengcheyun.co CNAME .
 *.fengcheyun.co CNAME .
-freeproxyserver.co CNAME .
-*.freeproxyserver.co CNAME .
 dohsg.goitoi.co CNAME .
 *.dohsg.goitoi.co CNAME .
 webrtc5.gvideo.co CNAME .
@@ -7909,10 +7897,6 @@ f3556fm3o524m9.com CNAME .
 *.f3556fm3o524m9.com CNAME .
 f43f8e0a28eef7e7ff0abf8669dfa203f59a6776.com CNAME .
 *.f43f8e0a28eef7e7ff0abf8669dfa203f59a6776.com CNAME .
-f98f95d622c3a88f77cbfc0279298d8597b5c6c2.com CNAME .
-*.f98f95d622c3a88f77cbfc0279298d8597b5c6c2.com CNAME .
-f9b8e8aaa83a4c5916441a5c6f4ac229cf78e27b.com CNAME .
-*.f9b8e8aaa83a4c5916441a5c6f4ac229cf78e27b.com CNAME .
 dns.fabidouille.com CNAME .
 *.dns.fabidouille.com CNAME .
 fernn.fabricecosta.com CNAME .
@@ -8109,8 +8093,6 @@ filesdownloader.com CNAME .
 *.filesdownloader.com CNAME .
 collegeprep.fin-tech.com CNAME .
 *.collegeprep.fin-tech.com CNAME .
-kidscoding.fin-tech.com CNAME .
-*.kidscoding.fin-tech.com CNAME .
 learngeometryfr.fin-tech.com CNAME .
 *.learngeometryfr.fin-tech.com CNAME .
 testplease.fin-tech.com CNAME .
@@ -17839,8 +17821,6 @@ dns.exonip.de CNAME .
 *.dns.exonip.de CNAME .
 dns.farshidhakimy.de CNAME .
 *.dns.farshidhakimy.de CNAME .
-dns.fdue.de CNAME .
-*.dns.fdue.de CNAME .
 dns.fehlsprache.de CNAME .
 *.dns.fehlsprache.de CNAME .
 dns.ffnw.de CNAME .
@@ -22303,8 +22283,6 @@ filterbypass.me CNAME .
 *.filterbypass.me CNAME .
 flyall.me CNAME .
 *.flyall.me CNAME .
-freeproxy.me CNAME .
-*.freeproxy.me CNAME .
 freevpn.me CNAME .
 *.freevpn.me CNAME .
 dns.futuredns.me CNAME .
@@ -25307,16 +25285,6 @@ dd.elashri.net CNAME .
 *.dd.elashri.net CNAME .
 pdns.elecura.net CNAME .
 *.pdns.elecura.net CNAME .
-aru0.enia.net CNAME .
-*.aru0.enia.net CNAME .
-aru1.enia.net CNAME .
-*.aru1.enia.net CNAME .
-aru2.enia.net CNAME .
-*.aru2.enia.net CNAME .
-arugosu3.enia.net CNAME .
-*.arugosu3.enia.net CNAME .
-arugosu4.enia.net CNAME .
-*.arugosu4.enia.net CNAME .
 home.enjoymylife.net CNAME .
 *.home.enjoymylife.net CNAME .
 enotvpn.net CNAME .
@@ -25379,8 +25347,6 @@ i.friggin.farted.net CNAME .
 *.i.friggin.farted.net CNAME .
 gooogledotcomorsomethingjust.farted.net CNAME .
 *.gooogledotcomorsomethingjust.farted.net CNAME .
-mackncheese.farted.net CNAME .
-*.mackncheese.farted.net CNAME .
 nglbrowhatthesigiihakeohio.farted.net.farted.net CNAME .
 *.nglbrowhatthesigiihakeohio.farted.net.farted.net CNAME .
 fastcloudcdn.net CNAME .
@@ -27879,8 +27845,6 @@ fxnyuvqjslnectan.online CNAME .
 *.fxnyuvqjslnectan.online CNAME .
 g55.online CNAME .
 *.g55.online CNAME .
-g7py47i.online CNAME .
-*.g7py47i.online CNAME .
 gbcnkoqtu2qv.online CNAME .
 *.gbcnkoqtu2qv.online CNAME .
 play-games-at.geometry-games.online CNAME .
@@ -31115,8 +31079,6 @@ artistic-education.eminescusm.ro CNAME .
 *.artistic-education.eminescusm.ro CNAME .
 dingus-mcgoogle-learning.eminescusm.ro CNAME .
 *.dingus-mcgoogle-learning.eminescusm.ro CNAME .
-educationcreations.eminescusm.ro CNAME .
-*.educationcreations.eminescusm.ro CNAME .
 first-pie.eminescusm.ro CNAME .
 *.first-pie.eminescusm.ro CNAME .
 galaxy.eminescusm.ro CNAME .
@@ -31459,8 +31421,6 @@ eryno.ru CNAME .
 *.eryno.ru CNAME .
 vm596152.eurodir.ru CNAME .
 *.vm596152.eurodir.ru CNAME .
-drive.google.com.ev73.ru CNAME .
-*.drive.google.com.ev73.ru CNAME .
 joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru CNAME .
 *.joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru CNAME .
 evavpn.ru CNAME .
@@ -31541,8 +31501,6 @@ vpn.geshido.ru CNAME .
 *.vpn.geshido.ru CNAME .
 vpn.gmalov.ru CNAME .
 *.vpn.gmalov.ru CNAME .
-math.goalstep.ru CNAME .
-*.math.goalstep.ru CNAME .
 cps.gpu74.ru CNAME .
 *.cps.gpu74.ru CNAME .
 cpu.gpu74.ru CNAME .
@@ -35523,8 +35481,6 @@ edgex-102.xyz CNAME .
 *.edgex-102.xyz CNAME .
 ednovas.xyz CNAME .
 *.ednovas.xyz CNAME .
-eiz4tai.xyz CNAME .
-*.eiz4tai.xyz CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
 blog.electricpiano.xyz CNAME .
@@ -35701,6 +35657,8 @@ ikarosalpha.xyz CNAME .
 *.ikarosalpha.xyz CNAME .
 ikraken.xyz CNAME .
 *.ikraken.xyz CNAME .
+dns.infosec.xyz CNAME .
+*.dns.infosec.xyz CNAME .
 interstellas.xyz CNAME .
 *.interstellas.xyz CNAME .
 iopl.xyz CNAME .

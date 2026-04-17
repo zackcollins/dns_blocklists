@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776417180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776444660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 09:13 UTC
-; Version: 2026.0417.0913.07
+; Last modified: 17 Apr 2026 16:51 UTC
+; Version: 2026.0417.1651.40
 ; Syntax: RPZ
-; Number of entries: 6966
+; Number of entries: 6964
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -135,8 +135,6 @@ adguard.veanswart.cloudns.be CNAME .
 *.adguard.veanswart.cloudns.be CNAME .
 digitallink.be CNAME .
 *.digitallink.be CNAME .
-dns.fifux.be CNAME .
-*.dns.fifux.be CNAME .
 dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
@@ -2089,8 +2087,6 @@ dns.exonip.de CNAME .
 *.dns.exonip.de CNAME .
 dns.farshidhakimy.de CNAME .
 *.dns.farshidhakimy.de CNAME .
-dns.fdue.de CNAME .
-*.dns.fdue.de CNAME .
 dns.fehlsprache.de CNAME .
 *.dns.fehlsprache.de CNAME .
 dns.ffnw.de CNAME .
@@ -6855,6 +6851,8 @@ opennic2.i2pd.xyz CNAME .
 *.opennic2.i2pd.xyz CNAME .
 ikarosalpha.xyz CNAME .
 *.ikarosalpha.xyz CNAME .
+dns.infosec.xyz CNAME .
+*.dns.infosec.xyz CNAME .
 dns.itya.xyz CNAME .
 *.dns.itya.xyz CNAME .
 ivnkn.xyz CNAME .

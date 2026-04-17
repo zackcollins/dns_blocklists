@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 09:13 UTC
-# Version: 2026.0417.0913.07
+# Last modified: 17 Apr 2026 16:51 UTC
+# Version: 2026.0417.1651.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 3483
+# Number of entries: 3482
 #
 ss.0001.xyz
 003153.xyz
@@ -1376,7 +1376,6 @@ adguardhome.favrep.ovh
 dns.faze.dev
 ns0.fdn.fr
 ns1.fdn.fr
-dns.fdue.de
 agh.feblab.click
 dns1.feear.se
 dns2.feear.se
@@ -1391,7 +1390,6 @@ doh.ffmuc.net
 dot.ffmuc.net
 dns.ffnw.de
 fidelius.top
-dns.fifux.be
 dns.filipccz.eu
 fimoshinckaya-federation.site
 home.firetiresinc.com
@@ -1778,6 +1776,7 @@ incaseineeditoneday.com
 adblock.indianets.net
 dns.indybanipal.com
 dns.inforlogia.com
+dns.infosec.xyz
 doh.infracell.net
 adguard.infrapod.nl
 adguard01.infrapod.nl

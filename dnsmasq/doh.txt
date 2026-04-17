@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 09:13 UTC
-# Version: 2026.0417.0913.07
+# Last modified: 17 Apr 2026 16:51 UTC
+# Version: 2026.0417.1651.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3483
+# Number of entries: 3482
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1376,7 +1376,6 @@ local=/adguardhome.favrep.ovh/
 local=/dns.faze.dev/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
-local=/dns.fdue.de/
 local=/agh.feblab.click/
 local=/dns1.feear.se/
 local=/dns2.feear.se/
@@ -1391,7 +1390,6 @@ local=/doh.ffmuc.net/
 local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
-local=/dns.fifux.be/
 local=/dns.filipccz.eu/
 local=/fimoshinckaya-federation.site/
 local=/home.firetiresinc.com/
@@ -1778,6 +1776,7 @@ local=/incaseineeditoneday.com/
 local=/adblock.indianets.net/
 local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
+local=/dns.infosec.xyz/
 local=/doh.infracell.net/
 local=/adguard.infrapod.nl/
 local=/adguard01.infrapod.nl/

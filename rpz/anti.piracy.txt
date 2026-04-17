@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776416820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776444780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 09:07 UTC
-; Version: 2026.0417.0907.19
+; Last modified: 17 Apr 2026 16:53 UTC
+; Version: 2026.0417.1653.53
 ; Syntax: RPZ
-; Number of entries: 24804
+; Number of entries: 24792
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -888,8 +888,6 @@ altadefinizione.bio CNAME .
 *.altadefinizione.bio CNAME .
 eurostreaming.bio CNAME .
 *.eurostreaming.bio CNAME .
-filmapik.bio CNAME .
-*.filmapik.bio CNAME .
 filmoflix.bio CNAME .
 *.filmoflix.bio CNAME .
 filmpertutti.bio CNAME .
@@ -4750,8 +4748,6 @@ file4safe.com CNAME .
 *.file4safe.com CNAME .
 filecatch.com CNAME .
 *.filecatch.com CNAME .
-filechef.com CNAME .
-*.filechef.com CNAME .
 filecr.com CNAME .
 *.filecr.com CNAME .
 filecraft.com CNAME .
@@ -17014,8 +17010,6 @@ finvip.org CNAME .
 *.finvip.org CNAME .
 firstrowsport.org CNAME .
 *.firstrowsport.org CNAME .
-flashfilmes.org CNAME .
-*.flashfilmes.org CNAME .
 flixhd.org CNAME .
 *.flixhd.org CNAME .
 flixtor.org CNAME .
@@ -18424,8 +18418,6 @@ altadefinizione.pink CNAME .
 *.altadefinizione.pink CNAME .
 dontorrent.pink CNAME .
 *.dontorrent.pink CNAME .
-eurostreaming.pink CNAME .
-*.eurostreaming.pink CNAME .
 guardaserie.pink CNAME .
 *.guardaserie.pink CNAME .
 moviesmod.pink CNAME .
@@ -18534,8 +18526,6 @@ exsites.pl CNAME .
 *.exsites.pl CNAME .
 fastshare.pl CNAME .
 *.fastshare.pl CNAME .
-feniks-site24.pl CNAME .
-*.feniks-site24.pl CNAME .
 filebit.pl CNAME .
 *.filebit.pl CNAME .
 filefox.pl CNAME .
@@ -22124,8 +22114,6 @@ droply.top CNAME .
 *.droply.top CNAME .
 egydead.top CNAME .
 *.egydead.top CNAME .
-europixhd.top CNAME .
-*.europixhd.top CNAME .
 eurostreaming.top CNAME .
 *.eurostreaming.top CNAME .
 eurostreamings.top CNAME .

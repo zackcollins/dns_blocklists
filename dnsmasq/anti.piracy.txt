@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 09:07 UTC
-# Version: 2026.0417.0907.19
+# Last modified: 17 Apr 2026 16:53 UTC
+# Version: 2026.0417.1653.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12402
+# Number of entries: 12396
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -3411,7 +3411,6 @@ local=/euromovies.me/
 local=/europixhd.io/
 local=/europixhd.pro/
 local=/europixhd.site/
-local=/europixhd.top/
 local=/eurostreaming.actor/
 local=/eurostreaming.app/
 local=/eurostreaming.archi/
@@ -3459,7 +3458,6 @@ local=/eurostreaming.online/
 local=/eurostreaming.ooo/
 local=/eurostreaming.org/
 local=/eurostreaming.ph/
-local=/eurostreaming.pink/
 local=/eurostreaming.poker/
 local=/eurostreaming.pro/
 local=/eurostreaming.quest/
@@ -3663,7 +3661,6 @@ local=/feeder.lt/
 local=/fel3ardaa.com/
 local=/feliratok.eu/
 local=/lucke.fenesisu.moe/
-local=/feniks-site24.pl/
 local=/fenopy.com/
 local=/fenopy.se/
 local=/feuerbringer.com/
@@ -3689,7 +3686,6 @@ local=/filebase.ws/
 local=/filebit.pl/
 local=/filebits.org/
 local=/filecatch.com/
-local=/filechef.com/
 local=/filecr.com/
 local=/filecraft.com/
 local=/filedown.net/
@@ -3754,7 +3750,6 @@ local=/film4k.to/
 local=/filman.cc/
 local=/filmapik.beauty/
 local=/filmapik.bike/
-local=/filmapik.bio/
 local=/filmapik.cafe/
 local=/filmapik.cash/
 local=/filmapik.channel/
@@ -4011,7 +4006,6 @@ local=/flacworld.com/
 local=/flarefiles.com/
 local=/flash-games.ws/
 local=/flashbit.cc/
-local=/flashfilmes.org/
 local=/flashfilms-hd.com/
 local=/flashfilms-hd.top/
 local=/flashnetbd.com/

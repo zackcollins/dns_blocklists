@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Apr 2026 07:35 UTC
-! Version: 2026.0417.0735.02
+! Last modified: 17 Apr 2026 16:53 UTC
+! Version: 2026.0417.1653.16
 ! Syntax: AdBlock
-! Number of entries: 10052
+! Number of entries: 10050
 !
 ||0.gp^
 ||00m.in^
@@ -2613,7 +2613,6 @@
 ||ericadams.link^
 ||erikarydberghall.com^
 ||eru2earn.com^
-||eru789.com^
 ||erw.cz^
 ||es.pn^
 ||esa.my^
@@ -2693,7 +2692,6 @@
 ||f3.social^
 ||f44.link^
 ||f4d.uk^
-||f5i.org^
 ||f5url.com^
 ||f5yo.com^
 ||f6x.cn^

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Apr 2026 09:14 UTC
-! Version: 2026.0417.0914.02
+! Last modified: 17 Apr 2026 16:52 UTC
+! Version: 2026.0417.1652.24
 ! Syntax: AdBlock
-! Number of entries: 18225
+! Number of entries: 18204
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -5753,7 +5753,6 @@
 ||scifi0.eigenlicht.us^
 ||adguard.eischmann.cz^
 ||eixeix.com^
-||eiz4tai.xyz^
 ||ejaysss.dev^
 ||ek0pnofxa.online^
 ||dd.elashri.net^
@@ -5800,7 +5799,6 @@
 ||apstats.eminescusm.ro^
 ||artistic-education.eminescusm.ro^
 ||dingus-mcgoogle-learning.eminescusm.ro^
-||educationcreations.eminescusm.ro^
 ||first-pie.eminescusm.ro^
 ||galaxy.eminescusm.ro^
 ||gogaurdian.eminescusm.ro^
@@ -5861,11 +5859,6 @@
 ||stufy.englishpapers.online^
 ||sutausfjsajfas.englishpapers.online^
 ||englishtutoring.cfd^
-||aru0.enia.net^
-||aru1.enia.net^
-||aru2.enia.net^
-||arugosu3.enia.net^
-||arugosu4.enia.net^
 ||home.enjoymylife.net^
 ||enotvpn.net^
 ||enproxy.com^
@@ -5964,7 +5957,6 @@
 ||yanggan.eu.org^
 ||vm596152.eurodir.ru^
 ||eurproxy.com^
-||drive.google.com.ev73.ru^
 ||joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru^
 ||evacraft.xyz^
 ||evaronet.com^
@@ -6067,8 +6059,6 @@
 ||jp1.f7b6h9.tk^
 ||f7tfjrsmrvgx4ts1.online^
 ||dns.f97.xyz^
-||f98f95d622c3a88f77cbfc0279298d8597b5c6c2.com^
-||f9b8e8aaa83a4c5916441a5c6f4ac229cf78e27b.com^
 ||dns.fabidouille.com^
 ||fernn.fabricecosta.com^
 ||idea.lab.fabriquilla25.com^
@@ -6151,7 +6141,6 @@
 ||cayden.farted.net^
 ||i.friggin.farted.net^
 ||gooogledotcomorsomethingjust.farted.net^
-||mackncheese.farted.net^
 ||nglbrowhatthesigiihakeohio.farted.net.farted.net^
 ||fashionstyleshop.online^
 ||fast-fish.me^
@@ -6273,7 +6262,6 @@
 ||fdlnjokh.cc^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
-||dns.fdue.de^
 ||juicewrld.feathertechno.com^
 ||agh.feblab.click^
 ||dns1.feear.se^
@@ -6360,7 +6348,6 @@
 ||fiberproxy.net^
 ||fiberproxy.us^
 ||fidelius.top^
-||dns.fifux.be^
 ||figcat.cc^
 ||figdon.com^
 ||figure.run^
@@ -6373,7 +6360,6 @@
 ||fimoraq.ru^
 ||fimoshinckaya-federation.site^
 ||collegeprep.fin-tech.com^
-||kidscoding.fin-tech.com^
 ||learngeometryfr.fin-tech.com^
 ||testplease.fin-tech.com^
 ||finalgo.app^
@@ -6630,7 +6616,6 @@
 ||studioai.freeddns.org^
 ||tycoonisthebest.freeddns.uk^
 ||freedevpn.com^
-||freediddy.buzz^
 ||freednet.org^
 ||freedom.cx^
 ||freedome-vpn.net^
@@ -6659,18 +6644,15 @@
 ||freeplanetvpn-rus.com^
 ||freeproxy.asia^
 ||freeproxy.io^
-||freeproxy.me^
 ||freeproxy.top^
 ||freeproxy.win^
 ||freeproxyaccess.com^
 ||freeproxydb.com^
 ||freeproxylist.online^
 ||freeproxylist.ru^
-||freeproxyserver.co^
 ||freeproxyunblockyoutube.com^
 ||freeproxyupdate.com^
 ||freeproxyweb.net^
-||freepuff.buzz^
 ||freeruleonline.xyz^
 ||freeruproxy.ink^
 ||freesafeip.com^
@@ -6816,21 +6798,18 @@
 ||adg.g3.monster^
 ||g55.online^
 ||sm5q237c0.g666gle.me^
-||g7py47i.online^
 ||gabstorm.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||gaepvnrv.com^
 ||gaganode.com^
 ||bolt.galacticrouter.xyz^
-||galacticsurf.boats^
 ||galaxyaff.cc^
 ||lunarhistory.galaxybbs.net^
 ||sd.galaxysoft.ro^
 ||galaxyvipaff01.cc^
 ||myapps.instructure.com.galitec.es^
 ||galtvpn.com^
-||galxy.autos^
 ||dns.gamban.com^
 ||adguard.gambini.org^
 ||proxy.gamecove.net^
@@ -7110,7 +7089,6 @@
 ||ux.go20.cf^
 ||go2proxy.com^
 ||privacydns.go6lab.si^
-||math.goalstep.ru^
 ||goaslen.com^
 ||tracks.empleosonora.gob.mx^
 ||clever.issuesloggingin.hndifhidalgo.gob.mx^
@@ -8448,6 +8426,7 @@
 ||infobyip.com^
 ||infomagazine.space^
 ||dns.inforlogia.com^
+||dns.infosec.xyz^
 ||chris-0.4-gpa-resources.infotechnology.com^
 ||6or7.infotechnology.com^
 ||about.infotechnology.com^

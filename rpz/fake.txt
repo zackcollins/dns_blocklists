@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776411180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776445800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 07:33 UTC
-; Version: 2026.0417.0733.11
+; Last modified: 17 Apr 2026 17:10 UTC
+; Version: 2026.0417.1710.45
 ; Syntax: RPZ
-; Number of entries: 29286
+; Number of entries: 29222
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -344,8 +344,6 @@ energiekick.at CNAME .
 *.energiekick.at CNAME .
 entruempelung-meister.at CNAME .
 *.entruempelung-meister.at CNAME .
-entruempelungsexperten.at CNAME .
-*.entruempelungsexperten.at CNAME .
 esprits.at CNAME .
 *.esprits.at CNAME .
 essentials-osterreich.at CNAME .
@@ -398,8 +396,6 @@ gaborschuhe.at CNAME .
 *.gaborschuhe.at CNAME .
 gaborwien.at CNAME .
 *.gaborwien.at CNAME .
-gartenpflege-service-wien.at CNAME .
-*.gartenpflege-service-wien.at CNAME .
 gas-heizung-wasser.at CNAME .
 *.gas-heizung-wasser.at CNAME .
 gas-thermen-zentrum.at CNAME .
@@ -414,8 +410,6 @@ gigaly.at CNAME .
 *.gigaly.at CNAME .
 gitarrenheld.at CNAME .
 *.gitarrenheld.at CNAME .
-glas-plus.at CNAME .
-*.glas-plus.at CNAME .
 golawienonline.at CNAME .
 *.golawienonline.at CNAME .
 gold-linz.at CNAME .
@@ -1260,8 +1254,6 @@ coco-kick.cc CNAME .
 *.coco-kick.cc CNAME .
 demays.cc CNAME .
 *.demays.cc CNAME .
-erclubi.cc CNAME .
-*.erclubi.cc CNAME .
 eurorxdrugs.cc CNAME .
 *.eurorxdrugs.cc CNAME .
 francisco.cc CNAME .
@@ -1338,12 +1330,8 @@ daheimgut.ch CNAME .
 *.daheimgut.ch CNAME .
 deluxo.ch CNAME .
 *.deluxo.ch CNAME .
-elle-zurich.ch CNAME .
-*.elle-zurich.ch CNAME .
 emmafrey.ch CNAME .
 *.emmafrey.ch CNAME .
-familienzug.ch CNAME .
-*.familienzug.ch CNAME .
 farbenruhe.ch CNAME .
 *.farbenruhe.ch CNAME .
 fruechtepfluecken.ch CNAME .
@@ -3614,8 +3602,6 @@ bitcodemethod.com CNAME .
 *.bitcodemethod.com CNAME .
 bitcoin-pharmacy.com CNAME .
 *.bitcoin-pharmacy.com CNAME .
-bitcoin360ai.com CNAME .
-*.bitcoin360ai.com CNAME .
 bitcoinarchon.com CNAME .
 *.bitcoinarchon.com CNAME .
 bitcoingroup-vip.com CNAME .
@@ -4106,8 +4092,6 @@ canadadrugstore.com CNAME .
 *.canadadrugstore.com CNAME .
 canadanewsreport.com CNAME .
 *.canadanewsreport.com CNAME .
-canadapharmacyonline.com CNAME .
-*.canadapharmacyonline.com CNAME .
 canadapharmacypro.com CNAME .
 *.canadapharmacypro.com CNAME .
 canadasale365.com CNAME .
@@ -5966,8 +5950,6 @@ elektro-friedrich.com CNAME .
 *.elektro-friedrich.com CNAME .
 elektro-meisner.com CNAME .
 *.elektro-meisner.com CNAME .
-elektro-rabatt.com CNAME .
-*.elektro-rabatt.com CNAME .
 elektro-rock.com CNAME .
 *.elektro-rock.com CNAME .
 elektro-stern.com CNAME .
@@ -6024,8 +6006,6 @@ eliostrategy.com CNAME .
 *.eliostrategy.com CNAME .
 elipinks.com CNAME .
 *.elipinks.com CNAME .
-elite-flows.com CNAME .
-*.elite-flows.com CNAME .
 eliteai-t.com CNAME .
 *.eliteai-t.com CNAME .
 elitepie.com CNAME .
@@ -6034,8 +6014,6 @@ elitesafetrading.com CNAME .
 *.elitesafetrading.com CNAME .
 elitestayzio2u.com CNAME .
 *.elitestayzio2u.com CNAME .
-elizazara.com CNAME .
-*.elizazara.com CNAME .
 ellada-farmakeio.com CNAME .
 *.ellada-farmakeio.com CNAME .
 ellanorahamburg.com CNAME .
@@ -6174,8 +6152,6 @@ equivalenh.com CNAME .
 *.equivalenh.com CNAME .
 equivalenu.com CNAME .
 *.equivalenu.com CNAME .
-eradkultur.com CNAME .
-*.eradkultur.com CNAME .
 erate.com CNAME .
 *.erate.com CNAME .
 ereka-versand.com CNAME .
@@ -6186,8 +6162,6 @@ erektionspillen.com CNAME .
 *.erektionspillen.com CNAME .
 ergobackpacks.com CNAME .
 *.ergobackpacks.com CNAME .
-ergrolabrantnerkg.com CNAME .
-*.ergrolabrantnerkg.com CNAME .
 erinnersegel.com CNAME .
 *.erinnersegel.com CNAME .
 erleseneweine24.com CNAME .
@@ -6758,8 +6732,6 @@ ferlinwaffen.com CNAME .
 *.ferlinwaffen.com CNAME .
 fermonnvertrieb.com CNAME .
 *.fermonnvertrieb.com CNAME .
-fernandesequipamentos.com CNAME .
-*.fernandesequipamentos.com CNAME .
 ferntrailcollective.com CNAME .
 *.ferntrailcollective.com CNAME .
 fernwehcampingde.com CNAME .
@@ -6812,8 +6784,6 @@ figurinestoys.com CNAME .
 *.figurinestoys.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
-fillamoda.com CNAME .
-*.fillamoda.com CNAME .
 fillethumn.com CNAME .
 *.fillethumn.com CNAME .
 filloutlet.com CNAME .
@@ -6938,10 +6908,6 @@ fitnessstilcom.com CNAME .
 *.fitnessstilcom.com CNAME .
 fitouthometool.com CNAME .
 *.fitouthometool.com CNAME .
-fitstancic.com CNAME .
-*.fitstancic.com CNAME .
-fitstoredeal.com CNAME .
-*.fitstoredeal.com CNAME .
 fittingdiscount.com CNAME .
 *.fittingdiscount.com CNAME .
 five-media011.com CNAME .
@@ -7242,8 +7208,6 @@ fullzcash.com CNAME .
 *.fullzcash.com CNAME .
 fundgoxpro-solution.com CNAME .
 *.fundgoxpro-solution.com CNAME .
-fundgoxprosolution.com CNAME .
-*.fundgoxprosolution.com CNAME .
 fr.fundiza.com CNAME .
 *.fr.fundiza.com CNAME .
 funfiy.com CNAME .
@@ -7564,8 +7528,6 @@ geoxsouthafrica.com CNAME .
 *.geoxsouthafrica.com CNAME .
 geoxsrbija.com CNAME .
 *.geoxsrbija.com CNAME .
-geoxsuomi.com CNAME .
-*.geoxsuomi.com CNAME .
 geoxuk.com CNAME .
 *.geoxuk.com CNAME .
 geoxuruguay.com CNAME .
@@ -7864,8 +7826,6 @@ golden-re.com CNAME .
 *.golden-re.com CNAME .
 goldenbayboutiques.com CNAME .
 *.goldenbayboutiques.com CNAME .
-fb.goldengoosefan.com CNAME .
-*.fb.goldengoosefan.com CNAME .
 goldenngoosee.com CNAME .
 *.goldenngoosee.com CNAME .
 goldenpassmedia.com CNAME .
@@ -9870,8 +9830,6 @@ klempnerwerkzeug.com CNAME .
 *.klempnerwerkzeug.com CNAME .
 kley-kanzlei.com CNAME .
 *.kley-kanzlei.com CNAME .
-klimakaelteprofi.com CNAME .
-*.klimakaelteprofi.com CNAME .
 klimmotorrad.com CNAME .
 *.klimmotorrad.com CNAME .
 klingerdirndl.com CNAME .
@@ -10198,6 +10156,8 @@ lebensartikel.com CNAME .
 *.lebensartikel.com CNAME .
 lebensmittelgeschaft.com CNAME .
 *.lebensmittelgeschaft.com CNAME .
+lebensmittelgeschafte.com CNAME .
+*.lebensmittelgeschafte.com CNAME .
 lebensmitteltime.com CNAME .
 *.lebensmitteltime.com CNAME .
 lebenwertebauen.com CNAME .
@@ -19994,8 +19954,6 @@ elisaluna-handel24.de CNAME .
 *.elisaluna-handel24.de CNAME .
 elise-schmuck.de CNAME .
 *.elise-schmuck.de CNAME .
-ella-boutique.de CNAME .
-*.ella-boutique.de CNAME .
 ellabelle.de CNAME .
 *.ellabelle.de CNAME .
 ellameyer.de CNAME .
@@ -20022,16 +19980,12 @@ elureea.de CNAME .
 *.elureea.de CNAME .
 elwomis.de CNAME .
 *.elwomis.de CNAME .
-emba24.de CNAME .
-*.emba24.de CNAME .
 embrellar.de CNAME .
 *.embrellar.de CNAME .
 emiliameyer.de CNAME .
 *.emiliameyer.de CNAME .
 emilyedwards.de CNAME .
 *.emilyedwards.de CNAME .
-emma-keller.de CNAME .
-*.emma-keller.de CNAME .
 emmalove.de CNAME .
 *.emmalove.de CNAME .
 emmaschneider.de CNAME .
@@ -20282,8 +20236,6 @@ fembeck-finanzen.de CNAME .
 *.fembeck-finanzen.de CNAME .
 femmefrei.de CNAME .
 *.femmefrei.de CNAME .
-femmehaus.de CNAME .
-*.femmehaus.de CNAME .
 fenla-berlin.de CNAME .
 *.fenla-berlin.de CNAME .
 fenna-muller.de CNAME .
@@ -20340,8 +20292,6 @@ finarixisx.de CNAME .
 *.finarixisx.de CNAME .
 finasport.de CNAME .
 *.finasport.de CNAME .
-finaxanlage.de CNAME .
-*.finaxanlage.de CNAME .
 findedeinrad.de CNAME .
 *.findedeinrad.de CNAME .
 finders-cafe.de CNAME .
@@ -20528,10 +20478,6 @@ gala-waldbau.de CNAME .
 *.gala-waldbau.de CNAME .
 galandu.de CNAME .
 *.galandu.de CNAME .
-galaxy-handel.de CNAME .
-*.galaxy-handel.de CNAME .
-galeria-bergmann.de CNAME .
-*.galeria-bergmann.de CNAME .
 galerie-kaufhaus.de CNAME .
 *.galerie-kaufhaus.de CNAME .
 galerieoswald.de CNAME .
@@ -26180,8 +26126,6 @@ europharmacy.net CNAME .
 *.europharmacy.net CNAME .
 exner-kollegen.net CNAME .
 *.exner-kollegen.net CNAME .
-exventor.net CNAME .
-*.exventor.net CNAME .
 familiarm.net CNAME .
 *.familiarm.net CNAME .
 familo.net CNAME .
@@ -26236,8 +26180,6 @@ gforesuomi.net CNAME .
 *.gforesuomi.net CNAME .
 glaciva.net CNAME .
 *.glaciva.net CNAME .
-gluco-slim.net CNAME .
-*.gluco-slim.net CNAME .
 gmzglobal.net CNAME .
 *.gmzglobal.net CNAME .
 goandfind.net CNAME .
@@ -27490,8 +27432,6 @@ empulashopeu.shop CNAME .
 *.empulashopeu.shop CNAME .
 engelbert.shop CNAME .
 *.engelbert.shop CNAME .
-eponahorsefeeddeava.shop CNAME .
-*.eponahorsefeeddeava.shop CNAME .
 etrona.shop CNAME .
 *.etrona.shop CNAME .
 eu-venum.shop CNAME .
@@ -28192,8 +28132,6 @@ shopkokoro.shop CNAME .
 *.shopkokoro.shop CNAME .
 shoplostfounde.shop CNAME .
 *.shoplostfounde.shop CNAME .
-shopsgogo.shop CNAME .
-*.shopsgogo.shop CNAME .
 sipsbyde.shop CNAME .
 *.sipsbyde.shop CNAME .
 skatedeluxesale.shop CNAME .
@@ -29162,8 +29100,6 @@ degussa.website CNAME .
 *.degussa.website CNAME .
 deutschlandticket.website CNAME .
 *.deutschlandticket.website CNAME .
-goldira.wiki CNAME .
-*.goldira.wiki CNAME .
 topjobs.wiki CNAME .
 *.topjobs.wiki CNAME .
 karcher.work CNAME .

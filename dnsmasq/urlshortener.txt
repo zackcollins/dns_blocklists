@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 07:35 UTC
-# Version: 2026.0417.0735.02
+# Last modified: 17 Apr 2026 16:53 UTC
+# Version: 2026.0417.1653.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10052
+# Number of entries: 10050
 #
 local=/0.gp/
 local=/00m.in/
@@ -2612,7 +2612,6 @@ local=/eresear.ch/
 local=/ericadams.link/
 local=/erikarydberghall.com/
 local=/eru2earn.com/
-local=/eru789.com/
 local=/erw.cz/
 local=/es.pn/
 local=/esa.my/
@@ -2692,7 +2691,6 @@ local=/f24.link/
 local=/f3.social/
 local=/f44.link/
 local=/f4d.uk/
-local=/f5i.org/
 local=/f5url.com/
 local=/f5yo.com/
 local=/f6x.cn/
