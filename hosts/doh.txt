@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 16:51 UTC
-# Version: 2026.0417.1651.40
+# Last modified: 18 Apr 2026 09:44 UTC
+# Version: 2026.0418.0944.39
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3944
+# Number of entries: 3941
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2061,8 +2061,6 @@
 0.0.0.0 ad.imblien.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
-0.0.0.0 immadnez7.ru
-0.0.0.0 www.immadnez7.ru
 0.0.0.0 dns.immanuelschaffer.de
 0.0.0.0 doh.immerda.ch
 0.0.0.0 http-dns.imoim.net
@@ -2323,7 +2321,6 @@
 0.0.0.0 2024.laijy.top
 0.0.0.0 adguard.lamhoangtung.space
 0.0.0.0 landerbrauver.ru
-0.0.0.0 ads-ch.landgame.net
 0.0.0.0 x.laoban.fun
 0.0.0.0 mx1.laoxiao789.com
 0.0.0.0 larkin.wang

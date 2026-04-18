@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 16:53 UTC
-# Version: 2026.0417.1653.16
+# Last modified: 18 Apr 2026 08:06 UTC
+# Version: 2026.0418.0806.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10050
+# Number of entries: 10042
 #
 local=/0.gp/
 local=/00m.in/
@@ -3271,7 +3271,6 @@ local=/gtmx.co/
 local=/gtne.ws/
 local=/gtnr.it/
 local=/gtrv.info/
-local=/gudang.me/
 local=/guelist.com/
 local=/gurl.pro/
 local=/gurl.to/
@@ -3774,9 +3773,6 @@ local=/isols.co/
 local=/istel.co/
 local=/isterratrk.com/
 local=/istincy.com/
-local=/videy.isuaceh.com/
-local=/videyfour.isuaceh.com/
-local=/videytwo.isuaceh.com/
 local=/isurl.cc/
 local=/isurt.com/
 local=/isw.pub/
@@ -3880,7 +3876,6 @@ local=/jepebanget.xyz/
 local=/jeso.life/
 local=/jetzt.work/
 local=/jevilink.com/
-local=/jewhate.info/
 local=/jeya.li/
 local=/jh7.uk/
 local=/jhu.li/
@@ -4034,7 +4029,6 @@ local=/skif-com.kiev.ua/
 local=/kilat.ink/
 local=/kilat.io/
 local=/kimmel.trade/
-local=/kingplate.lol/
 local=/kings.tn/
 local=/kingurl.xyz/
 local=/kinky-pipes.com/
@@ -4481,7 +4475,6 @@ local=/linkjet.net/
 local=/linkjitu.site/
 local=/linkjoy.io/
 local=/linkjoy.org/
-local=/linkjp.org/
 local=/linkjust.com/
 local=/linkk.ing/
 local=/linkkece.com/
@@ -4853,7 +4846,6 @@ local=/go.ltdo.org/
 local=/news.ltdo.org/
 local=/vote.ltdo.org/
 local=/ltkiss.cc/
-local=/ltl.bio/
 local=/lttr.ai/
 local=/go.lu-h.de/
 local=/lua.sh/

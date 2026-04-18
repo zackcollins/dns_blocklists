@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 07:18 UTC
-# Version: 2026.0417.0718.57
+# Last modified: 18 Apr 2026 07:50 UTC
+# Version: 2026.0418.0750.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2117
+# Number of entries: 2121
 #
 1-aclk.net
 1aurl.io
@@ -435,6 +435,7 @@ t.clickwise.net
 tracker.clixtell.com
 clkdms.com
 trk.clptrk.com
+cmail19.com
 readdle.cmail20.com
 aax-eu.amazon.co.uk
 aax-eu.amazon.co.za
@@ -760,6 +761,7 @@ suite10-cf.emarsys.net
 suite11.emarsys.net
 suite11-cf.emarsys.net
 suite12.emarsys.net
+suite14.emarsys.net
 suite15.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
@@ -1119,6 +1121,7 @@ sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26609264.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
+27001291.sites.hscoscdn-eu1.net
 27031067.sites.hscoscdn-eu1.net
 27090143.sites.hscoscdn-eu1.net
 27102898.sites.hscoscdn-eu1.net
@@ -1746,6 +1749,7 @@ r5siqu4ab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6hquldab.cc.rs6.net
 r6lccqnab.cc.rs6.net
+r6msg8hbb.cc.rs6.net
 r7avxrcab.cc.rs6.net
 r7uonsdab.cc.rs6.net
 r7wfv6abb.cc.rs6.net

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 16:51 UTC
-# Version: 2026.0417.1651.40
+# Last modified: 18 Apr 2026 09:44 UTC
+# Version: 2026.0418.0944.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3482
+# Number of entries: 3480
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1762,7 +1762,6 @@ local=/ilmxs.com/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
-local=/immadnez7.ru/
 local=/dns.immanuelschaffer.de/
 local=/doh.immerda.ch/
 local=/http-dns.imoim.net/
@@ -2008,7 +2007,6 @@ local=/cdns.lagzerotm.com/
 local=/2024.laijy.top/
 local=/adguard.lamhoangtung.space/
 local=/landerbrauver.ru/
-local=/ads-ch.landgame.net/
 local=/x.laoban.fun/
 local=/mx1.laoxiao789.com/
 local=/larkin.wang/

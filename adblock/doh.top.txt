@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Apr 2026 16:52 UTC
-! Version: 2026.0417.1652.11
+! Last modified: 18 Apr 2026 09:45 UTC
+! Version: 2026.0418.0945.10
 ! Syntax: AdBlock
-! Number of entries: 3476
+! Number of entries: 3475
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1758,7 +1758,6 @@
 ||ad.imblien.com^
 ||noads.imbuffering.com^
 ||dns.imchristian.de^
-||immadnez7.ru^
 ||dns.immanuelschaffer.de^
 ||doh.immerda.ch^
 ||http-dns.imoim.net^
@@ -1772,6 +1771,7 @@
 ||adblock.indianets.net^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
+||dns.infosec.xyz^
 ||doh.infracell.net^
 ||adguard.infrapod.nl^
 ||adguard01.infrapod.nl^
@@ -2003,7 +2003,6 @@
 ||2024.laijy.top^
 ||adguard.lamhoangtung.space^
 ||landerbrauver.ru^
-||ads-ch.landgame.net^
 ||x.laoban.fun^
 ||mx1.laoxiao789.com^
 ||larkin.wang^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776444660 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776505440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 16:51 UTC
-; Version: 2026.0417.1651.40
+; Last modified: 18 Apr 2026 09:44 UTC
+; Version: 2026.0418.0944.39
 ; Syntax: RPZ
-; Number of entries: 6964
+; Number of entries: 6960
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -4093,8 +4093,6 @@ adguard.kasbot.net CNAME .
 *.adguard.kasbot.net CNAME .
 guard.keiper.net CNAME .
 *.guard.keiper.net CNAME .
-ads-ch.landgame.net CNAME .
-*.ads-ch.landgame.net CNAME .
 dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
 adguard1.leadmon.net CNAME .
@@ -5821,8 +5819,6 @@ dns.iamninja.ru CNAME .
 *.dns.iamninja.ru CNAME .
 sec.iamninja.ru CNAME .
 *.sec.iamninja.ru CNAME .
-immadnez7.ru CNAME .
-*.immadnez7.ru CNAME .
 itlikehell.ru CNAME .
 *.itlikehell.ru CNAME .
 fvpn.jarvishome.ru CNAME .

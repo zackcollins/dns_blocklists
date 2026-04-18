@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 07:18 UTC
-# Version: 2026.0417.0718.57
+# Last modified: 18 Apr 2026 07:50 UTC
+# Version: 2026.0418.0750.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 1510
+# Number of entries: 1513
 #
 1-aclk.net
 1aurl.io
@@ -254,6 +254,7 @@ t.clickwise.net
 tracker.clixtell.com
 clkdms.com
 trk.clptrk.com
+cmail19.com
 readdle.cmail20.com
 aax-eu.amazon.co.uk
 aax-eu.amazon.co.za
@@ -427,6 +428,7 @@ suite10-cf.emarsys.net
 suite11.emarsys.net
 suite11-cf.emarsys.net
 suite12.emarsys.net
+suite14.emarsys.net
 suite15.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
@@ -1168,6 +1170,7 @@ r5siqu4ab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6hquldab.cc.rs6.net
 r6lccqnab.cc.rs6.net
+r6msg8hbb.cc.rs6.net
 r7avxrcab.cc.rs6.net
 r7uonsdab.cc.rs6.net
 r7wfv6abb.cc.rs6.net

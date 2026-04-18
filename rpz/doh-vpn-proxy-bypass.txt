@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776444720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776505500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 16:52 UTC
-; Version: 2026.0417.1652.24
+; Last modified: 18 Apr 2026 09:45 UTC
+; Version: 2026.0418.0945.25
 ; Syntax: RPZ
-; Number of entries: 36408
+; Number of entries: 36360
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1237,12 +1237,6 @@ doh.buzz CNAME .
 *.doh.buzz CNAME .
 gyattmath.buzz CNAME .
 *.gyattmath.buzz CNAME .
-hardenglish.buzz CNAME .
-*.hardenglish.buzz CNAME .
-hardmath.buzz CNAME .
-*.hardmath.buzz CNAME .
-ilikelittlekids.buzz CNAME .
-*.ilikelittlekids.buzz CNAME .
 ilovelittlekids.buzz CNAME .
 *.ilovelittlekids.buzz CNAME .
 latiao.buzz CNAME .
@@ -1347,8 +1341,6 @@ road.halfwaythere.ca CNAME .
 *.road.halfwaythere.ca CNAME .
 utopia.halfwaythere.ca CNAME .
 *.utopia.halfwaythere.ca CNAME .
-vcsa.happypc.ca CNAME .
-*.vcsa.happypc.ca CNAME .
 despite.icantec.ca CNAME .
 *.despite.icantec.ca CNAME .
 edu.icantec.ca CNAME .
@@ -9663,8 +9655,6 @@ ilovebillclinton.infotechnology.com CNAME .
 *.ilovebillclinton.infotechnology.com CNAME .
 k-12mathhelp.infotechnology.com CNAME .
 *.k-12mathhelp.infotechnology.com CNAME .
-ketteringuniversity.infotechnology.com CNAME .
-*.ketteringuniversity.infotechnology.com CNAME .
 learn.infotechnology.com CNAME .
 *.learn.infotechnology.com CNAME .
 learnaboutfish.infotechnology.com CNAME .
@@ -9675,8 +9665,6 @@ linksktech.infotechnology.com CNAME .
 *.linksktech.infotechnology.com CNAME .
 luke-anti-doesnt-scrolls.infotechnology.com CNAME .
 *.luke-anti-doesnt-scrolls.infotechnology.com CNAME .
-pcandlaptops.infotechnology.com CNAME .
-*.pcandlaptops.infotechnology.com CNAME .
 playernation.infotechnology.com CNAME .
 *.playernation.infotechnology.com CNAME .
 quasarsktech.infotechnology.com CNAME .
@@ -9689,10 +9677,6 @@ sktechstudy.infotechnology.com CNAME .
 *.sktechstudy.infotechnology.com CNAME .
 sktechsubscribe.infotechnology.com CNAME .
 *.sktechsubscribe.infotechnology.com CNAME .
-stanfordtechnologydegrees.infotechnology.com CNAME .
-*.stanfordtechnologydegrees.infotechnology.com CNAME .
-studyhalls.infotechnology.com CNAME .
-*.studyhalls.infotechnology.com CNAME .
 subscrbersktech.infotechnology.com CNAME .
 *.subscrbersktech.infotechnology.com CNAME .
 subscribetechsk.infotechnology.com CNAME .
@@ -9715,8 +9699,6 @@ techskquasar.infotechnology.com CNAME .
 *.techskquasar.infotechnology.com CNAME .
 thatsrightlmyperfectvictory.infotechnology.com CNAME .
 *.thatsrightlmyperfectvictory.infotechnology.com CNAME .
-thereapper.infotechnology.com CNAME .
-*.thereapper.infotechnology.com CNAME .
 tuffle.infotechnology.com CNAME .
 *.tuffle.infotechnology.com CNAME .
 uhidk.infotechnology.com CNAME .
@@ -9749,8 +9731,6 @@ brain.innovativegovernance.com CNAME .
 *.brain.innovativegovernance.com CNAME .
 innovativelearninghub.com CNAME .
 *.innovativelearninghub.com CNAME .
-courses.bolt.installgentoo.com CNAME .
-*.courses.bolt.installgentoo.com CNAME .
 www.securly.com.installgentoo.com CNAME .
 *.www.securly.com.installgentoo.com CNAME .
 sigma.installgentoo.com CNAME .
@@ -10089,14 +10069,8 @@ jnzerpgy.com CNAME .
 *.jnzerpgy.com CNAME .
 jobjapan.com CNAME .
 *.jobjapan.com CNAME .
-civics.jobvn.com CNAME .
-*.civics.jobvn.com CNAME .
 doomsdayclock.jobvn.com CNAME .
 *.doomsdayclock.jobvn.com CNAME .
-employment.jobvn.com CNAME .
-*.employment.jobvn.com CNAME .
-english.jobvn.com CNAME .
-*.english.jobvn.com CNAME .
 coolboy1231.portfolio.jobvn.com CNAME .
 *.coolboy1231.portfolio.jobvn.com CNAME .
 home.jobytan.com CNAME .
@@ -10151,8 +10125,6 @@ forschoolcuzgoguardianisbad.jumpingcrab.com CNAME .
 *.forschoolcuzgoguardianisbad.jumpingcrab.com CNAME .
 galacticfederation.jumpingcrab.com CNAME .
 *.galacticfederation.jumpingcrab.com CNAME .
-hhsboi67.jumpingcrab.com CNAME .
-*.hhsboi67.jumpingcrab.com CNAME .
 homeworkhelper6741.jumpingcrab.com CNAME .
 *.homeworkhelper6741.jumpingcrab.com CNAME .
 howtodomaths.jumpingcrab.com CNAME .
@@ -10273,8 +10245,6 @@ adguard.kalyanmudumby.com CNAME .
 *.adguard.kalyanmudumby.com CNAME .
 dns.kamilszczepanski.com CNAME .
 *.dns.kamilszczepanski.com CNAME .
-7bp8jfqq4trlaq2l3y6bd8bncwnnriv.pqvn9bsli6p.karyabesijaya.com CNAME .
-*.7bp8jfqq4trlaq2l3y6bd8bncwnnriv.pqvn9bsli6p.karyabesijaya.com CNAME .
 katakanachart.com CNAME .
 *.katakanachart.com CNAME .
 kayqyahz.com CNAME .
@@ -10317,8 +10287,6 @@ kettleextend.com CNAME .
 *.kettleextend.com CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
-academy.keybusinessconnection.com CNAME .
-*.academy.keybusinessconnection.com CNAME .
 algenisfentfolds.keybusinessconnection.com CNAME .
 *.algenisfentfolds.keybusinessconnection.com CNAME .
 anthonycordova.keybusinessconnection.com CNAME .
@@ -10451,8 +10419,6 @@ kuailian-apps.com CNAME .
 *.kuailian-apps.com CNAME .
 kuailian-chine.com CNAME .
 *.kuailian-chine.com CNAME .
-kuailian-cn.com CNAME .
-*.kuailian-cn.com CNAME .
 kuailian-hk.com CNAME .
 *.kuailian-hk.com CNAME .
 kuailian-inst.com CNAME .
@@ -10751,8 +10717,6 @@ letsft.com CNAME .
 *.letsft.com CNAME .
 letsiesvpn.com CNAME .
 *.letsiesvpn.com CNAME .
-letsilvpn.com CNAME .
-*.letsilvpn.com CNAME .
 letsjy.com CNAME .
 *.letsjy.com CNAME .
 letslian.com CNAME .
@@ -19271,8 +19235,6 @@ not-masons-games.work.gd CNAME .
 *.not-masons-games.work.gd CNAME .
 fern.r4ash.work.gd CNAME .
 *.fern.r4ash.work.gd CNAME .
-67getintoitkendrick.info.gf CNAME .
-*.67getintoitkendrick.info.gf CNAME .
 baptism.info.gf CNAME .
 *.baptism.info.gf CNAME .
 chddschoolinfo.info.gf CNAME .
@@ -26057,8 +26019,6 @@ kuaiqulian.net CNAME .
 *.kuaiqulian.net CNAME .
 l-gayte.net CNAME .
 *.l-gayte.net CNAME .
-ads-ch.landgame.net CNAME .
-*.ads-ch.landgame.net CNAME .
 dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
 latiaocloud.net CNAME .
@@ -27909,8 +27869,6 @@ ie5qtzarpqymn.online CNAME .
 *.ie5qtzarpqymn.online CNAME .
 igviwppgoysa.online CNAME .
 *.igviwppgoysa.online CNAME .
-ikzmi9wf5.online CNAME .
-*.ikzmi9wf5.online CNAME .
 ilhoyml8z94bkq5h87sgmh.online CNAME .
 *.ilhoyml8z94bkq5h87sgmh.online CNAME .
 infinitecampus.online CNAME .
@@ -31145,8 +31103,6 @@ raiseyouryayaya.katan.ro CNAME .
 *.raiseyouryayaya.katan.ro CNAME .
 learnfrench.ktx.ro CNAME .
 *.learnfrench.ktx.ro CNAME .
-deathligma.lucianmandru.ro CNAME .
-*.deathligma.lucianmandru.ro CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 selenitenewsoutlet99.com.media-sud.ro CNAME .
@@ -31615,8 +31571,6 @@ dns.iamninja.ru CNAME .
 *.dns.iamninja.ru CNAME .
 sec.iamninja.ru CNAME .
 *.sec.iamninja.ru CNAME .
-immadnez7.ru CNAME .
-*.immadnez7.ru CNAME .
 itlikehell.ru CNAME .
 *.itlikehell.ru CNAME .
 jalmira.ru CNAME .
@@ -32785,6 +32739,8 @@ rocketnews.site CNAME .
 *.rocketnews.site CNAME .
 schoolisfun.site CNAME .
 *.schoolisfun.site CNAME .
+securlypro.site CNAME .
+*.securlypro.site CNAME .
 s1.s2.shahramv1.site CNAME .
 *.s1.s2.shahramv1.site CNAME .
 snapclass.site CNAME .
@@ -35599,8 +35555,6 @@ gvvip1.xyz CNAME .
 *.gvvip1.xyz CNAME .
 hackkcah.xyz CNAME .
 *.hackkcah.xyz CNAME .
-hahy1ieg.xyz CNAME .
-*.hahy1ieg.xyz CNAME .
 haltrix.xyz CNAME .
 *.haltrix.xyz CNAME .
 dns.haoxuan.xyz CNAME .
@@ -35767,8 +35721,6 @@ longss.xyz CNAME .
 *.longss.xyz CNAME .
 lonmq6.xyz CNAME .
 *.lonmq6.xyz CNAME .
-looquae8.xyz CNAME .
-*.looquae8.xyz CNAME .
 lukscasino-479-tr.xyz CNAME .
 *.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .

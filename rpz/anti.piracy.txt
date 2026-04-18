@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776444780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776505080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 16:53 UTC
-; Version: 2026.0417.1653.53
+; Last modified: 18 Apr 2026 09:38 UTC
+; Version: 2026.0418.0938.40
 ; Syntax: RPZ
-; Number of entries: 24792
+; Number of entries: 24762
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1234,8 +1234,6 @@ streamingcommunity.broker CNAME .
 *.streamingcommunity.broker CNAME .
 streamingcommunityz.broker CNAME .
 *.streamingcommunityz.broker CNAME .
-hdmovie2.build CNAME .
-*.hdmovie2.build CNAME .
 moviesmod.build CNAME .
 *.moviesmod.build CNAME .
 vegamovies.build CNAME .
@@ -2610,8 +2608,6 @@ gowatchseries.co CNAME .
 *.gowatchseries.co CNAME .
 tracker.hdarea.co CNAME .
 *.tracker.hdarea.co CNAME .
-hdmovie2.co CNAME .
-*.hdmovie2.co CNAME .
 i-b.co CNAME .
 *.i-b.co CNAME .
 illimitestreaming.co CNAME .
@@ -2836,8 +2832,6 @@ vegamovies.codes CNAME .
 *.vegamovies.codes CNAME .
 altadefinizione.coffee CNAME .
 *.altadefinizione.coffee CNAME .
-hdmovie2.coffee CNAME .
-*.hdmovie2.coffee CNAME .
 streamingcommunityz.coffee CNAME .
 *.streamingcommunityz.coffee CNAME .
 eurostreaming.college CNAME .
@@ -5618,8 +5612,6 @@ join4films.com CNAME .
 *.join4films.com CNAME .
 jokerlivestream.com CNAME .
 *.jokerlivestream.com CNAME .
-tracker.jonaslsa.com CNAME .
-*.tracker.jonaslsa.com CNAME .
 joyra380som.com CNAME .
 *.joyra380som.com CNAME .
 jpxm3u8.com CNAME .
@@ -5732,8 +5724,6 @@ kinoxx.com CNAME .
 *.kinoxx.com CNAME .
 kitsrun.com CNAME .
 *.kitsrun.com CNAME .
-kkooralives.com CNAME .
-*.kkooralives.com CNAME .
 kludd.com CNAME .
 *.kludd.com CNAME .
 kodiapps.com CNAME .
@@ -8856,8 +8846,6 @@ hdfilme.cool CNAME .
 *.hdfilme.cool CNAME .
 hdmovie2.cool CNAME .
 *.hdmovie2.cool CNAME .
-hdstream.cool CNAME .
-*.hdstream.cool CNAME .
 kinox.cool CNAME .
 *.kinox.cool CNAME .
 moviesmod.cool CNAME .
@@ -9272,8 +9260,6 @@ static.202.35.76.144.clients.your-server.de CNAME .
 *.static.202.35.76.144.clients.your-server.de CNAME .
 static.54.161.216.95.clients.your-server.de CNAME .
 *.static.54.161.216.95.clients.your-server.de CNAME .
-hdmovie2.deal CNAME .
-*.hdmovie2.deal CNAME .
 filmyfly.deals CNAME .
 *.filmyfly.deals CNAME .
 hdfilme.deals CNAME .
@@ -9626,8 +9612,6 @@ givemereddit.eu CNAME .
 *.givemereddit.eu CNAME .
 gostream.eu CNAME .
 *.gostream.eu CNAME .
-guardaserie.eu CNAME .
-*.guardaserie.eu CNAME .
 hdme.eu CNAME .
 *.hdme.eu CNAME .
 hdonline.eu CNAME .
@@ -10254,8 +10238,6 @@ hdmovie2.fun CNAME .
 *.hdmovie2.fun CNAME .
 isohunt.fun CNAME .
 *.isohunt.fun CNAME .
-italiafilm.fun CNAME .
-*.italiafilm.fun CNAME .
 kickass2.fun CNAME .
 *.kickass2.fun CNAME .
 kinox.fun CNAME .
@@ -10498,8 +10480,6 @@ filmapik.golf CNAME .
 *.filmapik.golf CNAME .
 flemmix.golf CNAME .
 *.flemmix.golf CNAME .
-hdmovie2.golf CNAME .
-*.hdmovie2.golf CNAME .
 ilgeniodellostreaming.golf CNAME .
 *.ilgeniodellostreaming.golf CNAME .
 seriesflix.golf CNAME .
@@ -14044,6 +14024,8 @@ bossbd.net CNAME .
 *.bossbd.net CNAME .
 coolztorrentz.bounceme.net CNAME .
 *.coolztorrentz.bounceme.net CNAME .
+torrent.bowed.net CNAME .
+*.torrent.bowed.net CNAME .
 boxfilmes.net CNAME .
 *.boxfilmes.net CNAME .
 broadcasthe.net CNAME .
@@ -15802,8 +15784,6 @@ cb01.network CNAME .
 *.cb01.network CNAME .
 filmapik.network CNAME .
 *.filmapik.network CNAME .
-hdmovie2.network CNAME .
-*.hdmovie2.network CNAME .
 ifra.network CNAME .
 *.ifra.network CNAME .
 multimovies.network CNAME .
@@ -17158,8 +17138,6 @@ hqsource.org CNAME .
 *.hqsource.org CNAME .
 hungercity.org CNAME .
 *.hungercity.org CNAME .
-hurawatch.org CNAME .
-*.hurawatch.org CNAME .
 ianimes.org CNAME .
 *.ianimes.org CNAME .
 iddl.org CNAME .
@@ -21164,8 +21142,6 @@ goldesel.sx CNAME .
 *.goldesel.sx CNAME .
 gomovies.sx CNAME .
 *.gomovies.sx CNAME .
-hianime.sx CNAME .
-*.hianime.sx CNAME .
 himovies.sx CNAME .
 *.himovies.sx CNAME .
 ivesoccer.sx CNAME .
@@ -21624,8 +21600,6 @@ hindilinks4u.to CNAME .
 *.hindilinks4u.to CNAME .
 holaanime.to CNAME .
 *.holaanime.to CNAME .
-housemovie.to CNAME .
-*.housemovie.to CNAME .
 hs-scene.to CNAME .
 *.hs-scene.to CNAME .
 huhu.to CNAME .
@@ -22168,8 +22142,6 @@ hdmovie20.top CNAME .
 *.hdmovie20.top CNAME .
 tracker.hdpost.top CNAME .
 *.tracker.hdpost.top CNAME .
-hesgoals.top CNAME .
-*.hesgoals.top CNAME .
 highteahop.top CNAME .
 *.highteahop.top CNAME .
 idope.top CNAME .
@@ -22198,8 +22170,6 @@ kkiste-io.top CNAME .
 *.kkiste-io.top CNAME .
 tracker.kmzs123.top CNAME .
 *.tracker.kmzs123.top CNAME .
-linkr.top CNAME .
-*.linkr.top CNAME .
 lordfilmbdd.top CNAME .
 *.lordfilmbdd.top CNAME .
 lordfilmjji.top CNAME .

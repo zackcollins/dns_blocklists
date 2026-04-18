@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 17:58 UTC
-# Version: 2026.0417.1758.14
+# Last modified: 18 Apr 2026 08:47 UTC
+# Version: 2026.0418.0847.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1203
+# Number of entries: 1202
 #
 local=/000a.de/
 local=/000space.com/
@@ -631,7 +631,6 @@ local=/healthyemployee.me/
 local=/hexe.in/
 local=/hilfe24h.de/
 local=/hinerava.com/
-local=/hkearth.xyz/
 local=/home.lc/
 local=/homemarker.com/
 local=/homepage.cx/

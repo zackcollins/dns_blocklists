@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776444780 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776499560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Apr 2026 16:53 UTC
-; Version: 2026.0417.1653.16
+; Last modified: 18 Apr 2026 08:06 UTC
+; Version: 2026.0418.0806.13
 ; Syntax: RPZ
-; Number of entries: 20100
+; Number of entries: 20084
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1087,8 +1087,6 @@ linksite.bio CNAME .
 *.linksite.bio CNAME .
 lnk.bio CNAME .
 *.lnk.bio CNAME .
-ltl.bio CNAME .
-*.ltl.bio CNAME .
 lynkme.bio CNAME .
 *.lynkme.bio CNAME .
 mable.bio CNAME .
@@ -4837,12 +4835,6 @@ isterratrk.com CNAME .
 *.isterratrk.com CNAME .
 istincy.com CNAME .
 *.istincy.com CNAME .
-videy.isuaceh.com CNAME .
-*.videy.isuaceh.com CNAME .
-videyfour.isuaceh.com CNAME .
-*.videyfour.isuaceh.com CNAME .
-videytwo.isuaceh.com CNAME .
-*.videytwo.isuaceh.com CNAME .
 isurt.com CNAME .
 *.isurt.com CNAME .
 iszify.com CNAME .
@@ -10485,8 +10477,6 @@ iplogger.info CNAME .
 *.iplogger.info CNAME .
 itdad.info CNAME .
 *.itdad.info CNAME .
-jewhate.info CNAME .
-*.jewhate.info CNAME .
 jhxpc.info CNAME .
 *.jhxpc.info CNAME .
 join-id.info CNAME .
@@ -13501,8 +13491,6 @@ idfk.lol CNAME .
 *.idfk.lol CNAME .
 indahnyaberbagi.lol CNAME .
 *.indahnyaberbagi.lol CNAME .
-kingplate.lol CNAME .
-*.kingplate.lol CNAME .
 linkme.lol CNAME .
 *.linkme.lol CNAME .
 luto.lol CNAME .
@@ -14145,8 +14133,6 @@ gourl.me CNAME .
 *.gourl.me CNAME .
 govhub.me CNAME .
 *.govhub.me CNAME .
-gudang.me CNAME .
-*.gudang.me CNAME .
 hblab.me CNAME .
 *.hblab.me CNAME .
 hbs.me CNAME .
@@ -16311,8 +16297,6 @@ linkgqq.org CNAME .
 *.linkgqq.org CNAME .
 linkjoy.org CNAME .
 *.linkjoy.org CNAME .
-linkjp.org CNAME .
-*.linkjp.org CNAME .
 linkshrink.org CNAME .
 *.linkshrink.org CNAME .
 linkvip88.org CNAME .
