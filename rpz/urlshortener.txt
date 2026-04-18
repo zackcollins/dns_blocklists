@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776499560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776531180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 08:06 UTC
-; Version: 2026.0418.0806.13
+; Last modified: 18 Apr 2026 16:53 UTC
+; Version: 2026.0418.1653.23
 ; Syntax: RPZ
-; Number of entries: 20084
+; Number of entries: 20062
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5749,8 +5749,6 @@ nynko.com CNAME .
 *.nynko.com CNAME .
 obblink.com CNAME .
 *.obblink.com CNAME .
-oblino.com CNAME .
-*.oblino.com CNAME .
 ocurto.com CNAME .
 *.ocurto.com CNAME .
 odinurl.com CNAME .
@@ -10137,8 +10135,6 @@ moonlinks.in CNAME .
 *.moonlinks.in CNAME .
 mrlink.in CNAME .
 *.mrlink.in CNAME .
-mrshelby.in CNAME .
-*.mrshelby.in CNAME .
 msfy.in CNAME .
 *.msfy.in CNAME .
 mxdisk.in CNAME .
@@ -12453,14 +12449,8 @@ mainaku.life CNAME .
 *.mainaku.life CNAME .
 monghaiba.life CNAME .
 *.monghaiba.life CNAME .
-monghaihai.life CNAME .
-*.monghaihai.life CNAME .
 monghainam.life CNAME .
 *.monghainam.life CNAME .
-mongmuoichin.life CNAME .
-*.mongmuoichin.life CNAME .
-mongmuoisau.life CNAME .
-*.mongmuoisau.life CNAME .
 mytbg.life CNAME .
 *.mytbg.life CNAME .
 nalo.life CNAME .
@@ -13363,12 +13353,6 @@ mmccwilson.live CNAME .
 *.mmccwilson.live CNAME .
 monghaibon.live CNAME .
 *.monghaibon.live CNAME .
-monghaimuoi.live CNAME .
-*.monghaimuoi.live CNAME .
-mongmuoibay.live CNAME .
-*.mongmuoibay.live CNAME .
-mongmuoitam.live CNAME .
-*.mongmuoitam.live CNAME .
 munchbet.live CNAME .
 *.munchbet.live CNAME .
 mysexychat.live CNAME .
@@ -14313,8 +14297,6 @@ m2g.me CNAME .
 *.m2g.me CNAME .
 mamikale.me CNAME .
 *.mamikale.me CNAME .
-mamskie.me CNAME .
-*.mamskie.me CNAME .
 mantapkalee.me CNAME .
 *.mantapkalee.me CNAME .
 marinecorp.me CNAME .
@@ -16895,8 +16877,6 @@ lowrihouston.pro CNAME .
 *.lowrihouston.pro CNAME .
 megalink.pro CNAME .
 *.megalink.pro CNAME .
-menangjp.pro CNAME .
-*.menangjp.pro CNAME .
 minilink.pro CNAME .
 *.minilink.pro CNAME .
 mysurveys.pro CNAME .
@@ -19973,8 +19953,6 @@ adlinkfly.mightyscripts.xyz CNAME .
 *.adlinkfly.mightyscripts.xyz CNAME .
 mightyurl.mightyscripts.xyz CNAME .
 *.mightyurl.mightyscripts.xyz CNAME .
-mipon.xyz CNAME .
-*.mipon.xyz CNAME .
 moreluck.xyz CNAME .
 *.moreluck.xyz CNAME .
 mtxt.xyz CNAME .

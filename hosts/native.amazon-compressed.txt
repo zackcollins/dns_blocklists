@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Apr 2026 17:01 UTC
-# Version: 2026.0417.1701.38
+# Last modified: 18 Apr 2026 17:01 UTC
+# Version: 2026.0418.1701.31
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
-# Number of entries: 75
+# Number of entries: 76
 #
 0.0.0.0 3px.axp.amazon-adsystem.com aan.amazon.co.jp aan.amazon.co.uk aan.amazon.com aan.amazon.de aan.amazon.es aan.amazon.fr aan.amazon.in aan.amazon.it
 0.0.0.0 aax-adx.ap-southeast.3px.axp.amazon-adsystem.com aax-adx.eu-west.3px.axp.amazon-adsystem.com aax-adx.us-east.3px.axp.amazon-adsystem.com aax-adx.us-west.3px.axp.amazon-adsystem.com aax-apse-dtb-mobile-events.amazon-adsystem.com aax-apse-dtb-mobile.amazon-adsystem.com aax-apse-dtb-web.amazon-adsystem.com aax-audio.amazon-adsystem.com aax-beta-us-east.axp.amazon-adsystem.com
@@ -80,8 +80,9 @@
 0.0.0.0 vaes-fe-preprod.amazon-adsystem.com vaes-fe.amazon-adsystem.com vaes-na-preprod.amazon-adsystem.com vaes-na.amazon-adsystem.com vaes.amazon-adsystem.amazon.com vaes.amazon-adsystem.com vfw-ap-gamma.amazon-adsystem.com vfw-ap.amazon-adsystem.com vfw-eu-gamma.amazon-adsystem.com
 0.0.0.0 vfw-eu.amazon-adsystem.com vfw-gamma.amazon-adsystem.com vfw-us-gamma.amazon-adsystem.com vfw-us-west-gamma.amazon-adsystem.com vfw-us-west.amazon-adsystem.com vfw-us.amazon-adsystem.com vfw.amazon-adsystem.com vfwm-us-west.amazon-adsystem.com vfwm-us.amazon-adsystem.com
 0.0.0.0 vfwm.amazon-adsystem.com vfws.amazon-adsystem.com video-ads.a2z.com video-player.aps.amazon-adsystem.com video.web.bid-na.ads.aps.amazon-adsystem.com vq-eu-west-1.amazon-adsystem.com vq-fe-us-west-2.amazon-adsystem.com vq-test-us-east-1.amazon-adsystem.com vq-us-east-1.amazon-adsystem.com
-0.0.0.0 vq-us-west-2.amazon-adsystem.com web-banner-event-cell8001.ads.aps.amazon-adsystem.com web-banner-event-cell8002.ads.aps.amazon-adsystem.com web-banner-event-cell8005.ads.aps.amazon-adsystem.com web-banner-event-cell8006.ads.aps.amazon-adsystem.com web-banner.ads.aps.amazon-adsystem.com web-cf-event-cell8003.ads.aps.amazon-adsystem.com web-cf-event-cell8004.ads.aps.amazon-adsystem.com web-video.ads.aps.amazon-adsystem.com
-0.0.0.0 web.ads.aps.amazon-adsystem.com web.ap-southeast.aps.axp.amazon-adsystem.com web.bid-na.ads.aps.amazon-adsystem.com web.eu-west.aps.axp.amazon-adsystem.com web.event-na.ads.aps.amazon-adsystem.com web.us-east.aps.axp.amazon-adsystem.com wetfs.global-1.telemetry.insights.video.a2z.com wetfs.global-2.telemetry.insights.video.a2z.com wetfs.global-3.telemetry.insights.video.a2z.com
-0.0.0.0 wms-eu.amazon-adsystem.com wms-eu.assoc-amazon.com wms-fe.amazon-adsystem.com wms-in.amazon-adsystem.com wms-na.amazon-adsystem.com wms-na.assoc-amazon.com wms.assoc-amazon.com ws-eu.amazon-adsystem.com ws-eu.assoc-amazon.com
-0.0.0.0 ws-fe.amazon-adsystem.com ws-fe.assoc-amazon.com ws-in.amazon-adsystem.com ws-na.amazon-adsystem.com ws-na.assoc-amazon.com ws.assoc-amazon.com www.assoc-amazon.ca www.assoc-amazon.com www.assoc-amazon.de
-0.0.0.0 www.assoc-amazon.es www.assoc-amazon.fr www.assoc-amazon.it www.assoc-amazon.jp www.paa-reporting-advertising.amazon z-eu.amazon-adsystem.com z-fe.amazon-adsystem.com z-in.amazon-adsystem.com z-na.amazon-adsystem.com
+0.0.0.0 vq-us-west-2.amazon-adsystem.com web-banner-event-cell8001.ads.aps.amazon-adsystem.com web-banner-event-cell8002.ads.aps.amazon-adsystem.com web-banner-event-cell8005.ads.aps.amazon-adsystem.com web-banner-event-cell8006.ads.aps.amazon-adsystem.com web-banner.ads.aps.amazon-adsystem.com web-cf-event-cell7001.ads.aps.amazon-adsystem.com web-cf-event-cell7002.ads.aps.amazon-adsystem.com web-cf-event-cell8003.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8004.ads.aps.amazon-adsystem.com web-video.ads.aps.amazon-adsystem.com web.ads.aps.amazon-adsystem.com web.ap-southeast.aps.axp.amazon-adsystem.com web.bid-na.ads.aps.amazon-adsystem.com web.eu-west.aps.axp.amazon-adsystem.com web.event-na.ads.aps.amazon-adsystem.com web.us-east.aps.axp.amazon-adsystem.com wetfs.global-1.telemetry.insights.video.a2z.com
+0.0.0.0 wetfs.global-2.telemetry.insights.video.a2z.com wetfs.global-3.telemetry.insights.video.a2z.com wms-eu.amazon-adsystem.com wms-eu.assoc-amazon.com wms-fe.amazon-adsystem.com wms-in.amazon-adsystem.com wms-na.amazon-adsystem.com wms-na.assoc-amazon.com wms.assoc-amazon.com
+0.0.0.0 ws-eu.amazon-adsystem.com ws-eu.assoc-amazon.com ws-fe.amazon-adsystem.com ws-fe.assoc-amazon.com ws-in.amazon-adsystem.com ws-na.amazon-adsystem.com ws-na.assoc-amazon.com ws.assoc-amazon.com www.assoc-amazon.ca
+0.0.0.0 www.assoc-amazon.com www.assoc-amazon.de www.assoc-amazon.es www.assoc-amazon.fr www.assoc-amazon.it www.assoc-amazon.jp www.paa-reporting-advertising.amazon z-eu.amazon-adsystem.com z-fe.amazon-adsystem.com
+0.0.0.0 z-in.amazon-adsystem.com z-na.amazon-adsystem.com 

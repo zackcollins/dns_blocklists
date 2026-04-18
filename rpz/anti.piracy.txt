@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776505080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776531180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 09:38 UTC
-; Version: 2026.0418.0938.40
+; Last modified: 18 Apr 2026 16:53 UTC
+; Version: 2026.0418.1653.54
 ; Syntax: RPZ
-; Number of entries: 24762
+; Number of entries: 24740
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -554,8 +554,6 @@ kkiste.autos CNAME .
 *.kkiste.autos CNAME .
 moviedokan.autos CNAME .
 *.moviedokan.autos CNAME .
-multimovies.autos CNAME .
-*.multimovies.autos CNAME .
 streamingcommunityz.autos CNAME .
 *.streamingcommunityz.autos CNAME .
 yts.autos CNAME .
@@ -894,8 +892,6 @@ filmpertutti.bio CNAME .
 *.filmpertutti.bio CNAME .
 megakino.bio CNAME .
 *.megakino.bio CNAME .
-moviesmod.bio CNAME .
-*.moviesmod.bio CNAME .
 pelisflix20.bio CNAME .
 *.pelisflix20.bio CNAME .
 seriesflix.bio CNAME .
@@ -992,8 +988,6 @@ megakino2.biz CNAME .
 *.megakino2.biz CNAME .
 mininova.biz CNAME .
 *.mininova.biz CNAME .
-moviedokan.biz CNAME .
-*.moviedokan.biz CNAME .
 moviesb4time.biz CNAME .
 *.moviesb4time.biz CNAME .
 moviexk.biz CNAME .
@@ -2396,8 +2390,6 @@ kinox.club CNAME .
 *.kinox.club CNAME .
 kkiste.club CNAME .
 *.kkiste.club CNAME .
-max2013schweiz.club CNAME .
-*.max2013schweiz.club CNAME .
 megacloud.club CNAME .
 *.megacloud.club CNAME .
 megakino1.club CNAME .
@@ -10034,8 +10026,6 @@ altadefinizionez.forum CNAME .
 *.altadefinizionez.forum CNAME .
 filmapik.forum CNAME .
 *.filmapik.forum CNAME .
-moviesmod.forum CNAME .
-*.moviesmod.forum CNAME .
 multimovies.forum CNAME .
 *.multimovies.forum CNAME .
 streamingcommunity.forum CNAME .
@@ -10126,8 +10116,6 @@ neko-sama.fr CNAME .
 *.neko-sama.fr CNAME .
 dark-warez.new.fr CNAME .
 *.dark-warez.new.fr CNAME .
-warezland.new.fr CNAME .
-*.warezland.new.fr CNAME .
 pirlotv.fr CNAME .
 *.pirlotv.fr CNAME .
 planetgames.fr CNAME .
@@ -10430,8 +10418,6 @@ yesmovies.gg CNAME .
 *.yesmovies.gg CNAME .
 mkvcinemas.gift CNAME .
 *.mkvcinemas.gift CNAME .
-moviesmod.gift CNAME .
-*.moviesmod.gift CNAME .
 9kmovies.gifts CNAME .
 *.9kmovies.gifts CNAME .
 hdhub4u.gifts CNAME .
@@ -15892,10 +15878,6 @@ prestige.minimafia.nl CNAME .
 *.prestige.minimafia.nl CNAME .
 private.minimafia.nl CNAME .
 *.private.minimafia.nl CNAME .
-moviesmod.nl CNAME .
-*.moviesmod.nl CNAME .
-multimovies.nl CNAME .
-*.multimovies.nl CNAME .
 nineoneone.nl CNAME .
 *.nineoneone.nl CNAME .
 nzbindex.nl CNAME .
@@ -17480,8 +17462,6 @@ new-team.org CNAME .
 *.new-team.org CNAME .
 new123movies.org CNAME .
 *.new123movies.org CNAME .
-newhdmovie2.org CNAME .
-*.newhdmovie2.org CNAME .
 newhdmovies.org CNAME .
 *.newhdmovies.org CNAME .
 newnova.org CNAME .
@@ -20968,8 +20948,6 @@ live-nfl.stream CNAME .
 *.live-nfl.stream CNAME .
 mojaloss.stream CNAME .
 *.mojaloss.stream CNAME .
-movply.stream CNAME .
-*.movply.stream CNAME .
 onlineflix.stream CNAME .
 *.onlineflix.stream CNAME .
 papystreaming.stream CNAME .

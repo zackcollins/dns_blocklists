@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Apr 2026 09:38 UTC
-# Version: 2026.0418.0938.40
+# Last modified: 18 Apr 2026 16:53 UTC
+# Version: 2026.0418.1653.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12381
+# Number of entries: 12370
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -6474,7 +6474,6 @@ local=/mathkangaroo.jp/
 local=/matrix-virovitica.com/
 local=/mawtoload.com/
 local=/max-rls.com/
-local=/max2013schweiz.club/
 local=/maxidown.com/
 local=/maxseries.top/
 local=/maxseries.xyz/
@@ -6864,7 +6863,6 @@ local=/moviecluphd.store/
 local=/moviecracker.net/
 local=/moviedokan.autos/
 local=/moviedokan.baby/
-local=/moviedokan.biz/
 local=/moviedokan.cfd/
 local=/moviedokan.click/
 local=/moviedokan.cv/
@@ -6962,7 +6960,6 @@ local=/moviesm4u.net/
 local=/moviesmania.info/
 local=/moviesmobile.net/
 local=/moviesmod.bid/
-local=/moviesmod.bio/
 local=/moviesmod.blue/
 local=/moviesmod.build/
 local=/moviesmod.cafe/
@@ -6973,12 +6970,9 @@ local=/moviesmod.cloud/
 local=/moviesmod.cool/
 local=/moviesmod.day/
 local=/moviesmod.dev/
-local=/moviesmod.forum/
 local=/moviesmod.fyi/
-local=/moviesmod.gift/
 local=/moviesmod.kim/
 local=/moviesmod.mom/
-local=/moviesmod.nl/
 local=/moviesmod.onl/
 local=/moviesmod.pink/
 local=/moviesmod.plus/
@@ -7048,7 +7042,6 @@ local=/moviplus.net/
 local=/moviz.net/
 local=/movizdb.com/
 local=/movply.com/
-local=/movply.stream/
 local=/movreel.com/
 local=/movt70.store/
 local=/movtubex3.cc/
@@ -7124,7 +7117,6 @@ local=/multicanais.com/
 local=/multicanais.fans/
 local=/multicanais.live/
 local=/multicanais.today/
-local=/multimovies.autos/
 local=/multimovies.center/
 local=/multimovies.cheap/
 local=/multimovies.click/
@@ -7136,7 +7128,6 @@ local=/multimovies.guru/
 local=/multimovies.lol/
 local=/multimovies.media/
 local=/multimovies.network/
-local=/multimovies.nl/
 local=/multimovies.onl/
 local=/multimovies.online/
 local=/multimovies.run/
@@ -7379,7 +7370,6 @@ local=/neufneuf.space/
 local=/neuvertonung.de/
 local=/neverland.ws/
 local=/dark-warez.new.fr/
-local=/warezland.new.fr/
 local=/new-dimensionz.com/
 local=/new-futur.com/
 local=/new-line.net/
@@ -7398,7 +7388,6 @@ local=/newerteam.com/
 local=/newhdmovie2.com/
 local=/newhdmovie2.net/
 local=/newhdmovie2.one/
-local=/newhdmovie2.org/
 local=/newhdmovies.org/
 local=/newhdmovies.top/
 local=/newhdmovies24.net/

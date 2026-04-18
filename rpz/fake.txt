@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776499440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776532200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 08:04 UTC
-; Version: 2026.0418.0804.23
+; Last modified: 18 Apr 2026 17:10 UTC
+; Version: 2026.0418.1710.25
 ; Syntax: RPZ
-; Number of entries: 29154
+; Number of entries: 29110
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -620,8 +620,6 @@ mammutwien.at CNAME .
 *.mammutwien.at CNAME .
 marcfisherwien.at CNAME .
 *.marcfisherwien.at CNAME .
-marcjacobsosterreich.at CNAME .
-*.marcjacobsosterreich.at CNAME .
 marketinghouse.at CNAME .
 *.marketinghouse.at CNAME .
 marlene-wien.at CNAME .
@@ -672,8 +670,6 @@ monsoonosterreich.at CNAME .
 *.monsoonosterreich.at CNAME .
 monteconsale.at CNAME .
 *.monteconsale.at CNAME .
-moser-graz.at CNAME .
-*.moser-graz.at CNAME .
 mosmankoch.at CNAME .
 *.mosmankoch.at CNAME .
 mth14.at CNAME .
@@ -700,8 +696,6 @@ not-schlosser.at CNAME .
 *.not-schlosser.at CNAME .
 notebookakku.at CNAME .
 *.notebookakku.at CNAME .
-nvgtnosterreich.at CNAME .
-*.nvgtnosterreich.at CNAME .
 obibaumarkt.at CNAME .
 *.obibaumarkt.at CNAME .
 oh-pollyosterreich.at CNAME .
@@ -1528,8 +1522,6 @@ kickarea.cn CNAME .
 *.kickarea.cn CNAME .
 mcyshe.cn CNAME .
 *.mcyshe.cn CNAME .
-muysale.cn CNAME .
-*.muysale.cn CNAME .
 shoesvalley.cn CNAME .
 *.shoesvalley.cn CNAME .
 eshop.sintech.cn CNAME .
@@ -7216,8 +7208,6 @@ fullzcash.com CNAME .
 *.fullzcash.com CNAME .
 fundfjord.com CNAME .
 *.fundfjord.com CNAME .
-fundgoxpro-solution.com CNAME .
-*.fundgoxpro-solution.com CNAME .
 fr.fundiza.com CNAME .
 *.fr.fundiza.com CNAME .
 funfiy.com CNAME .
@@ -10772,8 +10762,6 @@ marcosbrito.com CNAME .
 *.marcosbrito.com CNAME .
 mardano.com CNAME .
 *.mardano.com CNAME .
-margaretannlynch.com CNAME .
-*.margaretannlynch.com CNAME .
 marginalk.com CNAME .
 *.marginalk.com CNAME .
 marginelite.com CNAME .
@@ -11226,8 +11214,6 @@ mobefind.com CNAME .
 *.mobefind.com CNAME .
 mobefind-de.com CNAME .
 *.mobefind-de.com CNAME .
-mobel-welt.com CNAME .
-*.mobel-welt.com CNAME .
 mobelimfreien.com CNAME .
 *.mobelimfreien.com CNAME .
 mobelmagie.com CNAME .
@@ -11244,8 +11230,6 @@ mobelzuhause.com CNAME .
 *.mobelzuhause.com CNAME .
 mobiliarluuna.com CNAME .
 *.mobiliarluuna.com CNAME .
-mobilihomedecor.com CNAME .
-*.mobilihomedecor.com CNAME .
 mobilizex.com CNAME .
 *.mobilizex.com CNAME .
 mocne-suple.com CNAME .
@@ -11420,8 +11404,6 @@ mortalvessel.com CNAME .
 *.mortalvessel.com CNAME .
 morvath-ltd.com CNAME .
 *.morvath-ltd.com CNAME .
-mosaik-invest.com CNAME .
-*.mosaik-invest.com CNAME .
 moser-wien.com CNAME .
 *.moser-wien.com CNAME .
 mosessions.com CNAME .
@@ -11936,8 +11918,6 @@ nauticwerk.com CNAME .
 *.nauticwerk.com CNAME .
 nautikbedarf.com CNAME .
 *.nautikbedarf.com CNAME .
-naxinv.com CNAME .
-*.naxinv.com CNAME .
 nazaone.com CNAME .
 *.nazaone.com CNAME .
 nbdiscount.com CNAME .
@@ -12070,8 +12050,6 @@ newcfds.com CNAME .
 *.newcfds.com CNAME .
 newchrisreeve.com CNAME .
 *.newchrisreeve.com CNAME .
-neweary.com CNAME .
-*.neweary.com CNAME .
 newfulfilment.com CNAME .
 *.newfulfilment.com CNAME .
 newinmountain.com CNAME .
@@ -12156,8 +12134,6 @@ nikesuomishop.com CNAME .
 *.nikesuomishop.com CNAME .
 nikiexportdiffusion.com CNAME .
 *.nikiexportdiffusion.com CNAME .
-niknfactory.com CNAME .
-*.niknfactory.com CNAME .
 nilamiwelp.com CNAME .
 *.nilamiwelp.com CNAME .
 ninjachemise.com CNAME .
@@ -12188,10 +12164,6 @@ nobrerefino.com CNAME .
 *.nobrerefino.com CNAME .
 nobullosterreich.com CNAME .
 *.nobullosterreich.com CNAME .
-nobullprojectmexico.com CNAME .
-*.nobullprojectmexico.com CNAME .
-nobullsrbija.com CNAME .
-*.nobullsrbija.com CNAME .
 nograinmedia.com CNAME .
 *.nograinmedia.com CNAME .
 nojuwear.com CNAME .
@@ -12338,8 +12310,6 @@ obdclick.com CNAME .
 *.obdclick.com CNAME .
 ober-sicherheit.com CNAME .
 *.ober-sicherheit.com CNAME .
-oberflache24.com CNAME .
-*.oberflache24.com CNAME .
 oberfrasede.com CNAME .
 *.oberfrasede.com CNAME .
 obermeyerski.com CNAME .
@@ -20894,8 +20864,6 @@ haustechnik-muenchen.de CNAME .
 *.haustechnik-muenchen.de CNAME .
 haustechnikmeine.de CNAME .
 *.haustechnikmeine.de CNAME .
-haustierstolz.de CNAME .
-*.haustierstolz.de CNAME .
 haustirwelten.de CNAME .
 *.haustirwelten.de CNAME .
 havro.de CNAME .
@@ -22626,8 +22594,6 @@ mrhaushalt.de CNAME .
 *.mrhaushalt.de CNAME .
 msc-beratung.de CNAME .
 *.msc-beratung.de CNAME .
-mskauf.de CNAME .
-*.mskauf.de CNAME .
 mstf.de CNAME .
 *.mstf.de CNAME .
 mtr-legal.de CNAME .
@@ -22682,8 +22648,6 @@ nackel-handel.de CNAME .
 *.nackel-handel.de CNAME .
 naiora.de CNAME .
 *.naiora.de CNAME .
-nanila.de CNAME .
-*.nanila.de CNAME .
 nanodeals.de CNAME .
 *.nanodeals.de CNAME .
 narlia.de CNAME .
@@ -24010,8 +23974,6 @@ solarlion.de CNAME .
 *.solarlion.de CNAME .
 solarmik.de CNAME .
 *.solarmik.de CNAME .
-solarmira.de CNAME .
-*.solarmira.de CNAME .
 solarplatten24.de CNAME .
 *.solarplatten24.de CNAME .
 solarszellen.de CNAME .
@@ -26346,10 +26308,6 @@ netum.net CNAME .
 *.netum.net CNAME .
 neurath.net CNAME .
 *.neurath.net CNAME .
-nobullbelgie.net CNAME .
-*.nobullbelgie.net CNAME .
-nobullgreece.net CNAME .
-*.nobullgreece.net CNAME .
 norskeapotek.net CNAME .
 *.norskeapotek.net CNAME .
 norwayhotel.net CNAME .
@@ -27830,8 +27788,6 @@ multitrim.shop CNAME .
 *.multitrim.shop CNAME .
 myhannaeu.shop CNAME .
 *.myhannaeu.shop CNAME .
-mymissionariess.shop CNAME .
-*.mymissionariess.shop CNAME .
 myrrhrituals.shop CNAME .
 *.myrrhrituals.shop CNAME .
 myspiritualss.shop CNAME .

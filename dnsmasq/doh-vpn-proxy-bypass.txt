@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Apr 2026 09:45 UTC
-# Version: 2026.0418.0945.25
+# Last modified: 18 Apr 2026 16:52 UTC
+# Version: 2026.0418.1652.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18180
+# Number of entries: 18167
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -10144,7 +10144,6 @@ local=/marjifx.club/
 local=/music.recap.markisfullofshit.com/
 local=/welweklrj.opwerop.markjlyon.com/
 local=/youcantblockme.markjlyon.com/
-local=/marko1oko.online/
 local=/marnovx.xyz/
 local=/imagine-learning.marqenhotels.com/
 local=/lumi.marqenhotels.com/
@@ -10194,7 +10193,6 @@ local=/mathnodes.com/
 local=/mathnotes.help/
 local=/mathnotes.icu/
 local=/mathpoop.com/
-local=/mathprofession.buzz/
 local=/mathquizzer.net/
 local=/mathrules.dev/
 local=/mathwonders.xyz/
@@ -10309,7 +10307,6 @@ local=/weather.meteorological.co/
 local=/metgo4u5yhre.org/
 local=/monitoring.metropolitanstaffingsolutions.com/
 local=/school.metropolitanstaffingsolutions.com/
-local=/staffhiring.metropolitanstaffingsolutions.com/
 local=/metrovpn.app/
 local=/metrovpn.co/
 local=/metrovpn.io/
@@ -10383,7 +10380,6 @@ local=/miltran.ru/
 local=/craftmaine.mine.bz/
 local=/fern.mine.bz/
 local=/teach.mine.bz/
-local=/bee-movie.minecraftnoob.com/
 local=/hahanoob.minecraftnoob.com/
 local=/superwasome.minecraftnoob.com/
 local=/jalenhurtsformvp.minecraftr.us/
@@ -10409,7 +10405,6 @@ local=/mistasinresolver.ru/
 local=/mitceclash.com/
 local=/mitcejc.com/
 local=/httpdns.browser.miui.com/
-local=/mixing.run/
 local=/mixturestab.com/
 local=/dns.miyun1.com/
 local=/mizban-r.site/
@@ -10610,7 +10605,6 @@ local=/alexj123.mooo.com/
 local=/allcowswilldefinitelygo.mooo.com/
 local=/bashathegenius.mooo.com/
 local=/coconutlizzy.mooo.com/
-local=/clever.com.mooo.com/
 local=/asdfghqwertyzxcvb.mooo.com.mooo.com/
 local=/disinformer.mooo.com/
 local=/e23a.mooo.com/
@@ -10688,7 +10682,6 @@ local=/mtagprox.com/
 local=/mtdhbqbf.com/
 local=/mtkidjkn.com/
 local=/dns.mtoo.vip/
-local=/garlandisd.mtpeakbuilders.com/
 local=/mtpro.xyz/
 local=/mtproxier.com/
 local=/mtsdns.ru/
@@ -10793,11 +10786,7 @@ local=/gogardiansucks.myclarevision.com/
 local=/i.myclarevision.com/
 local=/learn.myclarevision.com/
 local=/linewizesucks.myclarevision.com/
-local=/mramato2.myclarevision.com/
 local=/qoqo-oqoq.myclarevision.com/
-local=/rameo.myclarevision.com/
-local=/rc-1207.myclarevision.com/
-local=/sewage.myclarevision.com/
 local=/thisismathteach.myclarevision.com/
 local=/mycovervpn.com/
 local=/adguard.myddns.org/
@@ -10991,7 +10980,6 @@ local=/nashvpn.io/
 local=/nashvpn.mom/
 local=/nashvpn.net/
 local=/nashvpn.top/
-local=/auburnsd.nass.my/
 local=/math.nass.my/
 local=/natfrp.cloud/
 local=/natieyunclash.com/
@@ -11289,7 +11277,6 @@ local=/njtzzrvg0lwj3bsn.info/
 local=/nkalpwdp.com/
 local=/nkfkhcfe.com/
 local=/nkn.org/
-local=/nktjhwy.online/
 local=/nletsa.com/
 local=/nletsb.com/
 local=/nletsf.com/

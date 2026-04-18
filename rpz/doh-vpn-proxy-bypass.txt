@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776505500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776531120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 09:45 UTC
-; Version: 2026.0418.0945.25
+; Last modified: 18 Apr 2026 16:52 UTC
+; Version: 2026.0418.1652.40
 ; Syntax: RPZ
-; Number of entries: 36360
+; Number of entries: 36334
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1247,8 +1247,6 @@ cfisd.mathforkids.buzz CNAME .
 *.cfisd.mathforkids.buzz CNAME .
 science.mathforkids.buzz CNAME .
 *.science.mathforkids.buzz CNAME .
-mathprofession.buzz CNAME .
-*.mathprofession.buzz CNAME .
 minoritymath.buzz CNAME .
 *.minoritymath.buzz CNAME .
 shadowrocket.buzz CNAME .
@@ -11149,8 +11147,6 @@ monitoring.metropolitanstaffingsolutions.com CNAME .
 *.monitoring.metropolitanstaffingsolutions.com CNAME .
 school.metropolitanstaffingsolutions.com CNAME .
 *.school.metropolitanstaffingsolutions.com CNAME .
-staffhiring.metropolitanstaffingsolutions.com CNAME .
-*.staffhiring.metropolitanstaffingsolutions.com CNAME .
 mgyfyvyo.com CNAME .
 *.mgyfyvyo.com CNAME .
 mh6mh6mh6mh6mh6.com CNAME .
@@ -11183,8 +11179,6 @@ milkcatgw.com CNAME .
 *.milkcatgw.com CNAME .
 milkcatjc.com CNAME .
 *.milkcatjc.com CNAME .
-bee-movie.minecraftnoob.com CNAME .
-*.bee-movie.minecraftnoob.com CNAME .
 hahanoob.minecraftnoob.com CNAME .
 *.hahanoob.minecraftnoob.com CNAME .
 superwasome.minecraftnoob.com CNAME .
@@ -11511,8 +11505,6 @@ bashathegenius.mooo.com CNAME .
 *.bashathegenius.mooo.com CNAME .
 coconutlizzy.mooo.com CNAME .
 *.coconutlizzy.mooo.com CNAME .
-clever.com.mooo.com CNAME .
-*.clever.com.mooo.com CNAME .
 asdfghqwertyzxcvb.mooo.com.mooo.com CNAME .
 *.asdfghqwertyzxcvb.mooo.com.mooo.com CNAME .
 disinformer.mooo.com CNAME .
@@ -11619,8 +11611,6 @@ mtdhbqbf.com CNAME .
 *.mtdhbqbf.com CNAME .
 mtkidjkn.com CNAME .
 *.mtkidjkn.com CNAME .
-garlandisd.mtpeakbuilders.com CNAME .
-*.garlandisd.mtpeakbuilders.com CNAME .
 mtproxier.com CNAME .
 *.mtproxier.com CNAME .
 ns.mtsoln.com CNAME .
@@ -11685,16 +11675,8 @@ learn.myclarevision.com CNAME .
 *.learn.myclarevision.com CNAME .
 linewizesucks.myclarevision.com CNAME .
 *.linewizesucks.myclarevision.com CNAME .
-mramato2.myclarevision.com CNAME .
-*.mramato2.myclarevision.com CNAME .
 qoqo-oqoq.myclarevision.com CNAME .
 *.qoqo-oqoq.myclarevision.com CNAME .
-rameo.myclarevision.com CNAME .
-*.rameo.myclarevision.com CNAME .
-rc-1207.myclarevision.com CNAME .
-*.rc-1207.myclarevision.com CNAME .
-sewage.myclarevision.com CNAME .
-*.sewage.myclarevision.com CNAME .
 thisismathteach.myclarevision.com CNAME .
 *.thisismathteach.myclarevision.com CNAME .
 mycovervpn.com CNAME .
@@ -22933,8 +22915,6 @@ kemoriv.my CNAME .
 *.kemoriv.my CNAME .
 my52.my CNAME .
 *.my52.my CNAME .
-auburnsd.nass.my CNAME .
-*.auburnsd.nass.my CNAME .
 math.nass.my CNAME .
 *.math.nass.my CNAME .
 riponex.my CNAME .
@@ -27927,8 +27907,6 @@ m3mhtvbfy.online CNAME .
 *.m3mhtvbfy.online CNAME .
 dns.mahiro.online CNAME .
 *.dns.mahiro.online CNAME .
-marko1oko.online CNAME .
-*.marko1oko.online CNAME .
 ddns.martinmore.online CNAME .
 *.ddns.martinmore.online CNAME .
 matheen.online CNAME .
@@ -27971,8 +27949,6 @@ ngdqiwdvfmuh6vih.online CNAME .
 *.ngdqiwdvfmuh6vih.online CNAME .
 niotj1qb.online CNAME .
 *.niotj1qb.online CNAME .
-nktjhwy.online CNAME .
-*.nktjhwy.online CNAME .
 npscalculator.online CNAME .
 *.npscalculator.online CNAME .
 nzdf3hp.online CNAME .
@@ -32307,8 +32283,6 @@ lindsay.run CNAME .
 *.lindsay.run CNAME .
 madonna.run CNAME .
 *.madonna.run CNAME .
-mixing.run CNAME .
-*.mixing.run CNAME .
 my1337jog.run CNAME .
 *.my1337jog.run CNAME .
 prevent.run CNAME .

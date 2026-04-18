@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 17:06 UTC
-# Version: 2026.0415.1706.12
+# Last modified: 18 Apr 2026 17:06 UTC
+# Version: 2026.0418.1706.50
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 28
 #
@@ -35,6 +35,6 @@
 0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com sca-st-sl.vivoglobal.com sca-stsdk.vivoglobal.com sca-timesync.vivoglobal.com sca-vcode-api.vivoglobal.com sca-vcode-od.vivoglobal.com sca-vcode-or.vivoglobal.com sg-cfg-stsdk.vivoglobal.com stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com ort.stsdk.vivoglobal.com pnrt.stsdk.vivoglobal.com prt.stsdk.vivoglobal.com tr-album-api.vivoglobal.com tr-cota.vivoglobal.com tr-domaincfg.vivoglobal.com tr-err-up.vivoglobal.com tr-gdpr-vgc-datacenter.vivoglobal.com
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com tr-ort-stsdk.vivoglobal.com tr-p.vivoglobal.com tr-romsp-unifyconfig.vivoglobal.com tr-st-sl.vivoglobal.com tr-st-sysupgrade.vivoglobal.com tr-stsdk.vivoglobal.com tr-sysupgrade-api.vivoglobal.com tr-timesync.vivoglobal.com
-0.0.0.0 tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com uk-timesync.vivoglobal.com err.up.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com za-p.vivoglobal.com zasc-cota.vivoglobal.com
-0.0.0.0 zasc-domaincfg.vivoglobal.com zasc-err-up.vivoglobal.com zasc-onrt-stsdk.vivoglobal.com zasc-ort-stsdk.vivoglobal.com zasc-pnrt-stsdk.vivoglobal.com zasc-romsp-unifyconfig.vivoglobal.com zasc-st-sl.vivoglobal.com zasc-stsdk.vivoglobal.com zasc-timesync.vivoglobal.com
-0.0.0.0 zasc-vcode-api.vivoglobal.com zasc-vcode-od.vivoglobal.com zasc-vcode-or.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com 
+0.0.0.0 tr-vcode-api.vivoglobal.com tr-vcode-od.vivoglobal.com tr-vcode-or.vivoglobal.com tr-weather.vivoglobal.com uk-timesync.vivoglobal.com err.up.vivoglobal.com xn--ex-adreq-asa-c5b.vivoglobal.com xn-ex-adreq-asa-c5b.vivoglobal.com za-p.vivoglobal.com
+0.0.0.0 zasc-cota.vivoglobal.com zasc-domaincfg.vivoglobal.com zasc-err-up.vivoglobal.com zasc-onrt-stsdk.vivoglobal.com zasc-ort-stsdk.vivoglobal.com zasc-pnrt-stsdk.vivoglobal.com zasc-romsp-unifyconfig.vivoglobal.com zasc-st-sl.vivoglobal.com zasc-stsdk.vivoglobal.com
+0.0.0.0 zasc-timesync.vivoglobal.com zasc-vcode-api.vivoglobal.com zasc-vcode-od.vivoglobal.com zasc-vcode-or.vivoglobal.com h4g3z1-native.vivo.web.app vhs.wwstat.com 

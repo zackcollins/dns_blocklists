@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Apr 2026 08:06 UTC
-# Version: 2026.0418.0806.13
+# Last modified: 18 Apr 2026 16:53 UTC
+# Version: 2026.0418.1653.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10042
+# Number of entries: 10031
 #
 local=/0.gp/
 local=/00m.in/
@@ -4943,7 +4943,6 @@ local=/link.mamawyprawia.pl/
 local=/mamikale.me/
 local=/mamm.ie/
 local=/mampir.link/
-local=/mamskie.me/
 local=/mangotwo.com/
 local=/mantapkalee.me/
 local=/mantaplink.com/
@@ -5061,7 +5060,6 @@ local=/melchiorbrenneman.com/
 local=/melissahotdeals.com/
 local=/mely.me/
 local=/menangbola77.info/
-local=/menangjp.pro/
 local=/menj.info/
 local=/meowlink.app/
 local=/meraihcuan.com/
@@ -5164,7 +5162,6 @@ local=/minzap.com/
 local=/miol4.me/
 local=/miolink.eu/
 local=/mipha.app/
-local=/mipon.xyz/
 local=/mis4.me/
 local=/misdatos.bio/
 local=/misitiocr.com/
@@ -5227,13 +5224,7 @@ local=/mondoagram.com/
 local=/monetiza.co/
 local=/monghaiba.life/
 local=/monghaibon.live/
-local=/monghaihai.life/
-local=/monghaimuoi.live/
 local=/monghainam.life/
-local=/mongmuoibay.live/
-local=/mongmuoichin.life/
-local=/mongmuoisau.life/
-local=/mongmuoitam.live/
 local=/monly.id/
 local=/monster.cat/
 local=/info.montbell.com/
@@ -5271,7 +5262,6 @@ local=/mrfye.org/
 local=/mrjj.uk/
 local=/mrlink.in/
 local=/kt.mrmd.com/
-local=/mrshelby.in/
 local=/mrte.ch/
 local=/mrturl.com/
 local=/mrw.so/
@@ -5690,7 +5680,6 @@ local=/obank.tw/
 local=/obblink.com/
 local=/obdr.it/
 local=/obio.link/
-local=/oblino.com/
 local=/ocb.me/
 local=/occ.li/
 local=/ock.cn/
