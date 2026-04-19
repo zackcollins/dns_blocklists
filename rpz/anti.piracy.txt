@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776531180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776590220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 16:53 UTC
-; Version: 2026.0418.1653.54
+; Last modified: 19 Apr 2026 09:17 UTC
+; Version: 2026.0419.0917.35
 ; Syntax: RPZ
-; Number of entries: 24740
+; Number of entries: 24742
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -284,8 +284,6 @@ yify.netlify.app CNAME .
 *.yify.netlify.app CNAME .
 netmirror.app CNAME .
 *.netmirror.app CNAME .
-olamovies.app CNAME .
-*.olamovies.app CNAME .
 onalrie.app CNAME .
 *.onalrie.app CNAME .
 pirlotv.app CNAME .
@@ -6772,8 +6770,6 @@ plygig.com CNAME .
 *.plygig.com CNAME .
 pobreflix.com CNAME .
 *.pobreflix.com CNAME .
-pobreflixonline.com CNAME .
-*.pobreflixonline.com CNAME .
 podtropolis.com CNAME .
 *.podtropolis.com CNAME .
 pokemerald.com CNAME .
@@ -8874,6 +8870,8 @@ hdmovie2.courses CNAME .
 *.hdmovie2.courses CNAME .
 moviesnation.courses CNAME .
 *.moviesnation.courses CNAME .
+streaming-community.courses CNAME .
+*.streaming-community.courses CNAME .
 dognzb.cr CNAME .
 *.dognzb.cr CNAME .
 dsroms.fr.cr CNAME .
@@ -10608,8 +10606,6 @@ hdmovie2.help CNAME .
 *.hdmovie2.help CNAME .
 movieswood.help CNAME .
 *.movieswood.help CNAME .
-privatemoviez.help CNAME .
-*.privatemoviez.help CNAME .
 streamingcommunity.help CNAME .
 *.streamingcommunity.help CNAME .
 streamingcommunityz.help CNAME .
@@ -12034,6 +12030,8 @@ cb01.kaufen CNAME .
 *.cb01.kaufen CNAME .
 cineblog01.kaufen CNAME .
 *.cineblog01.kaufen CNAME .
+streaming-community.kaufen CNAME .
+*.streaming-community.kaufen CNAME .
 streamingcommunity.kaufen CNAME .
 *.streamingcommunity.kaufen CNAME .
 tantifilm.kaufen CNAME .
@@ -19318,8 +19316,6 @@ nosteamgames.ro CNAME .
 *.nosteamgames.ro CNAME .
 rds-zone.ro CNAME .
 *.rds-zone.ro CNAME .
-rotorrent.ro CNAME .
-*.rotorrent.ro CNAME .
 tracker.seedfile.ro CNAME .
 *.tracker.seedfile.ro CNAME .
 tracker.sharereactor.ro CNAME .
@@ -20028,6 +20024,8 @@ kinox.salon CNAME .
 *.kinox.salon CNAME .
 9kmovies.sarl CNAME .
 *.9kmovies.sarl CNAME .
+streaming-community.sarl CNAME .
+*.streaming-community.sarl CNAME .
 worldfree4u.sarl CNAME .
 *.worldfree4u.sarl CNAME .
 putlocker.sb CNAME .
@@ -21082,6 +21080,8 @@ mkvcinemas.surf CNAME .
 *.mkvcinemas.surf CNAME .
 piratebay.surf CNAME .
 *.piratebay.surf CNAME .
+streaming-community.surf CNAME .
+*.streaming-community.surf CNAME .
 tpb.surf CNAME .
 *.tpb.surf CNAME .
 uhdmovies.surf CNAME .
@@ -24328,6 +24328,8 @@ tracker.encrypted-data.xyz CNAME .
 *.tracker.encrypted-data.xyz CNAME .
 eurostreaming.xyz CNAME .
 *.eurostreaming.xyz CNAME .
+eurostreamings.xyz CNAME .
+*.eurostreamings.xyz CNAME .
 evil-stress.xyz CNAME .
 *.evil-stress.xyz CNAME .
 exsite24.xyz CNAME .

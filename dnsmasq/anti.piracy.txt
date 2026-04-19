@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Apr 2026 16:53 UTC
-# Version: 2026.0418.1653.54
+# Last modified: 19 Apr 2026 09:17 UTC
+# Version: 2026.0419.0917.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12370
+# Number of entries: 12371
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -3520,6 +3520,7 @@ local=/eurostreamings.store/
 local=/eurostreamings.top/
 local=/eurostreamings.vip/
 local=/eurostreamings.wiki/
+local=/eurostreamings.xyz/
 local=/bt.eutorrents.com/
 local=/ev01.net/
 local=/ev01.to/
@@ -7654,7 +7655,6 @@ local=/oklivetv.com/
 local=/bt.okmp3.ru/
 local=/ol-am.top/
 local=/olala123-warez.com/
-local=/olamovies.app/
 local=/olamovies.download/
 local=/olamovies.top/
 local=/olamovies.watch/
@@ -8095,7 +8095,6 @@ local=/pobieramy24.pl/
 local=/pobieramy24.xyz/
 local=/pobreflix.auction/
 local=/pobreflix.com/
-local=/pobreflixonline.com/
 local=/forum.pocketnavigation.de/
 local=/6.pocketnet.app/
 local=/podtropolis.com/
@@ -8195,7 +8194,6 @@ local=/primewire.vc/
 local=/primewire.zip/
 local=/primewirestatus.org/
 local=/privatehd.to/
-local=/privatemoviez.help/
 local=/region.nl1.privex.cc/
 local=/privtracker.com/
 local=/pro-evolution.org/
@@ -8687,7 +8685,6 @@ local=/roopert83.tv/
 local=/root-warez.com/
 local=/rootsofts.com/
 local=/roshy.tv/
-local=/rotorrent.ro/
 local=/roxiestreams.cc/
 local=/roxiestreams.info/
 local=/roxiestreams.pro/
@@ -9533,7 +9530,11 @@ local=/streamhunters.top/
 local=/streami.su/
 local=/streaming-community.art/
 local=/streaming-community.asia/
+local=/streaming-community.courses/
 local=/streaming-community.fit/
+local=/streaming-community.kaufen/
+local=/streaming-community.sarl/
+local=/streaming-community.surf/
 local=/streaming-community.trade/
 local=/streaming-french.com/
 local=/streaming-series.org/

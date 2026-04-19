@@ -1855,6 +1855,13 @@
       }
     },
     {
+      "PK": "disasterpr.fun",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "discord.gift",
       "action": {
         "do": 1,

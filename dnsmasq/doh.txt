@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Apr 2026 09:44 UTC
-# Version: 2026.0418.0944.39
+# Last modified: 19 Apr 2026 09:24 UTC
+# Version: 2026.0419.0924.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3480
+# Number of entries: 3479
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2717,7 +2717,6 @@ local=/quic.lol/
 local=/dns.quickline.ch/
 local=/doh.quickline.ch/
 local=/dot.quickline.ch/
-local=/dns.quickso.cn/
 local=/dns.quiet.rocks/
 local=/ant.dns.qwer.pw/
 local=/dog.dns.qwer.pw/
@@ -2740,7 +2739,6 @@ local=/security.rabbitdns.org/
 local=/ginnungagap.rabenhain.net/
 local=/adguard.rabmoor.cz/
 local=/dns.api.rackspacecloud.com/
-local=/raj.pw/
 local=/ns.ral9005.org/
 local=/dns.ramansarda.com/
 local=/doh.rasmusminde.dk/
@@ -2915,6 +2913,7 @@ local=/dns.sheggi.ch/
 local=/httpdns.n.shifen.com/
 local=/dns.shimul.me/
 local=/do.shimul.me/
+local=/shitblocker.com/
 local=/adguard.shoupperuser.com/
 local=/dns.shrike.ru/
 local=/penetrator.shurakenas.ru/

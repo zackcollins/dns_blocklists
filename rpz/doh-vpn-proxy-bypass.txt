@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776531120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776590640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 16:52 UTC
-; Version: 2026.0418.1652.40
+; Last modified: 19 Apr 2026 09:24 UTC
+; Version: 2026.0419.0924.51
 ; Syntax: RPZ
-; Number of entries: 36334
+; Number of entries: 36306
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3491,8 +3491,6 @@ qingmangqw.cn CNAME .
 *.qingmangqw.cn CNAME .
 qingtongxiaai.cn CNAME .
 *.qingtongxiaai.cn CNAME .
-dns.quickso.cn CNAME .
-*.dns.quickso.cn CNAME .
 rubyfish.cn CNAME .
 *.rubyfish.cn CNAME .
 sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
@@ -12399,8 +12397,6 @@ ip65-38-99-44.pbiaas.com CNAME .
 *.ip65-38-99-44.pbiaas.com CNAME .
 ip74-208-64-80.pbiaas.com CNAME .
 *.ip74-208-64-80.pbiaas.com CNAME .
-pc-lets.com CNAME .
-*.pc-lets.com CNAME .
 pc-letsvpn.com CNAME .
 *.pc-letsvpn.com CNAME .
 pc-streaming.com CNAME .
@@ -12727,8 +12723,6 @@ proxtube.com CNAME .
 *.proxtube.com CNAME .
 proxy-123.com CNAME .
 *.proxy-123.com CNAME .
-proxy-2014.com CNAME .
-*.proxy-2014.com CNAME .
 proxy-best.com CNAME .
 *.proxy-best.com CNAME .
 proxy-bypass.com CNAME .
@@ -13279,8 +13273,6 @@ rwzlsmyv.com CNAME .
 *.rwzlsmyv.com CNAME .
 dns1.ryan-palmer.com CNAME .
 *.dns1.ryan-palmer.com CNAME .
-excel.theme.ryansilvester.com CNAME .
-*.excel.theme.ryansilvester.com CNAME .
 rztlku.com CNAME .
 *.rztlku.com CNAME .
 s0r4nd0m.com CNAME .
@@ -13431,8 +13423,6 @@ dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
 quiz.teach.secold.com CNAME .
 *.quiz.teach.secold.com CNAME .
-secondbackupdomain.com CNAME .
-*.secondbackupdomain.com CNAME .
 secrethifixie.com CNAME .
 *.secrethifixie.com CNAME .
 secure-vpn.com CNAME .
@@ -13655,6 +13645,8 @@ shihui992.com CNAME .
 *.shihui992.com CNAME .
 shijieyunxz.com CNAME .
 *.shijieyunxz.com CNAME .
+shitblocker.com CNAME .
+*.shitblocker.com CNAME .
 shopboog.com CNAME .
 *.shopboog.com CNAME .
 shopsocks5.com CNAME .
@@ -27421,18 +27413,8 @@ exns1.exalto.nu CNAME .
 *.exns1.exalto.nu CNAME .
 dns.huth.nu CNAME .
 *.dns.huth.nu CNAME .
-onion.nu CNAME .
-*.onion.nu CNAME .
 proxy.nu CNAME .
 *.proxy.nu CNAME .
-canvas-signup-rn.shela.nu CNAME .
-*.canvas-signup-rn.shela.nu CNAME .
-goguardianlearning.shela.nu CNAME .
-*.goguardianlearning.shela.nu CNAME .
-iqtest.shela.nu CNAME .
-*.iqtest.shela.nu CNAME .
-type.shela.nu CNAME .
-*.type.shela.nu CNAME .
 unblocked.nu CNAME .
 *.unblocked.nu CNAME .
 3x.nz CNAME .
@@ -28007,8 +27989,6 @@ qt8grzqktbipoye.online CNAME .
 *.qt8grzqktbipoye.online CNAME .
 quo7tcjkryxt6w.online CNAME .
 *.quo7tcjkryxt6w.online CNAME .
-quwpuslemw.online CNAME .
-*.quwpuslemw.online CNAME .
 qy4jow5snndan.online CNAME .
 *.qy4jow5snndan.online CNAME .
 r6oemdos.online CNAME .
@@ -30847,8 +30827,6 @@ lion.dns.qwer.pw CNAME .
 *.lion.dns.qwer.pw CNAME .
 tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
-raj.pw CNAME .
-*.raj.pw CNAME .
 redproxy.pw CNAME .
 *.redproxy.pw CNAME .
 shandian.pw CNAME .
@@ -32919,8 +32897,6 @@ notorioussymbol.space CNAME .
 *.notorioussymbol.space CNAME .
 openproxy.space CNAME .
 *.openproxy.space CNAME .
-historyofutopia.orekhov.space CNAME .
-*.historyofutopia.orekhov.space CNAME .
 outlinevpn.space CNAME .
 *.outlinevpn.space CNAME .
 pagecloud.space CNAME .
@@ -35779,14 +35755,10 @@ offshoreview.xyz CNAME .
 *.offshoreview.xyz CNAME .
 ogonvpn.xyz CNAME .
 *.ogonvpn.xyz CNAME .
-ohzavie2.xyz CNAME .
-*.ohzavie2.xyz CNAME .
 oneproxy.xyz CNAME .
 *.oneproxy.xyz CNAME .
 orinexa.xyz CNAME .
 *.orinexa.xyz CNAME .
-painee2a.xyz CNAME .
-*.painee2a.xyz CNAME .
 pandaexpert.xyz CNAME .
 *.pandaexpert.xyz CNAME .
 panforest.xyz CNAME .

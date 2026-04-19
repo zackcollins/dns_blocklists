@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776531180 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776584400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 16:53 UTC
-; Version: 2026.0418.1653.23
+; Last modified: 19 Apr 2026 07:40 UTC
+; Version: 2026.0419.0740.34
 ; Syntax: RPZ
-; Number of entries: 20062
+; Number of entries: 20046
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -89,8 +89,6 @@ rabit.ae CNAME .
 *.rabit.ae CNAME .
 sho.ae CNAME .
 *.sho.ae CNAME .
-shorturl.ae CNAME .
-*.shorturl.ae CNAME .
 tiny.ae CNAME .
 *.tiny.ae CNAME .
 urls.ae CNAME .
@@ -4143,6 +4141,8 @@ dmvrenew.com CNAME .
 *.dmvrenew.com CNAME .
 doaistri.com CNAME .
 *.doaistri.com CNAME .
+dohggte.com CNAME .
+*.dohggte.com CNAME .
 doiop.com CNAME .
 *.doiop.com CNAME .
 domainsandlinks.com CNAME .
@@ -5897,8 +5897,6 @@ petrovay.com CNAME .
 *.petrovay.com CNAME .
 pgoapps.com CNAME .
 *.pgoapps.com CNAME .
-pgpgeth.com CNAME .
-*.pgpgeth.com CNAME .
 philthefire.com CNAME .
 *.philthefire.com CNAME .
 short.php8developer.com CNAME .
@@ -6153,8 +6151,6 @@ readeach.com CNAME .
 *.readeach.com CNAME .
 readserie.com CNAME .
 *.readserie.com CNAME .
-rebioo.com CNAME .
-*.rebioo.com CNAME .
 rebrandly.com CNAME .
 *.rebrandly.com CNAME .
 redilify.com CNAME .
@@ -6239,8 +6235,6 @@ rpurls.com CNAME .
 *.rpurls.com CNAME .
 rsmonkey.com CNAME .
 *.rsmonkey.com CNAME .
-rsshort.com CNAME .
-*.rsshort.com CNAME .
 rtvote.com CNAME .
 *.rtvote.com CNAME .
 goo-gl.ru.com CNAME .
@@ -6289,8 +6283,6 @@ short.sashem.com CNAME .
 *.short.sashem.com CNAME .
 saudepetrobras.com CNAME .
 *.saudepetrobras.com CNAME .
-savegdrive.com CNAME .
-*.savegdrive.com CNAME .
 savelnk.com CNAME .
 *.savelnk.com CNAME .
 savetub.com CNAME .
@@ -6423,8 +6415,6 @@ short-fact.com CNAME .
 *.short-fact.com CNAME .
 short2cut.com CNAME .
 *.short2cut.com CNAME .
-short360s.com CNAME .
-*.short360s.com CNAME .
 short4fly.com CNAME .
 *.short4fly.com CNAME .
 shortaro.com CNAME .
@@ -6441,8 +6431,6 @@ shortcuturl.com CNAME .
 *.shortcuturl.com CNAME .
 shortduck.com CNAME .
 *.shortduck.com CNAME .
-shorteasily.com CNAME .
-*.shorteasily.com CNAME .
 shorteasy.com CNAME .
 *.shorteasy.com CNAME .
 shortedurl.com CNAME .
@@ -8551,6 +8539,8 @@ bytr.ee CNAME .
 *.bytr.ee CNAME .
 cutt.ee CNAME .
 *.cutt.ee CNAME .
+eid.ee CNAME .
+*.eid.ee CNAME .
 enlac.ee CNAME .
 *.enlac.ee CNAME .
 fars.ee CNAME .
@@ -11531,8 +11521,6 @@ n3y.ir CNAME .
 *.n3y.ir CNAME .
 ntbx.ir CNAME .
 *.ntbx.ir CNAME .
-onebio.ir CNAME .
-*.onebio.ir CNAME .
 otgk.ir CNAME .
 *.otgk.ir CNAME .
 pa-ko.ir CNAME .
@@ -12923,8 +12911,6 @@ oneshort.link CNAME .
 *.oneshort.link CNAME .
 oo.link CNAME .
 *.oo.link CNAME .
-openbio.link CNAME .
-*.openbio.link CNAME .
 orts.link CNAME .
 *.orts.link CNAME .
 osdb.link CNAME .
@@ -13379,8 +13365,6 @@ pandastyle.live CNAME .
 *.pandastyle.live CNAME .
 phimhdx.live CNAME .
 *.phimhdx.live CNAME .
-platformtech.live CNAME .
-*.platformtech.live CNAME .
 pointpay.live CNAME .
 *.pointpay.live CNAME .
 premierbet.live CNAME .
@@ -15213,6 +15197,8 @@ ezyurl.net CNAME .
 *.ezyurl.net CNAME .
 fastjpeg.net CNAME .
 *.fastjpeg.net CNAME .
+ping.fb-cdn.net CNAME .
+*.ping.fb-cdn.net CNAME .
 fgurl.net CNAME .
 *.fgurl.net CNAME .
 firsturl.net CNAME .
@@ -16907,8 +16893,6 @@ shorten.pro CNAME .
 *.shorten.pro CNAME .
 shortify.pro CNAME .
 *.shortify.pro CNAME .
-shortsy.pro CNAME .
-*.shortsy.pro CNAME .
 shorturls.pro CNAME .
 *.shorturls.pro CNAME .
 shortwave.pro CNAME .
@@ -19721,8 +19705,6 @@ polamax.win CNAME .
 *.polamax.win CNAME .
 putar.win CNAME .
 *.putar.win CNAME .
-serius.win CNAME .
-*.serius.win CNAME .
 shorturl.win CNAME .
 *.shorturl.win CNAME .
 ss777.win CNAME .
@@ -19919,6 +19901,8 @@ gacorwak.xyz CNAME .
 *.gacorwak.xyz CNAME .
 ggapps.xyz CNAME .
 *.ggapps.xyz CNAME .
+gxh1yqz2v.xyz CNAME .
+*.gxh1yqz2v.xyz CNAME .
 hellokity.xyz CNAME .
 *.hellokity.xyz CNAME .
 hgs.xyz CNAME .

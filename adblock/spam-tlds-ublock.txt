@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Apr 2026 09:14 UTC
-! Version: 2026.0417.0914.51
+! Last modified: 19 Apr 2026 09:25 UTC
+! Version: 2026.0419.0925.44
 ! Syntax: uBlock
 ! Number of latin TLDs: 286 - punycode TLDs: 151
 !
@@ -117,7 +117,7 @@
 ||forex^$doc
 ||forsale^$doc
 ||foundation^$doc,domain=~e.foundation|~grapheneos.foundation|~jp.foundation|~lgbt.foundation|~player.foundation
-||fun^$doc,domain=~cdn.fun|~chinaq.fun|~enza.fun|~neal.fun|~patterncraft.fun|~strem.fun
+||fun^$doc,domain=~cdn.fun|~chinaq.fun|~disasterpr.fun|~enza.fun|~neal.fun|~patterncraft.fun|~strem.fun
 ||fund^$doc
 ||futbol^$doc
 ||fyi^$doc,domain=~apollo.fyi|~better.fyi|~crypt.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~laelaps.fyi|~levels.fyi|~lunar.fyi|~notbyai.fyi|~ost2.fyi|~poyoanon.fyi|~recollect.fyi|~vercel.fyi|~wpt.fyi

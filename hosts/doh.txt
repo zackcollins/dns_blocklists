@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Apr 2026 09:44 UTC
-# Version: 2026.0418.0944.39
+# Last modified: 19 Apr 2026 09:24 UTC
+# Version: 2026.0419.0924.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3941
+# Number of entries: 3940
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3112,7 +3112,6 @@
 0.0.0.0 dns.quickline.ch
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
-0.0.0.0 dns.quickso.cn
 0.0.0.0 dns.quiet.rocks
 0.0.0.0 ant.dns.qwer.pw
 0.0.0.0 dog.dns.qwer.pw
@@ -3135,7 +3134,6 @@
 0.0.0.0 ginnungagap.rabenhain.net
 0.0.0.0 adguard.rabmoor.cz
 0.0.0.0 dns.api.rackspacecloud.com
-0.0.0.0 raj.pw
 0.0.0.0 ns.ral9005.org
 0.0.0.0 dns.ramansarda.com
 0.0.0.0 doh.rasmusminde.dk
@@ -3320,6 +3318,7 @@
 0.0.0.0 httpdns.n.shifen.com
 0.0.0.0 dns.shimul.me
 0.0.0.0 do.shimul.me
+0.0.0.0 shitblocker.com
 0.0.0.0 adguard.shoupperuser.com
 0.0.0.0 dns.shrike.ru
 0.0.0.0 penetrator.shurakenas.ru

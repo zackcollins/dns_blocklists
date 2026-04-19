@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776505440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776590640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Apr 2026 09:44 UTC
-; Version: 2026.0418.0944.39
+; Last modified: 19 Apr 2026 09:24 UTC
+; Version: 2026.0419.0924.02
 ; Syntax: RPZ
-; Number of entries: 6960
+; Number of entries: 6958
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -545,8 +545,6 @@ route.netshi.cn CNAME .
 *.route.netshi.cn CNAME .
 doh.p2cdn.cn CNAME .
 *.doh.p2cdn.cn CNAME .
-dns.quickso.cn CNAME .
-*.dns.quickso.cn CNAME .
 dns.rubyfish.cn CNAME .
 *.dns.rubyfish.cn CNAME .
 ea-dns.rubyfish.cn CNAME .
@@ -1733,6 +1731,8 @@ privatnas.servebeer.com CNAME .
 *.privatnas.servebeer.com CNAME .
 httpdns.n.shifen.com CNAME .
 *.httpdns.n.shifen.com CNAME .
+shitblocker.com CNAME .
+*.shitblocker.com CNAME .
 adguard.shoupperuser.com CNAME .
 *.adguard.shoupperuser.com CNAME .
 dns.silentlybren.com CNAME .
@@ -5627,8 +5627,6 @@ lion.dns.qwer.pw CNAME .
 *.lion.dns.qwer.pw CNAME .
 tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
-raj.pw CNAME .
-*.raj.pw CNAME .
 dns.vps.pw CNAME .
 *.dns.vps.pw CNAME .
 doh.kekew.racing CNAME .
