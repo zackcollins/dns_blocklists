@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 09:24 UTC
-# Version: 2026.0419.0924.02
+# Last modified: 19 Apr 2026 16:51 UTC
+# Version: 2026.0419.1651.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3940
+# Number of entries: 3939
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3354,7 +3354,6 @@
 0.0.0.0 dns.slinkyman.net
 0.0.0.0 dns1.slowb.ro
 0.0.0.0 dns2.slowb.ro
-0.0.0.0 001.smallnode.net
 0.0.0.0 smartcamp.su
 0.0.0.0 dns.smartguard.io
 0.0.0.0 singy.smartq.dev

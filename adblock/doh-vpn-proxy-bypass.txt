@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Apr 2026 09:24 UTC
-! Version: 2026.0419.0924.51
+! Last modified: 19 Apr 2026 16:51 UTC
+! Version: 2026.0419.1651.48
 ! Syntax: AdBlock
-! Number of entries: 18153
+! Number of entries: 18146
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -13928,14 +13928,12 @@
 ||slovovpn.help^
 ||dns1.slowb.ro^
 ||dns2.slowb.ro^
-||001.smallnode.net^
 ||smart-sense.org^
 ||smartcamp.su^
 ||smartdnsproxy.com^
 ||onlyforschool123.smarter-homes.com^
 ||lunarsync.smartfoloo.space^
 ||dns.smartguard.io^
-||edison.smartinnovation.md^
 ||ma.smartjz.cn^
 ||smartproxy.com^
 ||webproxy.smartproxy.org^
@@ -14640,7 +14638,6 @@
 ||tagvpnglobal.com^
 ||tagweb.vip^
 ||tagxx.vip^
-||taicha5.online^
 ||tailnet.ru^
 ||tailscale.com^
 ||taishan.pro^
@@ -14783,7 +14780,6 @@
 ||test3.net^
 ||testbs.net^
 ||testdomainname.xyz^
-||p-nation.testing4fun.xyz^
 ||supported.testing4fun.xyz^
 ||testred.xyz^
 ||testvpn.info^
@@ -14805,7 +14801,6 @@
 ||thankvpn.com^
 ||the-cloak.com^
 ||typingpractice.theantzfarm.space^
-||unplatonicallydiybt.theantzfarm.space^
 ||102.theartieschaffer.com^
 ||111.theartieschaffer.com^
 ||116.theartieschaffer.com^
@@ -14851,7 +14846,6 @@
 ||thehoney.net^
 ||thehoneyponger.org^
 ||adguard.theil.dev^
-||bigantfarm.thejeremybecker.com^
 ||thejungla.com^
 ||ela.smart.thelecks.com^
 ||themathoffun.xyz^
@@ -15105,7 +15099,6 @@
 ||totorocloud.info^
 ||totorocloud.net^
 ||totorocloud.org^
-||touch-vpn.net^
 ||cease.touchofpink.ca^
 ||touchvpn.net^
 ||touhou.tel^

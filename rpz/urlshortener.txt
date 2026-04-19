@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776584400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776617520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 07:40 UTC
-; Version: 2026.0419.0740.34
+; Last modified: 19 Apr 2026 16:52 UTC
+; Version: 2026.0419.1652.30
 ; Syntax: RPZ
-; Number of entries: 20046
+; Number of entries: 20024
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -259,8 +259,6 @@ shkurt.al CNAME .
 *.shkurt.al CNAME .
 short.al CNAME .
 *.short.al CNAME .
-sosi.al CNAME .
-*.sosi.al CNAME .
 sosy.al CNAME .
 *.sosy.al CNAME .
 topt.al CNAME .
@@ -1125,8 +1123,6 @@ shortlab.bio CNAME .
 *.shortlab.bio CNAME .
 shorty.bio CNAME .
 *.shorty.bio CNAME .
-stick.bio CNAME .
-*.stick.bio CNAME .
 t2mm.bio CNAME .
 *.t2mm.bio CNAME .
 tapto.bio CNAME .
@@ -1959,8 +1955,6 @@ sh7.ch CNAME .
 *.sh7.ch CNAME .
 shoort.ch CNAME .
 *.shoort.ch CNAME .
-shrtn.ch CNAME .
-*.shrtn.ch CNAME .
 shurl.ch CNAME .
 *.shurl.ch CNAME .
 link.stluzi.ch CNAME .
@@ -2113,8 +2107,6 @@ t77reg.click CNAME .
 *.t77reg.click CNAME .
 tapthelink.click CNAME .
 *.tapthelink.click CNAME .
-tautan.click CNAME .
-*.tautan.click CNAME .
 urlshort.click CNAME .
 *.urlshort.click CNAME .
 vipcair.click CNAME .
@@ -6915,8 +6907,6 @@ link.takusuki.com CNAME .
 *.link.takusuki.com CNAME .
 talinker.com CNAME .
 *.talinker.com CNAME .
-tampz.com CNAME .
-*.tampz.com CNAME .
 tandcsurf.com CNAME .
 *.tandcsurf.com CNAME .
 tanitkazan.com CNAME .
@@ -7095,8 +7085,6 @@ titleagentmarketing.com CNAME .
 *.titleagentmarketing.com CNAME .
 tklinknow.com CNAME .
 *.tklinknow.com CNAME .
-tklinks.com CNAME .
-*.tklinks.com CNAME .
 tkqlhce.com CNAME .
 *.tkqlhce.com CNAME .
 tldrify.com CNAME .
@@ -7117,8 +7105,6 @@ tnyweb.com CNAME .
 *.tnyweb.com CNAME .
 to24r.com CNAME .
 *.to24r.com CNAME .
-tokalin.com CNAME .
-*.tokalin.com CNAME .
 toliyos.com CNAME .
 *.toliyos.com CNAME .
 link.tomalvarez.com CNAME .
@@ -7177,8 +7163,6 @@ trceme.com CNAME .
 *.trceme.com CNAME .
 treelinked.com CNAME .
 *.treelinked.com CNAME .
-trenddynamo.com CNAME .
-*.trenddynamo.com CNAME .
 treszki.com CNAME .
 *.treszki.com CNAME .
 triggerbee.com CNAME .
@@ -15953,8 +15937,6 @@ t2m.one CNAME .
 *.t2m.one CNAME .
 tiny.one CNAME .
 *.tiny.one CNAME .
-tnyurl.one CNAME .
-*.tnyurl.one CNAME .
 tpt.one CNAME .
 *.tpt.one CNAME .
 trim.one CNAME .
@@ -17061,8 +17043,6 @@ short24.pw CNAME .
 *.short24.pw CNAME .
 u.shxj.pw CNAME .
 *.u.shxj.pw CNAME .
-sura.pw CNAME .
-*.sura.pw CNAME .
 tcp.pw CNAME .
 *.tcp.pw CNAME .
 tmt.pw CNAME .
@@ -17883,8 +17863,6 @@ shorten.so CNAME .
 *.shorten.so CNAME .
 shortorigin.so CNAME .
 *.shortorigin.so CNAME .
-stk.so CNAME .
-*.stk.so CNAME .
 tik.so CNAME .
 *.tik.so CNAME .
 tny.so CNAME .

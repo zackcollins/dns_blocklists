@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 09:17 UTC
-# Version: 2026.0419.0917.35
+# Last modified: 19 Apr 2026 16:53 UTC
+# Version: 2026.0419.1653.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12371
+# Number of entries: 12363
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -9094,6 +9094,7 @@ local=/skymovieshd.credit/
 local=/skymovieshd.cv/
 local=/skymovieshd.diy/
 local=/skymovieshd.earth/
+local=/skymovieshd.fast/
 local=/skymovieshd.guru/
 local=/skymovieshd.house/
 local=/skymovieshd.land/
@@ -9541,7 +9542,6 @@ local=/streaming-series.org/
 local=/streamingaddons.xyz/
 local=/streamingcommunity.actor/
 local=/streamingcommunity.ag/
-local=/streamingcommunity.airforce/
 local=/streamingcommunity.app/
 local=/streamingcommunity.army/
 local=/streamingcommunity.asia/
@@ -9597,7 +9597,6 @@ local=/streamingcommunity.garden/
 local=/streamingcommunity.help/
 local=/streamingcommunity.icu/
 local=/streamingcommunity.info/
-local=/streamingcommunity.io/
 local=/streamingcommunity.ist/
 local=/streamingcommunity.it/
 local=/streamingcommunity.kaufen/
@@ -9933,11 +9932,9 @@ local=/supremesecurityteam.com/
 local=/surrealmoviez.info/
 local=/susflix.tv/
 local=/suspic.com/
-local=/suteki-yume.net/
 local=/suzihaza.com/
 local=/sverigeplay.tv/
 local=/swapnonetwork.net/
-local=/swatchseries.info/
 local=/swatchseries.is/
 local=/swatchseries.ru/
 local=/swatchseries.to/
@@ -9999,7 +9996,6 @@ local=/tantifilm.club/
 local=/tantifilm.coach/
 local=/tantifilm.com/
 local=/tantifilm.cool/
-local=/tantifilm.diy/
 local=/tantifilm.education/
 local=/tantifilm.eu/
 local=/tantifilm.exchange/
@@ -10012,10 +10008,7 @@ local=/tantifilm.it/
 local=/tantifilm.kaufen/
 local=/tantifilm.land/
 local=/tantifilm.lat/
-local=/tantifilm.live/
-local=/tantifilm.living/
 local=/tantifilm.locker/
-local=/tantifilm.mba/
 local=/tantifilm.me/
 local=/tantifilm.mobi/
 local=/tantifilm.name/
@@ -10360,7 +10353,6 @@ local=/tollytorrents.com/
 local=/toloka.to/
 local=/trun.tom.ru/
 local=/tomehub.xyz/
-local=/tomoa.net/
 local=/toolba.se/
 local=/toolhip.com/
 local=/toolzu.com/

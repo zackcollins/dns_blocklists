@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776590640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776617460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 09:24 UTC
-; Version: 2026.0419.0924.02
+; Last modified: 19 Apr 2026 16:51 UTC
+; Version: 2026.0419.1651.03
 ; Syntax: RPZ
-; Number of entries: 6958
+; Number of entries: 6956
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -4333,8 +4333,6 @@ test4.adg.siudzinski.net CNAME .
 *.test4.adg.siudzinski.net CNAME .
 dns.slinkyman.net CNAME .
 *.dns.slinkyman.net CNAME .
-001.smallnode.net CNAME .
-*.001.smallnode.net CNAME .
 home.snow-sugar.net CNAME .
 *.home.snow-sugar.net CNAME .
 clientdns3.softcom.net CNAME .

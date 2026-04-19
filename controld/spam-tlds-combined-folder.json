@@ -6139,6 +6139,13 @@
       }
     },
     {
+      "PK": "redtiger.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rehab",
       "action": {
         "do": 0,
@@ -6427,6 +6434,13 @@
     },
     {
       "PK": "scalable.capital",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "scayle.shop",
       "action": {
         "do": 1,
         "status": 1

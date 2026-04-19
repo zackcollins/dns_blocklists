@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 09:24 UTC
-# Version: 2026.0419.0924.02
+# Last modified: 19 Apr 2026 16:51 UTC
+# Version: 2026.0419.1651.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3479
+# Number of entries: 3478
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2948,7 +2948,6 @@ local=/homeguard.sleziona.org/
 local=/dns.slinkyman.net/
 local=/dns1.slowb.ro/
 local=/dns2.slowb.ro/
-local=/001.smallnode.net/
 local=/smartcamp.su/
 local=/dns.smartguard.io/
 local=/singy.smartq.dev/

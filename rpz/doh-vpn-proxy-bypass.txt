@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776590640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776617460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 09:24 UTC
-; Version: 2026.0419.0924.51
+; Last modified: 19 Apr 2026 16:51 UTC
+; Version: 2026.0419.1651.48
 ; Syntax: RPZ
-; Number of entries: 36306
+; Number of entries: 36292
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -14407,8 +14407,6 @@ thefreevpn.com CNAME .
 *.thefreevpn.com CNAME .
 arts.sage.thehitechhouse.com CNAME .
 *.arts.sage.thehitechhouse.com CNAME .
-bigantfarm.thejeremybecker.com CNAME .
-*.bigantfarm.thejeremybecker.com CNAME .
 thejungla.com CNAME .
 *.thejungla.com CNAME .
 ela.smart.thelecks.com CNAME .
@@ -22081,8 +22079,6 @@ d0.tada.ly CNAME .
 *.d0.tada.ly CNAME .
 bl.eq.md CNAME .
 *.bl.eq.md CNAME .
-edison.smartinnovation.md CNAME .
-*.edison.smartinnovation.md CNAME .
 hunger.vlad.md CNAME .
 *.hunger.vlad.md CNAME .
 idontlikecookiesbrowniesarebettterngl.vlad.md CNAME .
@@ -26577,8 +26573,6 @@ skyvpn.net CNAME .
 *.skyvpn.net CNAME .
 dns.slinkyman.net CNAME .
 *.dns.slinkyman.net CNAME .
-001.smallnode.net CNAME .
-*.001.smallnode.net CNAME .
 home.snow-sugar.net CNAME .
 *.home.snow-sugar.net CNAME .
 socks-proxy.net CNAME .
@@ -26793,8 +26787,6 @@ torservers.net CNAME .
 *.torservers.net CNAME .
 totorocloud.net CNAME .
 *.totorocloud.net CNAME .
-touch-vpn.net CNAME .
-*.touch-vpn.net CNAME .
 touchvpn.net CNAME .
 *.touchvpn.net CNAME .
 edgex.trafficmanager.net CNAME .
@@ -28037,8 +28029,6 @@ szmbkf5rsqiidboo6.online CNAME .
 *.szmbkf5rsqiidboo6.online CNAME .
 t2hd3gctgprggas.online CNAME .
 *.t2hd3gctgprggas.online CNAME .
-taicha5.online CNAME .
-*.taicha5.online CNAME .
 tfqo8qfkxjlta4r5e13wig9.online CNAME .
 *.tfqo8qfkxjlta4r5e13wig9.online CNAME .
 tns5gcwfy.online CNAME .
@@ -32945,8 +32935,6 @@ suyinx.space CNAME .
 *.suyinx.space CNAME .
 typingpractice.theantzfarm.space CNAME .
 *.typingpractice.theantzfarm.space CNAME .
-unplatonicallydiybt.theantzfarm.space CNAME .
-*.unplatonicallydiybt.theantzfarm.space CNAME .
 thriftychoice.space CNAME .
 *.thriftychoice.space CNAME .
 tqwrf6t2g.space CNAME .
@@ -35943,8 +35931,6 @@ thakkali.teej.xyz CNAME .
 *.thakkali.teej.xyz CNAME .
 testdomainname.xyz CNAME .
 *.testdomainname.xyz CNAME .
-p-nation.testing4fun.xyz CNAME .
-*.p-nation.testing4fun.xyz CNAME .
 supported.testing4fun.xyz CNAME .
 *.supported.testing4fun.xyz CNAME .
 testred.xyz CNAME .

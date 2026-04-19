@@ -4691,6 +4691,13 @@
       }
     },
     {
+      "PK": "redtiger.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "reit.bar",
       "action": {
         "do": 1,
@@ -4874,6 +4881,13 @@
     },
     {
       "PK": "scalable.capital",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "scayle.shop",
       "action": {
         "do": 1,
         "status": 1

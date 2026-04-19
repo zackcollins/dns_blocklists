@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 09:24 UTC
-# Version: 2026.0419.0924.51
+# Last modified: 19 Apr 2026 16:51 UTC
+# Version: 2026.0419.1651.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18153
+# Number of entries: 18146
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -13927,14 +13927,12 @@ local=/dns.slinkyman.net/
 local=/slovovpn.help/
 local=/dns1.slowb.ro/
 local=/dns2.slowb.ro/
-local=/001.smallnode.net/
 local=/smart-sense.org/
 local=/smartcamp.su/
 local=/smartdnsproxy.com/
 local=/onlyforschool123.smarter-homes.com/
 local=/lunarsync.smartfoloo.space/
 local=/dns.smartguard.io/
-local=/edison.smartinnovation.md/
 local=/ma.smartjz.cn/
 local=/smartproxy.com/
 local=/webproxy.smartproxy.org/
@@ -14639,7 +14637,6 @@ local=/tagvpn.xyz/
 local=/tagvpnglobal.com/
 local=/tagweb.vip/
 local=/tagxx.vip/
-local=/taicha5.online/
 local=/tailnet.ru/
 local=/tailscale.com/
 local=/taishan.pro/
@@ -14782,7 +14779,6 @@ local=/dns.tesem.dog/
 local=/test3.net/
 local=/testbs.net/
 local=/testdomainname.xyz/
-local=/p-nation.testing4fun.xyz/
 local=/supported.testing4fun.xyz/
 local=/testred.xyz/
 local=/testvpn.info/
@@ -14804,7 +14800,6 @@ local=/voidnettty.thanatos.com/
 local=/thankvpn.com/
 local=/the-cloak.com/
 local=/typingpractice.theantzfarm.space/
-local=/unplatonicallydiybt.theantzfarm.space/
 local=/102.theartieschaffer.com/
 local=/111.theartieschaffer.com/
 local=/116.theartieschaffer.com/
@@ -14850,7 +14845,6 @@ local=/kylespringiseeyou.thehomeserver.net/
 local=/thehoney.net/
 local=/thehoneyponger.org/
 local=/adguard.theil.dev/
-local=/bigantfarm.thejeremybecker.com/
 local=/thejungla.com/
 local=/ela.smart.thelecks.com/
 local=/themathoffun.xyz/
@@ -15104,7 +15098,6 @@ local=/totorocloud.cc/
 local=/totorocloud.info/
 local=/totorocloud.net/
 local=/totorocloud.org/
-local=/touch-vpn.net/
 local=/cease.touchofpink.ca/
 local=/touchvpn.net/
 local=/touhou.tel/

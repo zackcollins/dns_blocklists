@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776590220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776617580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 09:17 UTC
-; Version: 2026.0419.0917.35
+; Last modified: 19 Apr 2026 16:53 UTC
+; Version: 2026.0419.1653.00
 ; Syntax: RPZ
-; Number of entries: 24742
+; Number of entries: 24726
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -146,8 +146,6 @@ weflix.ai CNAME .
 *.weflix.ai CNAME .
 yts.ai CNAME .
 *.yts.ai CNAME .
-streamingcommunity.airforce CNAME .
-*.streamingcommunity.airforce CNAME .
 alice.al CNAME .
 *.alice.al CNAME .
 altadefinizione.al CNAME .
@@ -9384,8 +9382,6 @@ streamingcommunity.discount CNAME .
 *.streamingcommunity.discount CNAME .
 skymovieshd.diy CNAME .
 *.skymovieshd.diy CNAME .
-tantifilm.diy CNAME .
-*.tantifilm.diy CNAME .
 vegamovies.diy CNAME .
 *.vegamovies.diy CNAME .
 vegamoviesa.diy CNAME .
@@ -9812,6 +9808,8 @@ hdmovie2.fashion CNAME .
 *.hdmovie2.fashion CNAME .
 hdmovie2.fast CNAME .
 *.hdmovie2.fast CNAME .
+skymovieshd.fast CNAME .
+*.skymovieshd.fast CNAME .
 hdmovie2.feedback CNAME .
 *.hdmovie2.feedback CNAME .
 coflix.fi CNAME .
@@ -11354,8 +11352,6 @@ streamingcommunityz.info CNAME .
 *.streamingcommunityz.info CNAME .
 surrealmoviez.info CNAME .
 *.surrealmoviez.info CNAME .
-swatchseries.info CNAME .
-*.swatchseries.info CNAME .
 thebeehive.info CNAME .
 *.thebeehive.info CNAME .
 thehiddenbay.info CNAME .
@@ -11710,8 +11706,6 @@ streamcomplet.io CNAME .
 *.streamcomplet.io CNAME .
 streameast.io CNAME .
 *.streameast.io CNAME .
-streamingcommunity.io CNAME .
-*.streamingcommunity.io CNAME .
 strem.io CNAME .
 *.strem.io CNAME .
 t411.io CNAME .
@@ -12606,8 +12600,6 @@ superseries.live CNAME .
 *.superseries.live CNAME .
 supertvaovivo.live CNAME .
 *.supertvaovivo.live CNAME .
-tantifilm.live CNAME .
-*.tantifilm.live CNAME .
 thepirate.live CNAME .
 *.thepirate.live CNAME .
 thepiratebay1.live CNAME .
@@ -12648,8 +12640,6 @@ yassflix.live CNAME .
 *.yassflix.live CNAME .
 yifymoviesmx.live CNAME .
 *.yifymoviesmx.live CNAME .
-tantifilm.living CNAME .
-*.tantifilm.living CNAME .
 fmovies.llc CNAME .
 *.fmovies.llc CNAME .
 gidonline.llc CNAME .
@@ -12924,8 +12914,6 @@ skymovieshd.mba CNAME .
 *.skymovieshd.mba CNAME .
 streamingcommunityz.mba CNAME .
 *.streamingcommunityz.mba CNAME .
-tantifilm.mba CNAME .
-*.tantifilm.mba CNAME .
 123moviesfull.me CNAME .
 *.123moviesfull.me CNAME .
 123moviestv.me CNAME .
@@ -15316,8 +15304,6 @@ super-warez.net CNAME .
 *.super-warez.net CNAME .
 supercartoons.net CNAME .
 *.supercartoons.net CNAME .
-suteki-yume.net CNAME .
-*.suteki-yume.net CNAME .
 swapnonetwork.net CNAME .
 *.swapnonetwork.net CNAME .
 sidewinderx.sytes.net CNAME .
@@ -15390,8 +15376,6 @@ titaniumstresser.net CNAME .
 *.titaniumstresser.net CNAME .
 todoilegal.net CNAME .
 *.todoilegal.net CNAME .
-tomoa.net CNAME .
-*.tomoa.net CNAME .
 toonova.net CNAME .
 *.toonova.net CNAME .
 topbytes.net CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 07:40 UTC
-# Version: 2026.0419.0740.34
+# Last modified: 19 Apr 2026 16:52 UTC
+# Version: 2026.0419.1652.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10023
+# Number of entries: 10012
 #
 local=/0.gp/
 local=/00m.in/
@@ -7400,7 +7400,6 @@ local=/shrtly.net/
 local=/shrtm.nu/
 local=/shrtme.link/
 local=/shrtn.app/
-local=/shrtn.ch/
 local=/shrtn.ee/
 local=/shrtn.io/
 local=/shrtna.com/
@@ -7693,7 +7692,6 @@ local=/sophy.ca/
 local=/sor.bz/
 local=/sorc.me/
 local=/sorkale.me/
-local=/sosi.al/
 local=/sosy.al/
 local=/sosyal.one/
 local=/sou.nu/
@@ -7815,8 +7813,6 @@ local=/steps2unlock.com/
 local=/steveendow.link/
 local=/stfly.me/
 local=/stgevent.com/
-local=/stick.bio/
-local=/stk.so/
 local=/stke.xyz/
 local=/stllna.com/
 local=/link.stluzi.ch/
@@ -7884,7 +7880,6 @@ local=/supr.cl/
 local=/supr.link/
 local=/supurlman.com/
 local=/sur.ly/
-local=/sura.pw/
 local=/surayafans.com/
 local=/surkali.me/
 local=/surl.be/
@@ -7995,7 +7990,6 @@ local=/link.takusuki.com/
 local=/talinker.com/
 local=/tam.fyi/
 local=/tamar.is/
-local=/tampz.com/
 local=/tamthangnam.life/
 local=/tandcsurf.com/
 local=/tanitkazan.com/
@@ -8016,7 +8010,6 @@ local=/tapurl.net/
 local=/tapz.in/
 local=/targeterpro.com/
 local=/tau.lu/
-local=/tautan.click/
 local=/tautin.id/
 local=/tawk.link/
 local=/taxace.net/
@@ -8304,7 +8297,6 @@ local=/tj.wtf/
 local=/tj-bet88.store/
 local=/tkla.be/
 local=/tklinknow.com/
-local=/tklinks.com/
 local=/tkno.co/
 local=/tkopod.co/
 local=/tkpd.me/
@@ -8363,7 +8355,6 @@ local=/tny.ws/
 local=/tny.xyz/
 local=/tnyer.com/
 local=/tnyr.me/
-local=/tnyurl.one/
 local=/tnyurl.pro/
 local=/tnyweb.com/
 local=/to.lk/
@@ -8377,7 +8368,6 @@ local=/tog.li/
 local=/tohle.de/
 local=/toi.in/
 local=/l.tok.tv/
-local=/tokalin.com/
 local=/tokogenie.online/
 local=/tokopedia.link/
 local=/toliveal.ie/
@@ -8457,7 +8447,6 @@ local=/trck.biz/
 local=/trck.gg/
 local=/trck.me/
 local=/treelinked.com/
-local=/trenddynamo.com/
 local=/tres.at/
 local=/treszki.com/
 local=/trezurl.ir/
