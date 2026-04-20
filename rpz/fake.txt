@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776618540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776670800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 17:09 UTC
-; Version: 2026.0419.1709.58
+; Last modified: 20 Apr 2026 07:40 UTC
+; Version: 2026.0420.0740.44
 ; Syntax: RPZ
-; Number of entries: 29038
+; Number of entries: 29014
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -12318,8 +12318,6 @@ obermeyerski.com CNAME .
 *.obermeyerski.com CNAME .
 objectivew.com CNAME .
 *.objectivew.com CNAME .
-obmarkets.com CNAME .
-*.obmarkets.com CNAME .
 obozboots.com CNAME .
 *.obozboots.com CNAME .
 obozdeutschland.com CNAME .
@@ -13998,6 +13996,8 @@ rgoconnell.com CNAME .
 *.rgoconnell.com CNAME .
 rheingolddusseldorf.com CNAME .
 *.rheingolddusseldorf.com CNAME .
+rhodeshotel24.com CNAME .
+*.rhodeshotel24.com CNAME .
 ri-lieeoodu.com CNAME .
 *.ri-lieeoodu.com CNAME .
 ricadihotelspage.com CNAME .
@@ -14594,8 +14594,6 @@ separaten.com CNAME .
 *.separaten.com CNAME .
 sepgoal.com CNAME .
 *.sepgoal.com CNAME .
-sepkicks.com CNAME .
-*.sepkicks.com CNAME .
 seprun.com CNAME .
 *.seprun.com CNAME .
 serendiplty.com CNAME .
@@ -16822,8 +16820,6 @@ upifex.com CNAME .
 *.upifex.com CNAME .
 uplifeshop.com CNAME .
 *.uplifeshop.com CNAME .
-upshiftade.com CNAME .
-*.upshiftade.com CNAME .
 upsolutmv.com CNAME .
 *.upsolutmv.com CNAME .
 urban-assests.com CNAME .
@@ -16992,8 +16988,6 @@ variableh.com CNAME .
 *.variableh.com CNAME .
 varierfurnitureelite.com CNAME .
 *.varierfurnitureelite.com CNAME .
-varioustool.com CNAME .
-*.varioustool.com CNAME .
 vasagleaugeschaft.com CNAME .
 *.vasagleaugeschaft.com CNAME .
 vasaglede.com CNAME .
@@ -17096,8 +17090,6 @@ verkehrsbande.com CNAME .
 *.verkehrsbande.com CNAME .
 verkettet-dogs.com CNAME .
 *.verkettet-dogs.com CNAME .
-vermoegensvermittler.com CNAME .
-*.vermoegensvermittler.com CNAME .
 veroshell.com CNAME .
 *.veroshell.com CNAME .
 versandpharma.com CNAME .
@@ -17194,8 +17186,6 @@ viking-cnc.com CNAME .
 *.viking-cnc.com CNAME .
 viking-solutions.com CNAME .
 *.viking-solutions.com CNAME .
-vilbridis.com CNAME .
-*.vilbridis.com CNAME .
 villause.com CNAME .
 *.villause.com CNAME .
 vimoraberlin.com CNAME .
@@ -17304,8 +17294,6 @@ vollmer-replica.com CNAME .
 *.vollmer-replica.com CNAME .
 voltabuy.com CNAME .
 *.voltabuy.com CNAME .
-voltbankinternational.com CNAME .
-*.voltbankinternational.com CNAME .
 voncleir.com CNAME .
 *.voncleir.com CNAME .
 vonngallery.com CNAME .
@@ -17484,8 +17472,6 @@ webstorerx.com CNAME .
 *.webstorerx.com CNAME .
 weconti.com CNAME .
 *.weconti.com CNAME .
-wegoflight.com CNAME .
-*.wegoflight.com CNAME .
 wegovymexicopharmacy.com CNAME .
 *.wegovymexicopharmacy.com CNAME .
 weinekaufen.com CNAME .
@@ -17826,8 +17812,6 @@ xn--clarksespaa-beb.com CNAME .
 *.xn--clarksespaa-beb.com CNAME .
 xn--clarkszrich-zhb.com CNAME .
 *.xn--clarkszrich-zhb.com CNAME .
-xn--hellyhansenbelgi-prb.com CNAME .
-*.xn--hellyhansenbelgi-prb.com CNAME .
 xn--hellyhansenespaa-lub.com CNAME .
 *.xn--hellyhansenespaa-lub.com CNAME .
 xn--hellyhansenper-yrb.com CNAME .
@@ -18036,8 +18020,6 @@ zenistitch.com CNAME .
 *.zenistitch.com CNAME .
 zenniagoods.com CNAME .
 *.zenniagoods.com CNAME .
-zenorylab.com CNAME .
-*.zenorylab.com CNAME .
 zentempel.com CNAME .
 *.zentempel.com CNAME .
 zentrof.com CNAME .
@@ -24534,8 +24516,6 @@ vansion.de CNAME .
 *.vansion.de CNAME .
 vanss.de CNAME .
 *.vanss.de CNAME .
-vapecheap.de CNAME .
-*.vapecheap.de CNAME .
 vapegunstig.de CNAME .
 *.vapegunstig.de CNAME .
 vapeversorgung.de CNAME .
@@ -24956,8 +24936,6 @@ wolkenweichboutique.de CNAME .
 *.wolkenweichboutique.de CNAME .
 wolkyschuheoutlet.de CNAME .
 *.wolkyschuheoutlet.de CNAME .
-wolkyschuheoutlets.de CNAME .
-*.wolkyschuheoutlets.de CNAME .
 womanism.de CNAME .
 *.womanism.de CNAME .
 womma.de CNAME .
@@ -25650,6 +25628,8 @@ scannero.io CNAME .
 *.scannero.io CNAME .
 smartpills.io CNAME .
 *.smartpills.io CNAME .
+streakk.io CNAME .
+*.streakk.io CNAME .
 summit.io CNAME .
 *.summit.io CNAME .
 superether.io CNAME .
@@ -25756,8 +25736,6 @@ tradewave.live CNAME .
 *.tradewave.live CNAME .
 web.tyrioncapital.live CNAME .
 *.web.tyrioncapital.live CNAME .
-uwrak.live CNAME .
-*.uwrak.live CNAME .
 bremets.lol CNAME .
 *.bremets.lol CNAME .
 lorcnsee.lol CNAME .
@@ -28574,8 +28552,6 @@ velvet-mode.store CNAME .
 *.velvet-mode.store CNAME .
 vendorhub.store CNAME .
 *.vendorhub.store CNAME .
-verummarkt.store CNAME .
-*.verummarkt.store CNAME .
 viroset.store CNAME .
 *.viroset.store CNAME .
 vixi.store CNAME .

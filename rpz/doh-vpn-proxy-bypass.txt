@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776617460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776676740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 16:51 UTC
-; Version: 2026.0419.1651.48
+; Last modified: 20 Apr 2026 09:19 UTC
+; Version: 2026.0420.0919.51
 ; Syntax: RPZ
-; Number of entries: 36292
+; Number of entries: 36238
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -27,8 +27,6 @@ extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
 standard.mask.ad CNAME .
 *.standard.mask.ad CNAME .
-unblocked.africa CNAME .
-*.unblocked.africa CNAME .
 lightspeed-filter.agency CNAME .
 *.lightspeed-filter.agency CNAME .
 bebra.ai CNAME .
@@ -3195,8 +3193,6 @@ uproxy.club CNAME .
 *.uproxy.club CNAME .
 webproxy.club CNAME .
 *.webproxy.club CNAME .
-woodbridge.club CNAME .
-*.woodbridge.club CNAME .
 084899.cn CNAME .
 *.084899.cn CNAME .
 doh.18bit.cn CNAME .
@@ -15125,8 +15121,6 @@ viewlak.com CNAME .
 *.viewlak.com CNAME .
 vikingvpn.com CNAME .
 *.vikingvpn.com CNAME .
-viraldopes.com CNAME .
-*.viraldopes.com CNAME .
 virtual-browser.com CNAME .
 *.virtual-browser.com CNAME .
 graph.solve.virtualinhouselawyer.com CNAME .
@@ -15911,8 +15905,6 @@ xn--9kq493dllb.com CNAME .
 *.xn--9kq493dllb.com CNAME .
 xn--9kq49ds2x.com CNAME .
 *.xn--9kq49ds2x.com CNAME .
-xn--9kq52er5gcqrbyb.com CNAME .
-*.xn--9kq52er5gcqrbyb.com CNAME .
 xn--9kq565htcb.com CNAME .
 *.xn--9kq565htcb.com CNAME .
 xn--9kq58id0d9xtmzb.com CNAME .
@@ -16257,8 +16249,6 @@ xn--fenda-gj2n9hl7aj59h.com CNAME .
 *.xn--fenda-gj2n9hl7aj59h.com CNAME .
 xn--fetx50be7pf6w.com CNAME .
 *.xn--fetx50be7pf6w.com CNAME .
-xn--fhq389femyc1d.com CNAME .
-*.xn--fhq389femyc1d.com CNAME .
 xn--fhqrmk05jmna.com CNAME .
 *.xn--fhqrmk05jmna.com CNAME .
 xn--fiq626gzzgkv2a.com CNAME .
@@ -18049,8 +18039,6 @@ vsrv15195.customer.xenway.de CNAME .
 *.vsrv15195.customer.xenway.de CNAME .
 xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
-danielspendis.org.ycare.de CNAME .
-*.danielspendis.org.ycare.de CNAME .
 your-freedom.de CNAME .
 *.your-freedom.de CNAME .
 ys4.de CNAME .
@@ -18059,8 +18047,6 @@ adguard-kartoffel.zernico.de CNAME .
 *.adguard-kartoffel.zernico.de CNAME .
 adguard01.zitronen-server.de CNAME .
 *.adguard01.zitronen-server.de CNAME .
-zproxy.de CNAME .
-*.zproxy.de CNAME .
 surfshark.deals CNAME .
 *.surfshark.deals CNAME .
 streamlined.delivery CNAME .
@@ -19195,8 +19181,6 @@ mathematics-pemdas.wiki.gd CNAME .
 *.mathematics-pemdas.wiki.gd CNAME .
 utale.snowdin.wiki.gd CNAME .
 *.utale.snowdin.wiki.gd CNAME .
-void.wiki.gd CNAME .
-*.void.wiki.gd CNAME .
 bookisgood.work.gd CNAME .
 *.bookisgood.work.gd CNAME .
 masons-math.work.gd CNAME .
@@ -19615,8 +19599,6 @@ topic.teach.pacbell.hk CNAME .
 *.topic.teach.pacbell.hk CNAME .
 chillenglish.spot.hk CNAME .
 *.chillenglish.spot.hk CNAME .
-daily-or.weekly.hk CNAME .
-*.daily-or.weekly.hk CNAME .
 adguard.yare.hk CNAME .
 *.adguard.yare.hk CNAME .
 blob.ro0t.hm CNAME .
@@ -27407,8 +27389,6 @@ dns.huth.nu CNAME .
 *.dns.huth.nu CNAME .
 proxy.nu CNAME .
 *.proxy.nu CNAME .
-unblocked.nu CNAME .
-*.unblocked.nu CNAME .
 3x.nz CNAME .
 *.3x.nz CNAME .
 bo.what.cloudns.nz CNAME .
@@ -28135,8 +28115,6 @@ zxhybrol.online CNAME .
 *.zxhybrol.online CNAME .
 zy4jwdenh.online CNAME .
 *.zy4jwdenh.online CNAME .
-zydgv3p5szc.online CNAME .
-*.zydgv3p5szc.online CNAME .
 ktm.ooo CNAME .
 *.ktm.ooo CNAME .
 kuailian.ooo CNAME .
@@ -33279,14 +33257,6 @@ webproxy.to CNAME .
 *.webproxy.to CNAME .
 wssht.to CNAME .
 *.wssht.to CNAME .
-lone.zoho.to CNAME .
-*.lone.zoho.to CNAME .
-meadow.zoho.to CNAME .
-*.meadow.zoho.to CNAME .
-mathstudyhub.o.zoho.to CNAME .
-*.mathstudyhub.o.zoho.to CNAME .
-securly.zoho.to CNAME .
-*.securly.zoho.to CNAME .
 bailey.today CNAME .
 *.bailey.today CNAME .
 batch.today CNAME .
@@ -34611,8 +34581,6 @@ unblocked2.vip CNAME .
 *.unblocked2.vip CNAME .
 uproxy.vip CNAME .
 *.uproxy.vip CNAME .
-v2ny.vip CNAME .
-*.v2ny.vip CNAME .
 vonodefly.vip CNAME .
 *.vonodefly.vip CNAME .
 web3jsq.vip CNAME .
@@ -35969,8 +35937,6 @@ ur.xyz CNAME .
 *.ur.xyz CNAME .
 dns.usualposts.xyz CNAME .
 *.dns.usualposts.xyz CNAME .
-v2ny.xyz CNAME .
-*.v2ny.xyz CNAME .
 v4trojn.xyz CNAME .
 *.v4trojn.xyz CNAME .
 dns.vaioswolke.xyz CNAME .
@@ -35997,8 +35963,6 @@ vipfive.xyz CNAME .
 *.vipfive.xyz CNAME .
 vipfour.xyz CNAME .
 *.vipfour.xyz CNAME .
-vipoo8eo.xyz CNAME .
-*.vipoo8eo.xyz CNAME .
 vipthree.xyz CNAME .
 *.vipthree.xyz CNAME .
 vlspeed.xyz CNAME .
@@ -36037,8 +36001,6 @@ woodstockschool.xyz CNAME .
 *.woodstockschool.xyz CNAME .
 wuat2.xyz CNAME .
 *.wuat2.xyz CNAME .
-wuf2ooch.xyz CNAME .
-*.wuf2ooch.xyz CNAME .
 wyrhub.xyz CNAME .
 *.wyrhub.xyz CNAME .
 adguard.x88x.xyz CNAME .
@@ -36065,10 +36027,6 @@ xn--14ra41gd24b.xyz CNAME .
 *.xn--14ra41gd24b.xyz CNAME .
 xn--5-zi0bm50cope.xyz CNAME .
 *.xn--5-zi0bm50cope.xyz CNAME .
-xn--9kq52er5gcqrbyb.xyz CNAME .
-*.xn--9kq52er5gcqrbyb.xyz CNAME .
-xn--9kq52et30a.xyz CNAME .
-*.xn--9kq52et30a.xyz CNAME .
 xn--akkcloud-le7n539j.xyz CNAME .
 *.xn--akkcloud-le7n539j.xyz CNAME .
 xn--dlqs4sc0nope.xyz CNAME .
@@ -36099,18 +36057,6 @@ zapov2.xyz CNAME .
 *.zapov2.xyz CNAME .
 zavento.xyz CNAME .
 *.zavento.xyz CNAME .
-zc074.xyz CNAME .
-*.zc074.xyz CNAME .
-zc075.xyz CNAME .
-*.zc075.xyz CNAME .
-zc076.xyz CNAME .
-*.zc076.xyz CNAME .
-zc077.xyz CNAME .
-*.zc077.xyz CNAME .
-zc078.xyz CNAME .
-*.zc078.xyz CNAME .
-zc079.xyz CNAME .
-*.zc079.xyz CNAME .
 zc080.xyz CNAME .
 *.zc080.xyz CNAME .
 zc081.xyz CNAME .

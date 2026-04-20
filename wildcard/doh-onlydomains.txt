@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 16:51 UTC
-# Version: 2026.0419.1651.03
+# Last modified: 20 Apr 2026 09:18 UTC
+# Version: 2026.0420.0918.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 3478
+# Number of entries: 3477
 #
 ss.0001.xyz
 003153.xyz
@@ -3345,7 +3345,6 @@ dns.wns.watch
 dnsbk.wns.watch
 ag.wntrmute.net
 block-solution.wolfplaces.com
-woodbridge.club
 dns.woodyli.dev
 doh.ndmc.work.gd
 dds.wpme.pl

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 16:52 UTC
-# Version: 2026.0419.1652.30
+# Last modified: 20 Apr 2026 07:42 UTC
+# Version: 2026.0420.0742.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10012
+# Number of entries: 9999
 #
 local=/0.gp/
 local=/00m.in/
@@ -8820,11 +8820,9 @@ local=/url88.online/
 local=/url8x.com/
 local=/urla.ru/
 local=/urladda.com/
-local=/urlah.com/
 local=/urlao.com/
 local=/urlaz.com/
 local=/urlb.io/
-local=/urlb.link/
 local=/urlbae.com/
 local=/urlbee.site/
 local=/urlbit.co/
@@ -9002,7 +9000,6 @@ local=/urlverkorten.nl/
 local=/urlw.com/
 local=/urlx.ie/
 local=/urlx.org/
-local=/urlxh.com/
 local=/urlxray.com/
 local=/urly.co/
 local=/urly.fi/
@@ -9282,11 +9279,9 @@ local=/viraln.co/
 local=/viralpep.com/
 local=/virl.com/
 local=/url.virtualstr8pnp.com/
-local=/visionia.site/
 local=/urls.visionrocket.com/
 local=/visit.my/
 local=/visit.st/
-local=/visitame.app/
 local=/visitmy.link/
 local=/visitmylinks.com/
 local=/visitsitenow.com/
@@ -9327,7 +9322,6 @@ local=/vodafone.uk/
 local=/vog.me/
 local=/vogue.cm/
 local=/voicetu.be/
-local=/volamtruyenky.life/
 local=/volvocars.us/
 local=/vonq.io/
 local=/vov.li/
@@ -9460,7 +9454,6 @@ local=/biolink.webtena.com/
 local=/qr.webtibo.com/
 local=/webtoolmaster.com/
 local=/webtrafficxxl.com/
-local=/webtte.com/
 local=/webz.cc/
 local=/wec.li/
 local=/wed.li/
@@ -9539,7 +9532,6 @@ local=/withtask.com/
 local=/witly.online/
 local=/wiwir.cc/
 local=/curt.wiz.co/
-local=/wizardsinvest.ru/
 local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/
@@ -9636,7 +9628,6 @@ local=/x2c.eu/
 local=/x2l.ir/
 local=/x2t.com/
 local=/x2y.me/
-local=/x3.cx/
 local=/x5n.cn/
 local=/x7.lv/
 local=/x89.us/
@@ -9902,7 +9893,6 @@ local=/zenlinkit.com/
 local=/zensus.io/
 local=/zenurl.in/
 local=/zephb.com/
-local=/zeroshort.xyz/
 local=/zetir.com/
 local=/url.zeus27.com/
 local=/zeus4d.mom/
@@ -9962,13 +9952,11 @@ local=/znym.co/
 local=/znz.kr/
 local=/zo.cm/
 local=/zobzob.com/
-local=/zoho.to/
 local=/bio.zoluu.co/
 local=/zom.ink/
 local=/zom.io/
 local=/zonearcad.xyz/
 local=/l.zonepl.net/
-local=/zoneurl.net/
 local=/zoodl.com/
 local=/zop.gr/
 local=/zopen.to/
@@ -9997,7 +9985,6 @@ local=/zsms.net/
 local=/zsr.link/
 local=/zt.ms/
 local=/zti.me/
-local=/zubbit.io/
 local=/zuitte.com/
 local=/zuitte.io/
 local=/zuki.ie/

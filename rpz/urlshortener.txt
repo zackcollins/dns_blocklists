@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776617520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776670920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 16:52 UTC
-; Version: 2026.0419.1652.30
+; Last modified: 20 Apr 2026 07:42 UTC
+; Version: 2026.0420.0742.34
 ; Syntax: RPZ
-; Number of entries: 20024
+; Number of entries: 19998
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -663,8 +663,6 @@ urlsss.vercel.app CNAME .
 *.urlsss.vercel.app CNAME .
 zipurl.vercel.app CNAME .
 *.zipurl.vercel.app CNAME .
-visitame.app CNAME .
-*.visitame.app CNAME .
 w.app CNAME .
 *.w.app CNAME .
 h4g3z1-urlshortener.web.app CNAME .
@@ -7359,8 +7357,6 @@ url8x.com CNAME .
 *.url8x.com CNAME .
 urladda.com CNAME .
 *.urladda.com CNAME .
-urlah.com CNAME .
-*.urlah.com CNAME .
 urlao.com CNAME .
 *.urlao.com CNAME .
 urlaz.com CNAME .
@@ -7523,8 +7519,6 @@ urlverkorten.com CNAME .
 *.urlverkorten.com CNAME .
 urlw.com CNAME .
 *.urlw.com CNAME .
-urlxh.com CNAME .
-*.urlxh.com CNAME .
 urlxray.com CNAME .
 *.urlxray.com CNAME .
 urlyte.com CNAME .
@@ -7707,8 +7701,6 @@ webtoolmaster.com CNAME .
 *.webtoolmaster.com CNAME .
 webtrafficxxl.com CNAME .
 *.webtrafficxxl.com CNAME .
-webtte.com CNAME .
-*.webtte.com CNAME .
 go.weesify.com CNAME .
 *.go.weesify.com CNAME .
 go.weplayholding.com CNAME .
@@ -8001,8 +7993,6 @@ trim.cx CNAME .
 *.trim.cx CNAME .
 vix.cx CNAME .
 *.vix.cx CNAME .
-x3.cx CNAME .
-*.x3.cx CNAME .
 myurl.cy CNAME .
 *.myurl.cy CNAME .
 url.cy CNAME .
@@ -11411,8 +11401,6 @@ zpr.io CNAME .
 *.zpr.io CNAME .
 zshort.io CNAME .
 *.zshort.io CNAME .
-zubbit.io CNAME .
-*.zubbit.io CNAME .
 zuitte.io CNAME .
 *.zuitte.io CNAME .
 1da.ir CNAME .
@@ -12435,8 +12423,6 @@ tiger388.life CNAME .
 *.tiger388.life CNAME .
 vnvodich.life CNAME .
 *.vnvodich.life CNAME .
-volamtruyenky.life CNAME .
-*.volamtruyenky.life CNAME .
 win7.life CNAME .
 *.win7.life CNAME .
 e.lilly CNAME .
@@ -13133,8 +13119,6 @@ url24.link CNAME .
 *.url24.link CNAME .
 url724.link CNAME .
 *.url724.link CNAME .
-urlb.link CNAME .
-*.urlb.link CNAME .
 urlbutter.link CNAME .
 *.urlbutter.link CNAME .
 urlify.link CNAME .
@@ -15659,8 +15643,6 @@ zipurl.net CNAME .
 *.zipurl.net CNAME .
 l.zonepl.net CNAME .
 *.l.zonepl.net CNAME .
-zoneurl.net CNAME .
-*.zoneurl.net CNAME .
 go.zordo.net CNAME .
 *.go.zordo.net CNAME .
 zshort.net CNAME .
@@ -17367,8 +17349,6 @@ urlme.ru CNAME .
 *.urlme.ru CNAME .
 w09.ru CNAME .
 *.w09.ru CNAME .
-wizardsinvest.ru CNAME .
-*.wizardsinvest.ru CNAME .
 yalink.ru CNAME .
 *.yalink.ru CNAME .
 z23.ru CNAME .
@@ -17773,8 +17753,6 @@ urlsx.site CNAME .
 *.urlsx.site CNAME .
 vipslot4d.site CNAME .
 *.vipslot4d.site CNAME .
-visionia.site CNAME .
-*.visionia.site CNAME .
 wapicome.site CNAME .
 *.wapicome.site CNAME .
 zeleaks.site CNAME .
@@ -18601,8 +18579,6 @@ youlink.to CNAME .
 *.youlink.to CNAME .
 zass.to CNAME .
 *.zass.to CNAME .
-zoho.to CNAME .
-*.zoho.to CNAME .
 zopen.to CNAME .
 *.zopen.to CNAME .
 zyp.to CNAME .
@@ -20013,8 +19989,6 @@ y30.xyz CNAME .
 *.y30.xyz CNAME .
 url.yousufraissi.xyz CNAME .
 *.url.yousufraissi.xyz CNAME .
-zeroshort.xyz CNAME .
-*.zeroshort.xyz CNAME .
 zonearcad.xyz CNAME .
 *.zonearcad.xyz CNAME .
 lkdg.yoga CNAME .
