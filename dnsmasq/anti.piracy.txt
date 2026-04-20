@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Apr 2026 09:12 UTC
-# Version: 2026.0420.0912.24
+# Last modified: 20 Apr 2026 14:52 UTC
+# Version: 2026.0420.1452.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12375
+# Number of entries: 12377
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -4910,6 +4910,7 @@ local=/hdfilme.top/
 local=/hdfilme.tube/
 local=/hdfilme.tv/
 local=/hdfilme.uno/
+local=/hdfilme.win/
 local=/hdfilme-to.my/
 local=/hdfilme-to.top/
 local=/hdfilme-tv.cc/
@@ -6595,6 +6596,7 @@ local=/megakino2.com/
 local=/megakino2.net/
 local=/megakino2.org/
 local=/megakino3.com/
+local=/megakino3.org/
 local=/megakinox.top/
 local=/megamanmaker.com/
 local=/megamodapk.com/

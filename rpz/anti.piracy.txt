@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776676320 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776696720 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Apr 2026 09:12 UTC
-; Version: 2026.0420.0912.24
+; Last modified: 20 Apr 2026 14:52 UTC
+; Version: 2026.0420.1452.17
 ; Syntax: RPZ
-; Number of entries: 24750
+; Number of entries: 24754
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -17334,6 +17334,8 @@ megakino1.org CNAME .
 *.megakino1.org CNAME .
 megakino2.org CNAME .
 *.megakino2.org CNAME .
+megakino3.org CNAME .
+*.megakino3.org CNAME .
 meganova.org CNAME .
 *.meganova.org CNAME .
 megapeer.org CNAME .
@@ -23750,6 +23752,8 @@ filmpertutti.win CNAME .
 *.filmpertutti.win CNAME .
 flixtor.win CNAME .
 *.flixtor.win CNAME .
+hdfilme.win CNAME .
+*.hdfilme.win CNAME .
 rakettv.win CNAME .
 *.rakettv.win CNAME .
 seriesvault.win CNAME .

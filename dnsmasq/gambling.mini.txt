@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Apr 2026 09:11 UTC
-# Version: 2026.0420.0911.49
+# Last modified: 20 Apr 2026 14:57 UTC
+# Version: 2026.0420.1457.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 37432
+# Number of entries: 37431
 #
 local=/0-0-7casino.com/
 local=/0-0-casino.com/
@@ -19177,7 +19177,6 @@ local=/heypokiescasino.com/
 local=/heyspin.com/
 local=/heyspin-casino-dk.com/
 local=/hg-casino.pl/
-local=/hg13888.com/
 local=/hg66sdt65nfx64.com/
 local=/hgcasino.pl/
 local=/hgonline.net/
