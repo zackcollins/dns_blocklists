@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Apr 2026 09:19 UTC
-! Version: 2026.0420.0919.51
+! Last modified: 21 Apr 2026 09:31 UTC
+! Version: 2026.0421.0931.01
 ! Syntax: AdBlock
-! Number of entries: 18119
+! Number of entries: 18121
 !
 ||000000555.xyz^
 ||ss.0001.xyz^
@@ -2141,6 +2141,7 @@
 ||booeuu.com^
 ||booiuu.com^
 ||bookcar92.com^
+||bookerndy.com^
 ||booket.cf^
 ||bookkey82.com^
 ||bookpen82.com^
@@ -9576,6 +9577,7 @@
 ||landcenter.site^
 ||landenglinktools.com^
 ||landerbrauver.ru^
+||www-magma-mantle.laneesports.com^
 ||lanfancloud.info^
 ||lanfanyunclash.com^
 ||lanfanyunjc.com^

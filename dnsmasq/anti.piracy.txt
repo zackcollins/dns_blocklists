@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Apr 2026 14:52 UTC
-# Version: 2026.0420.1452.17
+# Last modified: 21 Apr 2026 09:23 UTC
+# Version: 2026.0421.0923.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12377
+# Number of entries: 12379
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -4873,6 +4873,7 @@ local=/hddvdrip.com/
 local=/hdencode.com/
 local=/hdencode.org/
 local=/hdf.world/
+local=/hdfilmcehennemi.llc/
 local=/hdfilmcehennemi.now/
 local=/hdfilmcehennemi27.com/
 local=/hdfilme.app/
@@ -4916,6 +4917,7 @@ local=/hdfilme-to.top/
 local=/hdfilme-tv.cc/
 local=/hdfilme321.buzz/
 local=/hdfilmizle22.com/
+local=/hdfilmizle24.com/
 local=/hdfreaks.cc/
 local=/hdfull.cam/
 local=/hdfull.lv/

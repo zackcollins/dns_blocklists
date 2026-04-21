@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776676740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776763860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Apr 2026 09:19 UTC
-; Version: 2026.0420.0919.51
+; Last modified: 21 Apr 2026 09:31 UTC
+; Version: 2026.0421.0931.01
 ; Syntax: RPZ
-; Number of entries: 36238
+; Number of entries: 36242
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -5503,6 +5503,8 @@ booiuu.com CNAME .
 *.booiuu.com CNAME .
 bookcar92.com CNAME .
 *.bookcar92.com CNAME .
+bookerndy.com CNAME .
+*.bookerndy.com CNAME .
 bookkey82.com CNAME .
 *.bookkey82.com CNAME .
 bookpen82.com CNAME .
@@ -10551,6 +10553,8 @@ cdns.lagzerotm.com CNAME .
 *.cdns.lagzerotm.com CNAME .
 landenglinktools.com CNAME .
 *.landenglinktools.com CNAME .
+www-magma-mantle.laneesports.com CNAME .
+*.www-magma-mantle.laneesports.com CNAME .
 lanfanyunclash.com CNAME .
 *.lanfanyunclash.com CNAME .
 lanfanyunjc.com CNAME .

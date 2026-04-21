@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Apr 2026 09:18 UTC
-# Version: 2026.0420.0918.46
+# Last modified: 21 Apr 2026 09:30 UTC
+# Version: 2026.0421.0930.04
 # Syntax: Domains (without subdomains)
-# Number of entries: 3477
+# Number of entries: 3478
 #
 ss.0001.xyz
 003153.xyz
@@ -2703,6 +2703,7 @@ ns1.qquack.org
 dns.qrtz.club
 qstam.ru
 hostdare.qtxd.net
+alpha-dns.quad9.net
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net

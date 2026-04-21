@@ -1106,6 +1106,13 @@
       }
     },
     {
+      "PK": "cf-equality.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cfw.guide",
       "action": {
         "do": 1,
@@ -3927,6 +3934,13 @@
       }
     },
     {
+      "PK": "layers.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "leafbrowser.site",
       "action": {
         "do": 1,
@@ -4308,6 +4322,13 @@
       "PK": "*.luxe",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "lyyti.events",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -5362,6 +5383,13 @@
       }
     },
     {
+      "PK": "outpost.pub",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "owl-dampfer.shop",
       "action": {
         "do": 1,
@@ -5755,6 +5783,13 @@
     },
     {
       "PK": "ppt.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pravatar.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -8004,6 +8039,13 @@
       "PK": "*.wedding",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wedos.delivery",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

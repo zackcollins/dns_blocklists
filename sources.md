@@ -104,6 +104,7 @@ https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/genera
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
@@ -219,6 +220,7 @@ https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/a
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.wildcard.list
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/sakib-m/BDIX-Piracy-Blocklist/refs/heads/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackers.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json
