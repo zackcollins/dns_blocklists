@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Apr 2026 09:23 UTC
-# Version: 2026.0421.0923.00
+# Last modified: 21 Apr 2026 17:02 UTC
+# Version: 2026.0421.1702.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 35775
+# Number of entries: 35777
 #
 local=/0-0-7casino.com/
 local=/0-0-casino.com/
@@ -2068,6 +2068,7 @@ local=/376333.casino/
 local=/3768.casino/
 local=/37686.casino/
 local=/376m.casino/
+local=/web-377bet-vip-2025-377betcom-377.377-hello.com/
 local=/3770.casino/
 local=/3776.casino/
 local=/3778.casino/
@@ -10249,7 +10250,6 @@ local=/casinocomparison24.com/
 local=/casinoconti-be.com/
 local=/casinocorehub.com/
 local=/casinocorgibet.org/
-local=/casinocornwall.com/
 local=/casinocoronis.com/
 local=/casinocosmopol.se/
 local=/casinocoupon.codes/
@@ -15731,7 +15731,6 @@ local=/fair-go.casino/
 local=/fair-go-casino.ca/
 local=/faircasinos-es.com/
 local=/faircasinos-it.com/
-local=/fairfieldcountyvets.org/
 local=/fairg0games.club/
 local=/fairgo.casino/
 local=/fairgo.com/
@@ -19162,6 +19161,7 @@ local=/ivibetcasino.se/
 local=/ivibetx.com/
 local=/ivicasino12.com/
 local=/ivicasinosistersites.online/
+local=/ivorytower.de/
 local=/ivsdb.com/
 local=/ivycasino.com/
 local=/iw001.com/
@@ -23409,7 +23409,6 @@ local=/mostbet-casino-app.ru/
 local=/mostbet-casino-ar.com/
 local=/mostbet-casino-az24.com/
 local=/mostbet-casino-betting.ru/
-local=/mostbet-casino-fr.com/
 local=/mostbet-casino-gold.ru/
 local=/mostbet-casino-hu.click/
 local=/mostbet-casino-kazakhstan.click/
@@ -31006,6 +31005,7 @@ local=/successtrendsms.com/
 local=/sudbury-casino.ca/
 local=/sudirman168.cyou/
 local=/sudirman168jp.shop/
+local=/suerte11.com/
 local=/suertebet.pro/
 local=/suffescom.com/
 local=/sugarcasino.com/
@@ -32441,6 +32441,7 @@ local=/u888linkcasino.com/
 local=/u888one.poker/
 local=/u888vip0.com/
 local=/u888vip1.com/
+local=/u888vip9.com/
 local=/u88game.com/
 local=/u88live.com/
 local=/u8s.casino/
@@ -35176,6 +35177,7 @@ local=/xei.casino/
 local=/xek.casino/
 local=/xemdagacampuchia.com/
 local=/xfv.casino/
+local=/xh77of6.com/
 local=/xi88plus.pro/
 local=/xiaofeihuang.com/
 local=/xibet.com/

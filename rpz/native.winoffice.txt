@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776697200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776791100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Apr 2026 15:00 UTC
-; Version: 2026.0420.1500.49
+; Last modified: 21 Apr 2026 17:05 UTC
+; Version: 2026.0421.1705.38
 ; Syntax: RPZ
 ; Number of entries: 776
 ;

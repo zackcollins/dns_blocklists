@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776763380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776790920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Apr 2026 09:23 UTC
-; Version: 2026.0421.0923.00
+; Last modified: 21 Apr 2026 17:02 UTC
+; Version: 2026.0421.1702.16
 ; Syntax: RPZ
-; Number of entries: 71550
+; Number of entries: 71554
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -14216,6 +14216,8 @@ images.191829838.com CNAME .
 *.36t8.com CNAME .
 3713n3.com CNAME .
 *.3713n3.com CNAME .
+web-377bet-vip-2025-377betcom-377.377-hello.com CNAME .
+*.web-377bet-vip-2025-377betcom-377.377-hello.com CNAME .
 37games.com CNAME .
 *.37games.com CNAME .
 images.384894992.com CNAME .
@@ -21772,8 +21774,6 @@ casinoconti-be.com CNAME .
 *.casinoconti-be.com CNAME .
 casinocorehub.com CNAME .
 *.casinocorehub.com CNAME .
-casinocornwall.com CNAME .
-*.casinocornwall.com CNAME .
 casinocoronis.com CNAME .
 *.casinocoronis.com CNAME .
 casinocraig.com CNAME .
@@ -34174,8 +34174,6 @@ mostbet-casino-ar.com CNAME .
 *.mostbet-casino-ar.com CNAME .
 mostbet-casino-az24.com CNAME .
 *.mostbet-casino-az24.com CNAME .
-mostbet-casino-fr.com CNAME .
-*.mostbet-casino-fr.com CNAME .
 mostbet-casino-ma.com CNAME .
 *.mostbet-casino-ma.com CNAME .
 mostbet-casino-morocco.com CNAME .
@@ -41622,6 +41620,8 @@ sucanhtranh.com CNAME .
 *.sucanhtranh.com CNAME .
 successtrendsms.com CNAME .
 *.successtrendsms.com CNAME .
+suerte11.com CNAME .
+*.suerte11.com CNAME .
 suffescom.com CNAME .
 *.suffescom.com CNAME .
 sugarcasino.com CNAME .
@@ -43156,6 +43156,8 @@ u888vip0.com CNAME .
 *.u888vip0.com CNAME .
 u888vip1.com CNAME .
 *.u888vip1.com CNAME .
+u888vip9.com CNAME .
+*.u888vip9.com CNAME .
 u88game.com CNAME .
 *.u88game.com CNAME .
 u88live.com CNAME .
@@ -45774,6 +45776,8 @@ xcitingslots.com CNAME .
 *.xcitingslots.com CNAME .
 xemdagacampuchia.com CNAME .
 *.xemdagacampuchia.com CNAME .
+xh77of6.com CNAME .
+*.xh77of6.com CNAME .
 xiaofeihuang.com CNAME .
 *.xiaofeihuang.com CNAME .
 xibet.com CNAME .
@@ -47008,6 +47012,8 @@ intertops.de CNAME .
 *.intertops.de CNAME .
 interwetten.de CNAME .
 *.interwetten.de CNAME .
+ivorytower.de CNAME .
+*.ivorytower.de CNAME .
 iwildcasino.de CNAME .
 *.iwildcasino.de CNAME .
 jackpot.de CNAME .
@@ -58924,8 +58930,6 @@ f1casinoo.org CNAME .
 *.f1casinoo.org CNAME .
 f999-casino.org CNAME .
 *.f999-casino.org CNAME .
-fairfieldcountyvets.org CNAME .
-*.fairfieldcountyvets.org CNAME .
 fairspin.org CNAME .
 *.fairspin.org CNAME .
 fancasinos.org CNAME .

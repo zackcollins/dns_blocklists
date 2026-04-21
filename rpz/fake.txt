@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776757500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776791640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Apr 2026 07:45 UTC
-; Version: 2026.0421.0745.28
+; Last modified: 21 Apr 2026 17:14 UTC
+; Version: 2026.0421.1714.19
 ; Syntax: RPZ
-; Number of entries: 29098
+; Number of entries: 29114
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1314,6 +1314,8 @@ emmafrey.ch CNAME .
 *.emmafrey.ch CNAME .
 farbenruhe.ch CNAME .
 *.farbenruhe.ch CNAME .
+foamr.ch CNAME .
+*.foamr.ch CNAME .
 fruechtepfluecken.ch CNAME .
 *.fruechtepfluecken.ch CNAME .
 gut-daheim.ch CNAME .
@@ -1336,6 +1338,8 @@ meinehundemarke.ch CNAME .
 *.meinehundemarke.ch CNAME .
 mia-modehaus.ch CNAME .
 *.mia-modehaus.ch CNAME .
+okuracookware.ch CNAME .
+*.okuracookware.ch CNAME .
 olley.ch CNAME .
 *.olley.ch CNAME .
 ortho-vital.ch CNAME .
@@ -10118,6 +10122,8 @@ lavera-zurich.com CNAME .
 *.lavera-zurich.com CNAME .
 laxnds.com CNAME .
 *.laxnds.com CNAME .
+layer-shop.com CNAME .
+*.layer-shop.com CNAME .
 lbzdzx.com CNAME .
 *.lbzdzx.com CNAME .
 lcfservice.com CNAME .
@@ -12334,8 +12340,6 @@ nylsinv.com CNAME .
 *.nylsinv.com CNAME .
 nze.com CNAME .
 *.nze.com CNAME .
-oakgetloft.com CNAME .
-*.oakgetloft.com CNAME .
 oakhabitsy.com CNAME .
 *.oakhabitsy.com CNAME .
 obdclick.com CNAME .
@@ -17214,6 +17218,8 @@ viennaaustrohotel.com CNAME .
 *.viennaaustrohotel.com CNAME .
 viennameerschaum.com CNAME .
 *.viennameerschaum.com CNAME .
+viennamode.com CNAME .
+*.viennamode.com CNAME .
 vierjahreszeitengarten.com CNAME .
 *.vierjahreszeitengarten.com CNAME .
 viforex.com CNAME .
@@ -18852,6 +18858,8 @@ bestoil24.de CNAME .
 *.bestoil24.de CNAME .
 beti-digital.de CNAME .
 *.beti-digital.de CNAME .
+betrugsexperten.de CNAME .
+*.betrugsexperten.de CNAME .
 betrugsrecht.de CNAME .
 *.betrugsrecht.de CNAME .
 betthimmel.de CNAME .
@@ -20292,6 +20300,8 @@ fluxoil.de CNAME .
 *.fluxoil.de CNAME .
 flyhighshop.de CNAME .
 *.flyhighshop.de CNAME .
+foamr.de CNAME .
+*.foamr.de CNAME .
 fomozo.de CNAME .
 *.fomozo.de CNAME .
 footvibe.de CNAME .
@@ -20386,6 +20396,8 @@ fuechsefussball.de CNAME .
 *.fuechsefussball.de CNAME .
 fuehrungsregister.de CNAME .
 *.fuehrungsregister.de CNAME .
+fuelmeister.de CNAME .
+*.fuelmeister.de CNAME .
 fundrock-group.de CNAME .
 *.fundrock-group.de CNAME .
 fussballarea.de CNAME .
@@ -22970,6 +22982,8 @@ ojoro-tech.de CNAME .
 *.ojoro-tech.de CNAME .
 okbon.de CNAME .
 *.okbon.de CNAME .
+okuracookware.de CNAME .
+*.okuracookware.de CNAME .
 olangdeutschland.de CNAME .
 *.olangdeutschland.de CNAME .
 olangsdeutschland.de CNAME .
@@ -23008,6 +23022,8 @@ onitsuka-tiger.de CNAME .
 *.onitsuka-tiger.de CNAME .
 onkel-nolte.de CNAME .
 *.onkel-nolte.de CNAME .
+online-betrugs-hilfe.de CNAME .
+*.online-betrugs-hilfe.de CNAME .
 onlinedamen.de CNAME .
 *.onlinedamen.de CNAME .
 only-baby.de CNAME .
@@ -26516,6 +26532,8 @@ europabestellung.nl CNAME .
 *.europabestellung.nl CNAME .
 exango.nl CNAME .
 *.exango.nl CNAME .
+foamr.nl CNAME .
+*.foamr.nl CNAME .
 gesundes-investment.nl CNAME .
 *.gesundes-investment.nl CNAME .
 hildathelabel.nl CNAME .
@@ -27074,8 +27092,6 @@ hotelsinperm.ru CNAME .
 *.hotelsinperm.ru CNAME .
 affenzahn.sbs CNAME .
 *.affenzahn.sbs CNAME .
-asfinag.sbs CNAME .
-*.asfinag.sbs CNAME .
 auresthiqan.sbs CNAME .
 *.auresthiqan.sbs CNAME .
 corestationsystems.sbs CNAME .

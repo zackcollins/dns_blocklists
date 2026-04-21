@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Apr 2026 07:45 UTC
-# Version: 2026.0421.0745.28
+# Last modified: 21 Apr 2026 17:14 UTC
+# Version: 2026.0421.1714.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14549
+# Number of entries: 14557
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -769,7 +769,6 @@ local=/asela-handel.de/
 local=/asfig-strasse.com/
 local=/asfimarg.com/
 local=/asfinac.shop/
-local=/asfinag.sbs/
 local=/asfinag.shop/
 local=/asfinag-vignette.com/
 local=/asfinay.com/
@@ -1421,6 +1420,7 @@ local=/betonspot.com/
 local=/betrendy.site/
 local=/betrmode.com/
 local=/betrug.law/
+local=/betrugsexperten.de/
 local=/betrugsrecht.de/
 local=/bettbezugrabatt.com/
 local=/bettdeckenkissen.com/
@@ -4627,6 +4627,9 @@ local=/fm-fx.com/
 local=/fmarketx.com/
 local=/fmi-finance.com/
 local=/fmtrader.com/
+local=/foamr.ch/
+local=/foamr.de/
+local=/foamr.nl/
 local=/fodgramstar.com/
 local=/fogatoshop.com/
 local=/fokoomall.com/
@@ -4807,6 +4810,7 @@ local=/fuechsefussball.de/
 local=/fuehrungsregister.de/
 local=/fuehrungszeugnis.at/
 local=/fuelglovet.com/
+local=/fuelmeister.de/
 local=/fugespace.com/
 local=/fugitive.top/
 local=/fuhrmann.store/
@@ -7559,6 +7563,7 @@ local=/lavina-berlin.de/
 local=/laviza.de/
 local=/laxnds.com/
 local=/layda-handel.de/
+local=/layer-shop.com/
 local=/geschirrspueler.lbspro.at/
 local=/lbzdzx.com/
 local=/lcfservice.com/
@@ -9527,7 +9532,6 @@ local=/nyfolk.de/
 local=/nylsinv.com/
 local=/nze.com/
 local=/oakdalerotary.org/
-local=/oakgetloft.com/
 local=/oakhabitsy.com/
 local=/obagroup.site/
 local=/obaspa.store/
@@ -9671,6 +9675,8 @@ local=/adl.okhxm.shop/
 local=/okjordans.com/
 local=/okohausplus.com/
 local=/okun.shop/
+local=/okuracookware.ch/
+local=/okuracookware.de/
 local=/olangdeutschland.de/
 local=/olangsdeutschland.de/
 local=/olanzas.de/
@@ -9739,6 +9745,7 @@ local=/onitsukatigervogue.com/
 local=/onkel-nolte.de/
 local=/online-apotek.no/
 local=/online-arbeit.com/
+local=/online-betrugs-hilfe.de/
 local=/online-file-converter.com/
 local=/online-firmenfinder.com/
 local=/online-health-pharm.com/
@@ -13656,6 +13663,7 @@ local=/vienna-stil.at/
 local=/viennaapartments.org/
 local=/viennaaustrohotel.com/
 local=/viennameerschaum.com/
+local=/viennamode.com/
 local=/viennastil.at/
 local=/vientooffice.de/
 local=/vierjahreszeitengarten.com/
