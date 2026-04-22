@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Apr 2026 09:19 UTC
-! Version: 2026.0420.0919.36
+! Last modified: 22 Apr 2026 09:26 UTC
+! Version: 2026.0422.0926.02
 ! Syntax: AdBlock
-! Number of entries: 3472
+! Number of entries: 3473
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2699,6 +2699,7 @@
 ||dns.qrtz.club^
 ||qstam.ru^
 ||hostdare.qtxd.net^
+||alpha-dns.quad9.net^
 ||dns.quad9.net^
 ||dns-nosec.quad9.net^
 ||dns10.quad9.net^
