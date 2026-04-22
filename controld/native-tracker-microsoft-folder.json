@@ -645,6 +645,13 @@
       }
     },
     {
+      "PK": "citrixanalyticseh3-alias.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "citrixanalyticseh-alias.servicebus.windows.net",
       "action": {
         "do": 0,

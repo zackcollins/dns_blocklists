@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776791100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776877500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Apr 2026 17:05 UTC
-; Version: 2026.0421.1705.38
+; Last modified: 22 Apr 2026 17:05 UTC
+; Version: 2026.0422.1705.22
 ; Syntax: RPZ
-; Number of entries: 776
+; Number of entries: 778
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -738,6 +738,8 @@ citrixanalyticseh2.servicebus.windows.net CNAME .
 *.citrixanalyticseh2.servicebus.windows.net CNAME .
 citrixanalyticseh2-alias.servicebus.windows.net CNAME .
 *.citrixanalyticseh2-alias.servicebus.windows.net CNAME .
+citrixanalyticseh3-alias.servicebus.windows.net CNAME .
+*.citrixanalyticseh3-alias.servicebus.windows.net CNAME .
 citrixanalyticsehaps.servicebus.windows.net CNAME .
 *.citrixanalyticsehaps.servicebus.windows.net CNAME .
 citrixanalyticsehaps-alias.servicebus.windows.net CNAME .

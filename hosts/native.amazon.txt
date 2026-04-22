@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Apr 2026 17:04 UTC
-# Version: 2026.0421.1704.45
+# Last modified: 22 Apr 2026 17:04 UTC
+# Version: 2026.0422.1704.21
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 683
+# Number of entries: 688
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -276,6 +276,7 @@
 0.0.0.0 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.web.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -467,6 +468,7 @@
 0.0.0.0 ott.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 ott.us-west.aps.axp.amazon-adsystem.com
 0.0.0.0 paa-reporting-advertising.amazon
+0.0.0.0 pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -530,6 +532,7 @@
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 sponsored-ads-fe.amazon-adsystem.com
+0.0.0.0 sponsored-ads-na.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads.aps.amazon-adsystem.com
@@ -652,9 +655,11 @@
 0.0.0.0 web-banner.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell7001.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell7002.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8001.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8002.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8003.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8004.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8005.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8006.ads.aps.amazon-adsystem.com
 0.0.0.0 web-video.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ads.aps.amazon-adsystem.com
