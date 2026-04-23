@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Apr 2026 09:55 UTC
-# Version: 2026.0423.0955.17
+# Last modified: 23 Apr 2026 11:49 UTC
+# Version: 2026.0423.1149.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 92186
+# Number of entries: 92185
 #
 *.001260.xyz
 *.001270.xyz
@@ -8605,7 +8605,6 @@
 *.banglanewsexpress.com
 *.banglapanugolpo.com
 *.banglapanugolpo.online
-*.banglapedia.org
 *.banglasex.one
 *.banglasex.pro
 *.banglasexvideo.com

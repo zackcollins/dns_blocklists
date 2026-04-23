@@ -1751,6 +1751,13 @@
       }
     },
     {
+      "PK": "eventz.today",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ewe.moe",
       "action": {
         "do": 1,
@@ -6008,6 +6015,13 @@
     },
     {
       "PK": "virgile.men",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vitunleija.cash",
       "action": {
         "do": 1,
         "status": 1

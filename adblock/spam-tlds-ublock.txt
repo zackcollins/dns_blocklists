@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Apr 2026 16:37 UTC
-! Version: 2026.0422.1637.26
+! Last modified: 23 Apr 2026 12:09 UTC
+! Version: 2026.0423.1209.17
 ! Syntax: uBlock
 ! Number of latin TLDs: 286 - punycode TLDs: 151
 !
@@ -49,7 +49,7 @@
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc,domain=~commonspirit.careers
 ||casa^$doc,domain=~nabu.casa
-||cash^$doc,domain=~doe.cash|~redtiger.cash
+||cash^$doc,domain=~doe.cash|~redtiger.cash|~vitunleija.cash
 ||casino^$doc
 ||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~clashofmagic.cc|~coolkit.cc|~coopoo.cc|~crcon.cc|~datapump.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~fiedler.cc|~fito.cc|~forestapp.cc|~frontrow.cc|~godoflove.cc|~imgus.cc|~is.cc|~itead.cc|~libstc.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~nssm.cc|~postimg.cc|~ppt.cc|~pravatar.cc|~pretendo.cc|~ptt.cc|~pttweb.cc|~rapha.cc|~rapidcdn.cc|~reurl.cc|~road.cc|~rutracker.cc|~shottr.cc|~silca.cc|~sneakpeek.cc|~toxicland.cc|~ultra.cc|~ultracloud.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~yz168.cc|~zcyph.cc
 ||center^$doc,domain=~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
@@ -267,7 +267,7 @@
 ||tienda^$doc
 ||tires^$doc
 ||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
-||today^$doc,domain=~addtocart.today|~applefans.today|~archive.today|~futurology.today|~lemmy.today|~oceanhero.today|~oldweb.today|~som.today|~type.today
+||today^$doc,domain=~addtocart.today|~applefans.today|~archive.today|~eventz.today|~futurology.today|~lemmy.today|~oceanhero.today|~oldweb.today|~som.today|~type.today
 ||tokyo^$doc
 ||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~cpolar.top|~dinsden.top|~edgeless.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~noru.top|~pegelinux.top|~polar.top|~qwertycxz.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
 ||town^$doc,domain=~lofi.town|~tilde.town

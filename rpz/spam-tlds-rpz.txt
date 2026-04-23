@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776875820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1776946140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -14,8 +14,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Apr 2026 16:37 UTC
-; Version: 2026.0422.1637.26
+; Last modified: 23 Apr 2026 12:09 UTC
+; Version: 2026.0423.1209.17
 ; Syntax: RPZ
 ; Number of latin TLDs: 125/286
 ;

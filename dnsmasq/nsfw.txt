@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Apr 2026 09:55 UTC
-# Version: 2026.0423.0955.17
+# Last modified: 23 Apr 2026 11:49 UTC
+# Version: 2026.0423.1149.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 92186
+# Number of entries: 92185
 #
 local=/001260.xyz/
 local=/001270.xyz/
@@ -8605,7 +8605,6 @@ local=/bangland.co/
 local=/banglanewsexpress.com/
 local=/banglapanugolpo.com/
 local=/banglapanugolpo.online/
-local=/banglapedia.org/
 local=/banglasex.one/
 local=/banglasex.pro/
 local=/banglasexvideo.com/
