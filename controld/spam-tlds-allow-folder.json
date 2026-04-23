@@ -1478,13 +1478,6 @@
       }
     },
     {
-      "PK": "dood.work",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "dpc.pw",
       "action": {
         "do": 1,
@@ -2851,6 +2844,13 @@
     },
     {
       "PK": "keyboard-test.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "keys.casa",
       "action": {
         "do": 1,
         "status": 1

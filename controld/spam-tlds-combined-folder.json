@@ -1988,13 +1988,6 @@
       }
     },
     {
-      "PK": "dood.work",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.download",
       "action": {
         "do": 0,
@@ -3816,6 +3809,13 @@
     },
     {
       "PK": "keyboard-test.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "keys.casa",
       "action": {
         "do": 1,
         "status": 1

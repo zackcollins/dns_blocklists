@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Apr 2026 17:04 UTC
-# Version: 2026.0422.1704.21
+# Last modified: 23 Apr 2026 17:04 UTC
+# Version: 2026.0423.1704.11
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 688
+# Number of entries: 691
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -277,6 +277,7 @@ cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.web.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.web.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
+cell8002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -437,6 +438,8 @@ maws-aax-us-east-rtb.amazon-adsystem.com
 maws-aax-us-east-test4.amazon-adsystem.com
 maws-aax-us-east.amazon-adsystem.com
 maws-aax-us-pdx-rtb.amazon-adsystem.com
+mdtb-cf-1.ads.aps.amazon-adsystem.com
+mdtb-cf-2.ads.aps.amazon-adsystem.com
 mdtb-cf-3.ads.aps.amazon-adsystem.com
 mdtb-cf-4.ads.aps.amazon-adsystem.com
 mdtb-eu-2.ads.aps.amazon-adsystem.com
@@ -468,7 +471,7 @@ ott.eu-west.aps.axp.amazon-adsystem.com
 ott.us-east.aps.axp.amazon-adsystem.com
 ott.us-west.aps.axp.amazon-adsystem.com
 paa-reporting-advertising.amazon
-pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
+pdx.mobile.event-na.ads.aps.amazon-adsystem.com
 pg.bid-na.ads.aps.amazon-adsystem.com
 pg.event-na.ads.aps.amazon-adsystem.com
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
