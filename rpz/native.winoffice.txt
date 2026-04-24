@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777050360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777058940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Apr 2026 17:06 UTC
-; Version: 2026.0424.1706.22
+; Last modified: 24 Apr 2026 19:29 UTC
+; Version: 2026.0424.1929.48
 ; Syntax: RPZ
-; Number of entries: 778
+; Number of entries: 766
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -60,18 +60,6 @@ raka.bing.com CNAME .
 *.raka.bing.com CNAME .
 c.bingapis.com CNAME .
 *.c.bingapis.com CNAME .
-exo.nel.measure.office.net.sw.buhl-data.com CNAME .
-*.exo.nel.measure.office.net.sw.buhl-data.com CNAME .
-teams.nel.measure.office.net.sw.buhl-data.com CNAME .
-*.teams.nel.measure.office.net.sw.buhl-data.com CNAME .
-measure.office.net.cn.intinfra.com CNAME .
-*.measure.office.net.cn.intinfra.com CNAME .
-measure.office.net.cz.intinfra.com CNAME .
-*.measure.office.net.cz.intinfra.com CNAME .
-measure.office.net.in.intinfra.com CNAME .
-*.measure.office.net.in.intinfra.com CNAME .
-measure.office.net.us.intinfra.com CNAME .
-*.measure.office.net.us.intinfra.com CNAME .
 analytics.live.com CNAME .
 *.analytics.live.com CNAME .
 c.live.com CNAME .
