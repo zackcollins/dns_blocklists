@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Apr 2026 09:30 UTC
-! Version: 2026.0421.0930.04
+! Last modified: 24 Apr 2026 16:54 UTC
+! Version: 2026.0424.1654.58
 ! Syntax: AdBlock
-! Number of entries: 3478
+! Number of entries: 3470
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -397,7 +397,6 @@
 ||dns.bgeneto.com^
 ||dns.bibica.net^
 ||dns.bibitos.cc^
-||mydns.bielperes.me^
 ||httpdns.bilivideo.com^
 ||goga7777777.bissnes.org^
 ||ns3.bit-trail.nl^
@@ -481,7 +480,6 @@
 ||81xyz.brudnowski.eu^
 ||adguard.bse4792.site^
 ||doh.bt.com^
-||bubblex2.top^
 ||goose.buckyfan.net^
 ||doh.bugdns.com^
 ||stratus.bugz.fr^
@@ -898,10 +896,6 @@
 ||mikrobill.dns-cloud.net^
 ||proariel.dns-dynamic.net^
 ||dns-free.link^
-||dns1.dns-ga.de^
-||dns2.dns-ga.de^
-||dns3.dns-ga.de^
-||doh.dns-ga.de^
 ||dns.dns-heimdall.com^
 ||dns.dns-over-https.com^
 ||i.dns-over-https.tk^
@@ -1240,7 +1234,6 @@
 ||flyloadguard.dynu.net^
 ||quangdo92.dynu.net^
 ||saomai.dynu.com^
-||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||adg.dz.ax^
 ||az.dz4fun.top^
@@ -1591,7 +1584,6 @@
 ||dns.hannielzhang.com^
 ||jp.hannielzhang.com^
 ||d.hansj.cc^
-||dns.haoxuan.xyz^
 ||resolver.haringstad.com^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^

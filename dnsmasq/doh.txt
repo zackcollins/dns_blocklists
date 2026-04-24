@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Apr 2026 09:30 UTC
-# Version: 2026.0421.0930.04
+# Last modified: 24 Apr 2026 16:54 UTC
+# Version: 2026.0424.1654.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3478
+# Number of entries: 3470
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -396,7 +396,6 @@ local=/bestwon203.com/
 local=/dns.bgeneto.com/
 local=/dns.bibica.net/
 local=/dns.bibitos.cc/
-local=/mydns.bielperes.me/
 local=/httpdns.bilivideo.com/
 local=/goga7777777.bissnes.org/
 local=/ns3.bit-trail.nl/
@@ -480,7 +479,6 @@ local=/81.brudnowski.eu/
 local=/81xyz.brudnowski.eu/
 local=/adguard.bse4792.site/
 local=/doh.bt.com/
-local=/bubblex2.top/
 local=/goose.buckyfan.net/
 local=/doh.bugdns.com/
 local=/stratus.bugz.fr/
@@ -897,10 +895,6 @@ local=/dns.dns-53.us/
 local=/mikrobill.dns-cloud.net/
 local=/proariel.dns-dynamic.net/
 local=/dns-free.link/
-local=/dns1.dns-ga.de/
-local=/dns2.dns-ga.de/
-local=/dns3.dns-ga.de/
-local=/doh.dns-ga.de/
 local=/dns.dns-heimdall.com/
 local=/dns.dns-over-https.com/
 local=/i.dns-over-https.tk/
@@ -1239,7 +1233,6 @@ local=/adguard.ekhozie.dynu.net/
 local=/flyloadguard.dynu.net/
 local=/quangdo92.dynu.net/
 local=/saomai.dynu.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/adg.dz.ax/
 local=/az.dz4fun.top/
@@ -1590,7 +1583,6 @@ local=/dns.hanmey.de/
 local=/dns.hannielzhang.com/
 local=/jp.hannielzhang.com/
 local=/d.hansj.cc/
-local=/dns.haoxuan.xyz/
 local=/resolver.haringstad.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/

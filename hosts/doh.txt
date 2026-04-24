@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Apr 2026 09:30 UTC
-# Version: 2026.0421.0930.04
+# Last modified: 24 Apr 2026 16:54 UTC
+# Version: 2026.0424.1654.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3938
+# Number of entries: 3930
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -470,7 +470,6 @@
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
-0.0.0.0 mydns.bielperes.me
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 goga7777777.bissnes.org
 0.0.0.0 ns3.bit-trail.nl
@@ -559,7 +558,6 @@
 0.0.0.0 81xyz.brudnowski.eu
 0.0.0.0 adguard.bse4792.site
 0.0.0.0 doh.bt.com
-0.0.0.0 bubblex2.top
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
@@ -1067,10 +1065,6 @@
 0.0.0.0 mikrobill.dns-cloud.net
 0.0.0.0 proariel.dns-dynamic.net
 0.0.0.0 dns-free.link
-0.0.0.0 dns1.dns-ga.de
-0.0.0.0 dns2.dns-ga.de
-0.0.0.0 dns3.dns-ga.de
-0.0.0.0 doh.dns-ga.de
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk
@@ -1473,7 +1467,6 @@
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1840,7 +1833,6 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
-0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud

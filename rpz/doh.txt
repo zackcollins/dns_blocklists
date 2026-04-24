@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776763800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777049640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Apr 2026 09:30 UTC
-; Version: 2026.0421.0930.04
+; Last modified: 24 Apr 2026 16:54 UTC
+; Version: 2026.0424.1654.58
 ; Syntax: RPZ
-; Number of entries: 6956
+; Number of entries: 6940
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2045,14 +2045,6 @@ fdns1.dismail.de CNAME .
 *.fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 *.fdns2.dismail.de CNAME .
-dns1.dns-ga.de CNAME .
-*.dns1.dns-ga.de CNAME .
-dns2.dns-ga.de CNAME .
-*.dns2.dns-ga.de CNAME .
-dns3.dns-ga.de CNAME .
-*.dns3.dns-ga.de CNAME .
-doh.dns-ga.de CNAME .
-*.doh.dns-ga.de CNAME .
 adguard-koe.dns64.de CNAME .
 *.adguard-koe.dns64.de CNAME .
 srv01.dns64.de CNAME .
@@ -3443,8 +3435,6 @@ dns.axto.me CNAME .
 *.dns.axto.me CNAME .
 dns.b612.me CNAME .
 *.dns.b612.me CNAME .
-mydns.bielperes.me CNAME .
-*.mydns.bielperes.me CNAME .
 bluemood.me CNAME .
 *.bluemood.me CNAME .
 hk-adg.bluenight.me CNAME .
@@ -3941,8 +3931,6 @@ flyloadguard.dynu.net CNAME .
 *.flyloadguard.dynu.net CNAME .
 quangdo92.dynu.net CNAME .
 *.quangdo92.dynu.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -6199,8 +6187,6 @@ adh.51st.top CNAME .
 *.adh.51st.top CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
-bubblex2.top CNAME .
-*.bubblex2.top CNAME .
 catchen121299.top CNAME .
 *.catchen121299.top CNAME .
 alidns.cb1999.top CNAME .
@@ -6833,8 +6819,6 @@ agent.frankutils.xyz CNAME .
 *.agent.frankutils.xyz CNAME .
 performance.gosami.xyz CNAME .
 *.performance.gosami.xyz CNAME .
-dns.haoxuan.xyz CNAME .
-*.dns.haoxuan.xyz CNAME .
 v2-1.huwenqiang.xyz CNAME .
 *.v2-1.huwenqiang.xyz CNAME .
 opennic.i2pd.xyz CNAME .

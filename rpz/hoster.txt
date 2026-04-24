@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776587280 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777053780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Apr 2026 08:28 UTC
-; Version: 2026.0419.0828.15
+; Last modified: 24 Apr 2026 18:03 UTC
+; Version: 2026.0424.1803.20
 ; Syntax: RPZ
-; Number of entries: 2402
+; Number of entries: 2388
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -164,10 +164,6 @@ blogspot.cl CNAME .
 *.blogspot.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
-autoscolor.club CNAME .
-*.autoscolor.club CNAME .
-manfeature.club CNAME .
-*.manfeature.club CNAME .
 wapka.club CNAME .
 *.wapka.club CNAME .
 asia.cm CNAME .
@@ -516,8 +512,6 @@ fileave.com CNAME .
 *.fileave.com CNAME .
 financecryptoworld.com CNAME .
 *.financecryptoworld.com CNAME .
-financial-offer.com CNAME .
-*.financial-offer.com CNAME .
 firearms.com CNAME .
 *.firearms.com CNAME .
 fitnell.com CNAME .
@@ -1908,8 +1902,6 @@ netai.net CNAME .
 *.netai.net CNAME .
 onlinewebshop.net CNAME .
 *.onlinewebshop.net CNAME .
-page-suspension.net CNAME .
-*.page-suspension.net CNAME .
 pktriot.net CNAME .
 *.pktriot.net CNAME .
 ql4h.net CNAME .
@@ -2316,12 +2308,6 @@ welt.tl CNAME .
 *.welt.tl CNAME .
 land.to CNAME .
 *.land.to CNAME .
-artsold.top CNAME .
-*.artsold.top CNAME .
-datesize.top CNAME .
-*.datesize.top CNAME .
-mdtwo.top CNAME .
-*.mdtwo.top CNAME .
 moneyash.top CNAME .
 *.moneyash.top CNAME .
 pl-oferta-id2387942371.top CNAME .

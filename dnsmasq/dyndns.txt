@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 11:39 UTC
-# Version: 2026.0412.1139.04
+# Last modified: 24 Apr 2026 16:54 UTC
+# Version: 2026.0424.1654.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1486
+# Number of entries: 1480
 #
 local=/0000000000000000000000.com/
 local=/0x.no/
@@ -101,7 +101,6 @@ local=/authorizeddns.org/
 local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
-local=/awiki.org/
 local=/ax.lt/
 local=/b0tnet.com/
 local=/b33r.us/
@@ -350,7 +349,6 @@ local=/dsmynas.com/
 local=/dsmynas.net/
 local=/dsmynas.org/
 local=/dtdns.com/
-local=/dtdns.net/
 local=/dtdns.org/
 local=/dubya.info/
 local=/dubya.net/
@@ -382,7 +380,6 @@ local=/dynalias.org/
 local=/dynamai.com/
 local=/dynamic.domains/
 local=/dynamic-dns.net/
-local=/dynamic-dns.us/
 local=/dynamic-m.com/
 local=/dynamic-site.net/
 local=/dynamicdns.biz/
@@ -429,7 +426,6 @@ local=/dynme.ovh/
 local=/dynnamn.ru/
 local=/dynns.com/
 local=/dyns.be/
-local=/dyns.cx/
 local=/dyns.net/
 local=/dynserv.org/
 local=/dynssl.com/
@@ -486,7 +482,6 @@ local=/etitrans.com/
 local=/eurotank.ro/
 local=/eva.hk/
 local=/everton.com/
-local=/evils.in/
 local=/expired-dns.com/
 local=/ez-dns.com/
 local=/ez-ip.net/
@@ -650,7 +645,6 @@ local=/ham.gd/
 local=/ham-radio-op.net/
 local=/hamshack.info/
 local=/happyforever.com/
-local=/happyminecraft.com/
 local=/hatenboer.org/
 local=/hbmc.net/
 local=/dyn.dns.he.net/

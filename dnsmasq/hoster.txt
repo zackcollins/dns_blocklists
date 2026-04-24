@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 08:28 UTC
-# Version: 2026.0419.0828.15
+# Last modified: 24 Apr 2026 18:03 UTC
+# Version: 2026.0424.1803.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1201
+# Number of entries: 1194
 #
 local=/000a.de/
 local=/000space.com/
@@ -170,7 +170,6 @@ local=/anschiessen.de/
 local=/ar.gp/
 local=/arcadepages.com/
 local=/arrangiert.de/
-local=/artsold.top/
 local=/asia.cm/
 local=/asia.gp/
 local=/at.cr/
@@ -183,7 +182,6 @@ local=/au.gp/
 local=/aufbauend.de/
 local=/ausposaunen.de/
 local=/auto.lc/
-local=/autoscolor.club/
 local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
@@ -432,7 +430,6 @@ local=/d3l.de/
 local=/da.cx/
 local=/da.ru/
 local=/daftpage.com/
-local=/datesize.top/
 local=/dax.ru/
 local=/ddl2.pl/
 local=/de.cm/
@@ -532,7 +529,6 @@ local=/ferreracademy.com/
 local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
-local=/financial-offer.com/
 local=/firearms.com/
 local=/firm.nu/
 local=/fitnell.com/
@@ -774,9 +770,7 @@ local=/maddsites.com/
 local=/mail.ht/
 local=/majesticbank.at/
 local=/majesticbank.de/
-local=/manfeature.club/
 local=/mashstaffing.com/
-local=/mdtwo.top/
 local=/me.gp/
 local=/me.ly/
 local=/mediafirex.icu/
@@ -872,7 +866,6 @@ local=/own-free-website.com/
 local=/ozq.de/
 local=/p.gp/
 local=/page.tl/
-local=/page-suspension.net/
 local=/page4.me/
 local=/pages10.com/
 local=/pancake.run/

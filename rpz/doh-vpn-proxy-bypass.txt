@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777022520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777049700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Apr 2026 09:22 UTC
-; Version: 2026.0424.0922.48
+; Last modified: 24 Apr 2026 16:55 UTC
+; Version: 2026.0424.1655.51
 ; Syntax: RPZ
-; Number of entries: 38320
+; Number of entries: 38174
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -669,10 +669,6 @@ sneakersotoolefurryfanwiki.tablero-anmac.ar CNAME .
 *.sneakersotoolefurryfanwiki.tablero-anmac.ar CNAME .
 study.tablero-anmac.ar CNAME .
 *.study.tablero-anmac.ar CNAME .
-3mvrb6-1vwdl6gb5xnyl.dns.army CNAME .
-*.3mvrb6-1vwdl6gb5xnyl.dns.army CNAME .
-cloudsync.dns.army CNAME .
-*.cloudsync.dns.army CNAME .
 fargos2.dns.army CNAME .
 *.fargos2.dns.army CNAME .
 guigu.dns.army CNAME .
@@ -681,18 +677,6 @@ hehehegnmath.dns.army CNAME .
 *.hehehegnmath.dns.army CNAME .
 homec92.dns.army CNAME .
 *.homec92.dns.army CNAME .
-jolly1.dns.army CNAME .
-*.jolly1.dns.army CNAME .
-lawless-zone.dns.army CNAME .
-*.lawless-zone.dns.army CNAME .
-wolf-zone.dns.army CNAME .
-*.wolf-zone.dns.army CNAME .
-wolfzone.dns.army CNAME .
-*.wolfzone.dns.army CNAME .
-fancy.v6.army CNAME .
-*.fancy.v6.army CNAME .
-fancy1.v6.army CNAME .
-*.fancy1.v6.army CNAME .
 selenite.v6.army CNAME .
 *.selenite.v6.army CNAME .
 resolver.arpa CNAME .
@@ -2761,8 +2745,6 @@ hermalinda-jewish.mauriciobeltran.cl CNAME .
 *.hermalinda-jewish.mauriciobeltran.cl CNAME .
 hermarlinda-jew.mauriciobeltran.cl CNAME .
 *.hermarlinda-jew.mauriciobeltran.cl CNAME .
-sciencewiki.medscience.cl CNAME .
-*.sciencewiki.medscience.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
 math.midtech.cl CNAME .
@@ -3311,10 +3293,6 @@ apibyjc.cn CNAME .
 *.apibyjc.cn CNAME .
 app-kuailian.cn CNAME .
 *.app-kuailian.cn CNAME .
-learn.azimei.cn CNAME .
-*.learn.azimei.cn CNAME .
-teachers.azimei.cn CNAME .
-*.teachers.azimei.cn CNAME .
 alhe.baodacn.cn CNAME .
 *.alhe.baodacn.cn CNAME .
 alphabio.baodacn.cn CNAME .
@@ -3593,8 +3571,6 @@ sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
 *.sdfesdfgsf.fghsdfgdr.saahee.cn CNAME .
 xhcvjesjdfhdjs.iocijkwedsf.saahee.cn CNAME .
 *.xhcvjesjdfhdjs.iocijkwedsf.saahee.cn CNAME .
-scienceforkids.saahee.cn CNAME .
-*.scienceforkids.saahee.cn CNAME .
 pojkldfsdn.sdjkfnm.saahee.cn CNAME .
 *.pojkldfsdn.sdjkfnm.saahee.cn CNAME .
 vxjcklsjdklfjd.wijklkfdsf.saahee.cn CNAME .
@@ -4809,8 +4785,6 @@ anylandclash.com CNAME .
 *.anylandclash.com CNAME .
 anylandjc.com CNAME .
 *.anylandjc.com CNAME .
-vocab.real.anynall.com CNAME .
-*.vocab.real.anynall.com CNAME .
 dp.anywaysoft.com CNAME .
 *.dp.anywaysoft.com CNAME .
 aox666.com CNAME .
@@ -9317,8 +9291,6 @@ freetextnowapp.com CNAME .
 *.freetextnowapp.com CNAME .
 freetrialvpn.com CNAME .
 *.freetrialvpn.com CNAME .
-freeukvpn.com CNAME .
-*.freeukvpn.com CNAME .
 freevideoproxy.com CNAME .
 *.freevideoproxy.com CNAME .
 freevmess.com CNAME .
@@ -13105,20 +13077,6 @@ mychinafqvpnlist.com CNAME .
 *.mychinafqvpnlist.com CNAME .
 1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com CNAME .
 *.1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com CNAME .
-abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
-*.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
-example.myclarevision.com CNAME .
-*.example.myclarevision.com CNAME .
-freelearn.myclarevision.com CNAME .
-*.freelearn.myclarevision.com CNAME .
-gogardiansucks.myclarevision.com CNAME .
-*.gogardiansucks.myclarevision.com CNAME .
-i.myclarevision.com CNAME .
-*.i.myclarevision.com CNAME .
-learn.myclarevision.com CNAME .
-*.learn.myclarevision.com CNAME .
-linewizesucks.myclarevision.com CNAME .
-*.linewizesucks.myclarevision.com CNAME .
 qoqo-oqoq.myclarevision.com CNAME .
 *.qoqo-oqoq.myclarevision.com CNAME .
 thisismathteach.myclarevision.com CNAME .
@@ -13339,8 +13297,6 @@ netexplores.com CNAME .
 *.netexplores.com CNAME .
 netpioneeres.com CNAME .
 *.netpioneeres.com CNAME .
-netsneak.com CNAME .
-*.netsneak.com CNAME .
 corbiniscool.networkguru.com CNAME .
 *.corbiniscool.networkguru.com CNAME .
 gyatt.networkguru.com CNAME .
@@ -14001,8 +13957,6 @@ piplvpn.com CNAME .
 *.piplvpn.com CNAME .
 pirzjdlz.com CNAME .
 *.pirzjdlz.com CNAME .
-lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com CNAME .
-*.lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com CNAME .
 pixelgorithm.com CNAME .
 *.pixelgorithm.com CNAME .
 pixelprivacy.com CNAME .
@@ -14059,8 +14013,6 @@ platoxvpn.com CNAME .
 *.platoxvpn.com CNAME .
 play5r.com CNAME .
 *.play5r.com CNAME .
-edu.playariviera.com CNAME .
-*.edu.playariviera.com CNAME .
 playproxy.com CNAME .
 *.playproxy.com CNAME .
 secure-dns.pleumkungz.com CNAME .
@@ -15709,8 +15661,6 @@ svtfwqhb.com CNAME .
 *.svtfwqhb.com CNAME .
 swapip.com CNAME .
 *.swapip.com CNAME .
-swiftshieldvpn.com CNAME .
-*.swiftshieldvpn.com CNAME .
 vpn.dev.swisscows.com CNAME .
 *.vpn.dev.swisscows.com CNAME .
 vpn.swisscows.com CNAME .
@@ -16653,8 +16603,6 @@ victorytechnologypro.com CNAME .
 *.victorytechnologypro.com CNAME .
 videoplayerviewer.com CNAME .
 *.videoplayerviewer.com CNAME .
-videounblock.com CNAME .
-*.videounblock.com CNAME .
 videounblocked.com CNAME .
 *.videounblocked.com CNAME .
 vidproxy.com CNAME .
@@ -19171,8 +19119,6 @@ selenite.skys.day CNAME .
 *.0815cloud.de CNAME .
 1and1-dns.de CNAME .
 *.1and1-dns.de CNAME .
-1proxy.de CNAME .
-*.1proxy.de CNAME .
 2proxy.de CNAME .
 *.2proxy.de CNAME .
 dns.2t9.de CNAME .
@@ -19277,14 +19223,6 @@ fdns1.dismail.de CNAME .
 *.fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 *.fdns2.dismail.de CNAME .
-dns1.dns-ga.de CNAME .
-*.dns1.dns-ga.de CNAME .
-dns2.dns-ga.de CNAME .
-*.dns2.dns-ga.de CNAME .
-dns3.dns-ga.de CNAME .
-*.dns3.dns-ga.de CNAME .
-doh.dns-ga.de CNAME .
-*.doh.dns-ga.de CNAME .
 adguard-koe.dns64.de CNAME .
 *.adguard-koe.dns64.de CNAME .
 aroeuyo.dns64.de CNAME .
@@ -19635,8 +19573,6 @@ streamlined.delivery CNAME .
 *.streamlined.delivery CNAME .
 citrik.design CNAME .
 *.citrik.design CNAME .
-constitutional.design CNAME .
-*.constitutional.design CNAME .
 gingerbread.design CNAME .
 *.gingerbread.design CNAME .
 0ms.dev CNAME .
@@ -20411,8 +20347,6 @@ dns.server2.tschoerner.eu CNAME .
 *.dns.server2.tschoerner.eu CNAME .
 v1.ufamax.eu CNAME .
 *.v1.ufamax.eu CNAME .
-ukwebproxy.eu CNAME .
-*.ukwebproxy.eu CNAME .
 unasw.eu CNAME .
 *.unasw.eu CNAME .
 usaip.eu CNAME .
@@ -21857,8 +21791,6 @@ micro.alloxr.info CNAME .
 *.micro.alloxr.info CNAME .
 vps.alloxr.info CNAME .
 *.vps.alloxr.info CNAME .
-alphavpn.info CNAME .
-*.alphavpn.info CNAME .
 americaproxy.info CNAME .
 *.americaproxy.info CNAME .
 amytelecom.info CNAME .
@@ -22309,6 +22241,8 @@ readingtime.ddnshost.ing CNAME .
 *.readingtime.ddnshost.ing CNAME .
 idksterl.ing CNAME .
 *.idksterl.ing CNAME .
+bestproxy.ink CNAME .
+*.bestproxy.ink CNAME .
 epsteinsideswiththejews.ink CNAME .
 *.epsteinsideswiththejews.ink CNAME .
 freeruproxy.ink CNAME .
@@ -23867,8 +23801,6 @@ dns.b612.me CNAME .
 *.dns.b612.me CNAME .
 baolixiong.me CNAME .
 *.baolixiong.me CNAME .
-mydns.bielperes.me CNAME .
-*.mydns.bielperes.me CNAME .
 aaron.listens.to.mango.phonk.bine.me CNAME .
 *.aaron.listens.to.mango.phonk.bine.me CNAME .
 bluemood.me CNAME .
@@ -24639,8 +24571,6 @@ isekai.anime.com.my CNAME .
 *.isekai.anime.com.my CNAME .
 shinano.anime.com.my CNAME .
 *.shinano.anime.com.my CNAME .
-chat-isinterstellargood.safira.com.my CNAME .
-*.chat-isinterstellargood.safira.com.my CNAME .
 cloud.securifi.com.my CNAME .
 *.cloud.securifi.com.my CNAME .
 history.southern.com.my CNAME .
@@ -24673,8 +24603,6 @@ kemoriv.my CNAME .
 *.kemoriv.my CNAME .
 my52.my CNAME .
 *.my52.my CNAME .
-math.nass.my CNAME .
-*.math.nass.my CNAME .
 riponex.my CNAME .
 *.riponex.my CNAME .
 tulanek.my CNAME .
@@ -24769,8 +24697,6 @@ bh.wael.name CNAME .
 *.bh.wael.name CNAME .
 dns.wael.name CNAME .
 *.dns.wael.name CNAME .
-deep-sea.dns.navy CNAME .
-*.deep-sea.dns.navy CNAME .
 111000.v6.navy CNAME .
 *.111000.v6.navy CNAME .
 dns.0x55.net CNAME .
@@ -25013,8 +24939,6 @@ artsineducation.net CNAME .
 *.artsineducation.net CNAME .
 resolver.as203038.net CNAME .
 *.resolver.as203038.net CNAME .
-asgamejs.net CNAME .
-*.asgamejs.net CNAME .
 dns.ashleyjackson.net CNAME .
 *.dns.ashleyjackson.net CNAME .
 ashx.net CNAME .
@@ -26915,8 +26839,6 @@ dohema.net CNAME .
 *.dohema.net CNAME .
 dokoala.net CNAME .
 *.dokoala.net CNAME .
-dolopo.net CNAME .
-*.dolopo.net CNAME .
 takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 watch-dexter.or-you-now.donciccio.net CNAME .
@@ -26967,16 +26889,8 @@ quangdo92.dynu.net CNAME .
 *.quangdo92.dynu.net CNAME .
 getjumpscared.dynv6.net CNAME .
 *.getjumpscared.dynv6.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 ineedmymoney.dynv6.net CNAME .
 *.ineedmymoney.dynv6.net CNAME .
-sagamihara.dynv6.net CNAME .
-*.sagamihara.dynv6.net CNAME .
-slayer2wild.dynv6.net CNAME .
-*.slayer2wild.dynv6.net CNAME .
-t9rke-5zq1m.dynv6.net CNAME .
-*.t9rke-5zq1m.dynv6.net CNAME .
 treesareplanted.dynv6.net CNAME .
 *.treesareplanted.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
@@ -27261,8 +27175,6 @@ schoolnotes.followork.net CNAME .
 *.schoolnotes.followork.net CNAME .
 fontsgoogleapis.net CNAME .
 *.fontsgoogleapis.net CNAME .
-for-privacy.net CNAME .
-*.for-privacy.net CNAME .
 foreverlets.net CNAME .
 *.foreverlets.net CNAME .
 foreverlian.net CNAME .
@@ -27359,8 +27271,6 @@ gogoletsgogo.net CNAME .
 *.gogoletsgogo.net CNAME .
 goodusa.net CNAME .
 *.goodusa.net CNAME .
-dns-tunnel-check.googlezip.net CNAME .
-*.dns-tunnel-check.googlezip.net CNAME .
 tunnel.googlezip.net CNAME .
 *.tunnel.googlezip.net CNAME .
 goshadow.net CNAME .
@@ -27723,46 +27633,24 @@ chemistrytheoandalgebra.justlearning.net CNAME .
 *.chemistrytheoandalgebra.justlearning.net CNAME .
 carcher.com.justlearning.net CNAME .
 *.carcher.com.justlearning.net CNAME .
-coolmanbartx.justlearning.net CNAME .
-*.coolmanbartx.justlearning.net CNAME .
 exponets.justlearning.net CNAME .
 *.exponets.justlearning.net CNAME .
 ixl.workstations.extra.justlearning.net CNAME .
 *.ixl.workstations.extra.justlearning.net CNAME .
-fcps.justlearning.net CNAME .
-*.fcps.justlearning.net CNAME .
 geography-lessons.justlearning.net CNAME .
 *.geography-lessons.justlearning.net CNAME .
-ihate.justlearning.net CNAME .
-*.ihate.justlearning.net CNAME .
-ixl.is.justlearning.net CNAME .
-*.ixl.is.justlearning.net CNAME .
 learntoteach.justlearning.net CNAME .
 *.learntoteach.justlearning.net CNAME .
-math-help.justlearning.net CNAME .
-*.math-help.justlearning.net CNAME .
-nxmevip.justlearning.net CNAME .
-*.nxmevip.justlearning.net CNAME .
-saugatproxm.justlearning.net CNAME .
-*.saugatproxm.justlearning.net CNAME .
 schoolsoftexas.justlearning.net CNAME .
 *.schoolsoftexas.justlearning.net CNAME .
-sciencerocks.justlearning.net CNAME .
-*.sciencerocks.justlearning.net CNAME .
-solgorknh.justlearning.net CNAME .
-*.solgorknh.justlearning.net CNAME .
 standley.justlearning.net CNAME .
 *.standley.justlearning.net CNAME .
 studyingsocool.justlearning.net CNAME .
 *.studyingsocool.justlearning.net CNAME .
-studysheets.justlearning.net CNAME .
-*.studysheets.justlearning.net CNAME .
 texashistory.justlearning.net CNAME .
 *.texashistory.justlearning.net CNAME .
 tubaiscool.justlearning.net CNAME .
 *.tubaiscool.justlearning.net CNAME .
-yanglini.justlearning.net CNAME .
-*.yanglini.justlearning.net CNAME .
 justmysocks.net CNAME .
 *.justmysocks.net CNAME .
 justmysocks1.net CNAME .
@@ -29399,8 +29287,6 @@ unblockit.one CNAME .
 *.unblockit.one CNAME .
 unblockweb.one CNAME .
 *.unblockweb.one CNAME .
-v2ny.one CNAME .
-*.v2ny.one CNAME .
 z.vipit.one CNAME .
 *.z.vipit.one CNAME .
 adguard.abd.ong CNAME .
@@ -29907,8 +29793,6 @@ smeqczpl.online CNAME .
 *.smeqczpl.online CNAME .
 sms8b04szwtm.online CNAME .
 *.sms8b04szwtm.online CNAME .
-speedproxy.online CNAME .
-*.speedproxy.online CNAME .
 surfsharkvpn.online CNAME .
 *.surfsharkvpn.online CNAME .
 szmbkf5rsqiidboo6.online CNAME .
@@ -29939,8 +29823,6 @@ unblocked2.online CNAME .
 *.unblocked2.online CNAME .
 unblocksites.online CNAME .
 *.unblocksites.online CNAME .
-unblockwebsite.online CNAME .
-*.unblockwebsite.online CNAME .
 uproxy.online CNAME .
 *.uproxy.online CNAME .
 uu32ygcyfhr.online CNAME .
@@ -30241,10 +30123,6 @@ brooklyndancefestival.org CNAME .
 *.brooklyndancefestival.org CNAME .
 classroom.broomleigh.org CNAME .
 *.classroom.broomleigh.org CNAME .
-linewize.broomleigh.org CNAME .
-*.linewize.broomleigh.org CNAME .
-schoolwork.broomleigh.org CNAME .
-*.schoolwork.broomleigh.org CNAME .
 bropay.org CNAME .
 *.bropay.org CNAME .
 browpay.org CNAME .
@@ -30293,8 +30171,6 @@ canlite.org CNAME .
 *.canlite.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
-canvasarts.org CNAME .
-*.canvasarts.org CNAME .
 careersandjobs.org CNAME .
 *.careersandjobs.org CNAME .
 catdns.org CNAME .
@@ -31533,8 +31409,6 @@ rpttechnologies.org CNAME .
 *.rpttechnologies.org CNAME .
 rumpelsepp.org CNAME .
 *.rumpelsepp.org CNAME .
-runnerpromotion.org CNAME .
-*.runnerpromotion.org CNAME .
 hi.ryuflowing.org CNAME .
 *.hi.ryuflowing.org CNAME .
 s-vpn.org CNAME .
@@ -31791,8 +31665,6 @@ torproject.org CNAME .
 *.torproject.org CNAME .
 totorocloud.org CNAME .
 *.totorocloud.org CNAME .
-treatmentarrow.org CNAME .
-*.treatmentarrow.org CNAME .
 trilightzone.org CNAME .
 *.trilightzone.org CNAME .
 trinitypreschoolmp.org CNAME .
@@ -31803,8 +31675,6 @@ trustedapp.org CNAME .
 *.trustedapp.org CNAME .
 truta.org CNAME .
 *.truta.org CNAME .
-truthskip.org CNAME .
-*.truthskip.org CNAME .
 trutri.org CNAME .
 *.trutri.org CNAME .
 turbohide.org CNAME .
@@ -33015,8 +32885,6 @@ quasarkeepthisasecret.undoanarchy.rocks CNAME .
 *.quasarkeepthisasecret.undoanarchy.rocks CNAME .
 selenitekeepthisasecret.undoanarchy.rocks CNAME .
 *.selenitekeepthisasecret.undoanarchy.rocks CNAME .
-edge-v6x.v6.rocks CNAME .
-*.edge-v6x.v6.rocks CNAME .
 adguard.dbase.in.rs CNAME .
 *.adguard.dbase.in.rs CNAME .
 selenite.luxurytransport.com.signup.luxurytransport.rs CNAME .
@@ -33099,8 +32967,6 @@ baikalvpn.ru CNAME .
 *.0.6gpaactivities.bastaff.ru CNAME .
 galaxy-glint.bastaff.ru CNAME .
 *.galaxy-glint.bastaff.ru CNAME .
-jmcookinginamctenmath.bastaff.ru CNAME .
-*.jmcookinginamctenmath.bastaff.ru CNAME .
 tacobelljobs.bastaff.ru CNAME .
 *.tacobelljobs.bastaff.ru CNAME .
 we-hate-school.bastaff.ru CNAME .
@@ -33247,8 +33113,6 @@ eryno.ru CNAME .
 *.eryno.ru CNAME .
 vm596152.eurodir.ru CNAME .
 *.vm596152.eurodir.ru CNAME .
-joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru CNAME .
-*.joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru CNAME .
 evavpn.ru CNAME .
 *.evavpn.ru CNAME .
 famiroq.ru CNAME .
@@ -34971,8 +34835,6 @@ vkrysk.space CNAME .
 *.vkrysk.space CNAME .
 vles.space CNAME .
 *.vles.space CNAME .
-voidnetwork.space CNAME .
-*.voidnetwork.space CNAME .
 vpneko.space CNAME .
 *.vpneko.space CNAME .
 vpnn.space CNAME .
@@ -35409,8 +35271,6 @@ bit02-u6bgppq7.top CNAME .
 *.bit02-u6bgppq7.top CNAME .
 boostvpn.top CNAME .
 *.boostvpn.top CNAME .
-bubblex2.top CNAME .
-*.bubblex2.top CNAME .
 bxdh.top CNAME .
 *.bxdh.top CNAME .
 bxvpn.top CNAME .
@@ -37447,8 +37307,6 @@ agent.frankutils.xyz CNAME .
 *.agent.frankutils.xyz CNAME .
 free-proxy.xyz CNAME .
 *.free-proxy.xyz CNAME .
-free-vpn.xyz CNAME .
-*.free-vpn.xyz CNAME .
 freeruleonline.xyz CNAME .
 *.freeruleonline.xyz CNAME .
 frogiesarcade.xyz CNAME .
@@ -37521,8 +37379,6 @@ hackkcah.xyz CNAME .
 *.hackkcah.xyz CNAME .
 haltrix.xyz CNAME .
 *.haltrix.xyz CNAME .
-dns.haoxuan.xyz CNAME .
-*.dns.haoxuan.xyz CNAME .
 hd999.xyz CNAME .
 *.hd999.xyz CNAME .
 herbly.xyz CNAME .
@@ -37801,8 +37657,6 @@ paskam.xyz CNAME .
 *.paskam.xyz CNAME .
 pingbi.xyz CNAME .
 *.pingbi.xyz CNAME .
-pinkproxy.xyz CNAME .
-*.pinkproxy.xyz CNAME .
 planetvpn-cdn.xyz CNAME .
 *.planetvpn-cdn.xyz CNAME .
 plendru.xyz CNAME .
