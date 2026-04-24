@@ -57,8 +57,8 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 | :green_book:[Light](#light)             | 134703<br>68963     |  |   |   | :green_circle:  |  | |  :yellow_square: | :yellow_square: | |
 | :blue_book:[Normal](#normal)       | 304317<br>151849     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 398300<br>184090         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 481722<br>235937 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 560051<br>288683 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 478274<br>234460 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 556704<br>287287 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -174,7 +174,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > **Referral domains (affiliate and tracking links):**           
 > A few referral domains that also function as normal trackers are blocked. For further details see: [Referral domains](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
-**Entries:** 481722 domains/hosts - 53525 compressed hosts - 235937 compressed domains
+**Entries:** 478274 domains/hosts - 53142 compressed hosts - 234460 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -191,7 +191,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro++ full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 109336 compressed domains
+**Entries:** 108985 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -225,7 +225,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
-**Entries:** 560051 domains/hosts - 62228 compressed hosts - 288683 compressed domains
+**Entries:** 556704 domains/hosts - 61856 compressed hosts - 287287 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -242,7 +242,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Ultimate full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 130648 compressed domains
+**Entries:** 130420 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
