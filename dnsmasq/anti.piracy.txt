@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Apr 2026 09:53 UTC
-# Version: 2026.0423.0953.08
+# Last modified: 24 Apr 2026 09:14 UTC
+# Version: 2026.0424.0914.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12383
+# Number of entries: 12390
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -1198,6 +1198,7 @@ local=/aurorabird6.live/
 local=/autocadbmjes.com/
 local=/autocadgou.com/
 local=/autocadtfesvb.com/
+local=/autoeq.top/
 local=/avantabg.com/
 local=/avatar-bg.org/
 local=/avaxhome.co/
@@ -4060,6 +4061,7 @@ local=/flixdump.com/
 local=/flixgo.net/
 local=/flixhd.cc/
 local=/flixhd.org/
+local=/flixhq.app/
 local=/flixhq.id/
 local=/flixhq.net/
 local=/flixhq.to/
@@ -5208,6 +5210,7 @@ local=/hdstar.org/
 local=/tracker.hdstreet.club/
 local=/tracker.hdtime.org/
 local=/hdtoday.cc/
+local=/hdtoday.one/
 local=/hdtoday.tv/
 local=/hdtodaytv.tv/
 local=/hdtodayz.ms/
@@ -7205,6 +7208,7 @@ local=/s1130638.ha016.t.mydomain.zone/
 local=/myduckisdead.org/
 local=/myfeed2all.eu/
 local=/myflixer.ac/
+local=/myflixer.art/
 local=/myflixer.center/
 local=/myflixer.com/
 local=/myflixer.is/
@@ -7215,10 +7219,12 @@ local=/myflixer.ru/
 local=/myflixer.to/
 local=/myflixer.today/
 local=/myflixer.vc/
+local=/myflixer.win/
 local=/myflixer.ws/
 local=/myflixer.zone/
 local=/myflixerhd.ru/
 local=/myflixertv.to/
+local=/myflixerz.stream/
 local=/myflixerz.to/
 local=/myflixtor.tv/
 local=/myfreeleech.com/
@@ -11497,6 +11503,7 @@ local=/vidplay.org/
 local=/vidplay.tv/
 local=/vidspot.net/
 local=/vidsrc.me/
+local=/vidsrc.to/
 local=/vidsrc-embed.ru/
 local=/vidsrc-embed.su/
 local=/vidsrcme.su/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Apr 2026 09:53 UTC
-# Version: 2026.0423.0953.08
+# Last modified: 24 Apr 2026 09:14 UTC
+# Version: 2026.0424.0914.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12383
+# Number of entries: 12390
 #
 *.003396815.xyz
 *.004430.xyz
@@ -1198,6 +1198,7 @@
 *.autocadbmjes.com
 *.autocadgou.com
 *.autocadtfesvb.com
+*.autoeq.top
 *.avantabg.com
 *.avatar-bg.org
 *.avaxhome.co
@@ -4060,6 +4061,7 @@
 *.flixgo.net
 *.flixhd.cc
 *.flixhd.org
+*.flixhq.app
 *.flixhq.id
 *.flixhq.net
 *.flixhq.to
@@ -5208,6 +5210,7 @@
 *.tracker.hdstreet.club
 *.tracker.hdtime.org
 *.hdtoday.cc
+*.hdtoday.one
 *.hdtoday.tv
 *.hdtodaytv.tv
 *.hdtodayz.ms
@@ -7205,6 +7208,7 @@
 *.myduckisdead.org
 *.myfeed2all.eu
 *.myflixer.ac
+*.myflixer.art
 *.myflixer.center
 *.myflixer.com
 *.myflixer.is
@@ -7215,10 +7219,12 @@
 *.myflixer.to
 *.myflixer.today
 *.myflixer.vc
+*.myflixer.win
 *.myflixer.ws
 *.myflixer.zone
 *.myflixerhd.ru
 *.myflixertv.to
+*.myflixerz.stream
 *.myflixerz.to
 *.myflixtor.tv
 *.myfreeleech.com
@@ -11497,6 +11503,7 @@
 *.vidplay.tv
 *.vidspot.net
 *.vidsrc.me
+*.vidsrc.to
 *.vidsrc-embed.ru
 *.vidsrc-embed.su
 *.vidsrcme.su

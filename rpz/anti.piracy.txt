@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776937980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777022040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Apr 2026 09:53 UTC
-; Version: 2026.0423.0953.08
+; Last modified: 24 Apr 2026 09:14 UTC
+; Version: 2026.0424.0914.57
 ; Syntax: RPZ
-; Number of entries: 24766
+; Number of entries: 24780
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -220,6 +220,8 @@ eurostreaming.app CNAME .
 *.eurostreaming.app CNAME .
 fdownload.app CNAME .
 *.fdownload.app CNAME .
+flixhq.app CNAME .
+*.flixhq.app CNAME .
 flixxcine.app CNAME .
 *.flixxcine.app CNAME .
 frenchstream.app CNAME .
@@ -434,6 +436,8 @@ indiaboat.art CNAME .
 *.indiaboat.art CNAME .
 indoxx1.art CNAME .
 *.indoxx1.art CNAME .
+myflixer.art CNAME .
+*.myflixer.art CNAME .
 proxtpb.art CNAME .
 *.proxtpb.art CNAME .
 purstream.art CNAME .
@@ -16030,6 +16034,8 @@ gidonline.one CNAME .
 *.gidonline.one CNAME .
 guardaserie.one CNAME .
 *.guardaserie.one CNAME .
+hdtoday.one CNAME .
+*.hdtoday.one CNAME .
 hesgoal.one CNAME .
 *.hesgoal.one CNAME .
 nyaa.iss.one CNAME .
@@ -20956,6 +20962,8 @@ live-nfl.stream CNAME .
 *.live-nfl.stream CNAME .
 mojaloss.stream CNAME .
 *.mojaloss.stream CNAME .
+myflixerz.stream CNAME .
+*.myflixerz.stream CNAME .
 onlineflix.stream CNAME .
 *.onlineflix.stream CNAME .
 papystreaming.stream CNAME .
@@ -21930,6 +21938,8 @@ vibemax.to CNAME .
 *.vibemax.to CNAME .
 vidics.to CNAME .
 *.vidics.to CNAME .
+vidsrc.to CNAME .
+*.vidsrc.to CNAME .
 vidstream.to CNAME .
 *.vidstream.to CNAME .
 vinovo.to CNAME .
@@ -22044,6 +22054,8 @@ altadefinizionegratis.top CNAME .
 *.altadefinizionegratis.top CNAME .
 annas-archive.top CNAME .
 *.annas-archive.top CNAME .
+autoeq.top CNAME .
+*.autoeq.top CNAME .
 bclearning.top CNAME .
 *.bclearning.top CNAME .
 btracker.top CNAME .
@@ -23764,6 +23776,8 @@ flixtor.win CNAME .
 *.flixtor.win CNAME .
 hdfilme.win CNAME .
 *.hdfilme.win CNAME .
+myflixer.win CNAME .
+*.myflixer.win CNAME .
 pinoymovieshub.win CNAME .
 *.pinoymovieshub.win CNAME .
 rakettv.win CNAME .
