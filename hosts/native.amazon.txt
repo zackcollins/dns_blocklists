@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Apr 2026 17:05 UTC
-# Version: 2026.0424.1705.29
+# Last modified: 25 Apr 2026 17:01 UTC
+# Version: 2026.0425.1701.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 690
+# Number of entries: 691
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -533,6 +533,7 @@
 0.0.0.0 session.mshopbugsnag.irm.amazon.dev
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 sonar.prime-video.amazon.dev
 0.0.0.0 sponsored-ads-fe.amazon-adsystem.com
 0.0.0.0 sponsored-ads-na.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com

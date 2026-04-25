@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Apr 2026 09:15 UTC
-# Version: 2026.0425.0915.29
+# Last modified: 25 Apr 2026 16:53 UTC
+# Version: 2026.0425.1653.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12386
+# Number of entries: 12388
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -6582,6 +6582,7 @@ local=/megakino.cab/
 local=/megakino.co/
 local=/megakino.deals/
 local=/megakino.eu/
+local=/megakino.foo/
 local=/megakino.how/
 local=/megakino.ink/
 local=/megakino.ist/
@@ -10920,6 +10921,7 @@ local=/uhdmovies.loan/
 local=/uhdmovies.mov/
 local=/uhdmovies.net/
 local=/uhdmovies.online/
+local=/uhdmovies.pink/
 local=/uhdmovies.rip/
 local=/uhdmovies.shop/
 local=/uhdmovies.skin/

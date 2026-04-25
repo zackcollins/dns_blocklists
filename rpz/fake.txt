@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777102800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777137000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Apr 2026 07:40 UTC
-; Version: 2026.0425.0740.11
+; Last modified: 25 Apr 2026 17:10 UTC
+; Version: 2026.0425.1710.26
 ; Syntax: RPZ
-; Number of entries: 28688
+; Number of entries: 28690
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4754,6 +4754,8 @@ coviviocapital.com CNAME .
 *.coviviocapital.com CNAME .
 cowboybootsnew.com CNAME .
 *.cowboybootsnew.com CNAME .
+cozychicretreat.com CNAME .
+*.cozychicretreat.com CNAME .
 cozyhoome.com CNAME .
 *.cozyhoome.com CNAME .
 cozysleepzone.com CNAME .
