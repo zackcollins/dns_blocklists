@@ -1149,13 +1149,6 @@
       }
     },
     {
-      "PK": "exo.nel.measure.office.net.sw.buhl-data.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ffc-excel-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1513,35 +1506,7 @@
       }
     },
     {
-      "PK": "measure.office.net.cn.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "measure.office.net.cz.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "measure.office.net.edgesuite.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "measure.office.net.in.intinfra.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "measure.office.net.us.intinfra.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2340,13 +2305,6 @@
     },
     {
       "PK": "teams-events-data.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "teams.nel.measure.office.net.sw.buhl-data.com",
       "action": {
         "do": 0,
         "status": 1

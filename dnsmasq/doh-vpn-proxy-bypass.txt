@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Apr 2026 16:55 UTC
-# Version: 2026.0424.1655.51
+# Last modified: 25 Apr 2026 09:23 UTC
+# Version: 2026.0425.0923.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 19087
+# Number of entries: 19089
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -2099,6 +2099,7 @@ local=/aaron.listens.to.mango.phonk.bine.me/
 local=/bingle.icu/
 local=/math.help.bingo-list.com/
 local=/bingojiasu.com/
+local=/biolabshop.cc/
 local=/biolicious.online/
 local=/bio.biologyscholar.org/
 local=/bold-energy-129.biologyscholar.org/
@@ -12915,6 +12916,7 @@ local=/personalvpn.com/
 local=/personaly.click/
 local=/pervilo.ru/
 local=/dns.pesaventofilippo.com/
+local=/pesoalbay.live/
 local=/adguard.peterge.de/
 local=/petervpn.com/
 local=/petezahgames.com/

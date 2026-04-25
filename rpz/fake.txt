@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777050900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777102800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Apr 2026 17:15 UTC
-; Version: 2026.0424.1715.15
+; Last modified: 25 Apr 2026 07:40 UTC
+; Version: 2026.0425.0740.11
 ; Syntax: RPZ
-; Number of entries: 28668
+; Number of entries: 28688
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1084,6 +1084,8 @@ asfrnagi.beer CNAME .
 *.asfrnagi.beer CNAME .
 discounted.bike CNAME .
 *.discounted.bike CNAME .
+srylab.bio CNAME .
+*.srylab.bio CNAME .
 ainvestments.biz CNAME .
 *.ainvestments.biz CNAME .
 clexperts.biz CNAME .
@@ -1794,6 +1796,8 @@ abodeare.com CNAME .
 *.abodeare.com CNAME .
 abodeena.com CNAME .
 *.abodeena.com CNAME .
+abodeene.com CNAME .
+*.abodeene.com CNAME .
 abrahamr.com CNAME .
 *.abrahamr.com CNAME .
 abrisphere.com CNAME .
@@ -11318,6 +11322,8 @@ motorrad-ausstattung.com CNAME .
 *.motorrad-ausstattung.com CNAME .
 motorrad-levy-elsa.com CNAME .
 *.motorrad-levy-elsa.com CNAME .
+motorradking.com CNAME .
+*.motorradking.com CNAME .
 motorradoutfit.com CNAME .
 *.motorradoutfit.com CNAME .
 motorradteileonline.com CNAME .
@@ -13190,6 +13196,8 @@ pool-shop-de.com CNAME .
 *.pool-shop-de.com CNAME .
 poolchlorrabatt.com CNAME .
 *.poolchlorrabatt.com CNAME .
+poolfreunde.com CNAME .
+*.poolfreunde.com CNAME .
 poolsaunasupply.com CNAME .
 *.poolsaunasupply.com CNAME .
 popbosch.com CNAME .
@@ -13858,6 +13866,8 @@ rgoconnell.com CNAME .
 *.rgoconnell.com CNAME .
 rheingolddusseldorf.com CNAME .
 *.rheingolddusseldorf.com CNAME .
+rhodeshotel24.com CNAME .
+*.rhodeshotel24.com CNAME .
 ri-lieeoodu.com CNAME .
 *.ri-lieeoodu.com CNAME .
 ricadihotelspage.com CNAME .
@@ -17330,6 +17340,8 @@ werke-anhangers.com CNAME .
 *.werke-anhangers.com CNAME .
 werkgeist.com CNAME .
 *.werkgeist.com CNAME .
+werkora-industrial.com CNAME .
+*.werkora-industrial.com CNAME .
 werkvoorraden.com CNAME .
 *.werkvoorraden.com CNAME .
 werkzeug-salesshop.com CNAME .
@@ -22520,6 +22532,8 @@ nordspur.de CNAME .
 *.nordspur.de CNAME .
 norsky.de CNAME .
 *.norsky.de CNAME .
+norvahaus.de CNAME .
+*.norvahaus.de CNAME .
 notebooknetzteileshop.de CNAME .
 *.notebooknetzteileshop.de CNAME .
 nova-dusseldorf.de CNAME .
@@ -24190,6 +24204,8 @@ traviro.de CNAME .
 *.traviro.de CNAME .
 treasureeshop.de CNAME .
 *.treasureeshop.de CNAME .
+treemexholz.de CNAME .
+*.treemexholz.de CNAME .
 trend-fuchs.de CNAME .
 *.trend-fuchs.de CNAME .
 trend-handel.de CNAME .
@@ -24604,6 +24620,8 @@ wenlicht.de CNAME .
 *.wenlicht.de CNAME .
 werk-garten.de CNAME .
 *.werk-garten.de CNAME .
+werkbedarf24.de CNAME .
+*.werkbedarf24.de CNAME .
 werkerswelt-moelln.de CNAME .
 *.werkerswelt-moelln.de CNAME .
 werkzeug-haus.de CNAME .
@@ -24660,6 +24678,8 @@ wilax.de CNAME .
 *.wilax.de CNAME .
 wildblumenparadies.de CNAME .
 *.wildblumenparadies.de CNAME .
+wilkesarahwelpen.de CNAME .
+*.wilkesarahwelpen.de CNAME .
 winkler-elektronik.de CNAME .
 *.winkler-elektronik.de CNAME .
 winkler-modehaus.de CNAME .
@@ -25846,8 +25866,6 @@ highlandshotels.net CNAME .
 *.highlandshotels.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
-hotelinphuket.net CNAME .
-*.hotelinphuket.net CNAME .
 hotels-colorado.net CNAME .
 *.hotels-colorado.net CNAME .
 hotelsofnewyorkcity.net CNAME .
@@ -25996,6 +26014,8 @@ neurath.net CNAME .
 *.neurath.net CNAME .
 norskeapotek.net CNAME .
 *.norskeapotek.net CNAME .
+norwayhotel.net CNAME .
+*.norwayhotel.net CNAME .
 nova-finance.net CNAME .
 *.nova-finance.net CNAME .
 novarixtrader.net CNAME .

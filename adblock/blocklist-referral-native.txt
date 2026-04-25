@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Apr 2026 07:23 UTC
-! Version: 2026.0424.0723.45
+! Last modified: 25 Apr 2026 07:25 UTC
+! Version: 2026.0425.0725.54
 ! Syntax: AdBlock
-! Number of entries: 1518
+! Number of entries: 1519
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -918,6 +918,7 @@
 ||mkto-cs0007.com^
 ||mkto-d0024.com^
 ||mkto-d0170.com^
+||mkto-e0014.com^
 ||mkto-e0231.com^
 ||mkto-g0030.com^
 ||mkto-g0180.com^

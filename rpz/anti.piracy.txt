@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777055400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777108500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Apr 2026 18:30 UTC
-; Version: 2026.0424.1830.53
+; Last modified: 25 Apr 2026 09:15 UTC
+; Version: 2026.0425.0915.29
 ; Syntax: RPZ
-; Number of entries: 24770
+; Number of entries: 24772
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -9858,6 +9858,8 @@ guardaserie.fan CNAME .
 *.guardaserie.fan CNAME .
 hdmovi2.fan CNAME .
 *.hdmovi2.fan CNAME .
+pixel.hubcdn.fans CNAME .
+*.pixel.hubcdn.fans CNAME .
 multicanais.fans CNAME .
 *.multicanais.fans CNAME .
 streamingcommunityz.fans CNAME .
@@ -15124,8 +15126,6 @@ pybittrack.retiolus.net CNAME .
 *.pybittrack.retiolus.net CNAME .
 revanced.net CNAME .
 *.revanced.net CNAME .
-revancedapk.net CNAME .
-*.revancedapk.net CNAME .
 revdl.net CNAME .
 *.revdl.net CNAME .
 store.rg-adguard.net CNAME .
@@ -21678,6 +21678,8 @@ mazepa.to CNAME .
 *.mazepa.to CNAME .
 mega-stream.to CNAME .
 *.mega-stream.to CNAME .
+megakino3.to CNAME .
+*.megakino3.to CNAME .
 meteor-stresser.to CNAME .
 *.meteor-stresser.to CNAME .
 mflix.to CNAME .

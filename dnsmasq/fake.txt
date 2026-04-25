@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Apr 2026 17:15 UTC
-# Version: 2026.0424.1715.15
+# Last modified: 25 Apr 2026 07:40 UTC
+# Version: 2026.0425.0740.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14334
+# Number of entries: 14344
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -105,6 +105,7 @@ local=/abipartyxxl.de/
 local=/abm-industrie.com/
 local=/abodeare.com/
 local=/abodeena.com/
+local=/abodeene.com/
 local=/aboveinvesting.pro/
 local=/abrahamr.com/
 local=/abrisphere.com/
@@ -6173,7 +6174,6 @@ local=/hotbikede.com/
 local=/hotcarmodificationparts.com/
 local=/hotel-ds.com/
 local=/hotelaustralien.de/
-local=/hotelinphuket.net/
 local=/hotelladen.com/
 local=/hotels-colombo.com/
 local=/hotels-colorado.net/
@@ -8744,6 +8744,7 @@ local=/motorrad-levy-elsa.com/
 local=/motorrader24.de/
 local=/motorraderhelme.de/
 local=/motorraders.de/
+local=/motorradking.com/
 local=/motorradoutfit.com/
 local=/motorradteileonline.com/
 local=/motorradteileshop.com/
@@ -9313,6 +9314,8 @@ local=/northfaceoutletstoreus.com/
 local=/northvapeusa.com/
 local=/northwaveoff.com/
 local=/northwestpharmacy.com/
+local=/norvahaus.de/
+local=/norwayhotel.net/
 local=/norxonline.biz/
 local=/not-bad.shop/
 local=/not-schlosser.at/
@@ -10253,6 +10256,7 @@ local=/ponsetionsale.com/
 local=/pool-shop-de.com/
 local=/poolbay.de/
 local=/poolchlorrabatt.com/
+local=/poolfreunde.com/
 local=/poolina.de/
 local=/poolsaunasupply.com/
 local=/popbosch.com/
@@ -10838,6 +10842,7 @@ local=/rheingolddusseldorf.com/
 local=/rheinjobs-gmbh.de/
 local=/rheinkuss-handel24.de/
 local=/rhineritz.de/
+local=/rhodeshotel24.com/
 local=/ri-lieeoodu.com/
 local=/ricadihotelspage.com/
 local=/ricasrucksack.com/
@@ -11946,6 +11951,7 @@ local=/squarexchange.com/
 local=/squeezetoys.de/
 local=/squidcow.com/
 local=/srprisk.com/
+local=/srylab.bio/
 local=/srzsnkrs.com/
 local=/ss888.shop/
 local=/ssceuns.shop/
@@ -12909,6 +12915,7 @@ local=/travisscottofficial.com/
 local=/traxxas-de.com/
 local=/treasureeshop.de/
 local=/treasuresshop.top/
+local=/treemexholz.de/
 local=/tremel.at/
 local=/trencystore.com/
 local=/trend-fuchs.de/
@@ -13830,10 +13837,12 @@ local=/weringo.com/
 local=/werisee.com/
 local=/werk-garten.de/
 local=/werk-werkzeuge.com/
+local=/werkbedarf24.de/
 local=/werkboxpro.com/
 local=/werke-anhangers.com/
 local=/werkerswelt-moelln.de/
 local=/werkgeist.com/
+local=/werkora-industrial.com/
 local=/werkvoorraden.com/
 local=/werkzeug-haus.de/
 local=/werkzeug-salesshop.com/
@@ -13916,6 +13925,7 @@ local=/wildlingshoessverige.com/
 local=/wildlingshoesuk.com/
 local=/wildschlaf.com/
 local=/wilhelmfoodshop.com/
+local=/wilkesarahwelpen.de/
 local=/willintter.shop/
 local=/wilsonsquare.com/
 local=/wiltonsale.com/

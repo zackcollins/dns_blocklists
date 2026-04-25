@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777049700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777108980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Apr 2026 16:55 UTC
-; Version: 2026.0424.1655.51
+; Last modified: 25 Apr 2026 09:23 UTC
+; Version: 2026.0425.0923.25
 ; Syntax: RPZ
-; Number of entries: 38174
+; Number of entries: 38178
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -1535,6 +1535,8 @@ dns.bibitos.cc CNAME .
 *.dns.bibitos.cc CNAME .
 bigmoney.cc CNAME .
 *.bigmoney.cc CNAME .
+biolabshop.cc CNAME .
+*.biolabshop.cc CNAME .
 bkptusjl.cc CNAME .
 *.bkptusjl.cc CNAME .
 bmjhelit.cc CNAME .
@@ -23447,6 +23449,8 @@ myrsv.live CNAME .
 *.myrsv.live CNAME .
 packetline.live CNAME .
 *.packetline.live CNAME .
+pesoalbay.live CNAME .
+*.pesoalbay.live CNAME .
 piro.live CNAME .
 *.piro.live CNAME .
 privado.live CNAME .
