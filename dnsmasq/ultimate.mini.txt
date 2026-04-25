@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Apr 2026 20:46 UTC
-# Version: 2026.0425.2046.15
+# Last modified: 25 Apr 2026 21:21 UTC
+# Version: 2026.0425.2121.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 129555
+# Number of entries: 129557
 #
 local=/0.beer/
 local=/0-0-0checkmate.com/
@@ -80326,6 +80326,8 @@ local=/nfgtdk.help/
 local=/nfgtj.com/
 local=/geoip.nfhsnetwork.com/
 local=/nfis.com/
+local=/logr-data.nfl.com/
+local=/sedge.nfl.com/
 local=/smetrics.nfl.com/
 local=/nfleognsmcpethfnsacdtgbktpvngm.rest/
 local=/nflotan.cc/

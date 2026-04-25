@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777135980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777150740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Apr 2026 16:53 UTC
-; Version: 2026.0425.1653.24
+; Last modified: 25 Apr 2026 20:59 UTC
+; Version: 2026.0425.2059.17
 ; Syntax: RPZ
-; Number of entries: 24776
+; Number of entries: 24802
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -48,6 +48,8 @@ openloadmovies.ac CNAME .
 *.openloadmovies.ac CNAME .
 primewire.ac CNAME .
 *.primewire.ac CNAME .
+purstream.ac CNAME .
+*.purstream.ac CNAME .
 series9.ac CNAME .
 *.series9.ac CNAME .
 soap2day.ac CNAME .
@@ -1002,6 +1004,8 @@ t.overflow.biz CNAME .
 *.t.overflow.biz CNAME .
 pelisflix20.biz CNAME .
 *.pelisflix20.biz CNAME .
+purstream.biz CNAME .
+*.purstream.biz CNAME .
 regarder-serie.biz CNAME .
 *.regarder-serie.biz CNAME .
 sandrotracker.biz CNAME .
@@ -1268,6 +1272,8 @@ lookmovie.buzz CNAME .
 *.lookmovie.buzz CNAME .
 movie2k.buzz CNAME .
 *.movie2k.buzz CNAME .
+purstream.buzz CNAME .
+*.purstream.buzz CNAME .
 rarbg.buzz CNAME .
 *.rarbg.buzz CNAME .
 streamingcommunity.buzz CNAME .
@@ -2288,6 +2294,8 @@ omega-mg8k.cloud CNAME .
 *.omega-mg8k.cloud CNAME .
 pirateproxy.cloud CNAME .
 *.pirateproxy.cloud CNAME .
+purstream.cloud CNAME .
+*.purstream.cloud CNAME .
 sendit.cloud CNAME .
 *.sendit.cloud CNAME .
 streamingcommunity.cloud CNAME .
@@ -9046,6 +9054,8 @@ mycima.cx CNAME .
 *.mycima.cx CNAME .
 nulled.cx CNAME .
 *.nulled.cx CNAME .
+purstream.cx CNAME .
+*.purstream.cx CNAME .
 sinezy.cx CNAME .
 *.sinezy.cx CNAME .
 streamcloud.cx CNAME .
@@ -9424,6 +9434,8 @@ manganime.digital CNAME .
 *.manganime.digital CNAME .
 metromedia.digital CNAME .
 *.metromedia.digital CNAME .
+purstream.digital CNAME .
+*.purstream.digital CNAME .
 putlocker.digital CNAME .
 *.putlocker.digital CNAME .
 smartbox.digital CNAME .
@@ -11528,6 +11540,8 @@ pirate-proxy.ink CNAME .
 *.pirate-proxy.ink CNAME .
 pirateproxy.ink CNAME .
 *.pirateproxy.ink CNAME .
+purstream.ink CNAME .
+*.purstream.ink CNAME .
 seriesflix.ink CNAME .
 *.seriesflix.ink CNAME .
 shahhid4u.ink CNAME .
@@ -12232,6 +12246,8 @@ pelisflix20.lat CNAME .
 *.pelisflix20.lat CNAME .
 pirateproxy.lat CNAME .
 *.pirateproxy.lat CNAME .
+purstream.lat CNAME .
+*.purstream.lat CNAME .
 seriesflix.lat CNAME .
 *.seriesflix.lat CNAME .
 sinema.lat CNAME .
@@ -12614,6 +12630,8 @@ predb.live CNAME .
 *.predb.live CNAME .
 projapoti.live CNAME .
 *.projapoti.live CNAME .
+purstream.live CNAME .
+*.purstream.live CNAME .
 rangdhanu.live CNAME .
 *.rangdhanu.live CNAME .
 rarbg.live CNAME .
@@ -20106,6 +20124,8 @@ netmirror.sbs CNAME .
 *.netmirror.sbs CNAME .
 piratesbay.sbs CNAME .
 *.piratesbay.sbs CNAME .
+purstream.sbs CNAME .
+*.purstream.sbs CNAME .
 seriesflix.sbs CNAME .
 *.seriesflix.sbs CNAME .
 sobt18.sbs CNAME .
@@ -20310,6 +20330,8 @@ luxmovies1.shop CNAME .
 *.luxmovies1.shop CNAME .
 moviesmod3.shop CNAME .
 *.moviesmod3.shop CNAME .
+purstream.shop CNAME .
+*.purstream.shop CNAME .
 putlockers.shop CNAME .
 *.putlockers.shop CNAME .
 skymovieshd.shop CNAME .
@@ -20812,6 +20834,8 @@ tracker-de.ololosh.space CNAME .
 *.tracker-de.ololosh.space CNAME .
 pirateproxy.space CNAME .
 *.pirateproxy.space CNAME .
+purstream.space CNAME .
+*.purstream.space CNAME .
 soundpark.space CNAME .
 *.soundpark.space CNAME .
 stream-data-q9k4.space CNAME .
@@ -22262,6 +22286,8 @@ polishtorrent.top CNAME .
 *.polishtorrent.top CNAME .
 pressplay.top CNAME .
 *.pressplay.top CNAME .
+purstream.top CNAME .
+*.purstream.top CNAME .
 rojadirecta.top CNAME .
 *.rojadirecta.top CNAME .
 rojadirectatv.top CNAME .

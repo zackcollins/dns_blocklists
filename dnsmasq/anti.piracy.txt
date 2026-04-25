@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Apr 2026 16:53 UTC
-# Version: 2026.0425.1653.24
+# Last modified: 25 Apr 2026 20:59 UTC
+# Version: 2026.0425.2059.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12388
+# Number of entries: 12401
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -8323,15 +8323,28 @@ local=/puredl.org/
 local=/purelivegigs.com/
 local=/puretna.com/
 local=/purposeuncle.xyz/
+local=/purstream.ac/
 local=/purstream.art/
+local=/purstream.biz/
+local=/purstream.buzz/
 local=/purstream.cc/
+local=/purstream.cloud/
 local=/purstream.co/
+local=/purstream.cx/
+local=/purstream.digital/
+local=/purstream.ink/
 local=/purstream.io/
+local=/purstream.lat/
+local=/purstream.live/
 local=/purstream.lol/
 local=/purstream.me/
 local=/purstream.net/
 local=/purstream.quest/
+local=/purstream.sbs/
+local=/purstream.shop/
+local=/purstream.space/
 local=/purstream.to/
+local=/purstream.top/
 local=/purstream.wiki/
 local=/bt.pusacg.org/
 local=/pussytorrents.org/
