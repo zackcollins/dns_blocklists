@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Apr 2026 16:54 UTC
-# Version: 2026.0424.1654.58
+# Last modified: 26 Apr 2026 09:16 UTC
+# Version: 2026.0426.0916.28
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3930
+# Number of entries: 3931
 #
 ss.0001.xyz
 003153.xyz
@@ -1070,6 +1070,7 @@ dns.dns-over-https.com
 i.dns-over-https.tk
 dns0.eu
 doh.dns4all.eu
+doh64.dns4all.eu
 dns4eu.online
 dns4me.net
 au01.dns4me.net

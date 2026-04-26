@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Apr 2026 09:23 UTC
-# Version: 2026.0425.0923.25
+# Last modified: 26 Apr 2026 09:17 UTC
+# Version: 2026.0426.0917.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 19089
+# Number of entries: 19090
 #
 *.000000555.xyz
 *.ss.0001.xyz
@@ -1044,6 +1044,7 @@
 *.n8z7zwivjg.execute-api.us-east-1.amazonaws.com
 *.tb2hgc4485.execute-api.us-east-1.amazonaws.com
 *.w6wgmwa4bd.execute-api.us-east-1.amazonaws.com
+*.brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com
 *.mellowtel-bucket.s3.us-east-1.amazonaws.com
 *.msstore-submissions.s3.us-east-1.amazonaws.com
 *.xv-client-json-configuration.s3.us-east-1.amazonaws.com
