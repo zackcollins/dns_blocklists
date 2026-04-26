@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775899680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777105620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Apr 2026 09:28 UTC
-; Version: 2026.0411.0928.54
+; Last modified: 25 Apr 2026 08:27 UTC
+; Version: 2026.0425.0827.36
 ; Syntax: RPZ
-; Number of entries: 2406
+; Number of entries: 2390
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -164,10 +164,6 @@ blogspot.cl CNAME .
 *.blogspot.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
-autoscolor.club CNAME .
-*.autoscolor.club CNAME .
-manfeature.club CNAME .
-*.manfeature.club CNAME .
 wapka.club CNAME .
 *.wapka.club CNAME .
 asia.cm CNAME .
@@ -328,6 +324,8 @@ blogcu.com CNAME .
 *.blogcu.com CNAME .
 blogcudinti.com CNAME .
 *.blogcudinti.com CNAME .
+blogdosaga.com CNAME .
+*.blogdosaga.com CNAME .
 blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
@@ -516,8 +514,6 @@ fileave.com CNAME .
 *.fileave.com CNAME .
 financecryptoworld.com CNAME .
 *.financecryptoworld.com CNAME .
-financial-offer.com CNAME .
-*.financial-offer.com CNAME .
 firearms.com CNAME .
 *.firearms.com CNAME .
 fitnell.com CNAME .
@@ -1308,8 +1304,6 @@ rf.gd CNAME .
 *.rf.gd CNAME .
 24.gg CNAME .
 *.24.gg CNAME .
-blo.gg CNAME .
-*.blo.gg CNAME .
 eu.gg CNAME .
 *.eu.gg CNAME .
 fun.gg CNAME .
@@ -1910,12 +1904,8 @@ netai.net CNAME .
 *.netai.net CNAME .
 onlinewebshop.net CNAME .
 *.onlinewebshop.net CNAME .
-page-suspension.net CNAME .
-*.page-suspension.net CNAME .
 pktriot.net CNAME .
 *.pktriot.net CNAME .
-pnsiayfas.net CNAME .
-*.pnsiayfas.net CNAME .
 ql4h.net CNAME .
 *.ql4h.net CNAME .
 scienceontheweb.net CNAME .
@@ -2214,6 +2204,8 @@ pancake.run CNAME .
 *.pancake.run CNAME .
 blogg.se CNAME .
 *.blogg.se CNAME .
+bloggplatsen.se CNAME .
+*.bloggplatsen.se CNAME .
 blogspot.se CNAME .
 *.blogspot.se CNAME .
 comhem.se CNAME .
@@ -2318,12 +2310,6 @@ welt.tl CNAME .
 *.welt.tl CNAME .
 land.to CNAME .
 *.land.to CNAME .
-artsold.top CNAME .
-*.artsold.top CNAME .
-datesize.top CNAME .
-*.datesize.top CNAME .
-mdtwo.top CNAME .
-*.mdtwo.top CNAME .
 moneyash.top CNAME .
 *.moneyash.top CNAME .
 pl-oferta-id2387942371.top CNAME .
@@ -2412,8 +2398,6 @@ website-home.ws CNAME .
 *.website-home.ws CNAME .
 07080900.xyz CNAME .
 *.07080900.xyz CNAME .
-hkearth.xyz CNAME .
-*.hkearth.xyz CNAME .
 tggame.xyz CNAME .
 *.tggame.xyz CNAME .
 blogspot.co.za CNAME .

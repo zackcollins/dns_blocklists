@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 10:29 UTC
-# Version: 2026.0411.1029.02
+# Last modified: 26 Apr 2026 09:16 UTC
+# Version: 2026.0426.0916.28
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3943
+# Number of entries: 3931
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -422,7 +422,6 @@
 0.0.0.0 doh.azoris.ovh
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 sradg2.eastus.cloudapp.azure.com
-0.0.0.0 kawpad.southeastasia.cloudapp.azure.com
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.b-cdn.net
 0.0.0.0 dns.b33.network
@@ -471,7 +470,6 @@
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
-0.0.0.0 mydns.bielperes.me
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 goga7777777.bissnes.org
 0.0.0.0 ns3.bit-trail.nl
@@ -560,7 +558,6 @@
 0.0.0.0 81xyz.brudnowski.eu
 0.0.0.0 adguard.bse4792.site
 0.0.0.0 doh.bt.com
-0.0.0.0 bubblex2.top
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
@@ -645,7 +642,6 @@
 0.0.0.0 dns.chunghwamc.com
 0.0.0.0 oraclejp2.chungyu.com
 0.0.0.0 c.cicitt.ch
-0.0.0.0 doh.cippapp.com
 0.0.0.0 canadianshield.cira.ca
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
@@ -1069,15 +1065,12 @@
 0.0.0.0 mikrobill.dns-cloud.net
 0.0.0.0 proariel.dns-dynamic.net
 0.0.0.0 dns-free.link
-0.0.0.0 dns1.dns-ga.de
-0.0.0.0 dns2.dns-ga.de
-0.0.0.0 dns3.dns-ga.de
-0.0.0.0 doh.dns-ga.de
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk
 0.0.0.0 dns0.eu
 0.0.0.0 doh.dns4all.eu
+0.0.0.0 doh64.dns4all.eu
 0.0.0.0 dns4eu.online
 0.0.0.0 dns4me.net
 0.0.0.0 au01.dns4me.net
@@ -1403,7 +1396,6 @@
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
-0.0.0.0 baksabal.duckdns.org
 0.0.0.0 blamb.duckdns.org
 0.0.0.0 cdzopi.duckdns.org
 0.0.0.0 chynik.duckdns.org
@@ -1476,7 +1468,6 @@
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1621,7 +1612,6 @@
 0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
-0.0.0.0 dns.fdue.de
 0.0.0.0 agh.feblab.click
 0.0.0.0 dns1.feear.se
 0.0.0.0 dns2.feear.se
@@ -1636,7 +1626,6 @@
 0.0.0.0 dot.ffmuc.net
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
-0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 fimoshinckaya-federation.site
 0.0.0.0 home.firetiresinc.com
@@ -1845,7 +1834,6 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
-0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud
@@ -2066,8 +2054,6 @@
 0.0.0.0 ad.imblien.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
-0.0.0.0 immadnez7.ru
-0.0.0.0 www.immadnez7.ru
 0.0.0.0 dns.immanuelschaffer.de
 0.0.0.0 doh.immerda.ch
 0.0.0.0 http-dns.imoim.net
@@ -2082,6 +2068,7 @@
 0.0.0.0 adblock.indianets.net
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
+0.0.0.0 dns.infosec.xyz
 0.0.0.0 doh.infracell.net
 0.0.0.0 adguard.infrapod.nl
 0.0.0.0 adguard01.infrapod.nl
@@ -2327,7 +2314,6 @@
 0.0.0.0 2024.laijy.top
 0.0.0.0 adguard.lamhoangtung.space
 0.0.0.0 landerbrauver.ru
-0.0.0.0 ads-ch.landgame.net
 0.0.0.0 x.laoban.fun
 0.0.0.0 mx1.laoxiao789.com
 0.0.0.0 larkin.wang
@@ -3105,6 +3091,7 @@
 0.0.0.0 dns.qrtz.club
 0.0.0.0 qstam.ru
 0.0.0.0 hostdare.qtxd.net
+0.0.0.0 alpha-dns.quad9.net
 0.0.0.0 dns.quad9.net
 0.0.0.0 dns-nosec.quad9.net
 0.0.0.0 dns10.quad9.net
@@ -3119,7 +3106,6 @@
 0.0.0.0 dns.quickline.ch
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
-0.0.0.0 dns.quickso.cn
 0.0.0.0 dns.quiet.rocks
 0.0.0.0 ant.dns.qwer.pw
 0.0.0.0 dog.dns.qwer.pw
@@ -3142,7 +3128,6 @@
 0.0.0.0 ginnungagap.rabenhain.net
 0.0.0.0 adguard.rabmoor.cz
 0.0.0.0 dns.api.rackspacecloud.com
-0.0.0.0 raj.pw
 0.0.0.0 ns.ral9005.org
 0.0.0.0 dns.ramansarda.com
 0.0.0.0 doh.rasmusminde.dk
@@ -3278,6 +3263,7 @@
 0.0.0.0 dns.schmidt-zoarn.de
 0.0.0.0 moise-et-maurice-gardent-la-maison.schneiderus.org
 0.0.0.0 dns1.schooldns.nl
+0.0.0.0 dns.scott.ovh
 0.0.0.0 dns.scott-smith.us
 0.0.0.0 scottdylewski.com
 0.0.0.0 dns.sct-pro.com
@@ -3326,6 +3312,7 @@
 0.0.0.0 httpdns.n.shifen.com
 0.0.0.0 dns.shimul.me
 0.0.0.0 do.shimul.me
+0.0.0.0 shitblocker.com
 0.0.0.0 adguard.shoupperuser.com
 0.0.0.0 dns.shrike.ru
 0.0.0.0 penetrator.shurakenas.ru
@@ -3361,7 +3348,6 @@
 0.0.0.0 dns.slinkyman.net
 0.0.0.0 dns1.slowb.ro
 0.0.0.0 dns2.slowb.ro
-0.0.0.0 001.smallnode.net
 0.0.0.0 smartcamp.su
 0.0.0.0 dns.smartguard.io
 0.0.0.0 singy.smartq.dev
@@ -3376,6 +3362,7 @@
 0.0.0.0 adguardhome.softcloud.pe
 0.0.0.0 clientdns3.softcom.net
 0.0.0.0 myprivityvpn.softether.net
+0.0.0.0 solaxy.live
 0.0.0.0 wtbd02.solowalk.top
 0.0.0.0 ns.solutics.ec
 0.0.0.0 ns.solutionsbest.de
@@ -3399,6 +3386,7 @@
 0.0.0.0 resolve2.srv-pro.de
 0.0.0.0 adguard.sscw.win
 0.0.0.0 ssh-storage.ru
+0.0.0.0 dns.sshub.win
 0.0.0.0 doh.ntu.ssooss.win
 0.0.0.0 ag.ssrahul96.xyz
 0.0.0.0 dns.sstomp.nl
@@ -3521,6 +3509,8 @@
 0.0.0.0 de.teradns.org
 0.0.0.0 ny.teradns.org
 0.0.0.0 sg.teradns.org
+0.0.0.0 tx.teradns.org
+0.0.0.0 uk.teradns.org
 0.0.0.0 apne1.dns.terumi.club
 0.0.0.0 dns.soldier.terumi.club
 0.0.0.0 dns.tesem.dog
@@ -3800,8 +3790,6 @@
 0.0.0.0 dnsbk.wns.watch
 0.0.0.0 ag.wntrmute.net
 0.0.0.0 block-solution.wolfplaces.com
-0.0.0.0 woodbridge.club
-0.0.0.0 clearweb.woodbridge.club
 0.0.0.0 dns.woodyli.dev
 0.0.0.0 doh.ndmc.work.gd
 0.0.0.0 dds.wpme.pl

@@ -1106,6 +1106,13 @@
       }
     },
     {
+      "PK": "cf-equality.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cfw.guide",
       "action": {
         "do": 1,
@@ -1855,6 +1862,13 @@
       }
     },
     {
+      "PK": "disasterpr.fun",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "discord.gift",
       "action": {
         "do": 1,
@@ -2306,6 +2320,13 @@
       "PK": "*.events",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eventz.today",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -3549,6 +3570,13 @@
       }
     },
     {
+      "PK": "intercom.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.international",
       "action": {
         "do": 0,
@@ -3787,6 +3815,13 @@
       }
     },
     {
+      "PK": "keys.casa",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "kickthespy.pet",
       "action": {
         "do": 1,
@@ -3907,6 +3942,13 @@
     },
     {
       "PK": "latent.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "layers.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -4294,6 +4336,13 @@
       "PK": "*.luxe",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "lyyti.events",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -4823,6 +4872,13 @@
       }
     },
     {
+      "PK": "mysubwaytoolbox.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nabu.casa",
       "action": {
         "do": 1,
@@ -5013,6 +5069,13 @@
     },
     {
       "PK": "nordland.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "noru.top",
       "action": {
         "do": 1,
         "status": 1
@@ -5334,6 +5397,13 @@
       }
     },
     {
+      "PK": "outpost.pub",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "owl-dampfer.shop",
       "action": {
         "do": 1,
@@ -5607,6 +5677,13 @@
       }
     },
     {
+      "PK": "platone.red",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "play.eco",
       "action": {
         "do": 1,
@@ -5727,6 +5804,13 @@
     },
     {
       "PK": "ppt.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pravatar.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -6111,6 +6195,13 @@
       }
     },
     {
+      "PK": "redtiger.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rehab",
       "action": {
         "do": 0,
@@ -6399,6 +6490,13 @@
     },
     {
       "PK": "scalable.capital",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "scayle.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -6786,6 +6884,13 @@
       "PK": "*.space",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "spaceforce.ink",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -7225,6 +7330,13 @@
     },
     {
       "PK": "thedesk.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "thedivisionresurgence.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -7777,6 +7889,13 @@
       }
     },
     {
+      "PK": "vitunleija.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "vivid.money",
       "action": {
         "do": 1,
@@ -7948,6 +8067,13 @@
       "PK": "*.wedding",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wedos.delivery",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

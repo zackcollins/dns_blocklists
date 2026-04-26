@@ -1,5 +1,13 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/9996
+termsfeed.com
+
+# Paypal 3P login issues in some apps on android?
+ddbm2.paypal.com
+ddbm2.paypal.com.first-party-js.datadome.co
+*.paypal.com.first-party-js.datadome.co
+
 # https://github.com/hagezi/dns-blocklists/issues/9537
 connect.facebook.com
 connect.facebook.net

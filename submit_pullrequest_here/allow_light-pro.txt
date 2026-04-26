@@ -1,5 +1,8 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/9994
+p16-ad-sg.ibyteimg.com
+
 # https://github.com/hagezi/dns-blocklists/issues/9690
 tom.itv.com
 

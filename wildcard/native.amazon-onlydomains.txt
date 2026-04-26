@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 13:53 UTC
-# Version: 2026.0410.1353.35
+# Last modified: 25 Apr 2026 17:01 UTC
+# Version: 2026.0425.1701.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 319
+# Number of entries: 322
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -253,6 +253,9 @@ s-fe.amazon-adsystem.com
 s.amazon-adsystem.com
 s3-dub-ww.cf.videorolls.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+sonar.prime-video.amazon.dev
+sponsored-ads-fe.amazon-adsystem.com
+sponsored-ads-na.amazon-adsystem.com
 sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
 sq-tungsten-ts.amazon-adsystem.com

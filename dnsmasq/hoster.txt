@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 09:28 UTC
-# Version: 2026.0411.0928.54
+# Last modified: 25 Apr 2026 08:27 UTC
+# Version: 2026.0425.0827.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1203
+# Number of entries: 1195
 #
 local=/000a.de/
 local=/000space.com/
@@ -170,7 +170,6 @@ local=/anschiessen.de/
 local=/ar.gp/
 local=/arcadepages.com/
 local=/arrangiert.de/
-local=/artsold.top/
 local=/asia.cm/
 local=/asia.gp/
 local=/at.cr/
@@ -183,7 +182,6 @@ local=/au.gp/
 local=/aufbauend.de/
 local=/ausposaunen.de/
 local=/auto.lc/
-local=/autoscolor.club/
 local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
@@ -214,7 +212,6 @@ local=/bizhat.com/
 local=/blackapplehost.com/
 local=/blackblogs.org/
 local=/blinkweb.com/
-local=/blo.gg/
 local=/blog.com/
 local=/blog.hr/
 local=/blog.lc/
@@ -223,11 +220,13 @@ local=/blog-online.eu/
 local=/blog5.net/
 local=/blogcu.com/
 local=/blogcudinti.com/
+local=/blogdosaga.com/
 local=/blogg.de/
 local=/blogg.se/
 local=/blogger.ba/
 local=/blogger.hu/
 local=/blogginger.com/
+local=/bloggplatsen.se/
 local=/bloggt.de/
 local=/blogia.com/
 local=/blogmaster.net/
@@ -432,7 +431,6 @@ local=/d3l.de/
 local=/da.cx/
 local=/da.ru/
 local=/daftpage.com/
-local=/datesize.top/
 local=/dax.ru/
 local=/ddl2.pl/
 local=/de.cm/
@@ -532,7 +530,6 @@ local=/ferreracademy.com/
 local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
-local=/financial-offer.com/
 local=/firearms.com/
 local=/firm.nu/
 local=/fitnell.com/
@@ -631,7 +628,6 @@ local=/healthyemployee.me/
 local=/hexe.in/
 local=/hilfe24h.de/
 local=/hinerava.com/
-local=/hkearth.xyz/
 local=/home.lc/
 local=/homemarker.com/
 local=/homepage.cx/
@@ -775,9 +771,7 @@ local=/maddsites.com/
 local=/mail.ht/
 local=/majesticbank.at/
 local=/majesticbank.de/
-local=/manfeature.club/
 local=/mashstaffing.com/
-local=/mdtwo.top/
 local=/me.gp/
 local=/me.ly/
 local=/mediafirex.icu/
@@ -873,7 +867,6 @@ local=/own-free-website.com/
 local=/ozq.de/
 local=/p.gp/
 local=/page.tl/
-local=/page-suspension.net/
 local=/page4.me/
 local=/pages10.com/
 local=/pancake.run/
@@ -898,7 +891,6 @@ local=/pl.de/
 local=/pl.gp/
 local=/pl-oferta-id2387942371.top/
 local=/planet.tl/
-local=/pnsiayfas.net/
 local=/podia.com/
 local=/populr.me/
 local=/portal.lc/

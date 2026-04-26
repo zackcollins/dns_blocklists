@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775816760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777049640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Apr 2026 10:26 UTC
-; Version: 2026.0410.1026.18
+; Last modified: 24 Apr 2026 16:54 UTC
+; Version: 2026.0424.1654.23
 ; Syntax: RPZ
-; Number of entries: 2964
+; Number of entries: 2960
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -790,8 +790,6 @@ hackx.com CNAME .
 *.hackx.com CNAME .
 happyforever.com CNAME .
 *.happyforever.com CNAME .
-happyminecraft.com CNAME .
-*.happyminecraft.com CNAME .
 health-carereform.com CNAME .
 *.health-carereform.com CNAME .
 heroinewarrior.com CNAME .
@@ -1492,8 +1490,6 @@ ath.cx CNAME .
 *.ath.cx CNAME .
 cloudns.cx CNAME .
 *.cloudns.cx CNAME .
-dyns.cx CNAME .
-*.dyns.cx CNAME .
 it.cx CNAME .
 *.it.cx CNAME .
 cpsnet.cz CNAME .
@@ -1662,6 +1658,8 @@ eva.hk CNAME .
 *.eva.hk CNAME .
 ismoke.hk CNAME .
 *.ismoke.hk CNAME .
+sleepless.hk CNAME .
+*.sleepless.hk CNAME .
 portmap.host CNAME .
 *.portmap.host CNAME .
 digikabel.hu CNAME .
@@ -1678,8 +1676,6 @@ now.im CNAME .
 *.now.im CNAME .
 cloudns.in CNAME .
 *.cloudns.in CNAME .
-evils.in CNAME .
-*.evils.in CNAME .
 indevs.in CNAME .
 *.indevs.in CNAME .
 aintno.info CNAME .
@@ -1784,6 +1780,8 @@ tru.io CNAME .
 *.tru.io CNAME .
 ydns.io CNAME .
 *.ydns.io CNAME .
+star.is CNAME .
+*.star.is CNAME .
 16-b.it CNAME .
 *.16-b.it CNAME .
 32-b.it CNAME .
@@ -2006,8 +2004,6 @@ dropfiles.net CNAME .
 *.dropfiles.net CNAME .
 dsmynas.net CNAME .
 *.dsmynas.net CNAME .
-dtdns.net CNAME .
-*.dtdns.net CNAME .
 dubya.net CNAME .
 *.dubya.net CNAME .
 duiadns.net CNAME .
@@ -2272,6 +2268,8 @@ viiic.net CNAME .
 *.viiic.net CNAME .
 vpndns.net CNAME .
 *.vpndns.net CNAME .
+vxe6.net CNAME .
+*.vxe6.net CNAME .
 webhop.net CNAME .
 *.webhop.net CNAME .
 webok.net CNAME .
@@ -2328,8 +2326,6 @@ auraria.org CNAME .
 *.auraria.org CNAME .
 authorizeddns.org CNAME .
 *.authorizeddns.org CNAME .
-awiki.org CNAME .
-*.awiki.org CNAME .
 bagus.org CNAME .
 *.bagus.org CNAME .
 barbaforte.org CNAME .
@@ -2806,6 +2802,8 @@ biz.st CNAME .
 *.biz.st CNAME .
 k22.su CNAME .
 *.k22.su CNAME .
+rpz.su CNAME .
+*.rpz.su CNAME .
 skc.su CNAME .
 *.skc.su CNAME .
 root.sx CNAME .
@@ -2920,8 +2918,6 @@ dubya.us CNAME .
 *.dubya.us CNAME .
 duia.us CNAME .
 *.duia.us CNAME .
-dynamic-dns.us CNAME .
-*.dynamic-dns.us CNAME .
 freeddns.us CNAME .
 *.freeddns.us CNAME .
 global-instr.us CNAME .

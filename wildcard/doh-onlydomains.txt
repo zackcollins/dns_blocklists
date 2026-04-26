@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Apr 2026 10:29 UTC
-# Version: 2026.0411.1029.02
+# Last modified: 26 Apr 2026 09:16 UTC
+# Version: 2026.0426.0916.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 3481
+# Number of entries: 3471
 #
 ss.0001.xyz
 003153.xyz
@@ -354,7 +354,6 @@ dns.azfar.my
 doh.azoris.ovh
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
-kawpad.southeastasia.cloudapp.azure.com
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b33.network
@@ -397,7 +396,6 @@ bestwon203.com
 dns.bgeneto.com
 dns.bibica.net
 dns.bibitos.cc
-mydns.bielperes.me
 httpdns.bilivideo.com
 goga7777777.bissnes.org
 ns3.bit-trail.nl
@@ -481,7 +479,6 @@ home.bruckmoser.it
 81xyz.brudnowski.eu
 adguard.bse4792.site
 doh.bt.com
-bubblex2.top
 goose.buckyfan.net
 doh.bugdns.com
 stratus.bugz.fr
@@ -557,7 +554,6 @@ dns.chromeina.top
 dns.chunghwamc.com
 oraclejp2.chungyu.com
 c.cicitt.ch
-doh.cippapp.com
 canadianshield.cira.ca
 crd.circl.lu
 dns.circl.lu
@@ -899,15 +895,12 @@ dns.dns-53.us
 mikrobill.dns-cloud.net
 proariel.dns-dynamic.net
 dns-free.link
-dns1.dns-ga.de
-dns2.dns-ga.de
-dns3.dns-ga.de
-doh.dns-ga.de
 dns.dns-heimdall.com
 dns.dns-over-https.com
 i.dns-over-https.tk
 dns0.eu
 doh.dns4all.eu
+doh64.dns4all.eu
 dns4eu.online
 dns4me.net
 adguard-koe.dns64.de
@@ -1170,7 +1163,6 @@ adguardcalpena.duckdns.org
 andryk111.duckdns.org
 andrykarcew.duckdns.org
 armm.duckdns.org
-baksabal.duckdns.org
 blamb.duckdns.org
 cdzopi.duckdns.org
 chynik.duckdns.org
@@ -1242,7 +1234,6 @@ adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
 saomai.dynu.com
-gustamadh.dynv6.net
 dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
@@ -1379,7 +1370,6 @@ adguardhome.favrep.ovh
 dns.faze.dev
 ns0.fdn.fr
 ns1.fdn.fr
-dns.fdue.de
 agh.feblab.click
 dns1.feear.se
 dns2.feear.se
@@ -1394,7 +1384,6 @@ doh.ffmuc.net
 dot.ffmuc.net
 dns.ffnw.de
 fidelius.top
-dns.fifux.be
 dns.filipccz.eu
 fimoshinckaya-federation.site
 home.firetiresinc.com
@@ -1595,7 +1584,6 @@ dns.hanmey.de
 dns.hannielzhang.com
 jp.hannielzhang.com
 d.hansj.cc
-dns.haoxuan.xyz
 resolver.haringstad.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud
@@ -1767,7 +1755,6 @@ ilmxs.com
 ad.imblien.com
 noads.imbuffering.com
 dns.imchristian.de
-immadnez7.ru
 dns.immanuelschaffer.de
 doh.immerda.ch
 http-dns.imoim.net
@@ -1781,6 +1768,7 @@ incaseineeditoneday.com
 adblock.indianets.net
 dns.indybanipal.com
 dns.inforlogia.com
+dns.infosec.xyz
 doh.infracell.net
 adguard.infrapod.nl
 adguard01.infrapod.nl
@@ -2012,7 +2000,6 @@ cdns.lagzerotm.com
 2024.laijy.top
 adguard.lamhoangtung.space
 landerbrauver.ru
-ads-ch.landgame.net
 x.laoban.fun
 mx1.laoxiao789.com
 larkin.wang
@@ -2709,6 +2696,7 @@ ns1.qquack.org
 dns.qrtz.club
 qstam.ru
 hostdare.qtxd.net
+alpha-dns.quad9.net
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
@@ -2723,7 +2711,6 @@ quic.lol
 dns.quickline.ch
 doh.quickline.ch
 dot.quickline.ch
-dns.quickso.cn
 dns.quiet.rocks
 ant.dns.qwer.pw
 dog.dns.qwer.pw
@@ -2746,7 +2733,6 @@ security.rabbitdns.org
 ginnungagap.rabenhain.net
 adguard.rabmoor.cz
 dns.api.rackspacecloud.com
-raj.pw
 ns.ral9005.org
 dns.ramansarda.com
 doh.rasmusminde.dk
@@ -2873,6 +2859,7 @@ dns.schlagheck.berlin
 dns.schmidt-zoarn.de
 moise-et-maurice-gardent-la-maison.schneiderus.org
 dns1.schooldns.nl
+dns.scott.ovh
 dns.scott-smith.us
 scottdylewski.com
 dns.sct-pro.com
@@ -2920,6 +2907,7 @@ dns.sheggi.ch
 httpdns.n.shifen.com
 dns.shimul.me
 do.shimul.me
+shitblocker.com
 adguard.shoupperuser.com
 dns.shrike.ru
 penetrator.shurakenas.ru
@@ -2954,7 +2942,6 @@ homeguard.sleziona.org
 dns.slinkyman.net
 dns1.slowb.ro
 dns2.slowb.ro
-001.smallnode.net
 smartcamp.su
 dns.smartguard.io
 singy.smartq.dev
@@ -2966,6 +2953,7 @@ guard.sntrk.ru
 adguardhome.softcloud.pe
 clientdns3.softcom.net
 myprivityvpn.softether.net
+solaxy.live
 wtbd02.solowalk.top
 ns.solutics.ec
 ns.solutionsbest.de
@@ -2989,6 +2977,7 @@ resolve02.srv-pro.de
 resolve2.srv-pro.de
 adguard.sscw.win
 ssh-storage.ru
+dns.sshub.win
 doh.ntu.ssooss.win
 ag.ssrahul96.xyz
 dns.sstomp.nl
@@ -3104,6 +3093,8 @@ au.teradns.org
 de.teradns.org
 ny.teradns.org
 sg.teradns.org
+tx.teradns.org
+uk.teradns.org
 apne1.dns.terumi.club
 dns.soldier.terumi.club
 dns.tesem.dog
@@ -3348,7 +3339,6 @@ dns.wns.watch
 dnsbk.wns.watch
 ag.wntrmute.net
 block-solution.wolfplaces.com
-woodbridge.club
 dns.woodyli.dev
 doh.ndmc.work.gd
 dds.wpme.pl

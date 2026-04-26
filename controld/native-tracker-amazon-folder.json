@@ -1709,6 +1709,27 @@
       }
     },
     {
+      "PK": "sonar.prime-video.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-fe.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sponsored-ads-na.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sq-tungsten-ts.amazon-adsystem.com",
       "action": {
         "do": 0,

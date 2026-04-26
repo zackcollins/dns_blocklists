@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Apr 2026 13:40 UTC
-# Version: 2026.0410.1340.34
+# Last modified: 24 Apr 2026 16:53 UTC
+# Version: 2026.0424.1653.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 206
+# Number of entries: 205
 #
 search.0xcb.dev
 search.0xgingi.com
@@ -200,7 +200,6 @@ lx.vern.cc
 wg.vern.cc
 grep.vim.wtf
 searx.vitanetworks.link
-gowogle.voring.me
 search.wdpserver.com
 h4g3z1-nosafesearch.web.app
 webcrawler.com
