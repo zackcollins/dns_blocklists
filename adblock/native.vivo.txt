@@ -6,15 +6,15 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Apr 2026 17:11 UTC
-! Version: 2026.0424.1711.21
+! Last modified: 26 May 2026 17:30 UTC
+! Version: 2026.0526.1730.03
 ! Syntax: AdBlock
-! Number of entries: 246
+! Number of entries: 238
 !
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
+||az.appstore.vivo.com.cn^
 ||adlog.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn^
-||az.appstore.vivo.com.cn^
 ||appstore-trace-h5sdk.vivo.com.cn^
 ||dsplog-adnet.vivo.com.cn^
 ||trace-h5sdk.vivo.com.cn^
@@ -25,6 +25,7 @@
 ||vhs.wwstat.com.eo.dnse0.com^
 ||adlog.vivo.com^
 ||ads-api.vivo.com^
+||err.up.vivoglobal.com^
 ||asia-abeacdataonrt-stsdk.vivoglobal.com^
 ||asia-abeacdataort-stsdk.vivoglobal.com^
 ||asia-ad-mkt-vivofs.vivoglobal.com^
@@ -68,16 +69,11 @@
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-asia-stsdk09.vivoglobal.com^
 ||cname-asia02-stsdk.vivoglobal.com^
-||cname-de-stsdk.vivoglobal.com^
 ||cname-in-apport-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-in-ctdbonrt-stsdk.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
-||co-cota.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
-||co-err-up.vivoglobal.com^
-||co-onrt-stsdk.vivoglobal.com^
-||co-ort-stsdk.vivoglobal.com^
 ||co-pnrt-stsdk.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
@@ -85,9 +81,7 @@
 ||co-timesync.vivoglobal.com^
 ||co-vcode-api.vivoglobal.com^
 ||co-vcode-od.vivoglobal.com^
-||co-vcode-or.vivoglobal.com^
 ||de-gdpr-err-up.vivoglobal.com^
-||de-gdpr-vcode-od.vivoglobal.com^
 ||err-up.vivoglobal.com^
 ||eu-album-api.vivoglobal.com^
 ||eu-cota.vivoglobal.com^
@@ -154,7 +148,6 @@
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
 ||kz-stsdk.vivoglobal.com^
-||kz-timesync.vivoglobal.com^
 ||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
@@ -238,7 +231,6 @@
 ||tr-vcode-or.vivoglobal.com^
 ||tr-weather.vivoglobal.com^
 ||uk-timesync.vivoglobal.com^
-||err.up.vivoglobal.com^
 ||xn--ex-adreq-asa-c5b.vivoglobal.com^
 ||xn-ex-adreq-asa-c5b.vivoglobal.com^
 ||za-p.vivoglobal.com^

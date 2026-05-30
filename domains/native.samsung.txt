@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Apr 2026 17:09 UTC
-# Version: 2026.0428.1709.45
+# Last modified: 29 May 2026 18:15 UTC
+# Version: 2026.0529.1815.43
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 272
+# Number of entries: 270
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -127,7 +127,6 @@ tracking.europe.business.samsung.com
 images.it.business.samsung.com
 seao.business.samsung.com
 channelusa.samsung.com
-images.chbusiness.samsung.com
 dc.dqa.samsung.com
 dls-ddc.dqa.samsung.com
 dls-udc.dqa.samsung.com
@@ -143,10 +142,8 @@ images.partnersupport.samsung.com
 plbusiness.samsung.com
 api.runestone.samsung.com
 di.runestone.samsung.com
-cc.di.runestone.samsung.com
 dc.di.runestone.samsung.com
 dls.di.runestone.samsung.com
-lcs.di.runestone.samsung.com
 orsdls.di.runestone.samsung.com
 orsfs.di.runestone.samsung.com
 orsplc.di.runestone.samsung.com
@@ -186,6 +183,7 @@ go.samsungads.com
 go2.samsungads.com
 rtb-config.samsungads.com
 tvp-ads-log.samsungads.com
+tvp-ads-log-staging.samsungads.com
 tvp-interactive-ad.samsungads.com
 www.samsungads.com
 samsungallstore.com

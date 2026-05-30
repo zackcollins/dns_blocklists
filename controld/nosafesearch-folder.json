@@ -295,13 +295,6 @@
       }
     },
     {
-      "PK": "neeva.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "nibblehole.com",
       "action": {
         "do": 0,
@@ -722,6 +715,13 @@
       }
     },
     {
+      "PK": "search.opentunisia.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "search.privacytools.io",
       "action": {
         "do": 0,
@@ -1002,13 +1002,6 @@
       }
     },
     {
-      "PK": "searx.linux.pizza",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.lwhr.xyz",
       "action": {
         "do": 0,
@@ -1065,6 +1058,13 @@
       }
     },
     {
+      "PK": "searxng.biz",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "searxng.canine.tools",
       "action": {
         "do": 0,
@@ -1087,13 +1087,6 @@
     },
     {
       "PK": "searxng.no-logs.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.nightmare.life",
       "action": {
         "do": 0,
         "status": 1

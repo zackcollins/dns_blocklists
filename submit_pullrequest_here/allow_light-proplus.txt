@@ -1,12 +1,24 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/10143
+gt.tc
+ct.ws
+rf.gd
+xo.je
+
+# https://github.com/hagezi/dns-blocklists/issues/8430#issuecomment-4386468382
+mqtt-mini.facebook.com
+
+# https://github.com/hagezi/dns-blocklists/issues/8632
+# AdShield: Many websites do not work when blocked via DNS. The ads can only be blocked via content blockers.
+*.html-load.com
+*.content-loader.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10064
+canadiantire.tt.omtrdc.net
+
 # https://github.com/hagezi/dns-blocklists/issues/9996
 termsfeed.com
-
-# Paypal 3P login issues in some apps on android?
-ddbm2.paypal.com
-ddbm2.paypal.com.first-party-js.datadome.co
-*.paypal.com.first-party-js.datadome.co
 
 # https://github.com/hagezi/dns-blocklists/issues/9537
 connect.facebook.com

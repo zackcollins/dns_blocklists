@@ -134,13 +134,6 @@
       }
     },
     {
-      "PK": "ads-msn-com-profile.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adstore.response.gcp.eastus.trafficmanager.net",
       "action": {
         "do": 0,
@@ -156,13 +149,6 @@
     },
     {
       "PK": "advertising.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aec-visio-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1
@@ -191,13 +177,6 @@
     },
     {
       "PK": "analyticsehnwe.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -323,13 +302,6 @@
       }
     },
     {
-      "PK": "a-ring-ipv6only.msedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "a-ring.msedge.net",
       "action": {
         "do": 0,
@@ -422,20 +394,6 @@
     },
     {
       "PK": "b-ring.msedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "btv-du-dev-eventhub-streamanalytics.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "btv-du-prod-eventhub-streamanalytics.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -632,13 +590,6 @@
     },
     {
       "PK": "citrixanalyticseh2-alias.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "citrixanalyticseh2.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -995,6 +946,13 @@
       }
     },
     {
+      "PK": "ehtelemetrystaging-alias.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "euc-excel-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1121,13 +1079,6 @@
       }
     },
     {
-      "PK": "events-sandbox.data.msn.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "events-sandbox.data.msn.com",
       "action": {
         "do": 0,
@@ -1143,6 +1094,13 @@
     },
     {
       "PK": "excel-telemetry.wac.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "exo.nel.measure.office.net.cardano.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1226,6 +1184,20 @@
       }
     },
     {
+      "PK": "h1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "h2.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "h4g3z1-native.winoffice.web.app",
       "action": {
         "do": 0,
@@ -1262,6 +1234,13 @@
     },
     {
       "PK": "i1.services.social.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "identity.nel.measure.office.net.cardano.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1443,7 +1422,7 @@
       }
     },
     {
-      "PK": "live.applicationinsights.azure.cn",
+      "PK": "licensingtelemetry-prod.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1479,6 +1458,13 @@
     },
     {
       "PK": "location-microsoft-com.b-0005.b-msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "m365cdn.nel.measure.office.net.cardano.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2059,13 +2045,6 @@
       }
     },
     {
-      "PK": "prd-qlik-telemetry.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "preview.msn.com",
       "action": {
         "do": 0,
@@ -2206,6 +2185,13 @@
       }
     },
     {
+      "PK": "spo.nel.measure.office.net.cardano.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "spynet2.microsoft.com",
       "action": {
         "do": 0,
@@ -2311,6 +2297,13 @@
       }
     },
     {
+      "PK": "teams.nel.measure.office.net.cardano.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "telecommandsvc.microsoft.com",
       "action": {
         "do": 0,
@@ -2354,6 +2347,13 @@
     },
     {
       "PK": "telemetry.microsoft.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2535,6 +2535,13 @@
       }
     },
     {
+      "PK": "upload.fp.measure.office.com.corp.mmco.int.cardano.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "usc-onenote-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -2669,13 +2676,6 @@
     },
     {
       "PK": "word-telemetry.wac.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

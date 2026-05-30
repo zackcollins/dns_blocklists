@@ -183,6 +183,13 @@
       }
     },
     {
+      "PK": "co.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "college",
       "action": {
         "do": 0,
@@ -226,13 +233,6 @@
     },
     {
       "PK": "day",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "diy",
       "action": {
         "do": 0,
         "status": 1
@@ -379,6 +379,13 @@
       }
     },
     {
+      "PK": "gripe",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hair",
       "action": {
         "do": 0,
@@ -387,6 +394,13 @@
     },
     {
       "PK": "immo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "insure",
       "action": {
         "do": 0,
         "status": 1
@@ -792,7 +806,21 @@
       }
     },
     {
+      "PK": "us.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "us.kg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us.org",
       "action": {
         "do": 0,
         "status": 1

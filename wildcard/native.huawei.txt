@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 10:01 UTC
-# Version: 2026.0227.1001.06
+# Last modified: 10 May 2026 08:54 UTC
+# Version: 2026.0510.0854.46
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 127
+# Number of entries: 130
 #
 *.browsercfg-drcn.cloud.dbankcloud.cn
 *.ubacollect-drcn.cloud.dbankcloud.cn
@@ -115,10 +115,13 @@
 *.honorsearch-drcn.hiboard.hihonorcloud.com
 *.honorsearch-dre.hiboard.hihonorcloud.com
 *.ads-drcn.platform.hihonorcloud.com
+*.ads-drru.platform.hihonorcloud.com
 *.log-dra.platform.hihonorcloud.com
 *.log-drcn.platform.hihonorcloud.com
 *.log-dre.platform.hihonorcloud.com
 *.log-drru.platform.hihonorcloud.com
+*.tracking-data.platform.hihonorcloud.com
+*.tracking-data-drru.platform.hihonorcloud.com
 *.ads.cloud.huawei.com
 *.ads-drru.cloud.huawei.ru
 *.rnd-cbgpas01.huawei.com

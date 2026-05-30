@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 10:01 UTC
-# Version: 2026.0227.1001.06
+# Last modified: 10 May 2026 08:54 UTC
+# Version: 2026.0510.0854.46
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 160
+# Number of entries: 165
 #
 browsercfg-drcn.cloud.dbankcloud.cn
 ubacollect-drcn.cloud.dbankcloud.cn
@@ -134,6 +134,7 @@ logservice-dra.dt.hihonorcloud.com
 logservice-drcn.dt.hihonorcloud.com
 logservice-dre.dt.hihonorcloud.com
 logservice-drru.dt.hihonorcloud.com
+logservice-lbs-drcn.dt.hihonorcloud.com
 metrics.dt.hihonorcloud.com
 metrics-ad-drcn.dt.hihonorcloud.com
 metrics-appdistribute-drcn.dt.hihonorcloud.com
@@ -142,16 +143,20 @@ metrics-dra.dt.hihonorcloud.com
 metrics-drcn.dt.hihonorcloud.com
 metrics-dre.dt.hihonorcloud.com
 metrics-drru.dt.hihonorcloud.com
+metrics-pcc-drcn.dt.hihonorcloud.com
 metrics-test-drcn.dt.hihonorcloud.com
 grs.hihonorcloud.com
 honorsearch-dra.hiboard.hihonorcloud.com
 honorsearch-drcn.hiboard.hihonorcloud.com
 honorsearch-dre.hiboard.hihonorcloud.com
 ads-drcn.platform.hihonorcloud.com
+ads-drru.platform.hihonorcloud.com
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com
 log-drru.platform.hihonorcloud.com
+tracking-data.platform.hihonorcloud.com
+tracking-data-drru.platform.hihonorcloud.com
 ads.cloud.huawei.com
 ads-drru.cloud.huawei.ru
 rnd-cbgpas01.huawei.com

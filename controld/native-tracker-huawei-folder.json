@@ -50,6 +50,13 @@
       }
     },
     {
+      "PK": "ads-drru.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adx-dra.op.dbankcloud.com",
       "action": {
         "do": 0,
@@ -877,6 +884,20 @@
     },
     {
       "PK": "rnd-cbgpas01.huawei.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tracking-data-drru.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tracking-data.platform.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1

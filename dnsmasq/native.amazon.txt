@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Apr 2026 17:00 UTC
-# Version: 2026.0429.1700.45
+# Last modified: 26 May 2026 17:24 UTC
+# Version: 2026.0526.1724.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 322
+# Number of entries: 348
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -86,6 +86,9 @@ local=/aax-vx-us-us-east-1.amazon-adsystem.com/
 local=/aax-vx-us-us-west-2.amazon-adsystem.com/
 local=/aax.amazon-adsystem.com/
 local=/ads-setu-proxy-eu.amazon.com/
+local=/ads-setu-proxy-fe.amazon.com/
+local=/ads-setu-proxy.amazon.com/
+local=/ads.amazon.com/
 local=/advertising-api-eu.amazon.com/
 local=/advertising.a2z.com/
 local=/advertising.amazon.ae/
@@ -254,8 +257,31 @@ local=/s.amazon-adsystem.com/
 local=/s3-dub-ww.cf.videorolls.row.aiv-cdn.net/
 local=/s3-iad-ww.cf.videorolls.row.aiv-cdn.net/
 local=/sonar.prime-video.amazon.dev/
+local=/sponsored-ads-eu-south-2.amazon-adsystem.com/
+local=/sponsored-ads-eu.amazon-adsystem.com/
+local=/sponsored-ads-eu.amazon.ae/
+local=/sponsored-ads-eu.amazon.com.be/
+local=/sponsored-ads-eu.amazon.com.tr/
+local=/sponsored-ads-eu.amazon.de/
+local=/sponsored-ads-eu.amazon.eg/
+local=/sponsored-ads-eu.amazon.ie/
+local=/sponsored-ads-eu.amazon.nl/
+local=/sponsored-ads-eu.amazon.pl/
+local=/sponsored-ads-eu.amazon.sa/
+local=/sponsored-ads-eu.amazon.se/
 local=/sponsored-ads-fe.amazon-adsystem.com/
 local=/sponsored-ads-na.amazon-adsystem.com/
+local=/sponsored-ads.amazon.ca/
+local=/sponsored-ads.amazon.co.jp/
+local=/sponsored-ads.amazon.co.uk/
+local=/sponsored-ads.amazon.com.au/
+local=/sponsored-ads.amazon.com.br/
+local=/sponsored-ads.amazon.com.mx/
+local=/sponsored-ads.amazon.com/
+local=/sponsored-ads.amazon.es/
+local=/sponsored-ads.amazon.fr/
+local=/sponsored-ads.amazon.in/
+local=/sponsored-ads.amazon.it/
 local=/sq-tungsten-ts-eu.amazon-adsystem.com/
 local=/sq-tungsten-ts-fe.amazon-adsystem.com/
 local=/sq-tungsten-ts.amazon-adsystem.com/

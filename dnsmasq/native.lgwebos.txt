@@ -5,12 +5,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Apr 2026 17:13 UTC
-# Version: 2026.0427.1713.56
+# Last modified: 27 May 2026 17:10 UTC
+# Version: 2026.0527.1710.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 338
+# Number of entries: 339
 #
-local=/alphonso.tv/
 local=/ae-ad-lgsmartad-com.aws-prd.net/
 local=/af-ad-lgsmartad-com.aws-prd.net/
 local=/ag-ad-lgsmartad-com.aws-prd.net/
@@ -177,8 +176,8 @@ local=/zw-ad-lgsmartad-com.aws-prd.net/
 local=/eic-ngfts.lge.com.edgekey.net/
 local=/kic-ngfts.lge.com.edgekey.net/
 local=/qt2-ngfts.lge.com.edgekey.net/
-local=/lgads.tv/
 local=/eic-ngfts.lge.com/
+local=/eic-qt2-ngfts.lge.com/
 local=/kic-ngfts.lge.com/
 local=/qt2-ngfts.lge.com/
 local=/ruc-ngfts.lge.com/
@@ -348,3 +347,5 @@ local=/nudge.lgtvcommon.com/
 local=/rdl.lgtvcommon.com/
 local=/wiseconfig.lgtvcommon.com/
 local=/h4g3z1-native.lgwebos.web.app/
+local=/alphonso.tv/
+local=/lgads.tv/

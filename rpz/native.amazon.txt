@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777482000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779816240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -9,15 +9,17 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Apr 2026 17:00 UTC
-; Version: 2026.0429.1700.45
+; Last modified: 26 May 2026 17:24 UTC
+; Version: 2026.0526.1724.22
 ; Syntax: RPZ
-; Number of entries: 644
+; Number of entries: 696
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
 fls-eu.amazon.ae CNAME .
 *.fls-eu.amazon.ae CNAME .
+sponsored-ads-eu.amazon.ae CNAME .
+*.sponsored-ads-eu.amazon.ae CNAME .
 unagi.amazon.ae CNAME .
 *.unagi.amazon.ae CNAME .
 paa-reporting-advertising.amazon CNAME .
@@ -28,22 +30,30 @@ advertising.amazon.com.au CNAME .
 *.advertising.amazon.com.au CNAME .
 fls-fe.amazon.com.au CNAME .
 *.fls-fe.amazon.com.au CNAME .
+sponsored-ads.amazon.com.au CNAME .
+*.sponsored-ads.amazon.com.au CNAME .
 unagi.amazon.com.au CNAME .
 *.unagi.amazon.com.au CNAME .
 fls-eu.amazon.com.be CNAME .
 *.fls-eu.amazon.com.be CNAME .
+sponsored-ads-eu.amazon.com.be CNAME .
+*.sponsored-ads-eu.amazon.com.be CNAME .
 unagi.amazon.com.be CNAME .
 *.unagi.amazon.com.be CNAME .
 advertising.amazon.com.br CNAME .
 *.advertising.amazon.com.br CNAME .
 fls-na.amazon.com.br CNAME .
 *.fls-na.amazon.com.br CNAME .
+sponsored-ads.amazon.com.br CNAME .
+*.sponsored-ads.amazon.com.br CNAME .
 unagi.amazon.com.br CNAME .
 *.unagi.amazon.com.br CNAME .
 advertising.amazon.ca CNAME .
 *.advertising.amazon.ca CNAME .
 fls-na.amazon.ca CNAME .
 *.fls-na.amazon.ca CNAME .
+sponsored-ads.amazon.ca CNAME .
+*.sponsored-ads.amazon.ca CNAME .
 unagi.amazon.ca CNAME .
 *.unagi.amazon.ca CNAME .
 assoc-amazon.ca CNAME .
@@ -68,8 +78,14 @@ video-ads.a2z.com CNAME .
 *.video-ads.a2z.com CNAME .
 aan.amazon.com CNAME .
 *.aan.amazon.com CNAME .
+ads.amazon.com CNAME .
+*.ads.amazon.com CNAME .
+ads-setu-proxy.amazon.com CNAME .
+*.ads-setu-proxy.amazon.com CNAME .
 ads-setu-proxy-eu.amazon.com CNAME .
 *.ads-setu-proxy-eu.amazon.com CNAME .
+ads-setu-proxy-fe.amazon.com CNAME .
+*.ads-setu-proxy-fe.amazon.com CNAME .
 advertising.amazon.com CNAME .
 *.advertising.amazon.com CNAME .
 advertising-api-eu.amazon.com CNAME .
@@ -120,6 +136,8 @@ mads-fe.amazon.com CNAME .
 *.mads-fe.amazon.com CNAME .
 rcm.amazon.com CNAME .
 *.rcm.amazon.com CNAME .
+sponsored-ads.amazon.com CNAME .
+*.sponsored-ads.amazon.com CNAME .
 unagi.amazon.com CNAME .
 *.unagi.amazon.com CNAME .
 unagi-eu.amazon.com CNAME .
@@ -376,6 +394,10 @@ s.amazon-adsystem.com CNAME .
 *.s.amazon-adsystem.com CNAME .
 s-fe.amazon-adsystem.com CNAME .
 *.s-fe.amazon-adsystem.com CNAME .
+sponsored-ads-eu.amazon-adsystem.com CNAME .
+*.sponsored-ads-eu.amazon-adsystem.com CNAME .
+sponsored-ads-eu-south-2.amazon-adsystem.com CNAME .
+*.sponsored-ads-eu-south-2.amazon-adsystem.com CNAME .
 sponsored-ads-fe.amazon-adsystem.com CNAME .
 *.sponsored-ads-fe.amazon-adsystem.com CNAME .
 sponsored-ads-na.amazon-adsystem.com CNAME .
@@ -520,6 +542,8 @@ identity.browserapps.amazon.de CNAME .
 *.identity.browserapps.amazon.de CNAME .
 fls-eu.amazon.de CNAME .
 *.fls-eu.amazon.de CNAME .
+sponsored-ads-eu.amazon.de CNAME .
+*.sponsored-ads-eu.amazon.de CNAME .
 unagi.amazon.de CNAME .
 *.unagi.amazon.de CNAME .
 assoc-amazon.de CNAME .
@@ -542,6 +566,8 @@ advertising.amazon.eg CNAME .
 *.advertising.amazon.eg CNAME .
 fls-eu.amazon.eg CNAME .
 *.fls-eu.amazon.eg CNAME .
+sponsored-ads-eu.amazon.eg CNAME .
+*.sponsored-ads-eu.amazon.eg CNAME .
 unagi.amazon.eg CNAME .
 *.unagi.amazon.eg CNAME .
 aan.amazon.es CNAME .
@@ -550,6 +576,8 @@ advertising.amazon.es CNAME .
 *.advertising.amazon.es CNAME .
 fls-eu.amazon.es CNAME .
 *.fls-eu.amazon.es CNAME .
+sponsored-ads.amazon.es CNAME .
+*.sponsored-ads.amazon.es CNAME .
 unagi.amazon.es CNAME .
 *.unagi.amazon.es CNAME .
 assoc-amazon.es CNAME .
@@ -560,16 +588,22 @@ advertising.amazon.fr CNAME .
 *.advertising.amazon.fr CNAME .
 fls-eu.amazon.fr CNAME .
 *.fls-eu.amazon.fr CNAME .
+sponsored-ads.amazon.fr CNAME .
+*.sponsored-ads.amazon.fr CNAME .
 unagi.amazon.fr CNAME .
 *.unagi.amazon.fr CNAME .
 assoc-amazon.fr CNAME .
 *.assoc-amazon.fr CNAME .
+sponsored-ads-eu.amazon.ie CNAME .
+*.sponsored-ads-eu.amazon.ie CNAME .
 aan.amazon.in CNAME .
 *.aan.amazon.in CNAME .
 advertising.amazon.in CNAME .
 *.advertising.amazon.in CNAME .
 fls-eu.amazon.in CNAME .
 *.fls-eu.amazon.in CNAME .
+sponsored-ads.amazon.in CNAME .
+*.sponsored-ads.amazon.in CNAME .
 unagi.amazon.in CNAME .
 *.unagi.amazon.in CNAME .
 aan.amazon.it CNAME .
@@ -580,6 +614,8 @@ fls-eu.amazon.it CNAME .
 *.fls-eu.amazon.it CNAME .
 rcm-it.amazon.it CNAME .
 *.rcm-it.amazon.it CNAME .
+sponsored-ads.amazon.it CNAME .
+*.sponsored-ads.amazon.it CNAME .
 unagi.amazon.it CNAME .
 *.unagi.amazon.it CNAME .
 assoc-amazon.it CNAME .
@@ -596,12 +632,16 @@ fls-fe.amazon.co.jp CNAME .
 *.fls-fe.amazon.co.jp CNAME .
 rcm-jp.amazon.co.jp CNAME .
 *.rcm-jp.amazon.co.jp CNAME .
+sponsored-ads.amazon.co.jp CNAME .
+*.sponsored-ads.amazon.co.jp CNAME .
 unagi.amazon.co.jp CNAME .
 *.unagi.amazon.co.jp CNAME .
 advertising.amazon.com.mx CNAME .
 *.advertising.amazon.com.mx CNAME .
 fls-na.amazon.com.mx CNAME .
 *.fls-na.amazon.com.mx CNAME .
+sponsored-ads.amazon.com.mx CNAME .
+*.sponsored-ads.amazon.com.mx CNAME .
 unagi.amazon.com.mx CNAME .
 *.unagi.amazon.com.mx CNAME .
 s3-dub-ww.cf.videorolls.row.aiv-cdn.net CNAME .
@@ -620,20 +660,28 @@ advertising.amazon.nl CNAME .
 *.advertising.amazon.nl CNAME .
 fls-eu.amazon.nl CNAME .
 *.fls-eu.amazon.nl CNAME .
+sponsored-ads-eu.amazon.nl CNAME .
+*.sponsored-ads-eu.amazon.nl CNAME .
 unagi.amazon.nl CNAME .
 *.unagi.amazon.nl CNAME .
 fls-eu.amazon.pl CNAME .
 *.fls-eu.amazon.pl CNAME .
+sponsored-ads-eu.amazon.pl CNAME .
+*.sponsored-ads-eu.amazon.pl CNAME .
 unagi.amazon.pl CNAME .
 *.unagi.amazon.pl CNAME .
 advertising.amazon.sa CNAME .
 *.advertising.amazon.sa CNAME .
 fls-eu.amazon.sa CNAME .
 *.fls-eu.amazon.sa CNAME .
+sponsored-ads-eu.amazon.sa CNAME .
+*.sponsored-ads-eu.amazon.sa CNAME .
 unagi.amazon.sa CNAME .
 *.unagi.amazon.sa CNAME .
 fls-eu.amazon.se CNAME .
 *.fls-eu.amazon.se CNAME .
+sponsored-ads-eu.amazon.se CNAME .
+*.sponsored-ads-eu.amazon.se CNAME .
 unagi.amazon.se CNAME .
 *.unagi.amazon.se CNAME .
 fls-fe.amazon.sg CNAME .
@@ -644,6 +692,8 @@ advertising.amazon.com.tr CNAME .
 *.advertising.amazon.com.tr CNAME .
 fls-eu.amazon.com.tr CNAME .
 *.fls-eu.amazon.com.tr CNAME .
+sponsored-ads-eu.amazon.com.tr CNAME .
+*.sponsored-ads-eu.amazon.com.tr CNAME .
 unagi.amazon.com.tr CNAME .
 *.unagi.amazon.com.tr CNAME .
 aan.amazon.co.uk CNAME .
@@ -654,6 +704,8 @@ fls-eu.amazon.co.uk CNAME .
 *.fls-eu.amazon.co.uk CNAME .
 rcm-uk.amazon.co.uk CNAME .
 *.rcm-uk.amazon.co.uk CNAME .
+sponsored-ads.amazon.co.uk CNAME .
+*.sponsored-ads.amazon.co.uk CNAME .
 unagi.amazon.co.uk CNAME .
 *.unagi.amazon.co.uk CNAME .
 assoc-amazon.co.uk CNAME .

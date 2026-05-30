@@ -863,12 +863,14 @@ In [ControlD](https://controld.com) you can use my Light, Normal, Pro, Pro++, Ul
 
 Check out Yokoffing's [ControlD Config Guide](https://github.com/yokoffing/Control-D-Config) for recommended [ControlD](https://controld.com) configuration settings.
 
-#### :department_store: **HaGeZi DNS (EU) - free** <a name="hagezidns"></a>
+#### :department_store: **HaGeZi DNS (EU: Germany/Finland - balanced blocking level) - free** <a name="hagezidns"></a>
 
 HaGeZi DNS provides free, non-commercial public resolvers for Europe, combining privacy and security with minimal restrictions using Multi Pro and Threat Intelligence Feed blocklists.
 
 For details, visit the [project repository](https://github.com/hagezi/dns-servers).                
 
+#### Blocks Ads, Tracking, Analytics, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other harmful domains:
+                  
 | Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Recommended for    |
 |--------------------|---------------|-------------------------------------|-----------------------|-------------------------|
 | Germany, Falkenstein| DoH/DoH3      | `https://root.hagezi.org/dns-query`   | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/root-hagezi-org.mobileconfig) [QR](/mobileconfig/root-hagezi-org.mobileconfig.png)    | AT, BA, BE, BG, CH, CZ, DE, DK, FR, GB, HU, IE, IT, LU, NL, PL, RO, SI, SK | 
@@ -881,13 +883,31 @@ For details, visit the [project repository](https://github.com/hagezi/dns-server
 |                    | DoT/QUIC      | `juuri.hagezi.org`                    |                       |                         |
 |                    | Do53      | `95.217.163.17`<br>`2a01:4f9:c013:dc4e::1` |                       |                         |
 
-#### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
+#### Blocks ONLY Phishing, Malware, Scam, Fake, Cryptojacking and other harmful domains:
+
+| Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Recommended for    |
+|--------------------|---------------|-------------------------------------|-----------------------|-------------------------|
+| Germany, Nuremberg| DoH/DoH3      | `https://ctif.hagezi.org/dns-query`  | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/ctif-hagezi-org.mobileconfig) [QR](/mobileconfig/ctif-hagezi-org.mobileconfig.png) | AT, BA, BE, BG, CH, CZ, DE, DK, ES, FR, GB, GR, HR, HU, IE, IT, LU, MD, MK, MT, NL, PL, PT, RO, RS, SI, SK, TR, UA | 
+|                    | DoT/QUIC      | `ctif.hagezi.org`                     |                       |                         |
+|                    | Do53      | `162.55.58.40`<br>`2a01:4f8:1c19:6c19::1` |                       |                         |
+                      
+#### :department_store: **DNSBUNKER.org (EU: Germany - balanced/aggressive blocking level ) - free** <a name="dnsbunker"></a>
 
 [DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany.
               
 | Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC | Apple |
 |:-----------|:---------------|:------------------|:--------|
 | Pro plus + TIF + DoH Bypass + Allowlist Referral | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
+
+#### :department_store: **Public RDNS (EU: Finland - family-safe - aggressive blocking level) - free** <a name="publicrdns"></a>
+
+[Public RDNS](https://public-rdns.com/), a free, no-log recursive resolver for families, using HaGeZi lists to aggressively block ads, trackers, malware, NSFW content, piracy, gambling, and other unwanted domains.
+                       
+For further details, visit the [project page](https://public-rdns.com).
+
+#### :department_store: **RobinGroppe.de (EU: Germany - threat blocking) - free** <a name="robingroppe"></a>
+
+[RobinGroppe.de DNS](https://www.robingroppe.de/serverzeug/dns-server) is a free DNS service designed for privacy-conscious users. It does not log your DNS queries and helps protect your connection by blocking malware, phishing, and other online threats using the HaGeZi Threat Intelligence Feeds.
 
 #### :department_store: **RethinkDNS - free** <a name="rethinkdns"></a>
 
@@ -923,10 +943,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Blocklists | DNS-over-HTTPS | 
 |:-----------|:---------------|
 | Pro + TIF  | `https://ric.openbld.net/dns-query/hagezi` |
-
-#### :department_store: **RobinGroppe.de (Germany) - free** <a name="robingroppe"></a>
-
-[RobinGroppe.de DNS](https://www.robingroppe.de/serverzeug/dns-server) offers a free German DNS server without logging to block malware, phishing and other threats. It uses my TIF list.
 
 ---
 

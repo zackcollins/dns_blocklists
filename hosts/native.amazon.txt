@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Apr 2026 17:00 UTC
-# Version: 2026.0429.1700.45
+# Last modified: 26 May 2026 17:24 UTC
+# Version: 2026.0526.1724.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 692
+# Number of entries: 696
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -51,7 +51,6 @@
 0.0.0.0 aax-events-cell01-cf.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell01-cf.eu-south.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
@@ -60,7 +59,6 @@
 0.0.0.0 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell01.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
@@ -68,20 +66,12 @@
 0.0.0.0 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.eu-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
-0.0.0.0 aax-events-cell02.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
-0.0.0.0 aax-events-mobile.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-pdns-wt.fe.us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-pdns-wt.us-east.ono.axp.amazon-adsystem.com
-0.0.0.0 aax-events-pdns-wt.us-west.3px.axp.amazon-adsystem.com
-0.0.0.0 aax-events-wt.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-fe-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -134,6 +124,9 @@
 0.0.0.0 ads-beta.aps.amazon-adsystem.com
 0.0.0.0 ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 ads-setu-proxy-eu.amazon.com
+0.0.0.0 ads-setu-proxy-fe.amazon.com
+0.0.0.0 ads-setu-proxy.amazon.com
+0.0.0.0 ads.amazon.com
 0.0.0.0 ads.aps.amazon-adsystem.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising.a2z.com
@@ -254,46 +247,39 @@
 0.0.0.0 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell7001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8001.iad.web.bid-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8001.iad.web.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8002.pdx.web.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8003.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8003.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8003.iad.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8004.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8004.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8005.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8005.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8006.pdx.web.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
@@ -511,9 +497,7 @@
 0.0.0.0 rum.us-west-2.amazonaws.com
 0.0.0.0 s-fe.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s-iad.stv.bid-na.ads.aps.amazon-adsystem.com
-0.0.0.0 s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s-pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
@@ -535,8 +519,31 @@
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 sonar.prime-video.amazon.dev
+0.0.0.0 sponsored-ads-eu-south-2.amazon-adsystem.com
+0.0.0.0 sponsored-ads-eu.amazon-adsystem.com
+0.0.0.0 sponsored-ads-eu.amazon.ae
+0.0.0.0 sponsored-ads-eu.amazon.com.be
+0.0.0.0 sponsored-ads-eu.amazon.com.tr
+0.0.0.0 sponsored-ads-eu.amazon.de
+0.0.0.0 sponsored-ads-eu.amazon.eg
+0.0.0.0 sponsored-ads-eu.amazon.ie
+0.0.0.0 sponsored-ads-eu.amazon.nl
+0.0.0.0 sponsored-ads-eu.amazon.pl
+0.0.0.0 sponsored-ads-eu.amazon.sa
+0.0.0.0 sponsored-ads-eu.amazon.se
 0.0.0.0 sponsored-ads-fe.amazon-adsystem.com
 0.0.0.0 sponsored-ads-na.amazon-adsystem.com
+0.0.0.0 sponsored-ads.amazon.ca
+0.0.0.0 sponsored-ads.amazon.co.jp
+0.0.0.0 sponsored-ads.amazon.co.uk
+0.0.0.0 sponsored-ads.amazon.com
+0.0.0.0 sponsored-ads.amazon.com.au
+0.0.0.0 sponsored-ads.amazon.com.br
+0.0.0.0 sponsored-ads.amazon.com.mx
+0.0.0.0 sponsored-ads.amazon.es
+0.0.0.0 sponsored-ads.amazon.fr
+0.0.0.0 sponsored-ads.amazon.in
+0.0.0.0 sponsored-ads.amazon.it
 0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads.aps.amazon-adsystem.com
@@ -550,7 +557,6 @@
 0.0.0.0 strategicpub.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 strategicpub.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 strategicpub.us-west.aps.axp.amazon-adsystem.com
-0.0.0.0 stv.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads.aps.amazon-adsystem.com
@@ -646,16 +652,11 @@
 0.0.0.0 vfws.amazon-adsystem.com
 0.0.0.0 video-ads.a2z.com
 0.0.0.0 video-player.aps.amazon-adsystem.com
-0.0.0.0 video.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 vq-eu-west-1.amazon-adsystem.com
 0.0.0.0 vq-fe-us-west-2.amazon-adsystem.com
 0.0.0.0 vq-test-us-east-1.amazon-adsystem.com
 0.0.0.0 vq-us-east-1.amazon-adsystem.com
 0.0.0.0 vq-us-west-2.amazon-adsystem.com
-0.0.0.0 web-banner-event-cell8001.ads.aps.amazon-adsystem.com
-0.0.0.0 web-banner-event-cell8002.ads.aps.amazon-adsystem.com
-0.0.0.0 web-banner-event-cell8005.ads.aps.amazon-adsystem.com
-0.0.0.0 web-banner-event-cell8006.ads.aps.amazon-adsystem.com
 0.0.0.0 web-banner.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell7001.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell7002.ads.aps.amazon-adsystem.com
@@ -665,12 +666,15 @@
 0.0.0.0 web-cf-event-cell8004.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8005.ads.aps.amazon-adsystem.com
 0.0.0.0 web-cf-event-cell8006.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8011.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8012.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8013.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8021.ads.aps.amazon-adsystem.com
+0.0.0.0 web-cf-event-cell8022.ads.aps.amazon-adsystem.com
 0.0.0.0 web-video.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com
-0.0.0.0 web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com
-0.0.0.0 web.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 web.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 wetfs.global-1.telemetry.insights.video.a2z.com
 0.0.0.0 wetfs.global-2.telemetry.insights.video.a2z.com

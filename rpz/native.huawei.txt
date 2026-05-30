@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1772186460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778403240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Huawei Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Feb 2026 10:01 UTC
-; Version: 2026.0227.1001.06
+; Last modified: 10 May 2026 08:54 UTC
+; Version: 2026.0510.0854.46
 ; Syntax: RPZ
-; Number of entries: 254
+; Number of entries: 260
 ;
 h4g3z1-native.huawei.web.app CNAME .
 *.h4g3z1-native.huawei.web.app CNAME .
@@ -218,6 +218,8 @@ honorsearch-dre.hiboard.hihonorcloud.com CNAME .
 *.honorsearch-dre.hiboard.hihonorcloud.com CNAME .
 ads-drcn.platform.hihonorcloud.com CNAME .
 *.ads-drcn.platform.hihonorcloud.com CNAME .
+ads-drru.platform.hihonorcloud.com CNAME .
+*.ads-drru.platform.hihonorcloud.com CNAME .
 log-dra.platform.hihonorcloud.com CNAME .
 *.log-dra.platform.hihonorcloud.com CNAME .
 log-drcn.platform.hihonorcloud.com CNAME .
@@ -226,6 +228,10 @@ log-dre.platform.hihonorcloud.com CNAME .
 *.log-dre.platform.hihonorcloud.com CNAME .
 log-drru.platform.hihonorcloud.com CNAME .
 *.log-drru.platform.hihonorcloud.com CNAME .
+tracking-data.platform.hihonorcloud.com CNAME .
+*.tracking-data.platform.hihonorcloud.com CNAME .
+tracking-data-drru.platform.hihonorcloud.com CNAME .
+*.tracking-data-drru.platform.hihonorcloud.com CNAME .
 ads.cloud.huawei.com CNAME .
 *.ads.cloud.huawei.com CNAME .
 rnd-cbgpas01.huawei.com CNAME .

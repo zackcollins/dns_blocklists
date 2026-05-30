@@ -1,6 +1,67 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/10352
+terbit2.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10351
+inf-xts.spac.me
+
+# This endpoint is essential for Find Hub to function. It is used during all operations related to the Find Hub Network, including the enrollment of new devices. More importantly, this domain also allows users to receive alerts when an unwanted tracking device follows them, and it provides identification and disablement information.
+spot-pa.googleapis.com
+
+# Paypal 3P login issues in some apps and webshops
+ddbm2.paypal.com
+ddbm2.paypal.com.first-party-js.datadome.co
+*.paypal.com.first-party-js.datadome.co
+
+# https://github.com/hagezi/dns-blocklists/issues/10307
+mall.bilibili.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10300
+player.target-video.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10269
+phishline.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10264
+lottoland.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10239
+smsonline.cloud
+
+# https://github.com/hagezi/dns-blocklists/issues/10225
+snapdrop.net
+
+# https://github.com/hagezi/dns-blocklists/issues/10202
+config.claspws.tv
+
+# https://github.com/hagezi/dns-blocklists/issues/10190
+csst.at
+
+# https://github.com/hagezi/dns-blocklists/issues/10127
+wup-content23.bmo.com
+wup-9045bc50.us.v2.we-stats.com
+
+# Ad-Shield AdBlock-Detection
+*.error-report.com
+
+# https://www.reddit.com/r/Adguard/s/OSbymmTznM
+cmp.bonniernews.se
+
+# https://github.com/hagezi/dns-blocklists/issues/10080
+fota*.adups.com
+
+# https://github.com/hagezi/dns-blocklists/issues/10078
+inloggen.evivanlanschot.nl
+
+# https://github.com/hagezi/dns-blocklists/issues/10072
+cdn.perfops.net
+api.perfops.net
+
+# https://github.com/hagezi/dns-blocklists/issues/10067
+fruits.co
+
 # https://github.com/hagezi/dns-blocklists/issues/10044
 # https://github.com/hagezi/dns-blocklists/issues/1973#issuecomment-4360432375
 variations.brave.com
@@ -109,10 +170,6 @@ pinpoint.espn.com
 
 # https://github.com/hagezi/dns-blocklists/issues/5847
 dai.google.com
-
-# https://github.com/hagezi/dns-blocklists/issues/8632
-# AdShield: Many websites do not work when blocked via DNS. The ads can only be blocked via content blockers.
-*.html-load.com
 
 # https://github.com/hagezi/dns-blocklists/issues/8404
 # https://github.com/hagezi/dns-blocklists/issues/8563
@@ -1539,3 +1596,14 @@ gateway-fallback.facebook.com
 *gateway.facebook.com
 z-m-gateway.facebook.com
 z-p4-gateway.facebook.com
+
+# Misc
+*.dnsbunker.org
+*.hagezi.org
+
+# Copilot
+proxy.individual.githubcopilot.com
+api.individual.githubcopilot.com
+
+# Personal domains
+*.justmichael.xyz

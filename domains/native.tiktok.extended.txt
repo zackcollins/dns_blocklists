@@ -5,13 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 17:02 UTC
-# Version: 2026.0403.1702.01
+# Last modified: 28 May 2026 06:26 UTC
+# Version: 2026.0528.0626.54
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 540
+# Number of entries: 543
 #
 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 frontier23-normal-alisg.tiktokv.com.bpgslb.com
+ads-sg.business-tiktok.com
+ads-va.business-tiktok.com
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -101,6 +103,7 @@ mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 mcs-i18n.tiktok.com.edgekey.net
 mcs-sg.tiktok.com.edgekey.net
 mcs-va.tiktok.com.edgekey.net
+ad-instantpage-sg.tiktokv.com.edgekey.net
 frontier-ru.tiktokv.com.edgekey.net
 mcs-sg.tiktokv.com.edgekey.net
 mcs-va.tiktokv.com.edgekey.net
@@ -169,9 +172,8 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
-ads-service.tiktok.com
+ads-ru.tiktok.com
 ads-sg.tiktok.com
-ads-useast2a.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
@@ -235,6 +237,7 @@ live-video-log16-normal-alisg.tiktokv.com
 location.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
+location-ttp2.tiktokv.eu
 location-v6.tiktokv.com
 location-v6.tiktokv.us
 location-v6-i18n.tiktokv.com
@@ -517,7 +520,6 @@ xlog-va.tiktokv.com
 xlog-va-useast2a.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
-xlog16-normal-no1a.tiktokv.eu
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 frontier.tiktokv-eu.com
@@ -526,6 +528,7 @@ ads-ie.tiktokw.eu
 ads-ttp2.tiktokw.eu
 ads16-normal-useastred.tiktokw.eu
 analytics-exp-ttp2.tiktokw.eu
+analytics-exp16-normal-useastred.tiktokw.eu
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu

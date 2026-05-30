@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1775235720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779949560 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -9,15 +9,19 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Apr 2026 17:02 UTC
-; Version: 2026.0403.1702.01
+; Last modified: 28 May 2026 06:26 UTC
+; Version: 2026.0528.0626.54
 ; Syntax: RPZ
-; Number of entries: 1076
+; Number of entries: 1082
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
 frontier23-normal-alisg.tiktokv.com.bpgslb.com CNAME .
 *.frontier23-normal-alisg.tiktokv.com.bpgslb.com CNAME .
+ads-sg.business-tiktok.com CNAME .
+*.ads-sg.business-tiktok.com CNAME .
+ads-va.business-tiktok.com CNAME .
+*.ads-va.business-tiktok.com CNAME .
 frontier.byteoversea.com CNAME .
 *.frontier.byteoversea.com CNAME .
 gplog-sg.byteoversea.com CNAME .
@@ -234,12 +238,10 @@ ads-api.tiktok.com CNAME .
 *.ads-api.tiktok.com CNAME .
 ads-frontier.tiktok.com CNAME .
 *.ads-frontier.tiktok.com CNAME .
-ads-service.tiktok.com CNAME .
-*.ads-service.tiktok.com CNAME .
+ads-ru.tiktok.com CNAME .
+*.ads-ru.tiktok.com CNAME .
 ads-sg.tiktok.com CNAME .
 *.ads-sg.tiktok.com CNAME .
-ads-useast2a.tiktok.com CNAME .
-*.ads-useast2a.tiktok.com CNAME .
 analytics.tiktok.com CNAME .
 *.analytics.tiktok.com CNAME .
 analytics-attribution.tiktok.com CNAME .
@@ -856,6 +858,8 @@ frontier16-normal-no1a.tiktokv.eu CNAME .
 *.frontier16-normal-no1a.tiktokv.eu CNAME .
 frontier16-normal-useastred.tiktokv.eu CNAME .
 *.frontier16-normal-useastred.tiktokv.eu CNAME .
+location-ttp2.tiktokv.eu CNAME .
+*.location-ttp2.tiktokv.eu CNAME .
 location-v6-ttp2.tiktokv.eu CNAME .
 *.location-v6-ttp2.tiktokv.eu CNAME .
 location16-normal-useastred.tiktokv.eu CNAME .
@@ -908,8 +912,6 @@ tnc19-normal-no1a.tiktokv.eu CNAME .
 *.tnc19-normal-no1a.tiktokv.eu CNAME .
 tnc19-normal-useastred.tiktokv.eu CNAME .
 *.tnc19-normal-useastred.tiktokv.eu CNAME .
-xlog16-normal-no1a.tiktokv.eu CNAME .
-*.xlog16-normal-no1a.tiktokv.eu CNAME .
 ads-ie.tiktokw.eu CNAME .
 *.ads-ie.tiktokw.eu CNAME .
 ads-ttp2.tiktokw.eu CNAME .
@@ -918,6 +920,8 @@ ads16-normal-useastred.tiktokw.eu CNAME .
 *.ads16-normal-useastred.tiktokw.eu CNAME .
 analytics-exp-ttp2.tiktokw.eu CNAME .
 *.analytics-exp-ttp2.tiktokw.eu CNAME .
+analytics-exp16-normal-useastred.tiktokw.eu CNAME .
+*.analytics-exp16-normal-useastred.tiktokw.eu CNAME .
 analytics-ie.tiktokw.eu CNAME .
 *.analytics-ie.tiktokw.eu CNAME .
 analytics-ttp2.tiktokw.eu CNAME .
@@ -962,6 +966,8 @@ mcs-sg.tiktok.com.edgekey.net CNAME .
 *.mcs-sg.tiktok.com.edgekey.net CNAME .
 mcs-va.tiktok.com.edgekey.net CNAME .
 *.mcs-va.tiktok.com.edgekey.net CNAME .
+ad-instantpage-sg.tiktokv.com.edgekey.net CNAME .
+*.ad-instantpage-sg.tiktokv.com.edgekey.net CNAME .
 frontier-ru.tiktokv.com.edgekey.net CNAME .
 *.frontier-ru.tiktokv.com.edgekey.net CNAME .
 mcs-sg.tiktokv.com.edgekey.net CNAME .

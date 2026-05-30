@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "ad-instantpage-sg.tiktokv.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad-instantpage.tiktokv.us",
       "action": {
         "do": 0,
@@ -92,7 +99,14 @@
       }
     },
     {
-      "PK": "ads-service.tiktok.com",
+      "PK": "ads-ru.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-sg.business-tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -141,14 +155,14 @@
       }
     },
     {
-      "PK": "ads-useast2a.tiktok.com",
+      "PK": "ads.us.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "ads.us.tiktok.com",
+      "PK": "ads-va.business-tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -226,6 +240,13 @@
     },
     {
       "PK": "analytics-attribution-va.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-exp16-normal-useastred.tiktokw.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -674,6 +695,13 @@
     },
     {
       "PK": "location.tiktokw.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "location-ttp2.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -3670,13 +3698,6 @@
     },
     {
       "PK": "xlog16-normal-c-useast2a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xlog16-normal-no1a.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

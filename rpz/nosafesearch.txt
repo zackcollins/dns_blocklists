@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777049580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779641400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Apr 2026 16:53 UTC
-; Version: 2026.0424.1653.49
+; Last modified: 24 May 2026 16:50 UTC
+; Version: 2026.0524.1650.27
 ; Syntax: RPZ
-; Number of entries: 410
+; Number of entries: 408
 ;
 search.femboy.ad CNAME .
 *.search.femboy.ad CNAME .
@@ -28,6 +28,8 @@ searx.bar CNAME .
 *.searx.bar CNAME .
 search.ipsys.bf CNAME .
 *.search.ipsys.bf CNAME .
+searxng.biz CNAME .
+*.searxng.biz CNAME .
 search.aol.ca CNAME .
 *.search.aol.ca CNAME .
 dynabyte.ca CNAME .
@@ -100,8 +102,6 @@ mojeek.com CNAME .
 *.mojeek.com CNAME .
 monstercrawler.com CNAME .
 *.monstercrawler.com CNAME .
-neeva.com CNAME .
-*.neeva.com CNAME .
 nibblehole.com CNAME .
 *.nibblehole.com CNAME .
 searxng.no-logs.com CNAME .
@@ -242,8 +242,6 @@ websearch.excite.co.jp CNAME .
 *.websearch.excite.co.jp CNAME .
 searx.foo.li CNAME .
 *.searx.foo.li CNAME .
-searx.nightmare.life CNAME .
-*.searx.nightmare.life CNAME .
 searx.hardwired.link CNAME .
 *.searx.hardwired.link CNAME .
 searx.vitanetworks.link CNAME .
@@ -340,6 +338,8 @@ metager.org CNAME .
 *.metager.org CNAME .
 mwmbl.org CNAME .
 *.mwmbl.org CNAME .
+search.opentunisia.org CNAME .
+*.search.opentunisia.org CNAME .
 privacia.org CNAME .
 *.privacia.org CNAME .
 privacywall.org CNAME .
@@ -358,8 +358,6 @@ search.unredacted.org CNAME .
 *.search.unredacted.org CNAME .
 searx.party CNAME .
 *.searx.party CNAME .
-searx.linux.pizza CNAME .
-*.searx.linux.pizza CNAME .
 searx.monicz.pl CNAME .
 *.searx.monicz.pl CNAME .
 searx.deepak.pro CNAME .

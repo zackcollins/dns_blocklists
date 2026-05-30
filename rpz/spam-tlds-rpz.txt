@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777667100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779963780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -14,10 +14,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 20:25 UTC
-; Version: 2026.0501.2025.13
+; Last modified: 28 May 2026 10:23 UTC
+; Version: 2026.0528.1023.30
 ; Syntax: RPZ
-; Number of latin TLDs: 127/289
+; Number of latin TLDs: 131/294
 ;
 *.actor CNAME .
 *.apartments CNAME .
@@ -44,6 +44,7 @@ $TTL 3600
 *.christmas CNAME .
 *.claims CNAME .
 *.clothing CNAME .
+*.co.com CNAME .
 *.college CNAME .
 *.consulting CNAME .
 *.coupons CNAME .
@@ -51,7 +52,6 @@ $TTL 3600
 *.credit CNAME .
 *.dance CNAME .
 *.day CNAME .
-*.diy CNAME .
 *.dpdns.org CNAME .
 *.edu.eu CNAME .
 *.engineer CNAME .
@@ -72,8 +72,10 @@ $TTL 3600
 *.giving CNAME .
 *.golf CNAME .
 *.gratis CNAME .
+*.gripe CNAME .
 *.hair CNAME .
 *.immo CNAME .
+*.insure CNAME .
 *.irish CNAME .
 *.jetzt CNAME .
 *.jewelry CNAME .
@@ -131,7 +133,9 @@ $TTL 3600
 *.tires CNAME .
 *.tokyo CNAME .
 *.trading CNAME .
+*.us.com CNAME .
 *.us.kg CNAME .
+*.us.org CNAME .
 *.vacations CNAME .
 *.vegas CNAME .
 *.ventures CNAME .

@@ -16,6 +16,7 @@
 *.safebrowsing.apple
 *.salesforceliveagent.com
 *.yahoodns.net
+ag.alexf.cc
 anydesk.com
 api.w.org
 api1.flyier.xyz
@@ -29,6 +30,7 @@ desec.io
 dns-oarc.net
 dnschecker.org
 easydns.com
+echolink.org
 goto.com
 incognet.io
 link.storjshare.io
@@ -57,6 +59,7 @@ safebrowsing.google.com
 safebrowsing.googleapis.com
 savefrom.net
 screenconnect.com
+sparklabs.com
 storj.io
 stunnel.org
 switch.ch
@@ -68,8 +71,8 @@ wireguard.com
 wshifen.com
 www.mitmproxy.org
 youtube.com
-echolink.org
-ag.alexf.cc
+www-webprxsvc.drewcotech.com
+webprxsvc.drewcotech.com
 
 # Apple Intelligence, Siri
 apple-relay.*

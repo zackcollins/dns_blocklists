@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777395540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1779973080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Apr 2026 16:59 UTC
-; Version: 2026.0428.1659.56
+; Last modified: 28 May 2026 12:58 UTC
+; Version: 2026.0528.1258.11
 ; Syntax: RPZ
-; Number of entries: 1778
+; Number of entries: 1780
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -240,6 +240,8 @@ douyinstatic.com CNAME .
 *.douyinstatic.com CNAME .
 douyinvod.com CNAME .
 *.douyinvod.com CNAME .
+eksisozluk.com CNAME .
+*.eksisozluk.com CNAME .
 expresswifi.com CNAME .
 *.expresswifi.com CNAME .
 f8.com CNAME .
@@ -1040,6 +1042,8 @@ tiktokv.com CNAME .
 *.tiktokv.com CNAME .
 toplayerserver.com CNAME .
 *.toplayerserver.com CNAME .
+truthsocial.com CNAME .
+*.truthsocial.com CNAME .
 ttlivecdn.com CNAME .
 *.ttlivecdn.com CNAME .
 tumblr.com CNAME .
@@ -1308,8 +1312,6 @@ ogp.me CNAME .
 *.ogp.me CNAME .
 vk.me CNAME .
 *.vk.me CNAME .
-vk-cdn.me CNAME .
-*.vk-cdn.me CNAME .
 discord.media CNAME .
 *.discord.media CNAME .
 yappy.media CNAME .

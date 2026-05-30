@@ -5,13 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Apr 2026 17:02 UTC
-# Version: 2026.0403.1702.01
+# Last modified: 28 May 2026 06:26 UTC
+# Version: 2026.0528.0626.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 540
+# Number of entries: 543
 #
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
+0.0.0.0 ads-sg.business-tiktok.com
+0.0.0.0 ads-va.business-tiktok.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-va.byteoversea.com
@@ -101,6 +103,7 @@
 0.0.0.0 mcs-i18n.tiktok.com.edgekey.net
 0.0.0.0 mcs-sg.tiktok.com.edgekey.net
 0.0.0.0 mcs-va.tiktok.com.edgekey.net
+0.0.0.0 ad-instantpage-sg.tiktokv.com.edgekey.net
 0.0.0.0 frontier-ru.tiktokv.com.edgekey.net
 0.0.0.0 mcs-sg.tiktokv.com.edgekey.net
 0.0.0.0 mcs-va.tiktokv.com.edgekey.net
@@ -169,9 +172,8 @@
 0.0.0.0 url2696.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
-0.0.0.0 ads-service.tiktok.com
+0.0.0.0 ads-ru.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics-attribution-va.tiktok.com
@@ -235,6 +237,7 @@
 0.0.0.0 location.tiktokv.com
 0.0.0.0 location-i18n.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
+0.0.0.0 location-ttp2.tiktokv.eu
 0.0.0.0 location-v6.tiktokv.com
 0.0.0.0 location-v6.tiktokv.us
 0.0.0.0 location-v6-i18n.tiktokv.com
@@ -517,7 +520,6 @@
 0.0.0.0 xlog-va-useast2a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast2a.tiktokv.com
-0.0.0.0 xlog16-normal-no1a.tiktokv.eu
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
 0.0.0.0 frontier.tiktokv-eu.com
@@ -526,6 +528,7 @@
 0.0.0.0 ads-ttp2.tiktokw.eu
 0.0.0.0 ads16-normal-useastred.tiktokw.eu
 0.0.0.0 analytics-exp-ttp2.tiktokw.eu
+0.0.0.0 analytics-exp16-normal-useastred.tiktokw.eu
 0.0.0.0 analytics-ie.tiktokw.eu
 0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 analytics-ttp2.tiktokw.eu

@@ -5,15 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Apr 2026 17:11 UTC
-# Version: 2026.0424.1711.21
+# Last modified: 26 May 2026 17:30 UTC
+# Version: 2026.0526.1730.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 246
+# Number of entries: 238
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
+local=/az.appstore.vivo.com.cn/
 local=/adlog.vivo.com.cn/
 local=/adxlog-adnet.vivo.com.cn/
-local=/az.appstore.vivo.com.cn/
 local=/appstore-trace-h5sdk.vivo.com.cn/
 local=/dsplog-adnet.vivo.com.cn/
 local=/trace-h5sdk.vivo.com.cn/
@@ -24,6 +24,7 @@ local=/trackerfeed.ddxq.mobi/
 local=/vhs.wwstat.com.eo.dnse0.com/
 local=/adlog.vivo.com/
 local=/ads-api.vivo.com/
+local=/err.up.vivoglobal.com/
 local=/asia-abeacdataonrt-stsdk.vivoglobal.com/
 local=/asia-abeacdataort-stsdk.vivoglobal.com/
 local=/asia-ad-mkt-vivofs.vivoglobal.com/
@@ -67,16 +68,11 @@ local=/cname-asia-comonrt-stsdk.vivoglobal.com/
 local=/cname-asia-st-exappupgrade.vivoglobal.com/
 local=/cname-asia-stsdk09.vivoglobal.com/
 local=/cname-asia02-stsdk.vivoglobal.com/
-local=/cname-de-stsdk.vivoglobal.com/
 local=/cname-in-apport-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-in-ctdbonrt-stsdk.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
-local=/co-cota.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
-local=/co-err-up.vivoglobal.com/
-local=/co-onrt-stsdk.vivoglobal.com/
-local=/co-ort-stsdk.vivoglobal.com/
 local=/co-pnrt-stsdk.vivoglobal.com/
 local=/co-romsp-unifyconfig.vivoglobal.com/
 local=/co-st-sl.vivoglobal.com/
@@ -84,9 +80,7 @@ local=/co-stsdk.vivoglobal.com/
 local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
-local=/co-vcode-or.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
-local=/de-gdpr-vcode-od.vivoglobal.com/
 local=/err-up.vivoglobal.com/
 local=/eu-album-api.vivoglobal.com/
 local=/eu-cota.vivoglobal.com/
@@ -153,7 +147,6 @@ local=/kz-st-exappupgrade.vivoglobal.com/
 local=/kz-st-sl.vivoglobal.com/
 local=/kz-st-sysupgrade.vivoglobal.com/
 local=/kz-stsdk.vivoglobal.com/
-local=/kz-timesync.vivoglobal.com/
 local=/kz-vcode-api.vivoglobal.com/
 local=/kz-vcode-od.vivoglobal.com/
 local=/kz-vcode-or.vivoglobal.com/
@@ -237,7 +230,6 @@ local=/tr-vcode-od.vivoglobal.com/
 local=/tr-vcode-or.vivoglobal.com/
 local=/tr-weather.vivoglobal.com/
 local=/uk-timesync.vivoglobal.com/
-local=/err.up.vivoglobal.com/
 local=/xn--ex-adreq-asa-c5b.vivoglobal.com/
 local=/xn-ex-adreq-asa-c5b.vivoglobal.com/
 local=/za-p.vivoglobal.com/

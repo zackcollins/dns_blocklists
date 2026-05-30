@@ -85,37 +85,41 @@ jobs:
 
   purge:
     runs-on: ubuntu-latest
+    needs: [release, close-issues, relabel-issues]
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Determine URLs to purge
+        with:
+          fetch-depth: 2
+
+      - name: Determine changed URLs to purge
         id: purge_urls
+        shell: bash
         run: |
-          baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
-          urls=""
-          for f in `find adblock adguard controld dnsmasq domains hosts ips pac rpz share wildcard -name "*.txt" -o -name "*.pac" -o -name "*.json" -type f`; do
-            urls+="${baseUrl}/${f},"
-          done
-          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+          base="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
+
+          mapfile -t files < <(
+            git diff --name-only HEAD^ HEAD -- \
+              adblock adguard controld dnsmasq domains hosts ips pac rpz share wildcard \
+            | grep -E '\.(txt|pac|json)$' || true
+          )
+
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "urls=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          printf 'urls=' >> "$GITHUB_OUTPUT"
+          printf '%s\n' "${files[@]}" | sed "s#^#${base}/#" | paste -sd, - >> "$GITHUB_OUTPUT"
+
       - name: Purge CDN cache
-        uses: kaycodes13/purge-jsdelivr-cache@v1.1.0
+        if: steps.purge_urls.outputs.urls != ''
+        uses: hagezi/purge-jsdelivr-cache@v1.1.1
+        continue-on-error: true
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
-    needs: [release, close-issues, relabel-issues]
-
-  stale:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: DeMoorJasper/stale@v2.0.1
-      with:
-        repo-token: ${{ github.token }}
-        stale-message: 'This issue has been inactive for 14 days. Please add a comment to keep it open. Otherwise, it will be closed in 7 days.'
-        days-before-stale: 14
-        days-before-close: 7
-        stale-label: 'no-issue-activity'
-        dry-run: 'false'
-    needs: [release, close-issues, relabel-issues]
-        
+          attempts: 5
+          
   release-cleanup:
     runs-on: ubuntu-latest
     steps:
@@ -139,4 +143,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 0
-    needs: [release, close-issues, relabel-issues, purge, stale, release-cleanup]
+    needs: [release, close-issues, relabel-issues, purge, release-cleanup]

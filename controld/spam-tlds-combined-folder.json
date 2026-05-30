@@ -630,6 +630,13 @@
       }
     },
     {
+      "PK": "betterme.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bevisioneers.world",
       "action": {
         "do": 1,
@@ -757,6 +764,13 @@
     },
     {
       "PK": "blink.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blinko.space",
       "action": {
         "do": 1,
         "status": 1
@@ -973,6 +987,13 @@
       }
     },
     {
+      "PK": "cal.diy",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cam",
       "action": {
         "do": 0,
@@ -1155,6 +1176,13 @@
       }
     },
     {
+      "PK": "cheatsheets.zip",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "chessvibes.shop",
       "action": {
         "do": 1,
@@ -1330,9 +1358,23 @@
       }
     },
     {
+      "PK": "cnckitchen.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cnyes.cool",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.co.com",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -1541,6 +1583,13 @@
     },
     {
       "PK": "crypt.fyi",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cslogs.space",
       "action": {
         "do": 1,
         "status": 1
@@ -1785,7 +1834,7 @@
       }
     },
     {
-      "PK": "deportelibres.shop",
+      "PK": "der-marmeladenladen.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -2170,6 +2219,13 @@
       }
     },
     {
+      "PK": "e-mail.wtf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "embark.games",
       "action": {
         "do": 1,
@@ -2278,6 +2334,13 @@
       "PK": "*.equipment",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "esc.vote",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -2597,6 +2660,13 @@
       }
     },
     {
+      "PK": "flo.health",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.florist",
       "action": {
         "do": 0,
@@ -2698,6 +2768,13 @@
       "PK": "*.foundation",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "found.center",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -2810,6 +2887,13 @@
       "PK": "*.garden",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gather.town",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -2927,6 +3011,13 @@
     },
     {
       "PK": "git.new",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "giveaway.ninja",
       "action": {
         "do": 1,
         "status": 1
@@ -3115,6 +3206,13 @@
       }
     },
     {
+      "PK": "*.gripe",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "grnk.shop",
       "action": {
         "do": 1,
@@ -3137,6 +3235,13 @@
     },
     {
       "PK": "guns.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gurkistan.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -3612,6 +3717,13 @@
       }
     },
     {
+      "PK": "*.insure",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "intercom.help",
       "action": {
         "do": 1,
@@ -3794,6 +3906,13 @@
       }
     },
     {
+      "PK": "jsdate.wtf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "j.show",
       "action": {
         "do": 1,
@@ -3893,6 +4012,13 @@
     },
     {
       "PK": "kizuki.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kktix.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -4397,6 +4523,13 @@
     },
     {
       "PK": "lzk.hl.cn",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "magefan.top",
       "action": {
         "do": 1,
         "status": 1
@@ -4921,6 +5054,13 @@
       }
     },
     {
+      "PK": "myshopline.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "mysubwaytoolbox.biz",
       "action": {
         "do": 1,
@@ -5013,6 +5153,13 @@
     },
     {
       "PK": "netcetera.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "neue.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -5257,13 +5404,6 @@
       }
     },
     {
-      "PK": "oe24cdn.biz",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "oh.center",
       "action": {
         "do": 1,
@@ -5377,6 +5517,13 @@
     },
     {
       "PK": "opensource.guide",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "opentix.life",
       "action": {
         "do": 1,
         "status": 1
@@ -5755,6 +5902,13 @@
     },
     {
       "PK": "plutonium.pw",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pod.space",
       "action": {
         "do": 1,
         "status": 1
@@ -6650,6 +6804,13 @@
       }
     },
     {
+      "PK": "seyffer.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "sheet.new",
       "action": {
         "do": 1,
@@ -6910,6 +7071,13 @@
     },
     {
       "PK": "social.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sofascore.store",
       "action": {
         "do": 1,
         "status": 1
@@ -7259,6 +7427,13 @@
       }
     },
     {
+      "PK": "tapframe.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "tardis.wiki",
       "action": {
         "do": 1,
@@ -7371,6 +7546,13 @@
       }
     },
     {
+      "PK": "tgtg.ninja",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "thatsup.website",
       "action": {
         "do": 1,
@@ -7414,6 +7596,13 @@
     },
     {
       "PK": "thelemmy.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "theradio.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -7658,6 +7847,13 @@
       }
     },
     {
+      "PK": "turbify.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "tux.pizza",
       "action": {
         "do": 1,
@@ -7812,6 +8008,13 @@
       }
     },
     {
+      "PK": "*.us.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "usenet.agency",
       "action": {
         "do": 1,
@@ -7834,6 +8037,13 @@
     },
     {
       "PK": "*.us.kg",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.us.org",
       "action": {
         "do": 0,
         "status": 1
@@ -8193,6 +8403,13 @@
       "PK": "*.win",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "windrose.support",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

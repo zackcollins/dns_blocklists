@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777655160 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780078080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 May 2026 17:06 UTC
-; Version: 2026.0501.1706.06
+; Last modified: 29 May 2026 18:08 UTC
+; Version: 2026.0529.1808.22
 ; Syntax: RPZ
 ; Number of entries: 766
 ;
@@ -24,14 +24,10 @@ dc.applicationinsights.azure.cn CNAME .
 *.dc.applicationinsights.azure.cn CNAME .
 in.applicationinsights.azure.cn CNAME .
 *.in.applicationinsights.azure.cn CNAME .
-live.applicationinsights.azure.cn CNAME .
-*.live.applicationinsights.azure.cn CNAME .
 collector.azure.cn CNAME .
 *.collector.azure.cn CNAME .
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
-events-sandbox.data.msn.cn CNAME .
-*.events-sandbox.data.msn.cn CNAME .
 applicationinsights.azure.com CNAME .
 *.applicationinsights.azure.com CNAME .
 inference-app-gateway.eastus2.cloudapp.azure.com CNAME .
@@ -60,14 +56,24 @@ raka.bing.com CNAME .
 *.raka.bing.com CNAME .
 c.bingapis.com CNAME .
 *.c.bingapis.com CNAME .
+upload.fp.measure.office.com.corp.mmco.int.cardano.com CNAME .
+*.upload.fp.measure.office.com.corp.mmco.int.cardano.com CNAME .
+exo.nel.measure.office.net.cardano.com CNAME .
+*.exo.nel.measure.office.net.cardano.com CNAME .
+identity.nel.measure.office.net.cardano.com CNAME .
+*.identity.nel.measure.office.net.cardano.com CNAME .
+m365cdn.nel.measure.office.net.cardano.com CNAME .
+*.m365cdn.nel.measure.office.net.cardano.com CNAME .
+spo.nel.measure.office.net.cardano.com CNAME .
+*.spo.nel.measure.office.net.cardano.com CNAME .
+teams.nel.measure.office.net.cardano.com CNAME .
+*.teams.nel.measure.office.net.cardano.com CNAME .
 analytics.live.com CNAME .
 *.analytics.live.com CNAME .
 c.live.com CNAME .
 *.c.live.com CNAME .
 nexusrules.live.com CNAME .
 *.nexusrules.live.com CNAME .
-aec-visio-telemetry.officeapps.live.com CNAME .
-*.aec-visio-telemetry.officeapps.live.com CNAME .
 auc-visio-telemetry.officeapps.live.com CNAME .
 *.auc-visio-telemetry.officeapps.live.com CNAME .
 brc-visio-telemetry.officeapps.live.com CNAME .
@@ -222,6 +228,8 @@ sgtus1-powerpoint-telemetry-vip.officeapps.live.com CNAME .
 *.sgtus1-powerpoint-telemetry-vip.officeapps.live.com CNAME .
 sgtus1-word-telemetry-vip.officeapps.live.com CNAME .
 *.sgtus1-word-telemetry-vip.officeapps.live.com CNAME .
+telemetry.officeapps.live.com CNAME .
+*.telemetry.officeapps.live.com CNAME .
 tgtus1-excel-telemetry-vip.officeapps.live.com CNAME .
 *.tgtus1-excel-telemetry-vip.officeapps.live.com CNAME .
 tgtus1-powerpoint-telemetry-vip.officeapps.live.com CNAME .
@@ -392,6 +400,10 @@ g00.msn.com CNAME .
 *.g00.msn.com CNAME .
 c.gr.msn.com CNAME .
 *.c.gr.msn.com CNAME .
+h1.msn.com CNAME .
+*.h1.msn.com CNAME .
+h2.msn.com CNAME .
+*.h2.msn.com CNAME .
 h6.msn.com CNAME .
 *.h6.msn.com CNAME .
 c.hk.msn.com CNAME .
@@ -548,8 +560,6 @@ a-ring.msedge.net CNAME .
 *.a-ring.msedge.net CNAME .
 a-ring-fallback.msedge.net CNAME .
 *.a-ring-fallback.msedge.net CNAME .
-a-ring-ipv6only.msedge.net CNAME .
-*.a-ring-ipv6only.msedge.net CNAME .
 b-ring.msedge.net CNAME .
 *.b-ring.msedge.net CNAME .
 b-ring-fallback.msedge.net CNAME .
@@ -598,8 +608,6 @@ win10-trt.msedge.net CNAME .
 *.win10-trt.msedge.net CNAME .
 measure.office.net CNAME .
 *.measure.office.net CNAME .
-ads-msn-com-profile.trafficmanager.net CNAME .
-*.ads-msn-com-profile.trafficmanager.net CNAME .
 adsdk.trafficmanager.net CNAME .
 *.adsdk.trafficmanager.net CNAME .
 agps-location-livenet.trafficmanager.net CNAME .
@@ -692,8 +700,6 @@ word-telemetry.wac.trafficmanager.net CNAME .
 *.word-telemetry.wac.trafficmanager.net CNAME .
 win-global-asimov-leafs-events-data.trafficmanager.net CNAME .
 *.win-global-asimov-leafs-events-data.trafficmanager.net CNAME .
-wttwebsiteprodapi-liveevents.trafficmanager.net CNAME .
-*.wttwebsiteprodapi-liveevents.trafficmanager.net CNAME .
 ceuswatcab01.blob.core.windows.net CNAME .
 *.ceuswatcab01.blob.core.windows.net CNAME .
 ceuswatcab02.blob.core.windows.net CNAME .
@@ -712,18 +718,10 @@ analytics-dev-simpad-events.servicebus.windows.net CNAME .
 *.analytics-dev-simpad-events.servicebus.windows.net CNAME .
 analyticsehnwe.servicebus.windows.net CNAME .
 *.analyticsehnwe.servicebus.windows.net CNAME .
-analyticsiot-prod-simpad-ehn.servicebus.windows.net CNAME .
-*.analyticsiot-prod-simpad-ehn.servicebus.windows.net CNAME .
-btv-du-dev-eventhub-streamanalytics.servicebus.windows.net CNAME .
-*.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net CNAME .
-btv-du-prod-eventhub-streamanalytics.servicebus.windows.net CNAME .
-*.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net CNAME .
 citrixanalyticseh.servicebus.windows.net CNAME .
 *.citrixanalyticseh.servicebus.windows.net CNAME .
 citrixanalyticseh-alias.servicebus.windows.net CNAME .
 *.citrixanalyticseh-alias.servicebus.windows.net CNAME .
-citrixanalyticseh2.servicebus.windows.net CNAME .
-*.citrixanalyticseh2.servicebus.windows.net CNAME .
 citrixanalyticseh2-alias.servicebus.windows.net CNAME .
 *.citrixanalyticseh2-alias.servicebus.windows.net CNAME .
 citrixanalyticseh3-alias.servicebus.windows.net CNAME .
@@ -744,18 +742,20 @@ citrixtelemetryeheu.servicebus.windows.net CNAME .
 *.citrixtelemetryeheu.servicebus.windows.net CNAME .
 citrixtelemetryeheu-alias.servicebus.windows.net CNAME .
 *.citrixtelemetryeheu-alias.servicebus.windows.net CNAME .
+ehtelemetrystaging-alias.servicebus.windows.net CNAME .
+*.ehtelemetrystaging-alias.servicebus.windows.net CNAME .
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
 *.hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
 hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
 *.hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
+licensingtelemetry-prod.servicebus.windows.net CNAME .
+*.licensingtelemetry-prod.servicebus.windows.net CNAME .
 nexxtv-events.servicebus.windows.net CNAME .
 *.nexxtv-events.servicebus.windows.net CNAME .
 ppm-licensingtelemetry.servicebus.windows.net CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net CNAME .
-prd-qlik-telemetry.servicebus.windows.net CNAME .
-*.prd-qlik-telemetry.servicebus.windows.net CNAME .
 prod-eh-v1-analytics.servicebus.windows.net CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net CNAME .
 prod-eventhub-analytics.servicebus.windows.net CNAME .

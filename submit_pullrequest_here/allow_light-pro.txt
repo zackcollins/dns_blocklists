@@ -1,5 +1,27 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/10275
+advertising.amazon.ae
+advertising.amazon.ca
+advertising.amazon.co.jp
+advertising.amazon.co.uk
+advertising.amazon.com
+advertising.amazon.com.au
+advertising.amazon.com.br
+advertising.amazon.com.mx
+advertising.amazon.com.tr
+advertising.amazon.de
+advertising.amazon.eg
+advertising.amazon.es
+advertising.amazon.fr
+advertising.amazon.in
+advertising.amazon.it
+advertising.amazon.nl
+advertising.amazon.sa
+
+# https://github.com/hagezi/dns-blocklists/issues/10148
+us-east-1.hightouch-events.com
+
 # https://github.com/hagezi/dns-blocklists/issues/9994
 p16-ad-sg.ibyteimg.com
 

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Apr 2026 17:00 UTC
-# Version: 2026.0429.1700.45
+# Last modified: 26 May 2026 17:24 UTC
+# Version: 2026.0526.1724.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 322
+# Number of entries: 348
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -86,6 +86,9 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.com
 ads-setu-proxy-eu.amazon.com
+ads-setu-proxy-fe.amazon.com
+ads-setu-proxy.amazon.com
+ads.amazon.com
 advertising-api-eu.amazon.com
 advertising.a2z.com
 advertising.amazon.ae
@@ -254,8 +257,31 @@ s.amazon-adsystem.com
 s3-dub-ww.cf.videorolls.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 sonar.prime-video.amazon.dev
+sponsored-ads-eu-south-2.amazon-adsystem.com
+sponsored-ads-eu.amazon-adsystem.com
+sponsored-ads-eu.amazon.ae
+sponsored-ads-eu.amazon.com.be
+sponsored-ads-eu.amazon.com.tr
+sponsored-ads-eu.amazon.de
+sponsored-ads-eu.amazon.eg
+sponsored-ads-eu.amazon.ie
+sponsored-ads-eu.amazon.nl
+sponsored-ads-eu.amazon.pl
+sponsored-ads-eu.amazon.sa
+sponsored-ads-eu.amazon.se
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
+sponsored-ads.amazon.ca
+sponsored-ads.amazon.co.jp
+sponsored-ads.amazon.co.uk
+sponsored-ads.amazon.com.au
+sponsored-ads.amazon.com.br
+sponsored-ads.amazon.com.mx
+sponsored-ads.amazon.com
+sponsored-ads.amazon.es
+sponsored-ads.amazon.fr
+sponsored-ads.amazon.in
+sponsored-ads.amazon.it
 sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
 sq-tungsten-ts.amazon-adsystem.com
